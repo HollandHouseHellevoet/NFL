@@ -1,0 +1,113 @@
+[
+  {
+    "team": "Buffalo Bills",
+    "conference": "AFC",
+    "division": "East",
+    "city": "Buffalo",
+    "healthSystemPartner": "Highmark",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Stadium Naming"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "LECOM",
+        "type": "Jersey Patch"
+      }
+    ],
+    "conState": true,
+    "notes": "Highmark holds stadium naming rights for current stadium and the new 2026 stadium. LECOM (Lake Erie College of Osteopathic Medicine) is a health education institution serving as jersey patch sponsor."
+  },
+  {
+    "team": "Miami Dolphins",
+    "conference": "AFC",
+    "division": "East",
+    "city": "Miami",
+    "healthSystemPartner": "Baptist Health South Florida",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": false,
+    "notes": "Official Sports Medicine Provider and NFL Dedicated Hospital Network partner."
+  },
+  {
+    "team": "New England Patriots",
+    "conference": "AFC",
+    "division": "East",
+    "city": "Foxborough",
+    "healthSystemPartner": "Mass General Brigham",
+    "partnerType": "academic medical center",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Mass General Brigham is the official healthcare partner of the New England Patriots."
+  },
+  {
+    "team": "New York Jets",
+    "conference": "AFC",
+    "division": "East",
+    "city": "East Rutherford",
+    "healthSystemPartner": "Hackensack Meridian Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Hackensack Meridian Health is the official healthcare partner of the New York Jets."
+  },
+  {
+    "team": "Baltimore Ravens",
+    "conference": "AFC",
+    "division": "North",
+    "city": "Baltimore",
+    "healthSystemPartner": "MedStar Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Multi-year partnership. Team physicians come from MedStar Union Memorial. MedStar operates in both Maryland and Washington D.C., both CON jurisdictions."
+  },
+  {
+    "team": "Cincinnati Bengals",
+    "conference": "AFC",
+    "division": "North",
+    "city": "Cincinnati",
+    "healthSystemPartner": "Kettering Health",
+    "partnerType": "faith-based",
+    "partnershipType": ["Jersey Patch"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "TriHealth",
+        "type": "Additional Sponsor"
+      }
+    ],
+    "conState": false,
+    "notes": "Kettering Health is the jersey patch sponsor. TriHealth also has a sponsorship presence with the team."
+  },
+  {
+    "team": "Cleveland Browns",
+    "conference": "AFC",
+    "division": "North",
+    "city": "Cleveland",
+    "healthSystemPartner": "University Hospitals",
+    "partnerType": "academic medical center",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Cleveland Clinic",
+        "type": "Stadium Gate Sponsor"
+      }
+    ],
+    "conState": false,
+    "notes": "University Hospitals is the current official healthcare partner. Cleveland Clinic was the former partner and still sponsors a stadium gate."
+  },
+  {
+    "team": "Pittsburgh Steelers",
+    "conference": "AFC",
+    "division": "North",
+    "city": "Pittsburgh",
+    "healthSystemPartner": "UPMC",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Training Facility Naming", "Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": false,
+    "notes": "UPMC owns the training facility (UPMC Rooney Sports Complex). Deeply embedded relationship — team physicians come from UPMC."
+  }
+]
