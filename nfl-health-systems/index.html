@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NFL Health System Sponsorship Map — The Rojas Report</title>
+  <meta name="description" content="Tracking which nonprofit health systems are spending millions on NFL branding while claiming community benefit on their 990s.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="header-inner">
+      <h1 class="site-title">NFL Health System Sponsorship Map</h1>
+      <p class="site-subtitle">Which nonprofit health systems are spending millions on NFL branding while claiming community benefit on their 990s?</p>
+    </div>
+  </header>
+
+  <!-- DASHBOARD STATS BAR -->
+  <section class="dashboard" aria-label="Key statistics">
+    <div class="dashboard-inner">
+      <div class="stat-box">
+        <span class="stat-number">27 of 32</span>
+        <span class="stat-label">Teams with healthcare partners</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-number">$176M</span>
+        <span class="stat-label">Healthcare sponsorship spending (2024)</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-number">$2.88M</span>
+        <span class="stat-label">Average deal value</span>
+      </div>
+      <div class="stat-box">
+        <span class="stat-number">67</span>
+        <span class="stat-label">Active major healthcare deals across 5 pro leagues</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- FILTER / SEARCH BAR -->
+  <section class="filters" aria-label="Filter and search">
+    <div class="filters-inner">
+      <div class="filter-group filter-search">
+        <label for="search-input" class="filter-label">Search</label>
+        <input type="text" id="search-input" class="filter-input" placeholder="Team, health system, or state...">
+      </div>
+      <div class="filter-group">
+        <label for="filter-conference" class="filter-label">Conference</label>
+        <select id="filter-conference" class="filter-select">
+          <option value="all">All</option>
+          <option value="AFC">AFC</option>
+          <option value="NFC">NFC</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-division" class="filter-label">Division</label>
+        <select id="filter-division" class="filter-select">
+          <option value="all">All</option>
+          <option value="East">East</option>
+          <option value="North">North</option>
+          <option value="South">South</option>
+          <option value="West">West</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-partner-type" class="filter-label">Partner Type</label>
+        <select id="filter-partner-type" class="filter-select">
+          <option value="all">All</option>
+          <option value="nonprofit">Nonprofit</option>
+          <option value="for-profit">For-Profit</option>
+          <option value="academic medical center">Academic Medical Center</option>
+          <option value="faith-based">Faith-Based</option>
+        </select>
+      </div>
+      <div class="filter-group">
+        <label for="filter-con" class="filter-label">CON State</label>
+        <select id="filter-con" class="filter-select">
+          <option value="all">All</option>
+          <option value="true">Yes</option>
+          <option value="false">No</option>
+        </select>
+      </div>
+    </div>
+  </section>
+
+  <!-- TEAM GRID -->
+  <main class="team-grid-section">
+    <div class="team-grid" id="team-grid">
+      <!-- Cards rendered by app.js -->
+    </div>
+    <p class="no-results" id="no-results" hidden>No teams match your filters.</p>
+  </main>
+
+  <!-- DETAIL PANEL (side panel, hidden by default) -->
+  <aside class="detail-panel" id="detail-panel" hidden>
+    <button class="detail-close" id="detail-close" aria-label="Close detail panel">&times;</button>
+    <div class="detail-content" id="detail-content">
+      <!-- Populated by app.js on card click -->
+    </div>
+  </aside>
+  <div class="detail-overlay" id="detail-overlay" hidden></div>
+
+  <!-- FOOTER -->
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <a href="https://read.rojasreport.com" class="footer-brand" target="_blank" rel="noopener">The Rojas Report</a>
+      <p class="footer-disclosure">Data compiled from public sponsorship records, team announcements, and SponsorUnited reporting.</p>
+    </div>
+  </footer>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
