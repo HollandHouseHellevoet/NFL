@@ -109,5 +109,126 @@
     "additionalHealthcareSponsors": [],
     "conState": false,
     "notes": "UPMC owns the training facility (UPMC Rooney Sports Complex). Deeply embedded relationship — team physicians come from UPMC."
+  },
+  {
+    "team": "Houston Texans",
+    "conference": "AFC",
+    "division": "South",
+    "city": "Houston",
+    "healthSystemPartner": "Houston Methodist",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Training Facility Naming", "Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Memorial Hermann",
+        "type": "Team Physicians"
+      }
+    ],
+    "conState": false,
+    "notes": "Houston Methodist Training Center naming rights. Memorial Hermann also provides team physicians. Sponsorship contract is separate from medical care provision."
+  },
+  {
+    "team": "Indianapolis Colts",
+    "conference": "AFC",
+    "division": "South",
+    "city": "Indianapolis",
+    "healthSystemPartner": "Ascension St. Vincent",
+    "partnerType": "faith-based",
+    "partnershipType": ["Jersey Patch"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Indiana University Health",
+        "type": "Medical Care Provider"
+      }
+    ],
+    "conState": true,
+    "notes": "Ascension St. Vincent is the jersey patch sponsor (faith-based nonprofit system). Indiana University Health provides medical care separately."
+  },
+  {
+    "team": "Jacksonville Jaguars",
+    "conference": "AFC",
+    "division": "South",
+    "city": "Jacksonville",
+    "healthSystemPartner": "Baptist Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": false,
+    "notes": "Baptist Health is the official healthcare partner. Dream Finders Homes is the jersey patch sponsor (not a healthcare entity)."
+  },
+  {
+    "team": "Tennessee Titans",
+    "conference": "AFC",
+    "division": "South",
+    "city": "Nashville",
+    "healthSystemPartner": "Ascension Saint Thomas",
+    "partnerType": "faith-based",
+    "partnershipType": ["Training Facility Naming", "Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Practice facility formerly named after Baptist Hospital. Ascension Saint Thomas now holds the medical partnership. Tennessee is a CON state covering hospitals, nursing homes, home health agencies, and ambulatory surgical centers."
+  },
+  {
+    "team": "Denver Broncos",
+    "conference": "AFC",
+    "division": "West",
+    "city": "Denver",
+    "healthSystemPartner": "CommonSpirit Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Training Facility Naming"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "UCHealth",
+        "type": "Additional Sponsor"
+      }
+    ],
+    "conState": false,
+    "notes": "CommonSpirit took over from Centura Health after the CommonSpirit/AdventHealth organizational split. Training facility naming rights. UCHealth also has sponsorship presence."
+  },
+  {
+    "team": "Kansas City Chiefs",
+    "conference": "AFC",
+    "division": "West",
+    "city": "Kansas City",
+    "healthSystemPartner": "University of Kansas Health System",
+    "partnerType": "academic medical center",
+    "partnershipType": ["Official Healthcare Partner", "Training Facility Naming"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Mosaic Life Care",
+        "type": "Jersey Patch"
+      }
+    ],
+    "conState": true,
+    "notes": "10-year deal with University of Kansas Health System as official healthcare partner and training facility naming. Mosaic Life Care is a separate jersey patch sponsor. Missouri is a CON state."
+  },
+  {
+    "team": "Las Vegas Raiders",
+    "conference": "AFC",
+    "division": "West",
+    "city": "Las Vegas",
+    "healthSystemPartner": null,
+    "partnerType": null,
+    "partnershipType": [],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Intermountain Health",
+        "type": "Regional Presence"
+      }
+    ],
+    "conState": false,
+    "notes": "No announced official healthcare partner as of 2025. Intermountain Health has regional presence in Nevada but no confirmed team sponsorship deal."
+  },
+  {
+    "team": "Los Angeles Chargers",
+    "conference": "AFC",
+    "division": "West",
+    "city": "Los Angeles",
+    "healthSystemPartner": "UCLA Health",
+    "partnerType": "academic medical center",
+    "partnershipType": ["Jersey Patch", "Training Facility Naming"],
+    "additionalHealthcareSponsors": [],
+    "conState": false,
+    "notes": "UCLA Health holds both jersey patch and training facility partnership. Cedars-Sinai has LA market presence but is partnered with the Rams."
   }
 ]
