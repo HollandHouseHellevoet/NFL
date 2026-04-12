@@ -1,35 +1,21 @@
 #!/usr/bin/env node
-// ============================================================
-// build-cards.js
-// Reads data/teams-full.json, rewrites js/app.js card renderer
-// to use the dossier/accusation format instead of plain data
-// ============================================================
-
 const fs = require('fs');
 const path = require('path');
 
-const DOSSIERS_PATH = path.join('nfl-health-systems', 'data', 'teams-full.json');
-const APP_JS_PATH = path.join('nfl-health-systems', 'js', 'app.js');
+const FULL_OUT = path.join(__dirname, 'nfl-health-systems', 'data', 'teams-full.json');
+const APP_PATH = path.join(__dirname, 'nfl-health-systems', 'js', 'app.js');
+const TEAMS_PATH = path.join(__dirname, 'nfl-health-systems', 'data', 'teams.json');
 
-if (!fs.existsSync(DOSSIERS_PATH)) {
-  console.error('Run build-dossiers.js first.');
-  process.exit(1);
-}
+if (!fs.existsSync(FULL_OUT)) { console.error('Run build-dossiers.js first.'); process.exit(1); }
 
-// The new card renderer - accusation format
-// Replaces the existing renderGrid function in app.js
-const NEW_RENDER_FUNCTION = `  function renderGrid() {
+// -- New renderGrid ----------------------
+const NEW_RENDER = `  function renderGrid() {
     grid.innerHTML = '';
-
-    if (filteredTeams.length === 0) {
-      noResults.hidden = false;
-      return;
-    }
+    if (filteredTeams.length === 0) { noResults.hidden = false; return; }
     noResults.hidden = true;
 
     var frag = document.createDocumentFragment();
-
-    filteredTeams.forEach(function (team, idx) {
+    filteredTeams.forEach(function(team, idx) {
       var hasPartner = !!team.healthSystem;
       var card = document.createElement('article');
       card.className = 'team-card' + (hasPartner ? '' : ' team-card--no-partner');
@@ -39,18 +25,18 @@ const NEW_RENDER_FUNCTION = `  function renderGrid() {
       card.setAttribute('role', 'button');
       card.setAttribute('aria-label', 'View details for ' + team.team);
 
-      // Division - top of card
+      // Division -- top
       var divEl = document.createElement('div');
       divEl.className = 'team-card__division';
       divEl.textContent = team.conference + ' \\u00b7 ' + team.division;
       card.appendChild(divEl);
 
-      // Expand chevron
-      var chevronEl = document.createElement('span');
-      chevronEl.className = 'team-card__chevron';
-      chevronEl.setAttribute('aria-hidden', 'true');
-      chevronEl.textContent = (expandedIndex === idx) ? '\\u2212' : '+';
-      card.appendChild(chevronEl);
+      // Chevron
+      var chev = document.createElement('span');
+      chev.className = 'team-card__chevron';
+      chev.setAttribute('aria-hidden','true');
+      chev.textContent = (expandedIndex === idx) ? '\\u2212' : '+';
+      card.appendChild(chev);
 
       // Team name
       var nameEl = document.createElement('h3');
@@ -64,7 +50,7 @@ const NEW_RENDER_FUNCTION = `  function renderGrid() {
       cityEl.textContent = team.city + (team.state ? ', ' + team.state : '');
       card.appendChild(cityEl);
 
-      // Health system name
+      // Health system
       var partnerEl = document.createElement('div');
       if (hasPartner) {
         partnerEl.className = 'team-card__partner';
@@ -78,184 +64,118 @@ const NEW_RENDER_FUNCTION = `  function renderGrid() {
       // Badges
       var badgesEl = document.createElement('div');
       badgesEl.className = 'team-card__badges';
-
       if (team.nonprofitType) {
-        var ptBadge = document.createElement('span');
-        ptBadge.className = 'badge';
-        ptBadge.textContent = team.nonprofitType;
-        badgesEl.appendChild(ptBadge);
+        var b1 = document.createElement('span');
+        b1.className = 'badge';
+        b1.textContent = team.nonprofitType;
+        badgesEl.appendChild(b1);
       }
-
       if (team.conState) {
-        var conBadge = document.createElement('span');
-        conBadge.className = 'badge badge--con';
-        conBadge.textContent = 'CON State';
-        badgesEl.appendChild(conBadge);
+        var b2 = document.createElement('span');
+        b2.className = 'badge badge--con';
+        b2.textContent = 'CON State';
+        badgesEl.appendChild(b2);
       }
-
       if (!hasPartner) {
-        var noPartnerBadge = document.createElement('span');
-        noPartnerBadge.className = 'badge badge--no-deal';
-        noPartnerBadge.textContent = 'No Deal';
-        badgesEl.appendChild(noPartnerBadge);
+        var b3 = document.createElement('span');
+        b3.className = 'badge badge--no-deal';
+        b3.textContent = 'No Deal';
+        badgesEl.appendChild(b3);
       }
-
       card.appendChild(badgesEl);
 
       // Deal type
-      if (team.dealType && team.dealType.length > 0) {
+      if (team.dealType && team.dealType.length) {
         var dealEl = document.createElement('div');
         dealEl.className = 'team-card__partnership-type';
         dealEl.textContent = team.dealType.join(' \\u00b7 ');
         card.appendChild(dealEl);
       }
 
-      // === ACCUSATION - the whole point of this page ===
+      // ACCUSATION -- the whole point
       if (hasPartner && team.accusation) {
-        var accusationEl = document.createElement('div');
-        accusationEl.className = 'team-card__accusation';
-        accusationEl.textContent = team.accusation;
-        card.appendChild(accusationEl);
+        var accEl = document.createElement('div');
+        accEl.className = 'team-card__accusation';
+        accEl.textContent = team.accusation;
+        card.appendChild(accEl);
       }
 
-      // Expanded: full dossier detail
-      var expanded = document.createElement('div');
-      expanded.className = 'team-card__expanded';
+      // Expanded dossier
+      var exp = document.createElement('div');
+      exp.className = 'team-card__expanded';
 
-      // Tax advantage
-      if (team.taxAdvantage && team.taxAdvantage.totalEstimatedAnnual) {
-        var taxRow = document.createElement('div');
-        taxRow.className = 'dossier-row';
-        taxRow.innerHTML =
-          '<span class="dossier-label">Annual Tax Advantage</span>' +
-          '<span class="dossier-value dossier-value--orange">$' +
-          (team.taxAdvantage.totalEstimatedAnnual / 1e6).toFixed(0) + 'M</span>';
-        expanded.appendChild(taxRow);
+      function dossierRow(label, value, cls) {
+        var row = document.createElement('div');
+        row.className = 'dossier-row';
+        row.innerHTML = '<span class="dossier-label">' + label + '</span>' +
+          '<span class="dossier-value' + (cls ? ' ' + cls : '') + '">' + value + '</span>';
+        exp.appendChild(row);
       }
 
-      // CEO comp
-      if (team.executiveComp && team.executiveComp.ceoTotalComp) {
-        var ceoRow = document.createElement('div');
-        ceoRow.className = 'dossier-row';
-        ceoRow.innerHTML =
-          '<span class="dossier-label">CEO Compensation</span>' +
-          '<span class="dossier-value">$' +
-          (team.executiveComp.ceoTotalComp / 1e6).toFixed(1) + 'M</span>';
-        expanded.appendChild(ceoRow);
-      }
+      if (team.taxAdvantage && team.taxAdvantage.totalEstimatedAnnual)
+        dossierRow('Annual Tax Advantage', '$' + (team.taxAdvantage.totalEstimatedAnnual/1e6).toFixed(0)+'M', 'dossier-value--orange');
 
-      // Operating income/loss
+      if (team.executiveComp && team.executiveComp.ceoTotalComp)
+        dossierRow('CEO Compensation', '$' + (team.executiveComp.ceoTotalComp/1e6).toFixed(1)+'M');
+
       if (team.financials && team.financials.operatingIncome !== null && team.financials.operatingIncome !== undefined) {
-        var finRow = document.createElement('div');
-        finRow.className = 'dossier-row';
-        var finVal = team.financials.operatingIncome;
-        finRow.innerHTML =
-          '<span class="dossier-label">Operating Income</span>' +
-          '<span class="dossier-value ' + (finVal < 0 ? 'dossier-value--loss' : '') + '">' +
-          (finVal < 0 ? '-' : '') + '$' +
-          (Math.abs(finVal) / 1e6).toFixed(0) + 'M</span>';
-        expanded.appendChild(finRow);
+        var v = team.financials.operatingIncome;
+        dossierRow('Operating Income', (v<0?'-':'')+'$'+(Math.abs(v)/1e6).toFixed(0)+'M', v<0?'dossier-value--loss':'');
       }
 
-      // Layoffs
-      if (team.layoffs && team.layoffs.length > 0) {
-        var layoffRow = document.createElement('div');
-        layoffRow.className = 'dossier-row';
-        var latestLayoff = team.layoffs[team.layoffs.length - 1];
-        layoffRow.innerHTML =
-          '<span class="dossier-label">Layoffs</span>' +
-          '<span class="dossier-value">' +
-          (latestLayoff.count ? latestLayoff.count.toLocaleString() + ' employees' : 'Reported') +
-          ' \\u00b7 ' + latestLayoff.date + '</span>';
-        expanded.appendChild(layoffRow);
+      if (team.layoffs && team.layoffs.length) {
+        var lay = team.layoffs[team.layoffs.length-1];
+        dossierRow('Layoffs', (lay.count ? lay.count.toLocaleString()+' employees \\u00b7 ' : '') + lay.date);
       }
 
-      // Credit rating
       if (team.creditRating) {
         var cr = team.creditRating;
-        var ratingStr = [];
-        if (cr.fitch)  ratingStr.push('Fitch: ' + cr.fitch + (cr.fitchOutlook ? ' (' + cr.fitchOutlook + ')' : ''));
-        if (cr.sp)     ratingStr.push('S&P: '   + cr.sp    + (cr.spOutlook    ? ' (' + cr.spOutlook    + ')' : ''));
-        if (cr.moodys) ratingStr.push("Moody's: "+ cr.moodys+ (cr.moodysOutlook? ' (' + cr.moodysOutlook+ ')' : ''));
-        if (ratingStr.length > 0) {
-          var crRow = document.createElement('div');
-          crRow.className = 'dossier-row';
-          crRow.innerHTML =
-            '<span class="dossier-label">Credit</span>' +
-            '<span class="dossier-value">' + ratingStr.join(' \\u00b7 ') + '</span>';
-          expanded.appendChild(crRow);
-        }
+        var parts = [];
+        if (cr.fitch)  parts.push('Fitch: '+cr.fitch+(cr.fitchOutlook?' ('+cr.fitchOutlook+')':''));
+        if (cr.sp)     parts.push('S&P: '+cr.sp+(cr.spOutlook?' ('+cr.spOutlook+')':''));
+        if (cr.moodys) parts.push("Moody's: "+cr.moodys+(cr.moodysOutlook?' ('+cr.moodysOutlook+')':''));
+        if (parts.length) dossierRow('Credit', parts.join(' \\u00b7 '));
       }
 
-      // 340B
-      if (team.program340B && team.program340B.contractPharmacies) {
-        var b340Row = document.createElement('div');
-        b340Row.className = 'dossier-row';
-        b340Row.innerHTML =
-          '<span class="dossier-label">340B Pharmacies</span>' +
-          '<span class="dossier-value">' + team.program340B.contractPharmacies + ' contracts</span>';
-        expanded.appendChild(b340Row);
-      }
+      if (team.program340B && team.program340B.contractPharmacies)
+        dossierRow('340B Pharmacies', team.program340B.contractPharmacies + ' contracts');
 
-      // Additional sponsors (legacy field)
-      if (team.additionalHealthcareSponsors && team.additionalHealthcareSponsors.length > 0) {
-        var addTitle = document.createElement('div');
-        addTitle.className = 'team-card__additional-title';
-        addTitle.textContent = 'Additional Sponsors';
-        expanded.appendChild(addTitle);
-
-        var addList = document.createElement('ul');
-        addList.className = 'team-card__additional-list';
-        team.additionalHealthcareSponsors.forEach(function (s) {
-          var li = document.createElement('li');
-          li.innerHTML = '<span class="team-card__additional-name">' + esc(s.name) +
-            '</span> <span class="team-card__additional-type">\\u2014 ' + esc(s.type) + '</span>';
-          addList.appendChild(li);
-        });
-        expanded.appendChild(addList);
-      }
-
-      card.appendChild(expanded);
+      card.appendChild(exp);
       frag.appendChild(card);
     });
-
     grid.appendChild(frag);
   }
 `;
 
-// Replace the renderGrid function in app.js
-let appJs = fs.readFileSync(APP_JS_PATH, 'utf8');
+// -- Patch app.js ----------------------
+let src = fs.readFileSync(APP_PATH, 'utf8');
 
-const START_MARKER = '  function renderGrid() {';
-const END_MARKER = '  // --- Counter ---';
+const START = src.indexOf('  function renderGrid() {');
+// Find "Counter" section - regex handles variable comment formatting
+const END_RE = /\/\/ ?-{0,3} ?Counter/;
+const endMatch = END_RE.exec(src);
 
-const startIdx = appJs.indexOf(START_MARKER);
-const endIdx = appJs.indexOf(END_MARKER);
-
-if (startIdx === -1 || endIdx === -1) {
-  console.error('Could not find renderGrid boundaries in app.js');
-  console.error('  START_MARKER found:', startIdx !== -1);
-  console.error('  END_MARKER found:', endIdx !== -1);
+if (START === -1 || !endMatch) {
+  console.error('Cannot locate renderGrid boundaries in app.js');
+  console.error('START found:', START !== -1);
+  console.error('Counter comment found:', !!endMatch);
   process.exit(1);
 }
 
-const patched = appJs.slice(0, startIdx) + NEW_RENDER_FUNCTION + '\n\n' + appJs.slice(endIdx);
-fs.writeFileSync(APP_JS_PATH, patched);
+const patched = src.slice(0, START) + NEW_RENDER + '\n\n  ' + src.slice(endMatch.index);
+fs.writeFileSync(APP_PATH, patched);
+console.log('app.js patched.');
 
-console.log('OK app.js renderGrid replaced with accusation format.');
-
-// Also merge dossier data into teams.json for backward compat
-const dossiers = JSON.parse(fs.readFileSync(DOSSIERS_PATH, 'utf8'));
-const TEAMS_PATH = path.join('nfl-health-systems', 'data', 'teams.json');
-
+// -- Merge dossiers into teams.json ------
+const dossiers = JSON.parse(fs.readFileSync(FULL_OUT, 'utf8'));
 if (fs.existsSync(TEAMS_PATH)) {
   const teams = JSON.parse(fs.readFileSync(TEAMS_PATH, 'utf8'));
   const merged = teams.map(t => {
-    const dossier = dossiers.find(d => d.team === t.team);
-    return dossier ? Object.assign({}, t, dossier) : t;
+    const d = dossiers.find(x => x.team === t.team);
+    return d ? Object.assign({}, t, d) : t;
   });
   fs.writeFileSync(TEAMS_PATH, JSON.stringify(merged, null, 2));
-  console.log('OK teams.json merged with dossier data.');
+  console.log('teams.json merged.');
 }
 
-console.log('\nDone. Commit and push to deploy.\n');
+console.log('\nDone. Commit and push.\n');
