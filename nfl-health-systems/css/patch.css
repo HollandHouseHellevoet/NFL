@@ -1,0 +1,180 @@
+/* ============================================================
+   ROJAS REPORT — NFL VISUAL PATCH
+   ============================================================ */
+
+/* -----------------------------
+   HERO — stadium background + layout
+   ----------------------------- */
+.hero {
+  position: relative;
+  padding: 120px 0 160px;
+  overflow: hidden;
+  background: #0a121a;
+}
+
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background-image: url('https://images.pexels.com/photos/1618200/pexels-photo-1618200.jpeg');
+  background-size: cover;
+  background-position: center 30%;
+  background-repeat: no-repeat;
+  z-index: 0;
+}
+
+.hero::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    rgba(10, 18, 26, 0.92) 0%,
+    rgba(10, 18, 26, 0.82) 45%,
+    rgba(10, 18, 26, 0.55) 100%
+  );
+  z-index: 1;
+}
+
+.hero-inner {
+  position: relative;
+  z-index: 2;
+}
+
+.hero-title       { max-width: 640px; }
+.hero-description { max-width: 520px; }
+
+/* -----------------------------
+   STAT TICKER BAR
+   ----------------------------- */
+.hero-stat-bar {
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  z-index: 3;
+  background: rgba(8, 15, 22, 0.88);
+  border-top: 1px solid rgba(212, 98, 42, 0.45);
+  display: flex;
+  align-items: stretch;
+}
+
+.hero-stat-bar__item {
+  flex: 1;
+  padding: 14px 24px;
+  border-right: 0.5px solid rgba(247, 244, 239, 0.07);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.hero-stat-bar__item:last-child { border-right: none; }
+
+.hero-stat-bar__number {
+  font-family: var(--font-headline);
+  font-size: 1.75rem;
+  font-weight: 700;
+  color: #f7f4ef;
+  line-height: 1;
+  letter-spacing: -0.01em;
+}
+
+.hero-stat-bar__number em {
+  font-style: normal;
+  color: #d4622a;
+}
+
+.hero-stat-bar__label {
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: rgba(247, 244, 239, 0.45);
+  margin-top: 5px;
+}
+
+@media (max-width: 640px) {
+  .hero-stat-bar { flex-wrap: wrap; }
+  .hero-stat-bar__item {
+    flex: 0 0 50%;
+    border-bottom: 0.5px solid rgba(247, 244, 239, 0.07);
+  }
+}
+
+/* -----------------------------
+   TEAM CARDS — visibility fix + team color accent
+   ----------------------------- */
+.team-card {
+  background: rgba(247, 244, 239, 0.05);
+  border: 0.5px solid rgba(247, 244, 239, 0.14);
+  border-left: 3px solid var(--team-color, rgba(212, 98, 42, 0.7));
+  border-radius: 0 6px 6px 0;
+  transition: background 0.15s, border-color 0.15s, transform 0.15s;
+}
+
+.team-card:hover {
+  background: rgba(247, 244, 239, 0.08);
+  border-left-color: var(--team-color, #d4622a);
+  transform: translateY(-2px);
+}
+
+.team-card--no-partner {
+  opacity: 0.65;
+  border-left-color: rgba(247, 244, 239, 0.18) !important;
+}
+
+.team-card--no-partner:hover { opacity: 0.85; }
+
+/* Division label above team name */
+.team-card__division {
+  display: block;
+  font-size: 0.68rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  color: rgba(247, 244, 239, 0.35);
+  margin-bottom: 6px;
+}
+
+.team-card__partner { color: #f7f4ef; }
+
+.team-card__partnership-type {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: #d4622a;
+  margin-top: 4px;
+}
+
+/* -----------------------------
+   SECTION NUMBER BADGE
+   ----------------------------- */
+.section-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  background: #d4622a;
+  color: #fff;
+  font-size: 0.7rem;
+  font-weight: 700;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+/* -----------------------------
+   STAT CARDS in Finding section
+   ----------------------------- */
+.stat-card {
+  background: rgba(247, 244, 239, 0.05);
+  border: 0.5px solid rgba(247, 244, 239, 0.12);
+}
+
+/* -----------------------------
+   FOOTER
+   ----------------------------- */
+.site-footer,
+#sources {
+  border-top: 1px solid rgba(212, 98, 42, 0.3);
+}
