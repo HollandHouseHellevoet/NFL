@@ -346,5 +346,129 @@
     ],
     "conState": false,
     "notes": "No single dominant health system sponsor publicly confirmed at jersey or naming rights level. TRIA Orthopedics provides medical care for the team."
+  },
+  {
+    "team": "Atlanta Falcons",
+    "conference": "NFC",
+    "division": "South",
+    "city": "Atlanta",
+    "healthSystemPartner": "Emory Healthcare",
+    "partnerType": "academic medical center",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Emory Healthcare is the official team healthcare provider. Sponsors injury reports and gameday content. Georgia is a CON state covering hospitals, nursing homes, and home health."
+  },
+  {
+    "team": "Carolina Panthers",
+    "conference": "NFC",
+    "division": "South",
+    "city": "Charlotte",
+    "healthSystemPartner": "Atrium Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Jersey Patch"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Atrium Health is the jersey patch sponsor, headquartered in Charlotte. Atrium merged with Advocate Aurora to form Advocate Health nationally, but the Atrium brand persists locally. North Carolina has one of the stricter CON programs."
+  },
+  {
+    "team": "New Orleans Saints",
+    "conference": "NFC",
+    "division": "South",
+    "city": "New Orleans",
+    "healthSystemPartner": "Ochsner Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Ochsner Health is the official healthcare partner, deeply embedded in the New Orleans market. Louisiana is a CON state."
+  },
+  {
+    "team": "Tampa Bay Buccaneers",
+    "conference": "NFC",
+    "division": "South",
+    "city": "Tampa",
+    "healthSystemPartner": "AdventHealth",
+    "partnerType": "faith-based",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "BayCare Health System",
+        "type": "Additional Sponsor"
+      },
+      {
+        "name": "USF Health",
+        "type": "Team Physicians"
+      }
+    ],
+    "conState": false,
+    "notes": "AdventHealth (formerly Florida Hospital) runs the Bucs Fever campaign sponsorship. BayCare Health System also has sponsorship presence. USF Health provides team physicians."
+  },
+  {
+    "team": "Arizona Cardinals",
+    "conference": "NFC",
+    "division": "West",
+    "city": "Glendale",
+    "healthSystemPartner": null,
+    "partnerType": null,
+    "partnershipType": [],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Banner Health",
+        "type": "Regional System"
+      },
+      {
+        "name": "HonorHealth",
+        "type": "Regional System"
+      }
+    ],
+    "conState": false,
+    "notes": "No dominant health system sponsor confirmed at jersey or naming rights level. Banner Health and HonorHealth are major Arizona systems with no confirmed primary team sponsorship deal."
+  },
+  {
+    "team": "Los Angeles Rams",
+    "conference": "NFC",
+    "division": "West",
+    "city": "Los Angeles",
+    "healthSystemPartner": "Cedars-Sinai",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": false,
+    "notes": "Cedars-Sinai sponsors injury reports and the Precision Play content series. Nonprofit hospital in LA. UCLA Health is partnered with the Chargers, creating a split LA healthcare sponsorship market."
+  },
+  {
+    "team": "San Francisco 49ers",
+    "conference": "NFC",
+    "division": "West",
+    "city": "Santa Clara",
+    "healthSystemPartner": "Dignity Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Stanford Health Care",
+        "type": "Team Physicians"
+      }
+    ],
+    "conState": false,
+    "notes": "Dignity Health (part of CommonSpirit Health) is the official healthcare partner. Stanford Health Care provides team physicians separately. Sponsorship and medical care are split between two systems."
+  },
+  {
+    "team": "Seattle Seahawks",
+    "conference": "NFC",
+    "division": "West",
+    "city": "Seattle",
+    "healthSystemPartner": "Virginia Mason",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Training Facility Naming"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Swedish Medical Center",
+        "type": "Team Physicians"
+      }
+    ],
+    "conState": true,
+    "notes": "Virginia Mason sponsored the 200,000 sq ft Virginia Mason Athletic Center in 2008, still listed as corporate sponsor. Swedish Medical Center physicians also serve the team. Washington is a CON state covering hospitals, ASCs, and home health."
   }
 ]
