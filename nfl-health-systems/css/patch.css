@@ -178,3 +178,123 @@
 #sources {
   border-top: 1px solid rgba(212, 98, 42, 0.3);
 }
+
+/* ============================================================
+   ACCUSATION CARD CSS
+   ============================================================ */
+
+/* The indictment line - the whole point of each card */
+.team-card__accusation {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: rgba(247, 244, 239, 0.85);
+  line-height: 1.5;
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(212, 98, 42, 0.25);
+}
+
+/* Expand/collapse chevron - top right of card */
+.team-card {
+  position: relative;
+}
+
+.team-card__chevron {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  font-size: 1.1rem;
+  font-weight: 300;
+  color: rgba(212, 98, 42, 0.7);
+  line-height: 1;
+  pointer-events: none;
+  transition: transform 0.15s;
+}
+
+.team-card.is-expanded .team-card__chevron {
+  color: #d4622a;
+}
+
+/* Dossier rows inside expanded state */
+.dossier-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 6px 0;
+  border-bottom: 0.5px solid rgba(247, 244, 239, 0.06);
+  gap: 12px;
+}
+
+.dossier-row:last-child {
+  border-bottom: none;
+}
+
+.dossier-label {
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: rgba(247, 244, 239, 0.4);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.dossier-value {
+  font-family: var(--font-body);
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: var(--cream);
+  text-align: right;
+}
+
+.dossier-value--orange {
+  color: #d4622a;
+}
+
+.dossier-value--loss {
+  color: #c0392b;
+}
+
+/* No Deal badge */
+.badge--no-deal {
+  border-color: rgba(212, 98, 42, 0.5);
+  color: rgba(212, 98, 42, 0.8);
+  font-style: italic;
+}
+
+/* Data counter - orange number when filtered */
+.counter-num {
+  color: #d4622a;
+  font-weight: 700;
+}
+
+/* Filter bar labels */
+.data-filter-labels {
+  display: flex;
+  gap: 12px;
+  margin-bottom: 4px;
+  flex-wrap: wrap;
+}
+
+.data-filter-label {
+  font-family: var(--font-body);
+  font-size: 0.65rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: rgba(247, 244, 239, 0.35);
+  flex: 1;
+  min-width: 80px;
+}
+
+/* Section framing text */
+.section-framing {
+  font-family: var(--font-body);
+  font-size: 0.9rem;
+  color: rgba(247, 244, 239, 0.55);
+  line-height: 1.6;
+  margin-bottom: 24px;
+  max-width: 680px;
+}
