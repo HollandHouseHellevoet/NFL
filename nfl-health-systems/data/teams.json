@@ -230,5 +230,121 @@
     "additionalHealthcareSponsors": [],
     "conState": false,
     "notes": "UCLA Health holds both jersey patch and training facility partnership. Cedars-Sinai has LA market presence but is partnered with the Rams."
+  },
+  {
+    "team": "Dallas Cowboys",
+    "conference": "NFC",
+    "division": "East",
+    "city": "Arlington",
+    "healthSystemPartner": null,
+    "partnerType": null,
+    "partnershipType": [],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Baylor Scott & White",
+        "type": "Medical Services"
+      }
+    ],
+    "conState": false,
+    "notes": "No single dominant health system sponsor. Baylor Scott & White provides some medical services. AT&T and WinStar are larger non-healthcare sponsors."
+  },
+  {
+    "team": "New York Giants",
+    "conference": "NFC",
+    "division": "East",
+    "city": "East Rutherford",
+    "healthSystemPartner": "Hackensack Meridian Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "Novartis",
+        "type": "NFL Team Partner"
+      }
+    ],
+    "conState": true,
+    "notes": "Multi-faceted relationship with HackensackUMC including marketing, philanthropy, medical partnership, and co-branded wellness center. Also a Novartis NFL team partner. Same health system partner as the Jets — Hackensack Meridian covers both NJ NFL teams."
+  },
+  {
+    "team": "Philadelphia Eagles",
+    "conference": "NFC",
+    "division": "East",
+    "city": "Philadelphia",
+    "healthSystemPartner": "Jefferson Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner", "Jersey Patch", "Training Facility Naming"],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "NovaCare Rehabilitation",
+        "type": "Official Physical Therapy Partner"
+      }
+    ],
+    "conState": false,
+    "notes": "Jefferson Health Training Complex naming rights as of Feb 2026. Jersey patch sponsor. NovaCare Rehabilitation is Official Physical Therapy Partner with a 25+ year relationship predating the Jefferson deal."
+  },
+  {
+    "team": "Washington Commanders",
+    "conference": "NFC",
+    "division": "East",
+    "city": "Landover",
+    "healthSystemPartner": "Inova Health System",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Inova provides team physicians as regional healthcare partner. Northwest Federal Credit Union has stadium naming rights. Virginia is a CON state."
+  },
+  {
+    "team": "Chicago Bears",
+    "conference": "NFC",
+    "division": "North",
+    "city": "Chicago",
+    "healthSystemPartner": "Advocate Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Jersey Patch"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Advocate Aurora Health merged with Atrium Health to form Advocate Health, now one of the largest nonprofit systems in the U.S. Jersey patch sponsor. Illinois is a CON state."
+  },
+  {
+    "team": "Detroit Lions",
+    "conference": "NFC",
+    "division": "North",
+    "city": "Detroit",
+    "healthSystemPartner": "Corewell Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": true,
+    "notes": "Formerly Beaumont Health, now Corewell Health after merger. Team physicians come from William Beaumont Hospital. Rocket Companies is the jersey patch sponsor (not healthcare). Michigan is a CON state."
+  },
+  {
+    "team": "Green Bay Packers",
+    "conference": "NFC",
+    "division": "North",
+    "city": "Green Bay",
+    "healthSystemPartner": "Emplify Health",
+    "partnerType": "nonprofit",
+    "partnershipType": ["Jersey Patch", "Official Healthcare Partner"],
+    "additionalHealthcareSponsors": [],
+    "conState": false,
+    "notes": "Emplify Health is a rebrand of Bellin Health. Decades-long healthcare partnership with the Packers. Jersey patch sponsor."
+  },
+  {
+    "team": "Minnesota Vikings",
+    "conference": "NFC",
+    "division": "North",
+    "city": "Minneapolis",
+    "healthSystemPartner": null,
+    "partnerType": null,
+    "partnershipType": [],
+    "additionalHealthcareSponsors": [
+      {
+        "name": "TRIA Orthopedics",
+        "type": "Medical Care Provider"
+      }
+    ],
+    "conState": false,
+    "notes": "No single dominant health system sponsor publicly confirmed at jersey or naming rights level. TRIA Orthopedics provides medical care for the team."
   }
 ]
