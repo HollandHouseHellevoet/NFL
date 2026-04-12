@@ -4,112 +4,206 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>NFL Health System Sponsorship Map — The Rojas Report</title>
-  <meta name="description" content="Tracking which nonprofit health systems are spending millions on NFL branding while claiming community benefit on their 990s.">
+  <meta name="description" content="27 of 32 NFL teams have a nonprofit health system sponsor. $176 million in healthcare sponsorship in 2024. Exposed: every deal, every system, every team.">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Source+Sans+Pro:wght@400;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Source+Sans+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-  <!-- HEADER -->
-  <header class="site-header">
-    <div class="header-inner">
-      <h1 class="site-title">NFL Health System Sponsorship Map</h1>
-      <p class="site-subtitle">Which nonprofit health systems are spending millions on NFL branding while claiming community benefit on their 990s?</p>
+  <!-- NAV BAR -->
+  <nav class="nav" id="nav">
+    <div class="nav-inner">
+      <a href="https://rojasreport.com" class="nav-logo" target="_blank" rel="noopener">
+        <span class="nav-logo-text">The Rojas Report</span>
+        <span class="nav-logo-sub">Healthcare Intelligence</span>
+      </a>
+      <button class="nav-hamburger" id="nav-hamburger" aria-label="Toggle navigation">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links" id="nav-links">
+        <a href="#the-data" class="nav-link">The Data</a>
+        <a href="#the-pattern" class="nav-link">The Pattern</a>
+        <a href="https://read.rojasreport.com/" class="nav-link nav-link--cta" target="_blank" rel="noopener">Subscribe</a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero" id="hero">
+    <div class="hero-inner">
+      <span class="hero-badge">Intelligence Briefing</span>
+      <h1 class="hero-title">NFL Health System Sponsorship Map</h1>
+      <h2 class="hero-subtitle">27 Teams. $176 Million. Zero Independent Physicians.</h2>
+      <p class="hero-description">Nonprofit health systems are spending nine figures on NFL branding deals while claiming community benefit on their 990s. Every dollar is a marketing line item. Not one of these partnerships funds independent physician practice. Here's every deal, every system, every team.</p>
+      <div class="hero-buttons">
+        <a href="#the-data" class="btn btn--primary">Explore the Data &rarr;</a>
+        <a href="#" class="btn btn--outline" id="share-x">
+          <svg class="btn-icon" viewBox="0 0 24 24" width="14" height="14" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+          Post to X
+        </a>
+      </div>
     </div>
   </header>
 
-  <!-- DASHBOARD STATS BAR -->
-  <section class="dashboard" aria-label="Key statistics">
-    <div class="dashboard-inner">
-      <div class="stat-box">
-        <span class="stat-number">27 of 32</span>
-        <span class="stat-label">Teams with healthcare partners</span>
+  <!-- SECTION 01 — THE FINDING -->
+  <section class="section" id="the-finding">
+    <div class="section-inner">
+      <div class="section-label">
+        <span class="section-number">01</span>
+        <span class="section-name">The Finding</span>
       </div>
-      <div class="stat-box">
-        <span class="stat-number">$176M</span>
-        <span class="stat-label">Healthcare sponsorship spending (2024)</span>
-      </div>
-      <div class="stat-box">
-        <span class="stat-number">$2.88M</span>
-        <span class="stat-label">Average deal value</span>
-      </div>
-      <div class="stat-box">
-        <span class="stat-number">67</span>
-        <span class="stat-label">Active major healthcare deals across 5 pro leagues</span>
-      </div>
-    </div>
-  </section>
-
-  <!-- FILTER / SEARCH BAR -->
-  <section class="filters" aria-label="Filter and search">
-    <div class="filters-inner">
-      <div class="filter-group filter-search">
-        <label for="search-input" class="filter-label">Search</label>
-        <input type="text" id="search-input" class="filter-input" placeholder="Team, health system, or state...">
-      </div>
-      <div class="filter-group">
-        <label for="filter-conference" class="filter-label">Conference</label>
-        <select id="filter-conference" class="filter-select">
-          <option value="all">All</option>
-          <option value="AFC">AFC</option>
-          <option value="NFC">NFC</option>
-        </select>
-      </div>
-      <div class="filter-group">
-        <label for="filter-division" class="filter-label">Division</label>
-        <select id="filter-division" class="filter-select">
-          <option value="all">All</option>
-          <option value="East">East</option>
-          <option value="North">North</option>
-          <option value="South">South</option>
-          <option value="West">West</option>
-        </select>
-      </div>
-      <div class="filter-group">
-        <label for="filter-partner-type" class="filter-label">Partner Type</label>
-        <select id="filter-partner-type" class="filter-select">
-          <option value="all">All</option>
-          <option value="nonprofit">Nonprofit</option>
-          <option value="for-profit">For-Profit</option>
-          <option value="academic medical center">Academic Medical Center</option>
-          <option value="faith-based">Faith-Based</option>
-        </select>
-      </div>
-      <div class="filter-group">
-        <label for="filter-con" class="filter-label">CON State</label>
-        <select id="filter-con" class="filter-select">
-          <option value="all">All</option>
-          <option value="true">Yes</option>
-          <option value="false">No</option>
-        </select>
+      <h2 class="section-title">27 of 32 NFL Teams Have a Health System Sponsor.</h2>
+      <p class="section-subtitle">Healthcare sponsorship hit $176 million in the 2024 season. The average deal runs $2.88 million. These are not community health investments. These are brand positioning plays by the largest nonprofit systems in the country.</p>
+      <div class="stat-cards">
+        <div class="stat-card">
+          <div class="stat-card-number">$176M</div>
+          <div class="stat-card-label">Healthcare Sponsorship (2024)</div>
+          <div class="stat-card-desc">Total healthcare category spending across NFL team-level deals in the 2024 season.</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-card-number">27</div>
+          <div class="stat-card-label">Teams with Healthcare Partners</div>
+          <div class="stat-card-desc">Only 5 NFL teams have no confirmed health system sponsor. The rest are locked into multi-year, multi-million-dollar deals.</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-card-number">$2.88M</div>
+          <div class="stat-card-label">Average Deal Value</div>
+          <div class="stat-card-desc">Per-deal average across NFL, NBA, NHL, MLB, and MLS healthcare sponsorships.</div>
+        </div>
       </div>
     </div>
   </section>
 
-  <!-- TEAM GRID -->
-  <main class="team-grid-section">
-    <div class="team-grid" id="team-grid">
-      <!-- Cards rendered by app.js -->
-    </div>
-    <p class="no-results" id="no-results" hidden>No teams match your filters.</p>
-  </main>
+  <!-- SECTION 02 — THE DATA -->
+  <section class="section" id="the-data">
+    <div class="section-inner">
+      <div class="section-label">
+        <span class="section-number">02</span>
+        <span class="section-name">The Data</span>
+      </div>
+      <h2 class="section-title">Every Team. Every System. Every Deal.</h2>
 
-  <!-- DETAIL PANEL (side panel, hidden by default) -->
-  <aside class="detail-panel" id="detail-panel" hidden>
-    <button class="detail-close" id="detail-close" aria-label="Close detail panel">&times;</button>
-    <div class="detail-content" id="detail-content">
-      <!-- Populated by app.js on card click -->
+      <!-- Filters -->
+      <div class="data-filters">
+        <input type="text" id="search-input" class="data-search" placeholder="Search team, health system, or state...">
+        <div class="data-filter-row">
+          <select id="filter-conference" class="data-select">
+            <option value="all">Conference</option>
+            <option value="AFC">AFC</option>
+            <option value="NFC">NFC</option>
+          </select>
+          <select id="filter-division" class="data-select">
+            <option value="all">Division</option>
+            <option value="East">East</option>
+            <option value="North">North</option>
+            <option value="South">South</option>
+            <option value="West">West</option>
+          </select>
+          <select id="filter-partner-type" class="data-select">
+            <option value="all">Partner Type</option>
+            <option value="nonprofit">Nonprofit</option>
+            <option value="for-profit">For-Profit</option>
+            <option value="academic medical center">Academic Medical Center</option>
+            <option value="faith-based">Faith-Based</option>
+          </select>
+          <select id="filter-con" class="data-select">
+            <option value="all">CON State</option>
+            <option value="true">CON: Yes</option>
+            <option value="false">CON: No</option>
+          </select>
+          <button id="sort-toggle" class="data-sort">Sort: A &rarr; Z</button>
+        </div>
+      </div>
+
+      <!-- Counter -->
+      <p class="data-counter" id="data-counter">Showing 32 of 32 teams</p>
+
+      <!-- Team Grid -->
+      <div class="team-grid" id="team-grid">
+        <!-- Cards rendered by app.js -->
+      </div>
+      <p class="no-results" id="no-results" hidden>No teams match your filters.</p>
     </div>
-  </aside>
-  <div class="detail-overlay" id="detail-overlay" hidden></div>
+  </section>
+
+  <!-- SECTION 03 — THE PATTERN -->
+  <section class="section" id="the-pattern">
+    <div class="section-inner">
+      <div class="section-label">
+        <span class="section-number">03</span>
+        <span class="section-name">The Pattern</span>
+      </div>
+      <h2 class="section-title">The Same Systems. The Same Playbook.</h2>
+      <div class="section-prose">
+        <p>UPMC owns the Steelers' training facility. Jefferson Health's logo is on Eagles practice jerseys. CommonSpirit has deals with both the 49ers and the Broncos. Ascension sponsors the Colts and the Titans. These are not local partnerships. They are national brand consolidation strategies executed by nonprofit systems operating under tax-exempt status.</p>
+        <p>Sponsorship contracts are separate from medical care provision. A team can have one health system providing medical care while accepting corporate sponsorships from a completely different hospital. The "official healthcare partner" designation is marketing. The physicians treating the players often come from different systems entirely.</p>
+        <p>Every one of these systems files a Form 990. Every one claims community benefit. The question is whether a multi-million-dollar NFL branding deal qualifies.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECTION 04 — SOURCES -->
+  <section class="section" id="sources">
+    <div class="section-inner">
+      <div class="section-label">
+        <span class="section-number">04</span>
+        <span class="section-name">Sources</span>
+      </div>
+      <ol class="source-list">
+        <li class="source-item">
+          <span class="source-text">SponsorUnited &mdash; NFL Sponsorship Data</span>
+          <span class="source-url">sponsorunited.com</span>
+        </li>
+        <li class="source-item">
+          <span class="source-text">Chief Healthcare Executive &mdash; Hospital Sports Partnerships</span>
+          <span class="source-url">chiefhealthcareexecutive.com</span>
+        </li>
+        <li class="source-item">
+          <span class="source-text">Team press releases and official partnership announcements</span>
+        </li>
+        <li class="source-item">
+          <span class="source-text">Becker's Hospital Review &mdash; Healthcare Sponsorship Reporting</span>
+          <span class="source-url">beckershospitalreview.com</span>
+        </li>
+        <li class="source-item">
+          <span class="source-text">IRS Form 990 via ProPublica Nonprofit Explorer</span>
+          <span class="source-url">projects.propublica.org/nonprofits</span>
+        </li>
+      </ol>
+      <p class="source-attribution">Dutch Rojas &middot; Rojas Media LLC &middot; Last updated April 12, 2026</p>
+    </div>
+  </section>
 
   <!-- FOOTER -->
-  <footer class="site-footer">
+  <footer class="footer">
     <div class="footer-inner">
-      <a href="https://read.rojasreport.com" class="footer-brand" target="_blank" rel="noopener">The Rojas Report</a>
-      <p class="footer-disclosure">Data compiled from public sponsorship records, team announcements, and SponsorUnited reporting.</p>
+      <div class="footer-grid">
+        <div class="footer-col footer-col--brand">
+          <span class="footer-logo">The Rojas Report</span>
+          <span class="footer-logo-sub">Healthcare Intelligence</span>
+          <p class="footer-description">The definitive source for healthcare market intelligence. Data-driven investigations into the policies, monopolies, and market structures that shape 20% of U.S. GDP.</p>
+        </div>
+        <div class="footer-col">
+          <h4 class="footer-col-title">Network</h4>
+          <a href="https://rojasreport.com" class="footer-link" target="_blank" rel="noopener">The Rojas Report</a>
+          <a href="https://read.rojasreport.com/" class="footer-link" target="_blank" rel="noopener">Substack</a>
+          <a href="https://rojasreport.com/about" class="footer-link" target="_blank" rel="noopener">About</a>
+          <a href="https://rojasreport.com/privacy" class="footer-link" target="_blank" rel="noopener">Privacy Policy</a>
+          <a href="https://rojasreport.com/contact" class="footer-link" target="_blank" rel="noopener">Contact</a>
+        </div>
+        <div class="footer-col">
+          <h4 class="footer-col-title">Ecosystem</h4>
+          <a href="https://rojasreport.com/medmerge" class="footer-link" target="_blank" rel="noopener">MedMerge</a>
+          <a href="https://rojasreport.com/phycap" class="footer-link" target="_blank" rel="noopener">PhyCap Fund</a>
+          <a href="https://rojasreport.com/plhca" class="footer-link" target="_blank" rel="noopener">Physician Led Healthcare for America</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span class="footer-copyright">&copy; 2026 Rojas Media LLC. All rights reserved.</span>
+        <span class="footer-tagline">Built for physicians, executives &amp; lawmakers.</span>
+      </div>
     </div>
   </footer>
 
