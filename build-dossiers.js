@@ -11,6 +11,8 @@ const TPL = fs.readFileSync(path.join(__dirname, 'RESEARCH_PROMPT.md'), 'utf8');
 const OUT_DIR = path.join(__dirname, 'nfl-health-systems', 'data', 'dossiers');
 const FULL_OUT = path.join(__dirname, 'nfl-health-systems', 'data', 'teams-full.json');
 const DELAY_MS = 9000;
+const MODEL = process.env.CLAUDE_MODEL || 'claude-opus-4-5-20250929';
+const MAX_TOKENS = parseInt(process.env.CLAUDE_MAX_TOKENS || '4096', 10);
 
 if (!fs.existsSync(OUT_DIR)) fs.mkdirSync(OUT_DIR, { recursive: true });
 
@@ -27,8 +29,8 @@ function buildPrompt(t) {
 function callClaude(prompt) {
   return new Promise((resolve, reject) => {
     const body = JSON.stringify({
-      model: 'claude-opus-4-5',
-      max_tokens: 4096,
+      model: MODEL,
+      max_tokens: MAX_TOKENS,
       tools: [{ type: 'web_search_20250305', name: 'web_search' }],
       messages: [{ role: 'user', content: prompt }]
     });
