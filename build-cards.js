@@ -112,29 +112,87 @@ const NEW_RENDER = `  function renderGrid() {
         exp.appendChild(row);
       }
 
-      if (team.taxAdvantage && team.taxAdvantage.totalEstimatedAnnual)
-        dossierRow('Annual Tax Advantage', '$' + (team.taxAdvantage.totalEstimatedAnnual/1e6).toFixed(0)+'M', 'dossier-value--orange');
+      function fmtM(n) {
+        if (n === null || n === undefined) return null;
+        if (Math.abs(n) >= 1e9) return '$' + (n/1e9).toFixed(2) + 'B';
+        if (Math.abs(n) >= 1e6) return '$' + (n/1e6).toFixed(0) + 'M';
+        return '$' + n.toLocaleString();
+      }
 
-      if (team.executiveComp && team.executiveComp.ceoTotalComp)
-        dossierRow('CEO Compensation', '$' + (team.executiveComp.ceoTotalComp/1e6).toFixed(1)+'M');
+      // === BALANCE SHEET WEALTH — what the P&L hides ===
+      if (team.balanceSheetWealth && team.balanceSheetWealth.investmentPortfolio)
+        dossierRow('Investment Portfolio', fmtM(team.balanceSheetWealth.investmentPortfolio), 'dossier-value--orange');
+
+      if (team.bondDebt && team.bondDebt.totalOutstanding)
+        dossierRow('Tax-Exempt Bond Debt', fmtM(team.bondDebt.totalOutstanding));
+
+      if (team.balanceSheetWealth && team.balanceSheetWealth.realEstateValue)
+        dossierRow('Real Estate', fmtM(team.balanceSheetWealth.realEstateValue));
+
+      // === P&L — what they show ===
+      if (team.financials && team.financials.totalRevenue)
+        dossierRow('Total Revenue', fmtM(team.financials.totalRevenue));
 
       if (team.financials && team.financials.operatingIncome !== null && team.financials.operatingIncome !== undefined) {
         var v = team.financials.operatingIncome;
-        dossierRow('Operating Income', (v<0?'-':'')+'$'+(Math.abs(v)/1e6).toFixed(0)+'M', v<0?'dossier-value--loss':'');
+        var marginStr = team.financials.operatingMarginPct !== null && team.financials.operatingMarginPct !== undefined
+          ? ' \\u00b7 ' + team.financials.operatingMarginPct.toFixed(2) + '% margin' : '';
+        dossierRow('Operating Income', (v<0?'-':'') + fmtM(Math.abs(v)) + marginStr, v<0?'dossier-value--loss':'');
       }
 
+      // === EXEC COMP — what Schedule J hides ===
+      if (team.executiveComp && team.executiveComp.ceoTotalComp) {
+        var ceoName = team.executiveComp.ceoName ? team.executiveComp.ceoName + ' \\u00b7 ' : '';
+        dossierRow('CEO Total Comp', ceoName + fmtM(team.executiveComp.ceoTotalComp));
+      }
+      if (team.executiveComp && team.executiveComp.ceoDeferredComp)
+        dossierRow('Deferred Comp', fmtM(team.executiveComp.ceoDeferredComp));
+
+      if (team.executiveComp && team.executiveComp.perks && team.executiveComp.perks.length)
+        dossierRow('Schedule J Perks', team.executiveComp.perks.join(', '));
+
+      // === COMMUNITY BENEFIT — claimed vs actual ===
+      if (team.communityBenefit && team.communityBenefit.claimedAmount)
+        dossierRow('Claimed Community Benefit', fmtM(team.communityBenefit.claimedAmount));
+
+      if (team.communityBenefit && team.communityBenefit.charityCareCostAdjusted)
+        dossierRow('Actual Charity Care (cost-adj)', fmtM(team.communityBenefit.charityCareCostAdjusted), 'dossier-value--loss');
+
+      if (team.communityBenefit && team.communityBenefit.chargemasterMarkupRatio)
+        dossierRow('Chargemaster Markup', team.communityBenefit.chargemasterMarkupRatio.toFixed(1) + 'x');
+
+      // === RELATED ORGS — the architecture ===
+      if (team.relatedOrganizations && team.relatedOrganizations.captiveInsurance)
+        dossierRow('Captive Insurance', team.relatedOrganizations.captiveInsurance);
+
+      if (team.relatedOrganizations && team.relatedOrganizations.foundationEntity)
+        dossierRow('Wealth Holding Entity', team.relatedOrganizations.foundationEntity);
+
+      // === THREE RATIOS ===
+      if (team.ratios && team.ratios.investmentsToOperatingIncome)
+        dossierRow('Investments : Op Income', team.ratios.investmentsToOperatingIncome.toFixed(1) + 'x', 'dossier-value--orange');
+
+      if (team.ratios && team.ratios.bondDebtToCommunityBenefit)
+        dossierRow('Bond Debt : Community Benefit', team.ratios.bondDebtToCommunityBenefit.toFixed(1) + 'x');
+
+      if (team.ratios && team.ratios.charityCarePctVsStateAvg !== null && team.ratios.charityCarePctVsStateAvg !== undefined)
+        dossierRow('Charity Care vs State Avg', team.ratios.charityCarePctVsStateAvg.toFixed(2) + '%',
+                   team.ratios.charityCarePctVsStateAvg < 0 ? 'dossier-value--loss' : '');
+
+      // === LAYOFFS ===
       if (team.layoffs && team.layoffs.length) {
         var lay = team.layoffs[team.layoffs.length-1];
         dossierRow('Layoffs', (lay.count ? lay.count.toLocaleString()+' employees \\u00b7 ' : '') + lay.date);
       }
 
+      // === CREDIT RATING ===
       if (team.creditRating) {
         var cr = team.creditRating;
         var parts = [];
         if (cr.fitch)  parts.push('Fitch: '+cr.fitch+(cr.fitchOutlook?' ('+cr.fitchOutlook+')':''));
         if (cr.sp)     parts.push('S&P: '+cr.sp+(cr.spOutlook?' ('+cr.spOutlook+')':''));
         if (cr.moodys) parts.push("Moody's: "+cr.moodys+(cr.moodysOutlook?' ('+cr.moodysOutlook+')':''));
-        if (parts.length) dossierRow('Credit', parts.join(' \\u00b7 '));
+        if (parts.length) dossierRow('Credit Rating', parts.join(' \\u00b7 '));
       }
 
       if (team.program340B && team.program340B.contractPharmacies)
