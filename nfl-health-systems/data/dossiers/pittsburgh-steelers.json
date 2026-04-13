@@ -1,0 +1,139 @@
+{
+  "team": "Pittsburgh Steelers",
+  "conference": "AFC",
+  "division": "North",
+  "city": "Pittsburgh",
+  "state": "Pennsylvania",
+  "healthSystem": "UPMC",
+  "ein": "25-1777902",
+  "nonprofitType": "501c3",
+  "dealType": ["Training Facility Naming", "Official Healthcare Partner"],
+  "dealAnnounced": "2000 (training facility); renewed/expanded multiple times",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTax": null,
+    "stateIncomeTax": null,
+    "propertyTax": null,
+    "salesTax": null,
+    "taxExemptBondSavings": null,
+    "program340B": null,
+    "notes": "City of Pittsburgh has repeatedly challenged UPMC's property tax exemption on downtown real estate holdings. UPMC holds multiple tax-exempt bond issues via Pennsylvania Higher Educational Facilities Authority. Precise dollar totals require Schedule H and local assessor data not verified here."
+  },
+
+  "financials": {
+    "fiscalYear": "2023",
+    "totalRevenue": 27400000000,
+    "operatingIncome": 127000000,
+    "operatingMarginPct": 0.46,
+    "totalAssets": 27800000000,
+    "totalDebt": null,
+    "investmentPortfolio": null,
+    "realEstateValue": null,
+    "bondDebt": null,
+    "source": "UPMC FY2023 financial report, consolidated with UPMC Health Plan insurance revenue"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "2022",
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "ceoName": "Leslie C. Davis",
+    "ceoTotalComp": null,
+    "perks": [],
+    "source": "ProPublica 990 Schedule J — specific Davis compensation not verified here; predecessor Jeffrey Romoff reported $11.7M in final full year as CEO",
+    "notes": "Leslie Davis assumed CEO role in July 2021 after Jeffrey Romoff retirement. Romoff's final-year compensation was widely reported at approximately $11.7M. Davis's comp from 990 not verified in this dossier."
+  },
+
+  "layoffs": [
+    {
+      "date": "2024",
+      "count": null,
+      "notes": "UPMC announced workforce reductions in early 2024 across corporate and clinical positions. Exact count not verified here.",
+      "source": "Trade press reports, requires Becker's / local news verification"
+    }
+  ],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "sp": "A+",
+    "spOutlook": null,
+    "moodys": "Aa3",
+    "moodysOutlook": null,
+    "keyRiskFactors": [
+      "Operating margin compression",
+      "Insurance-provider integration risk via UPMC Health Plan",
+      "Regional concentration in Western Pennsylvania"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": null,
+      "entity": "Pinnacle Health (Harrisburg)",
+      "type": "Nonprofit",
+      "hospitals": 8,
+      "notes": "Merger created UPMC Pinnacle — expanded UPMC footprint into central Pennsylvania"
+    },
+    {
+      "year": null,
+      "entity": "Susquehanna Health (Williamsport)",
+      "type": "Nonprofit",
+      "hospitals": 4,
+      "notes": "Added North Central Pennsylvania footprint"
+    },
+    {
+      "year": null,
+      "entity": "Somerset Hospital",
+      "type": "Nonprofit",
+      "hospitals": 1,
+      "notes": "Expanded Southwestern Pennsylvania footprint"
+    }
+  ],
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPct": null,
+    "charityCarePct": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "source": "UPMC community benefit reports are publicly posted; specific charity care percentages not verified in this dossier. City of Pittsburgh has repeatedly contested whether UPMC meets charitable purposes threshold for property tax exemption."
+  },
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not verified here"
+  },
+
+  "legalIssues": [
+    {
+      "date": "Ongoing (multiple years)",
+      "description": "City of Pittsburgh property tax exemption challenges — city has argued UPMC operates more like a for-profit business than a charitable nonprofit",
+      "status": "Multiple rounds of litigation and settlement attempts",
+      "source": "Pittsburgh Post-Gazette coverage, city council records"
+    },
+    {
+      "date": "2019-ongoing",
+      "description": "Consent decree with Highmark over network access for Highmark insurance members at UPMC facilities — state Attorney General involvement",
+      "status": "Resolved via modified consent decree",
+      "source": "Pennsylvania Attorney General's office"
+    }
+  ],
+
+  "accusation": "Runs a $27.4 billion nonprofit empire, paid its previous CEO $11.7 million, cut staff in 2024, fought Pittsburgh's property tax challenges, and owns the building where the Steelers train.",
+
+  "infographicPrompt": "Rojas Report brand infographic for UPMC. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'UPMC'. Subhead cream Source Sans Pro 600: 'Pittsburgh Steelers — Training Facility Owner'. Three data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $27.4B (FY2023)'. Block 2 — 'Previous CEO Pay: $11.7M (Romoff)'. Block 3 — 'Operating Margin: 0.46%'. Single large orange callout number '$27.4B' above headline with Cream 'nonprofit' below in italic. Bottom line in Cream Source Sans Pro 600: 'Fought Pittsburgh's property tax challenges. Named the Steelers' training complex after itself.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'UPMC FY2023 financials · Form 990 filings · Pittsburgh Post-Gazette.'"
+}
