@@ -3,8 +3,12 @@ const fs = require('fs');
 const path = require('path');
 const https = require('https');
 
-const API_KEY = process.env.ANTHROPIC_API_KEY;
+const API_KEY = (process.env.ANTHROPIC_API_KEY || '').trim();
 if (!API_KEY) { console.error('ANTHROPIC_API_KEY not set'); process.exit(1); }
+if (!/^[A-Za-z0-9_-]+$/.test(API_KEY)) {
+  console.error('ANTHROPIC_API_KEY contains invalid characters (whitespace or non-ASCII). Re-export it cleanly.');
+  process.exit(1);
+}
 
 const QUEUE = JSON.parse(fs.readFileSync(path.join(__dirname, 'teams-queue.json'), 'utf8'));
 const TPL = fs.readFileSync(path.join(__dirname, 'RESEARCH_PROMPT.md'), 'utf8');
