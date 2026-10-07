@@ -1,0 +1,205 @@
+{
+  "team": "Baltimore Ravens",
+  "conference": "AFC",
+  "division": "North",
+  "city": "Baltimore",
+  "state": "Maryland",
+  "healthSystem": "MedStar Health",
+  "ein": "52-1934834",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Medical Partner", "Stadium Medical Services"],
+  "dealAnnounced": "2004",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+  "financials": {
+    "fiscalYear": "FY2024 (ending June 30, 2024)",
+    "totalRevenue": 8254800000,
+    "operatingIncome": 159300000,
+    "operatingMarginPct": 1.93,
+    "nonOperatingRevenue": 328400000,
+    "totalAssets": 8310200000,
+    "totalLiabilities": 4226000000,
+    "source": "MedStar Health FY2024 Audited Consolidated Financial Statements (HSCRC filing)"
+  },
+  "balanceSheetWealth": {
+    "investmentPortfolio": 2657100000,
+    "investmentPortfolioSource": "MedStar Health FY2024 Audited Financials — total investments and assets whose use is limited or restricted",
+    "realEstateValue": null,
+    "realEstateSource": "Not separately disclosed in consolidated financials",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": 142600000,
+    "notes": "Investment portfolio composed of cash equivalents ($57.6M), fixed income ($451.4M), equity securities ($1,059.6M), institutional funds ($208.3M), commingled equity funds ($248.1M), hedge fund of funds and private equity ($632.1M). Long-term investments net of current portion were $1,743.5M. Up from $2,438.6M in FY2023."
+  },
+  "bondDebt": {
+    "totalOutstanding": 1631799254,
+    "fiscalYear": "FY2024",
+    "largestIssue": "Maryland Health and Higher Educational Facilities Authority Revenue Bonds",
+    "largestIssueProceeds": "January 2026 authorization for up to $1.3 billion in refinancing bonds",
+    "issuerAuthority": "Maryland Health and Higher Educational Facilities Authority",
+    "source": "MedStar Health FY2024 Form 990 and MHHEFA filings"
+  },
+  "relatedOrganizations": {
+    "captiveInsurance": "Greenspring Financial Insurance Limited, Inc. (Cayman Islands)",
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "MedStar Medical Group LLC",
+    "foundationEntity": "MedStar Health Research Institute Inc.",
+    "otherRelatedEntities": [
+      "MedStar Family Choice, Inc. (Medicaid/Medicare managed care)",
+      "MedStar Accountable Care LLC",
+      "MedStar Pharmacies Inc.",
+      "MedStar Specialty Pharmacy",
+      "MedStar Health Urgent Care",
+      "RadAmerica II",
+      "Parkway Ventures",
+      "MedStar Health Visiting Nurse Association Inc.",
+      "MedStar Enterprises Inc.",
+      "MedStar Liability Limited Insurance Company (risk retention group)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R, FY2024 audited financials, HIPAA affiliated covered entity listing"
+  },
+  "executiveComp": {
+    "fiscalYear": "FY2024",
+    "ceoName": "Kenneth A. Samet",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 106087,
+    "ceoTotalComp": 7189835,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2024 (EIN 52-2087445): $0 from reporting org, $7,083,748 from related organizations, $106,087 estimated other compensation"
+  },
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": 6.6,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Maryland HSCRC FY2023 Hospital Community Benefit Report for state average; system-wide MedStar total not separately verified"
+  },
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "MedStar Health is a tax-exempt nonstock Maryland corporation. Bond debt of $1.63B generates significant tax-exempt interest subsidy. Multiple hospitals participate in 340B program as DSH entities."
+  },
+  "layoffs": [
+    {
+      "date": "2025-07-01",
+      "entity": "MedStar Mobile Healthcare",
+      "location": "Texas",
+      "count": 589,
+      "source": "WARN Act notice filed April 2025"
+    },
+    {
+      "date": null,
+      "entity": "MedStar Health",
+      "location": "Maryland (four hospitals)",
+      "count": 98,
+      "source": "Becker's Hospital Review — MedStar Good Samaritan (19), MedStar Harbor (29), MedStar Union Memorial (26), MedStar Montgomery Medical Center (24)"
+    }
+  ],
+  "facilityClosures": [
+    {
+      "facility": "MedStar Franklin Square Medical Center",
+      "service": "Pediatric inpatient and emergency room units",
+      "reason": "40% drop in pediatric admissions over five years",
+      "date": null,
+      "source": "Becker's Hospital Review"
+    },
+    {
+      "facility": "MedStar Washington Hospital Center",
+      "service": "Postpartum Unit 5F (11 beds)",
+      "reason": "Declining birth rates in the District of Columbia",
+      "date": null,
+      "source": "NBC Washington"
+    }
+  ],
+  "creditRating": {
+    "fitch": "A-",
+    "fitchOutlook": "Stable",
+    "fitchDate": null,
+    "sp": "A",
+    "spOutlook": "Stable",
+    "spDate": null,
+    "moodys": "A2",
+    "moodysOutlook": "Stable",
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Higher leverage than similarly rated peers (Fitch)",
+      "Labor cost pressures common across healthcare sector",
+      "Reliance on Medicaid managed care revenue through MedStar Family Choice"
+    ]
+  },
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+  "acquisitions": [
+    {
+      "year": 2020,
+      "target": "Righttime Medical Care",
+      "description": "19 urgent care centers including HeadFirst sports injury and concussion clinics; approximately 300 employees",
+      "source": "MedStar Health press release, December 2020"
+    },
+    {
+      "year": 2025,
+      "target": "Hope for Henry Foundation",
+      "description": "Pediatric evidence-based incentive program integrated into MedStar clinical operations",
+      "source": "PriVSource, December 2025"
+    }
+  ],
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — insufficient data for 2024 cycle"
+  },
+  "legalIssues": [
+    {
+      "date": "2023",
+      "type": "Data Breach",
+      "description": "Unauthorized access to three employee email accounts between January and October 2023, affecting 183,000+ individuals. Settled for $1.35 million. Final approval November 2025.",
+      "source": "HIPAA Journal"
+    },
+    {
+      "date": "2024-01-30",
+      "type": "ADA Violation (DOJ)",
+      "description": "DOJ sued MedStar for denying hospital access to non-patient support persons for people with disabilities during COVID-19. Consent decree approved February 5, 2024; $440,000 settlement.",
+      "source": "U.S. Department of Justice"
+    },
+    {
+      "date": "2024",
+      "type": "Medical Malpractice Verdict",
+      "description": "St. Mary's County jury awarded $1.5 million against MedStar St. Mary's Hospital for surgeon leaving part of gallbladder behind during surgery.",
+      "source": "Miller & Zois / Super Lawyers"
+    },
+    {
+      "date": "2024-10",
+      "type": "Class Action — Physician Misconduct",
+      "description": "Class action filed seeking $5M+ in damages after MedStar suspended physician over patient concerns about behavior.",
+      "source": "FOX 5 DC"
+    }
+  ],
+  "ratios": {
+    "investmentsToOperatingIncome": 16.68,
+    "investmentsToOperatingIncomeInterpretation": "MedStar's $2.66B investment portfolio is 16.7x its $159M operating income, indicating massive balance sheet wealth relative to thin operating margins typical of a system claiming nonprofit status.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "System-wide community benefit total not verified; ratio cannot be computed.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Maryland state average is 6.6% of operating expenses (FY2023). MedStar system-wide percentage not separately verified."
+  },
+  "accusation": "MedStar Health holds a $2.66 billion investment portfolio — 16.7 times its $159 million operating income — while paying its CEO $7.2 million in total compensation, carrying $1.63 billion in tax-exempt bond debt, closing pediatric and postpartum units, and laying off hundreds of workers, all under the shelter of tax-exempt nonprofit status as the Baltimore Ravens' official medical partner.",
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with $2.66B investment portfolio vs. $159M operating income (16.7x ratio). Show $7.2M CEO total comp. Visualize $1.63B tax-exempt bond debt. Note pediatric/postpartum unit closures and 687 total layoffs. Include Moody's A2 / S&P A / Fitch A- credit ratings. Ravens partnership since 2004, extended through 2035."
+}

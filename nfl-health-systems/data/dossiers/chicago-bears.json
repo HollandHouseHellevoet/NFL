@@ -1,0 +1,176 @@
+{
+  "team": "Chicago Bears",
+  "conference": "NFC",
+  "division": "North",
+  "city": "Chicago",
+  "state": "Illinois",
+  "healthSystem": "Advocate Health",
+  "ein": "36-3425124",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": "2017-07",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+  "financials": {
+    "fiscalYear": 2025,
+    "totalRevenue": 38900000000,
+    "operatingIncome": 1500000000,
+    "operatingMarginPct": 0.04,
+    "nonOperatingRevenue": 3100000000,
+    "totalAssets": 54558809000,
+    "totalLiabilities": 20472648000,
+    "source": "Advocate Health Unaudited Annual Disclosure Statements FY2025"
+  },
+  "balanceSheetWealth": {
+    "investmentPortfolio": 21732917000,
+    "investmentPortfolioSource": "Advocate Health Audited Consolidated Financial Statements FY2024",
+    "realEstateValue": null,
+    "realEstateSource": null,
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Unrestricted cash and investments totaled $24,458,702,000 at FYE 2024. Total investments of $21.7B included $10.9B in alternative investments. Cash-to-adjusted-debt exceeded 270% at FYE 2024."
+  },
+  "bondDebt": {
+    "totalOutstanding": 7858300000,
+    "fiscalYear": 2026,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": "Illinois Finance Authority / Charlotte-Mecklenburg Hospital Authority",
+    "source": "MSRB EMMA Quarterly Disclosure Q1 2026; includes $1.1B tax-exempt fixed rate and $1.9B tax-exempt variable rate bonds"
+  },
+  "relatedOrganizations": {
+    "captiveInsurance": "Advocate Insurance SPC; Collaborative Insurance (50% owned)",
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Advocate Physician Partners; Advocate Medical Group; Aurora UW Academic Medical Group Inc",
+    "foundationEntity": "Advocate Charitable Foundation; Aurora Health Care Foundation Inc; Sherman Health Foundation",
+    "otherRelatedEntities": [
+      "Advocate Physician Partners Accountable Care",
+      "Advocate Physician Partners Risk Purchasing Group",
+      "Atrium Health (Charlotte-Mecklenburg Hospital Authority)",
+      "Atrium Health Wake Forest Baptist"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Wisconsin OCI organizational charts; Advocate Health corporate disclosures"
+  },
+  "executiveComp": {
+    "fiscalYear": 2024,
+    "ceoName": "Eugene A. Woods",
+    "ceoBaseComp": 4600000,
+    "ceoBonusIncentive": 14400000,
+    "ceoDeferredComp": 2900000,
+    "ceoOtherComp": 3800000,
+    "ceoTotalComp": 25800000,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "IRS Form 990 FY2024; co-CEO James Skogsbergh reported $28,850,544 total compensation on Schedule J"
+  },
+  "communityBenefit": {
+    "claimedAmount": 6270000000,
+    "claimedPctOfRevenue": 0.161,
+    "charityCareClaimedAmount": 1103383000,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Advocate Health Community Benefit Report FY2025 (system-wide $6.27B); charity care figure is FY2023 Illinois-only from Advocate Health Care community benefit disclosure"
+  },
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "System holds $7.9B in tax-exempt bond debt across three credit groups. Multiple DSH-qualifying hospitals participate in 340B program."
+  },
+  "layoffs": [
+    {
+      "date": "2023",
+      "description": "Eliminated approximately 815 jobs across the system",
+      "source": "Becker's Hospital Review / media reports"
+    },
+    {
+      "date": "2025-01",
+      "description": "Closed 8 Walgreens-based clinics in Wisconsin",
+      "source": "Media reports"
+    },
+    {
+      "date": "2025",
+      "description": "Closed 47 outpatient clinics in Illinois in collaboration with Walgreens",
+      "source": "Media reports"
+    },
+    {
+      "date": "2026-03",
+      "description": "Additional layoffs involving multiple teams; number not publicly disclosed",
+      "source": "Media reports"
+    }
+  ],
+  "facilityClosures": [
+    {
+      "date": "2025-01",
+      "description": "8 Walgreens-based clinics closed in Wisconsin",
+      "source": "Media reports"
+    },
+    {
+      "date": "2025",
+      "description": "47 outpatient clinics closed in Illinois (Walgreens partnership)",
+      "source": "Media reports"
+    }
+  ],
+  "creditRating": {
+    "fitch": "AA",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2025-10-22",
+    "sp": "AA",
+    "spOutlook": "Stable",
+    "spDate": "2025-09-16",
+    "moodys": "Aa2",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2025-10-01",
+    "keyRiskFactors": [
+      "Post-merger integration complexity across six states",
+      "Rising labor and supply chain costs pressuring operating margins",
+      "Significant capital expenditure needs with $300M net new debt planned"
+    ]
+  },
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+  "acquisitions": [
+    {
+      "date": "2018",
+      "target": "Aurora Health Care",
+      "description": "Advocate Health Care merged with Aurora Health Care to form Advocate Aurora Health",
+      "dealValue": null
+    },
+    {
+      "date": "2022-12",
+      "target": "Atrium Health",
+      "description": "Advocate Aurora Health and Atrium Health completed combination to form Advocate Health, the fifth-largest (now third-largest) nonprofit health system in the U.S. with 67 hospitals and $27B revenue at close",
+      "dealValue": null
+    }
+  ],
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets"
+  },
+  "legalIssues": [],
+  "ratios": {
+    "investmentsToOperatingIncome": 18.11,
+    "investmentsToOperatingIncomeInterpretation": "Investment portfolio is 18x annual operating income (FY2024 audited: $21.7B investments vs $1.2B operating income), indicating massive accumulated wealth far exceeding operational needs",
+    "bondDebtToCommunityBenefit": 1.25,
+    "bondDebtToCommunityBenefitInterpretation": "Tax-exempt bond debt of $7.9B exceeds a single year of claimed system-wide community benefit ($6.3B) by 25%",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Illinois-specific charity care data ($1.1B in FY2023) not comparable without verified state average benchmark"
+  },
+  "accusation": "Advocate Health holds a $21.7 billion investment portfolio and $54.6 billion in total assets while its co-CEO collected $25.8 million in 2024 compensation, yet it eliminated 815 jobs in 2023 and closed 55 clinics across Illinois and Wisconsin.",
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. $21.7B investment portfolio. $54.6B total assets. $7.9B tax-exempt bond debt. Co-CEO pay: $25.8M (Woods) and $28.9M (Skogsbergh). 815 jobs cut in 2023. 55 clinics closed. AA/Aa2 credit ratings, stable outlook. 67+ hospitals across 6 states. $6.3B claimed community benefit."
+}

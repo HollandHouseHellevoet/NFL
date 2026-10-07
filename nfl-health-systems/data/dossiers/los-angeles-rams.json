@@ -1,0 +1,158 @@
+{
+  "team": "Los Angeles Rams",
+  "conference": "NFC",
+  "division": "West",
+  "city": "Los Angeles",
+  "state": "California",
+  "healthSystem": "Cedars-Sinai",
+  "ein": "95-1644600",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner", "Stadium Rights"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "FY2024",
+    "totalRevenue": 5280000000,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": 12400000000,
+    "totalLiabilities": 3460000000,
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 95-1644600); revenue of $5.28B and expenses of $4.51B yield excess of $770M but operating vs non-operating split not verified from 990 summary"
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": 6000000000,
+    "investmentPortfolioSource": "Cedars-Sinai manages approximately $6 billion across diversified public and private market strategies per consolidated financial statements; FY2024 breakdown: short-term investments $1.233B, board-designated assets $1.829B, assets limited as to use $883M; 22% allocated to alternative assets including private equity, venture capital, hedge funds, and real estate",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified; Cedars-Sinai operates a major medical campus in West Hollywood/Los Angeles plus Marina del Rey hospital and affiliated facilities",
+    "boardDesignatedFunds": 1829299000,
+    "endowmentFunds": null,
+    "notes": "Net assets of $8,940,000,000 (total assets $12.4B less total liabilities $3.46B). Investment portfolio serves multiple pools: endowment funds, defined benefit pension plans, operating reserves, and foundation assets, each with distinct asset allocation. FY2023 comparisons: short-term investments $1.572B, board-designated assets $2.147B, assets limited as to use $974M."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": 1030000000,
+    "fiscalYear": "2021",
+    "largestIssue": "California Health Facilities Financing Authority Revenue Bonds (Cedars-Sinai Health System), Series 2021",
+    "largestIssueProceeds": "$1.03B sold in December 2021; authorized up to $1.6B aggregate principal; financed construction of Cedars-Sinai Marina del Rey replacement hospital, a nine-story 258,500 square-foot seismically-compliant facility with 160 patient beds",
+    "issuerAuthority": "California Health Facilities Financing Authority (CHFFA)",
+    "source": "California State Treasurer press release December 2021; CHFFA Resolution No. 446 (2025 filing suggests additional or updated bond activity); CUSIP 13032UJC3 for Series A; EMMA/MSRB filings"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Cedars-Sinai Medical Care Foundation (EIN 95-4457756)",
+    "foundationEntity": "Cedars-Sinai Medical Care Foundation (EIN 95-4457756)",
+    "otherRelatedEntities": [
+      "Cedars-Sinai Health System (parent organization, established 1994)",
+      "Burns and Allen Research Institute",
+      "Cedars-Sinai Health Sciences University (founded October 2024)",
+      "Torrance Memorial Medical Center (affiliated under new parent organization, 2024)",
+      "Cedars-Sinai Accelerator (health tech accelerator/venture arm)",
+      "Cedars Sinai Health Ventures (venture investment arm)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; ProPublica Nonprofit Explorer; Wikipedia; Cedars-Sinai Medical Care Foundation founded 1994 as supporting organization; Health System combines Medical Center, Burns and Allen Research Institute, Medical Foundation, and Physician-Hospital Organization"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "FY2024",
+    "ceoName": "Thomas M. Priselac",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": 5857203,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 95-1644600); Priselac serves as President/CEO; base vs bonus vs deferred breakdown not verified from 990 summary — requires Schedule J review"
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Not verified — search budget exhausted before community benefit query could complete; California requires nonprofit hospitals to submit community benefit plans under SB 697; Cedars-Sinai operates grantmaking programs"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Cedars-Sinai has been tax-exempt since February 1964. Excess of revenue over expenses of approximately $770M in FY2024 would be subject to 21% federal corporate tax ($162M) if for-profit. California corporate tax rate of 8.84% would apply to state income. Property tax exemption covers major medical campus in West Hollywood/Los Angeles, Marina del Rey hospital, and affiliated facilities in high-value Los Angeles County real estate. Tax-exempt bond interest subsidy applies to $1.03B+ in outstanding Series 2021 debt."
+  },
+
+  "layoffs": [],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": "Aa3",
+    "moodysOutlook": "Stable",
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Concentration in high-cost Los Angeles market",
+      "California seismic compliance requirements driving capital expenditure",
+      "Marina del Rey replacement hospital construction financed with $1.03B in tax-exempt bonds"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "date": "2024",
+      "target": "Torrance Memorial Medical Center",
+      "type": "Affiliation",
+      "notes": "Cedars-Sinai and Torrance Memorial Medical Center affiliated under a new parent organization in 2024",
+      "source": "Wikipedia; Cedars-Sinai announcements"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Estimated $6 billion investment portfolio against approximately $770M excess of revenue over expenses (FY2024 990) yields a ratio of approximately 7.8x; operating income not separately verified — the $770M includes investment returns, meaning the ratio of investments to core operating surplus is likely higher",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — community benefit amount not verified; $1.03B in outstanding bond debt confirmed",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Not verified — charity care data requires Schedule H review and comparison against California averages"
+  },
+
+  "accusation": "Cedars-Sinai sits on $12.4 billion in total assets including an estimated $6 billion investment portfolio and $8.9 billion in net assets, yet operates as a tax-exempt nonprofit that issued over $1 billion in subsidized bonds while paying its CEO $5.9 million in total compensation.",
+
+  "infographicPrompt": "Rojas Report brand infographic for Cedars-Sinai. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'Cedars-Sinai'. Subhead cream Source Sans Pro 600: 'Los Angeles Rams — Official Healthcare Partner & Stadium Rights'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $5.28B (FY2024)'. Block 2 — 'CEO Pay: $5.9M (Priselac)'. Block 3 — 'Net Assets: $8.9B'. Block 4 — 'Investment Portfolio: ~$6B'. Single large orange callout number '$8.9B' above headline with Cream 'in net assets' below in italic. Bottom line in Cream Source Sans Pro 600: 'Tax-exempt since 1964. Issued $1.03B in tax-exempt bonds. $6B investment portfolio. Board-designated funds of $1.83B.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 FY2024 via ProPublica · Cedars-Sinai Consolidated Financial Statements · California State Treasurer · Moody’s.'"
+}

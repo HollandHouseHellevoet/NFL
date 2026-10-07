@@ -1,0 +1,159 @@
+{
+  "team": "Green Bay Packers",
+  "conference": "NFC",
+  "division": "North",
+  "city": "Green Bay",
+  "state": "Wisconsin",
+  "healthSystem": "Bellin Health",
+  "ein": "39-0838773",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": "August 2007",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "FY2024 (ending September 2024)",
+    "totalRevenue": 834706266,
+    "operatingIncome": 42958725,
+    "operatingMarginPct": 5.15,
+    "nonOperatingRevenue": null,
+    "totalAssets": 1150000000,
+    "totalLiabilities": 437000000,
+    "source": "Bellin Memorial Hospital Inc (EIN 39-0884478) IRS Form 990, FY ending September 2024, via ProPublica Nonprofit Explorer. Total assets and liabilities are approximate from aggregated database reports; exact 990 Part X values not independently verified to the dollar."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Investment income of $14,303,977 reported on FY2024 990 (1.7% of revenue); total investment portfolio balance not independently verified from Part X balance sheet",
+    "realEstateValue": null,
+    "realEstateSource": "Not independently verified",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Bellin Health Foundation (EIN 39-1809171) reported $6,335,656 in total investment assets as of September 30, 2023, comprising cash equivalents, fixed income, mutual funds, equities, and alternative investments. The hospital operating entity's investment portfolio is separate and substantially larger but the Part X total was not independently verified. Bellin merged with Gundersen Health System in December 2022; the combined entity rebranded as Emplify Health in April 2024 and operates 11 hospitals with ~15,000 employees across Wisconsin, Iowa, Minnesota, and Michigan."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": "Series 2022 Tax-Exempt Fixed-Rate Revenue Bonds",
+    "largestIssueProceeds": "$130,000,000 — federal and Wisconsin tax-exempt fixed-rate bonds issued December 14, 2022, to finance Phase I of a five-story, 256,000 sq ft ambulatory surgery center and multi-specialty clinic in Ashwaubenon, WI, and a nursing unit expansion at Bellin Memorial Hospital in Green Bay",
+    "issuerAuthority": "Wisconsin Health and Educational Facilities Authority (WHEFA)",
+    "source": "EMMA (Electronic Municipal Market Access); Bellin Health press release December 1, 2022; Wisconsin Health News December 15, 2022. Underwritten by BofA Securities and Piper Sandler."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": null,
+    "foundationEntity": "Bellin Health Foundation Inc (EIN 39-1809171)",
+    "otherRelatedEntities": [
+      "Bellin Health Systems Inc (EIN 39-1512904)",
+      "Bellin Psychiatric Center Inc (EIN 39-1657627)",
+      "Bellin College Inc (EIN 39-1620530)",
+      "Emplify Health (parent brand formed December 2022 merger with Gundersen Health System)",
+      "Bellin-ThedaCare Healthcare Partners (accountable care organization, formed 2008)",
+      "Robin by HealthPartners (employee self-insurance partnership with ThedaCare and HealthPartners, formed 2017)",
+      "A Brightman FBO Bellin Hospital Trust (EIN 39-6208978)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; ProPublica Nonprofit Explorer filings for related EINs; Bellin Health and ThedaCare press releases"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "FY2024 (ending September 2024)",
+    "ceoName": "Christine (Chris) Woleske",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 238231,
+    "ceoTotalComp": 2013670,
+    "topOfficersTotalComp": 4630914,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Bellin Memorial Hospital Inc (EIN 39-0884478) IRS Form 990 Schedule J, via ProPublica Nonprofit Explorer and Instrumentl 990 report. Woleske listed as Board Member/Executive Vice President with $1,775,439 reportable compensation and $238,231 other compensation. Woleske announced retirement effective July 1, 2025, after 26 years with Bellin Health."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": 55491950,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Bellin Health 2022 Community Benefits Report (FY ending September 2022) — $55,491,950 reported in subsidized health services. Wisconsin Hospital Association reports statewide community benefits of $2.3B in FY2023 and $2.2B in FY2024. Bellin-specific charity care breakout from Schedule H not independently verified for FY2024."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Bellin Memorial Hospital's $130M in tax-exempt bonds (2022) provide interest cost savings vs. taxable financing. 340B participation as Rural Referral Center (340B ID: RRC520049-07) was terminated April 1, 2025 due to DSH percentage falling below statutory minimum. Bellin Health Oconto Hospital and related facilities remain registered as Critical Access Hospitals in the 340B program."
+  },
+
+  "layoffs": [],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": "A+",
+    "spOutlook": "Stable",
+    "spDate": null,
+    "moodys": "A2",
+    "moodysOutlook": "Positive",
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Merger integration risk with Gundersen Health System under Emplify Health brand",
+      "Loss of Green Bay Packers healthcare partnership to UW Health in 2026",
+      "340B Rural Referral Center participation terminated April 2025",
+      "Gradual workforce decline from 2,853 (2023) to 2,763 (2026)"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": false,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": 2022,
+      "target": "Gundersen Health System (La Crosse, WI)",
+      "type": "Merger",
+      "notes": "Announced June 2022, completed December 1, 2022. Combined entity rebranded as Emplify Health in April 2024. Operates 11 hospitals across Wisconsin, Iowa, Minnesota, and Michigan with approximately 15,000 employees."
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute — total investment portfolio balance not verified from 990 Part X balance sheet",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — total outstanding bond debt not verified; known issuance of $130M in 2022 but current outstanding balance unavailable",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Cannot compute — Bellin's charity care (Schedule H Line 7a) not independently verified; only total subsidized health services of $55.5M (FY2022) confirmed"
+  },
+
+  "accusation": "Bellin Health, operating within the Emplify Health system with over $1.1 billion in total assets and $711 million in net assets, collected $130 million in tax-exempt bond financing and over $2 million in annual CEO compensation while its 340B drug discount participation was terminated for failing to meet disproportionate-share thresholds, raising questions about whether its tax-exempt wealth is flowing to the communities it claims to serve.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. Bellin Memorial Hospital FY2024: $834.7M revenue, $43.0M net income, $1.15B total assets, $711.5M net assets. $130M tax-exempt bonds issued 2022 via WHEFA. CEO total comp $2.01M. S&P A+ Stable, Moody's A2 Positive. 340B Rural Referral Center status terminated April 2025. $55.5M community benefit (FY2022). Merged with Gundersen Health System December 2022, rebranded Emplify Health April 2024. Packers healthcare partner since 2007, replaced by UW Health in 2026."
+}

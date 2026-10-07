@@ -1,0 +1,164 @@
+{
+  "team": "Atlanta Falcons",
+  "conference": "NFC",
+  "division": "South",
+  "city": "Atlanta",
+  "state": "Georgia",
+  "healthSystem": "Emory Healthcare",
+  "ein": "58-0566256",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": "2018",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+  "financials": {
+    "fiscalYear": "FY2024 (ending August 31, 2024)",
+    "totalRevenue": 7310968615,
+    "operatingIncome": 669280461,
+    "operatingMarginPct": 9.15,
+    "nonOperatingRevenue": 763900000,
+    "totalAssets": 21286330000,
+    "totalLiabilities": 7284260000,
+    "source": "Emory University Form 990 (EIN 58-0566256, FYE August 31, 2024) and FY2024 Audited Consolidated Financial Statements. Note: EIN is Emory University consolidated, which includes Emory Healthcare. Operating income figure is the 990 surplus (total revenue minus total expenses) and includes $763.9M in investment income; excluding investment returns, the consolidated entity would show an operating deficit."
+  },
+  "balanceSheetWealth": {
+    "investmentPortfolio": 13147644025,
+    "investmentPortfolioSource": "Emory University FY2024 consolidated financial statements — total investments across all asset classes",
+    "realEstateValue": null,
+    "realEstateSource": "Not separately disclosed in consolidated financials",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": 11400000000,
+    "notes": "Emory Investment Management oversees $13.1B+ in diversified investments for Emory University, Emory Healthcare, and The Carter Center. 54% allocated to alternatives including private equity, venture capital, real estate, natural resources, and absolute return strategies. Approximately 40% of endowment dedicated to health care and health sciences. Endowment distributes approximately 5% of value annually to support operations."
+  },
+  "bondDebt": {
+    "totalOutstanding": 3304279000,
+    "fiscalYear": "FY2024 (ending August 31, 2024)",
+    "largestIssue": "Georgia Private Colleges and Universities Authority Revenue Bonds, 2025 Series",
+    "largestIssueProceeds": "$2.1B authorized by Georgia; $486M first tranche marketed May 2025 at rates of 5% or less",
+    "issuerAuthority": "Georgia Private Colleges and Universities Authority",
+    "source": "Emory University FY2024 Audited Consolidated Financial Statements (total bonds and notes payable including unamortized net premium); Bloomberg and SaportaReport for 2025 issuance details. Moody's rated the 2025 bonds at Aa2."
+  },
+  "relatedOrganizations": {
+    "captiveInsurance": "Clifton Casualty Insurance Company, Ltd. (Cayman Islands)",
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "The Emory Clinic, Inc.",
+    "foundationEntity": "DeKalb Medical Center Foundation",
+    "otherRelatedEntities": [
+      "Emory Healthcare, Inc. (EHC — parent operating company)",
+      "Emory University Hospital (EUH)",
+      "Emory University Hospital Midtown (EUHM)",
+      "Emory Saint Joseph's Hospital (ESJH)",
+      "EHCA Johns Creek Hospital, LLC (EJCH)",
+      "Emory Rehabilitation Hospital (ERH)",
+      "DeKalb Medical Center, Inc. (DMC)",
+      "Decatur Health Resources, Inc. (DHR)",
+      "Emory Specialty Associates, LLC (ESA)",
+      "Emory Specialty Associates — Joint Operating Company (ESA-JOC)",
+      "Wesley Woods Center of Emory University, Inc. (WWC)",
+      "Emory Medical Care Foundation",
+      "Emory Innovations, LLC",
+      "Houston Healthcare (acquired June 2025, 282 beds)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R, Emory University FY2023 and FY2024 Uniform Guidance Audit Reports"
+  },
+  "executiveComp": {
+    "fiscalYear": "FY2024 (ending August 31, 2024)",
+    "ceoName": "Joon S. Lee, MD",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 320856,
+    "ceoTotalComp": 2815716,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": 47,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 Schedule J (EIN 58-0566256, FYE August 2024): Joon S. Lee MD received $2,494,860 from reporting organization, $0 from related organizations, $320,856 estimated other compensation. Georgia HB321 compensation report lists $2,860,918 total. Highest-compensated officer at Emory University overall is Ravi Thadhani MD MPH at $5.1M; 47 individuals reported on Schedule J."
+  },
+  "communityBenefit": {
+    "claimedAmount": 578700000,
+    "claimedPctOfRevenue": 7.92,
+    "charityCareClaimedAmount": 151500000,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": 10.3,
+    "belowStateAverage": true,
+    "costToChargeRatio": null,
+    "source": "Emory Healthcare FY2024 Community Benefit Report ($519.5M hospitals + $59.2M non-hospitals = $578.7M total). Charity care of $151.5M from FY2024 data. Georgia state average charity care of 10.3% of expenses from Lown Hospitals Index (FY2021). Emory's charity care represents approximately 2.3% of consolidated expenses, well below the state average."
+  },
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Emory University is a tax-exempt 501(c)(3) organization. Bond debt of $3.3B issued through Georgia Private Colleges and Universities Authority generates significant tax-exempt interest subsidy. Multiple Emory hospitals participate in 340B program as DSH entities. Interest expense of $110.3M in FY2024 (net of $17.5M capitalized interest). Average variable rate on tax-exempt bonds was 3.54%; taxable variable bonds averaged 5.70%."
+  },
+  "layoffs": [
+    {
+      "date": "2025-08-12",
+      "entity": "Emory Healthcare",
+      "location": "Atlanta, Georgia",
+      "count": 232,
+      "source": "Emory spokesperson told Becker's 232 positions affected out of 29,500 employees (less than 1%); class-action lawsuit filed August 15, 2025 by Paulette Simmons claims 543 full-time employees affected. Financial services and revenue cycle positions eliminated to streamline operations. WSB-TV, AJC, Becker's Hospital Review."
+    }
+  ],
+  "facilityClosures": [],
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": "Aa2",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2025",
+    "keyRiskFactors": [
+      "Consolidated entity operationally dependent on $764M in annual investment returns to offset operating deficit",
+      "Significant capital commitments including $2.1B new bond authorization in 2025",
+      "WARN Act class-action lawsuit challenging layoff procedures",
+      "Ongoing integration of Houston Healthcare acquisition"
+    ]
+  },
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+  "acquisitions": [
+    {
+      "year": 2025,
+      "target": "Houston Healthcare",
+      "description": "Two hospital campuses (282 beds), five outpatient facilities, nine physician practices in Warner Robins and Perry, Georgia. 2,500 employees, 200 physicians, serving 300,000+ patients annually. LOI signed August 2024, Georgia AG approved February 2025, completed June 1, 2025.",
+      "source": "Emory Healthcare, Kaufman Hall, Fox 5 Atlanta, Chief Healthcare Executive"
+    }
+  ],
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — insufficient data for 2024 cycle"
+  },
+  "legalIssues": [
+    {
+      "date": "2025-08-15",
+      "type": "WARN Act Class Action",
+      "description": "Former employee Paulette Simmons filed class-action lawsuit alleging Emory Healthcare violated the federal WARN Act by laying off 543 employees without required 60-day notice. Suit claims severance agreements contained provisions barring WARN Act claims, which cannot be waived absent statutory compliance.",
+      "source": "AJC, Black Enterprise, WSB-TV, Becker's Hospital Review"
+    }
+  ],
+  "ratios": {
+    "investmentsToOperatingIncome": 19.64,
+    "investmentsToOperatingIncomeInterpretation": "Emory's $13.1B investment portfolio is nearly 20x its $669M annual surplus, with $764M in investment returns exceeding the surplus itself — meaning the consolidated entity would operate at a deficit without its investment portfolio.",
+    "bondDebtToCommunityBenefit": 5.71,
+    "bondDebtToCommunityBenefitInterpretation": "Tax-exempt bond debt of $3.3B is 5.7x the $578.7M claimed community benefit, raising questions about the scale of public subsidy relative to community reinvestment.",
+    "charityCarePctVsStateAvg": 0.22,
+    "charityCareVsStateInterpretation": "Emory's charity care of $151.5M represents approximately 2.3% of consolidated expenses, compared to Georgia's 10.3% state average — roughly one-fifth of the state average. Note: comparison uses consolidated university expenses as denominator and state average is FY2021 data."
+  },
+  "accusation": "Emory University holds a $13.1 billion investment portfolio and an $11.4 billion endowment — balance sheet wealth exceeding that of most Fortune 500 companies — while its healthcare arm provided just $151.5 million in charity care (roughly 2.3% of expenses, far below Georgia's 10.3% state average), carries $3.3 billion in tax-exempt bond debt, laid off hundreds of workers in 2025 triggering a WARN Act class-action lawsuit, and serves as the Atlanta Falcons' official healthcare partner, all under the shelter of its tax-exempt nonprofit status.",
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with $13.1B investment portfolio and $11.4B endowment. Show $3.3B in tax-exempt bond debt vs $578.7M claimed community benefit (5.7x ratio). Highlight $151.5M charity care at 2.3% of expenses vs Georgia's 10.3% state average (one-fifth of average). CEO Joon Lee total comp $2.8M with highest-paid officer at $5.1M across 47 Schedule J officers. Display Moody's Aa2/Stable rating. Note 232-543 layoffs in August 2025 with WARN Act class-action lawsuit. Show Falcons partnership since 2018. Include Houston Healthcare acquisition (282 beds) completed June 2025."
+}

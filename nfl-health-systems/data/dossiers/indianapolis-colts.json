@@ -1,0 +1,225 @@
+{
+  "team": "Indianapolis Colts",
+  "conference": "AFC",
+  "division": "South",
+  "city": "Indianapolis",
+  "state": "Indiana",
+  "healthSystem": "Ascension",
+  "ein": "43-1671412",
+  "nonprofitType": "faith-based",
+  "dealType": ["Official Healthcare Partner", "Radio Network Naming", "Practice Jersey Patch"],
+  "dealAnnounced": "September 8, 2024",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "FY2025 (ended June 30, 2025)",
+    "totalRevenue": 25300000000,
+    "operatingIncome": -491000000,
+    "operatingMarginPct": -1.9,
+    "nonOperatingRevenue": 1409000000,
+    "totalAssets": 39860000000,
+    "totalLiabilities": null,
+    "source": "Ascension Consolidated Financial Statements Q4 FY2025; Ascension Q4 FY25 news release September 2025; FierceHealthcare; Becker's Hospital Review. Non-operating revenue derived from reported net income of $918M minus operating loss of -$491M. Figures are for consolidated Ascension system (Ascension Health Alliance, EIN 45-3358926)."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": 19450000000,
+    "investmentPortfolioSource": "Ascension Consolidated Financial Statements Q4 FY2025 — long-term investments of $19,449,512 thousand as of June 30, 2025; plus short-term investments of $43,974 thousand",
+    "realEstateValue": null,
+    "realEstateSource": null,
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Substantially all cash and investments are managed by Ascension Investment Management (AIM), a wholly owned subsidiary. More than $1B allocated to alternative investments including private equity and private credit. As of December 31, 2024 (mid-year FY2025), net unrestricted cash and investments were $15B. System had 228 days cash on hand as of June 30, 2025. Ascension manages assets using an endowment-style approach."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": 5600000000,
+    "fiscalYear": "Q3 FY2025 (as of March 31, 2025)",
+    "largestIssue": "December 2025 tax-exempt revenue bonds",
+    "largestIssueProceeds": "$2.5 billion — issued through authorities in Indiana, Tennessee, and Texas for capital projects and refunding of previously issued tax-exempt bonds; separate $2.1B taxable bond issuance in November 2025 used to defease remaining tax-exempt subordinate bonds",
+    "issuerAuthority": "Multiple state health facility finance authorities (Indiana, Tennessee, Texas)",
+    "source": "Ascension Consolidated Financial Statements Q3 FY2025 ($5.6B long-term debt as of March 31, 2025); Fitch Ratings September 2025 (downgrade affected $5.5B in bonds); Bond Buyer; Fitch expects Ascension to issue up to $4.2B in additional debt"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": null,
+    "foundationEntity": "Ascension Foundation",
+    "otherRelatedEntities": [
+      "Ascension Investment Management (AIM) — manages substantially all system cash and investments",
+      "Ascension Care Management — insurance holdings company",
+      "Ascension Capital",
+      "Ascension Ventures",
+      "Ascension Holdings",
+      "Ascension Technologies — healthcare IT services",
+      "Ascension Leadership Academy",
+      "Ascension Rx — pharmacy operations including 340B and specialty pharmacy",
+      "Ascension St. Vincent — Indiana market operations and Colts partner"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; Ascension Consolidated Financial Statements; Ascension corporate website; Missouri subsidiary list includes 40+ entities"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "FY2023 (ended June 30, 2023)",
+    "ceoName": "Joseph R. Impicciche",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 61076,
+    "ceoTotalComp": 9118708,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [
+      "First class or charter travel",
+      "Tax indemnification and gross-up payments"
+    ],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2023 via ProPublica Nonprofit Explorer and Paddock Post (EIN 45-3358926). Other top executives FY2023: Craig Cordola (EVP/COO) $5,304,408; Eduardo Conrado (Former Board Member) $5,073,352; Elizabeth Foshage (EVP/CFO) $3,981,721; Karen Springer (EVP/CNE) $3,921,283. FY2024 filing shows CEO reportable compensation of $9,963,725 plus $2,317,426 in other compensation ($12,281,151 total). Five-year CEO total (FY2020-2024): approximately $48M."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": 2100000000,
+    "claimedPctOfRevenue": 7.4,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Ascension community benefit webpage and Ascension Consolidated Financial Statements FY2024. $2.1B in Care of Persons Living in Poverty and Other Community Benefit Programs for FY2024 (ended June 30, 2024). With unpaid costs of Medicare included, total reaches $4.3B. Ascension claims this is four times what it would have paid in taxes as a for-profit company. Percentage calculated against FY2024 total operating revenue of $28.55B."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Ascension claims its $2.1B community benefit is four times what it would have paid in taxes as a for-profit company, implying estimated annual tax advantage of approximately $525M. Operates across 15 states and the District of Columbia with significant tax-exempt property holdings. 340B savings in Texas alone were $20.9M in 2023."
+  },
+
+  "layoffs": [
+    {
+      "date": "2023-01",
+      "count": null,
+      "notes": "Ascension confirmed layoffs of employees in Texas; primarily nonclinical support roles; declined to specify number of positions affected",
+      "source": "Becker's Hospital Review; KXAN Austin"
+    },
+    {
+      "date": "2024",
+      "count": null,
+      "notes": "Layoffs and hiring freeze triggered by May 2024 ransomware cyberattack and resulting $1.8B operating loss; number unspecified; New York Times alleged system-wide staffing crisis leading to complaints about possible preventable deaths",
+      "source": "FierceHealthcare; Becker's Hospital Review; New York Times"
+    },
+    {
+      "date": "2025",
+      "count": 500,
+      "notes": "Approximately 500 employees laid off system-wide with reports suggesting total could climb to 1,000; affected locations include Michigan (Ascension St. John), Illinois, Kansas, and Oklahoma",
+      "source": "Crain's Detroit Business; FierceHealthcare; Lime Entrepreneur"
+    }
+  ],
+
+  "facilityClosures": [
+    {
+      "date": "2022-2025",
+      "facility": "System-wide hospital portfolio reduction",
+      "notes": "Reduced from approximately 139 hospitals to 90 wholly owned or consolidated hospitals through strategic divestitures as part of post-pandemic operational transformation",
+      "source": "Becker's Hospital Review; FierceHealthcare; Becker's ASC Review"
+    },
+    {
+      "date": "2024-02",
+      "facility": "Our Lady of Lourdes Memorial Hospital (Binghamton, NY)",
+      "notes": "Sold to the Guthrie Clinic",
+      "source": "Becker's Hospital Review"
+    },
+    {
+      "date": "2024",
+      "facility": "10 Ascension Michigan hospitals",
+      "notes": "Joint venture with Henry Ford Health; hospitals folded into partnership",
+      "source": "Becker's Hospital Review"
+    },
+    {
+      "date": "2025-06",
+      "facility": "9 Illinois/Chicago-area hospitals and 4 senior living facilities",
+      "notes": "Sold to Prime Healthcare Services; includes Ascension Holy Family, Ascension Mercy, Ascension Resurrection, Ascension St. Francis, Ascension St. Joseph (Joliet), Ascension St. Joseph (Elgin), Ascension St. Mary (Kankakee), Ascension St. Mary (Chicago), Ascension St. Elizabeth",
+      "source": "Religion News Service; Becker's Hospital Review"
+    },
+    {
+      "date": "2025-07",
+      "facility": "4 Southwest Michigan hospitals (Ascension Borgess system)",
+      "notes": "Sold to Beacon Health System; Kalamazoo, Allegan, Plainwell, and Dowagiac facilities",
+      "source": "WWMT; Wood TV"
+    }
+  ],
+
+  "creditRating": {
+    "fitch": "AA",
+    "fitchOutlook": null,
+    "fitchDate": "2025-09",
+    "sp": "AA",
+    "spOutlook": "Stable",
+    "spDate": "2025-09",
+    "moodys": "Aa3",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2026-10",
+    "keyRiskFactors": [
+      "Persistent operating losses — $1.8B loss in FY2024, $491M loss in FY2025, $120M loss through FY2026 Q3",
+      "Massive hospital divestiture program reducing portfolio from 139 to 90 facilities since 2022",
+      "May 2024 ransomware attack exposing 5.4M patient records and contributing to $1.3B in financial impact",
+      "Fitch expects up to $4.2B in additional debt issuance, constraining cash-to-debt ratio",
+      "$3.9B AmSurg acquisition adding significant leverage",
+      "Fitch downgraded from AA+ to AA in September 2025 citing inadequate profitability"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": 2025,
+      "entity": "AmSurg",
+      "type": "For-Profit (KKR portfolio company)",
+      "hospitals": null,
+      "notes": "Acquired for $3.9B; expanded ambulatory surgery center footprint from 58 to 300+ centers across 34 states; FTC required divestiture of 6 facilities to Optum subsidiary SC Affiliates; establishes Ascension as third-largest ASC platform nationally",
+      "source": "Becker's Hospital Review; FierceHealthcare; Bloomberg; Bond Buyer"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": 2160000,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets via JAMA Health Forum study (2026); Ascension spent $2.16M on federal lobbying in 2024, ranking among the top health system lobbying spenders alongside Advocate ($2.42M) and Tenet ($2.2M)"
+  },
+
+  "legalIssues": [
+    {
+      "date": "2024-05 — ongoing",
+      "description": "Ransomware cyberattack compromised personal and health information of 5.4 million individuals; forced electronic health records offline across 19 states; facilities diverted emergency cases to nearby hospitals; class action lawsuit filed alleging failure to implement essential security measures; plaintiffs allege imminent risk of identity theft, fraudulent charges, delayed care, and protected health information posted to dark web",
+      "status": "Lawsuit moving forward as of October 2025; one of the largest healthcare data breaches in U.S. history",
+      "source": "HealthExec; Healthcare Dive; CBS News Detroit; Class Law Group"
+    }
+  ],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Ratio undefined — Ascension reported a $491M operating loss in FY2025. However, the system holds $19.4B in long-term investments (39.6x the magnitude of the operating loss), indicating massive accumulated wealth persisting through sustained operating losses.",
+    "bondDebtToCommunityBenefit": 2.67,
+    "bondDebtToCommunityBenefitInterpretation": "Ascension carries $2.67 in tax-exempt bond debt for every $1 it claims in community benefit ($5.6B debt vs $2.1B community benefit)",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "State average not verified; charity care component of Ascension's $2.1B total community benefit not separately available from search results"
+  },
+
+  "accusation": "Ascension holds $19.4 billion in long-term investments atop $39.9 billion in total assets while posting a $491 million operating loss in FY2025, carrying $5.6 billion in tax-exempt bond debt, paying its CEO $9.1 million, divesting nearly 50 hospitals, and cutting hundreds of jobs — yet claims just $2.1 billion in community benefit on $25.3 billion in revenue.",
+
+  "infographicPrompt": "Rojas Report brand infographic for Ascension. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'ASCENSION'. Subhead cream Source Sans Pro 600: 'Indianapolis Colts — Official Healthcare Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $25.3B (FY2025)'. Block 2 — 'CEO Pay: $9.1M (Impicciche)'. Block 3 — 'Operating Margin: -1.9%'. Block 4 — 'Investment Portfolio: $19.4B'. Single large orange callout number '$19.4B' above headline with Cream 'in long-term investments' below in italic. Bottom line in Cream Source Sans Pro 600: 'Carries $5.6B in tax-exempt bond debt. Divested ~50 hospitals since 2022. 5.4M patients exposed in 2024 data breach. Acquired AmSurg for $3.9B.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Ascension Consolidated Financial Statements FY2025 · Form 990 FY2023 · Fitch Ratings · Bond Buyer.'"
+}

@@ -1,0 +1,146 @@
+{
+  "team": "Carolina Panthers",
+  "conference": "NFC",
+  "division": "South",
+  "city": "Charlotte",
+  "state": "North Carolina",
+  "healthSystem": "Atrium Health",
+  "ein": "56-0532416",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner", "Training Facility Naming Rights", "Practice Jersey Patch Sponsor"],
+  "dealAnnounced": "2019-09",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+  "financials": {
+    "fiscalYear": "FY2024 (ending December 31, 2024)",
+    "totalRevenue": 12386902000,
+    "operatingIncome": 596859000,
+    "operatingMarginPct": 4.82,
+    "nonOperatingRevenue": 986206000,
+    "totalAssets": 17176908000,
+    "totalLiabilities": 6865860000,
+    "source": "Charlotte-Mecklenburg Hospital Authority (Atrium Health CMHA) FY2024 Audited Financial Statements"
+  },
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "CMHA-specific investment breakdown not separately disclosed; consolidated Advocate Health (CMHA + AAH + WFB) held $22.18B in long-term investments as of Dec 31, 2024",
+    "realEstateValue": 1724085300,
+    "realEstateSource": "Mecklenburg County property tax assessment (2022); Atrium is exempt as a unit of local government",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "CMHA net position was $10.43B as of Dec 31, 2024. The Charlotte-Mecklenburg Hospital Authority is legally a unit of local government with automatic property tax exemption. Consolidated Advocate Health unrestricted cash and investments totaled approximately $24.5B (cash $2.28B + short-term $48.9M + long-term $22.18B) as of Dec 31, 2024."
+  },
+  "bondDebt": {
+    "totalOutstanding": 3112776000,
+    "fiscalYear": "FY2024",
+    "largestIssue": "Charlotte-Mecklenburg Hospital Authority Revenue Bonds (multiple series)",
+    "largestIssueProceeds": "Includes Series 2021D Variable Rate Revenue Bonds and Series 2021E Variable Rate Refunding Revenue Bonds among other series",
+    "issuerAuthority": "Charlotte-Mecklenburg Hospital Authority",
+    "source": "Atrium Health CMHA FY2024 Audited Financial Statements ($1.024B current + $2.089B non-current long-term debt)"
+  },
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": null,
+    "foundationEntity": "Atrium Health Foundation (EIN 56-6060481)",
+    "otherRelatedEntities": [
+      "Advocate Health Inc (EIN 88-4157429) — parent company formed Dec 2, 2022 merger",
+      "Advocate Aurora Health Inc — sibling entity (Illinois/Wisconsin operations)",
+      "Atrium Health Wake Forest Baptist — sibling entity (Winston-Salem NC operations)",
+      "Wake Forest University School of Medicine — academic affiliate"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Advocate Health merger filings, CMHA audited financial statements, ProPublica Nonprofit Explorer"
+  },
+  "executiveComp": {
+    "fiscalYear": "FY2024",
+    "ceoName": "Eugene A. Woods",
+    "ceoBaseComp": 4600000,
+    "ceoBonusIncentive": 14400000,
+    "ceoDeferredComp": 2900000,
+    "ceoOtherComp": 3800000,
+    "ceoTotalComp": 25800000,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": 21,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Advocate Health Inc FY2024 Form 990 Schedule J (EIN 88-4157429); Woods reported as Advocate Health CEO, not on CMHA filing. All 21 Atrium-level executives earned at least $1.49M. Former co-CEO James Skogsbergh received $28.9M in FY2024. Woods' comp rose 49% from $17.25M in FY2023."
+  },
+  "communityBenefit": {
+    "claimedAmount": 2380000000,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": 2.4,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Atrium Health claimed $2.38B community benefit across NC in 2025 (Atrium Health newsroom, July 2026). NC nonprofit hospital charity care state average of 2.4% of operating budgets per Lown Institute 2024 state report. 85% of NC nonprofit hospitals had fair share deficits per Lown analysis. Atrium-specific charity care as pct of revenue not separately verified."
+  },
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "CMHA is a unit of local government (Charlotte-Mecklenburg Hospital Authority) with automatic exemptions from property tax, income tax, sales tax, and motor fuel tax, plus power of eminent domain. Mecklenburg County assessed Atrium property at $1.72B; Atrium and Novant combined avoided $23M in property taxes in that county alone (2022). Atrium reported $252M in 340B savings in 2020 ($693M cumulative 2018-2020). Bond debt of $3.1B generates significant tax-exempt interest subsidy."
+  },
+  "layoffs": [],
+  "facilityClosures": [],
+  "creditRating": {
+    "fitch": "AA",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2025-10-22",
+    "sp": "AA",
+    "spOutlook": "Stable",
+    "spDate": "2025-09-16",
+    "moodys": "Aa2",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2025",
+    "keyRiskFactors": [
+      "Carries strongest credit rating among top five largest US health systems",
+      "Merger integration achieving nearly $1.1B in annual synergies",
+      "Strong balance-sheet metrics and leading market positions across multiple states",
+      "Exposure to North Carolina State Health Plan reimbursement disputes"
+    ]
+  },
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+  "acquisitions": [
+    {
+      "year": 2022,
+      "target": "Advocate Aurora Health (merger to form Advocate Health)",
+      "description": "Merger completed December 2, 2022 creating Advocate Health with $27B combined revenue, 67 hospitals across 6 states (IL, WI, NC, SC, GA, AL), and approximately 150,000 employees",
+      "source": "Healthcare Finance News, Atrium Health newsroom"
+    }
+  ],
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — specific Advocate Health / Atrium Health 2024 lobbying totals not verified"
+  },
+  "legalIssues": [
+    {
+      "date": "2024-09",
+      "type": "Medical Debt Practices",
+      "description": "Atrium Health led North Carolina hospitals in medical debt lawsuits. In September 2024, Atrium cancelled thousands of past medical debt judgments following public scrutiny.",
+      "source": "North Carolina Health News, Fierce Healthcare"
+    }
+  ],
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "CMHA-specific investment portfolio not separately disclosed in audited financials; consolidated Advocate Health holds $22.18B in long-term investments against CMHA operating income of $597M, but cross-entity ratio is not meaningful.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "CMHA bond debt $3.1B vs. Atrium NC community benefit claim $2.38B (different fiscal years and reporting scopes); ratio not computed due to entity mismatch.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "NC nonprofit hospital charity care average is 2.4% of operating budgets (Lown Institute 2024). Atrium-specific charity care percentage not separately verified; system claims $2.38B total community benefit but this includes Medicaid shortfall, education, and other non-charity-care categories."
+  },
+  "accusation": "Atrium Health controls $17.2 billion in total assets and a $10.4 billion net position — shielded by $3.1 billion in tax-exempt debt and property tax exemptions on $1.7 billion in Mecklenburg County real estate alone — while its parent company paid CEO Gene Woods $25.8 million in 2024, a 49% raise, as it sponsors the Carolina Panthers with naming rights and practice jersey patches.",
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with $17.2B total assets and $10.4B net position. Show CEO Gene Woods $25.8M total comp (49% year-over-year raise). Visualize $3.1B tax-exempt bond debt. Note $1.7B property tax-exempt real estate in Mecklenburg County. Show $12.4B revenue, $597M operating income, 4.82% operating margin. Include Fitch AA / S&P AA / Moody's Aa2 credit ratings (all Stable). Panthers partnership since 2019 with training facility naming rights and practice jersey patches."
+}

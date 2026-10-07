@@ -1,0 +1,183 @@
+{
+  "team": "Buffalo Bills",
+  "conference": "AFC",
+  "division": "East",
+  "city": "Buffalo",
+  "state": "New York",
+  "healthSystem": "Highmark",
+  "ein": "25-1239458",
+  "nonprofitType": "501c3",
+  "dealType": ["Stadium Naming Rights"],
+  "dealAnnounced": "March 2021 (original 10-year deal); June 2023 (extended to new stadium)",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "2025",
+    "totalRevenue": 32400000000,
+    "operatingIncome": -674000000,
+    "operatingMarginPct": -2.08,
+    "nonOperatingRevenue": 499000000,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "Highmark Health 2025 Year-End Financial Report (March 2026 press release)"
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": 11800000000,
+    "investmentPortfolioSource": "Highmark Health 2025 annual report — cash and investments as of December 31, 2025",
+    "realEstateValue": null,
+    "realEstateSource": "Not separately disclosed",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "FY2024 cash and investments were $11.7B; FY2023 were $11.0B. Net assets as of December 31, 2025 were $9.8B."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": "Allegheny County Hospital Development Authority Revenue Bonds, Allegheny Health Network Obligated Group Issue, Series 2018A",
+    "largestIssueProceeds": "$943,365,000",
+    "issuerAuthority": "Allegheny County Hospital Development Authority",
+    "source": "EMMA/MSRB official statement; original issuance amount; current outstanding balance not verified"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": 24800000000,
+    "physicianGroupEntity": "AHN employed physician organization (2,500+ affiliated physicians)",
+    "foundationEntity": "Highmark Foundation",
+    "otherRelatedEntities": [
+      "Allegheny Health Network (13 hospitals, $5.7B FY2025 revenue)",
+      "Highmark Inc. (Blue Cross Blue Shield insurance)",
+      "United Concordia Companies (dental insurance)",
+      "HM Insurance Group (stop-loss carrier)",
+      "enGen (health tech subsidiary, formerly HM Health Solutions)",
+      "Davis Vision"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; Highmark Health 2024 and 2025 annual reports"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "2023",
+    "ceoName": "David Holmberg",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": 10983339,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 (EIN 45-3674900) FY2023 filing; Pittsburgh Post-Gazette November 2024 reporting. FY2022 breakdown was base $1,570,000 + bonus/incentive $7,020,000 per prior 990; FY2023 component breakdown not independently verified."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": 225000000,
+    "claimedPctOfRevenue": 0.83,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Highmark Health 2023 Annual Report — $225M total community support including charity care, uncompensated care, and ~$50M in enterprise-wide corporate and foundation giving. FY2024 reported $53M community investment + ~$200M uncompensated care at AHN. Schedule H breakdowns not independently verified."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Highmark Health is tax-exempt since March 2012. Highmark Inc. is subject to Pennsylvania Insurance Department Community Health Reinvestment requirements. Precise tax advantage figures require Schedule H, local assessor data, and 340B program analysis not completed here."
+  },
+
+  "layoffs": [
+    {
+      "date": "2023",
+      "count": 300,
+      "description": "Approximately 300 positions cut across four rounds of layoffs in 2023, including 118 in June",
+      "source": "Becker's Payer Issues; WPXI"
+    },
+    {
+      "date": "2024-03",
+      "count": 182,
+      "description": "182 employees laid off across Pennsylvania, Delaware, West Virginia, and New York markets",
+      "source": "Pittsburgh Post-Gazette; Becker's Payer Issues"
+    },
+    {
+      "date": "2024-05",
+      "count": 47,
+      "description": "47 positions eliminated while expanding payroll by 1,343 in other areas",
+      "source": "Pittsburgh Post-Gazette"
+    },
+    {
+      "date": "2024-05",
+      "count": 98,
+      "description": "Third round of 2024 layoffs; majority of affected positions at IT subsidiary enGen",
+      "source": "Becker's Payer Issues; WPXI"
+    },
+    {
+      "date": "2025-01",
+      "count": 207,
+      "description": "207 employees laid off at IT subsidiary enGen, including 86 in Western Pennsylvania and 41 in central region",
+      "source": "Pittsburgh Post-Gazette"
+    }
+  ],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": "A",
+    "spOutlook": "Negative",
+    "spDate": "2026-03",
+    "moodys": "Baa1",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2025-05",
+    "keyRiskFactors": [
+      "Elevated medical and pharmacy utilization driving insurance operating losses",
+      "Three consecutive years of declining operating performance (FY2023 gain $338M, FY2024 loss $209M, FY2025 loss $674M)",
+      "Insurance arm reported $609M operating loss in FY2025",
+      "Industry-wide cost pressures expected to continue through 2026",
+      "S&P outlook revised to negative from stable in March 2026"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — specific 2024 amounts not independently verified"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Not computed; FY2025 operating income is negative ($-674M), making ratio not meaningful. For reference, FY2023 operating gain was $338M, which would yield a ratio of 32.5x ($11.0B / $338M).",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Not computed; current bond debt outstanding not verified.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Not computed; Pennsylvania state average charity care percentage not verified."
+  },
+
+  "accusation": "Highmark Health holds $11.8 billion in cash and investments while posting a $674 million operating loss in 2025, cutting over 800 jobs across multiple rounds of layoffs since 2023, and spending millions annually on NFL stadium naming rights for the Buffalo Bills' new Orchard Park stadium.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Top: small orange-bordered badge 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'HIGHMARK HEALTH'. Subhead cream Source Sans Pro 600: 'Buffalo Bills — Stadium Naming Rights'. Three data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Cash & Investments: $11.8B (FY2025)'. Block 2 — 'CEO Pay: $10.98M (FY2023)'. Block 3 — 'Operating Loss: -$674M (FY2025)'. Large orange callout number '$11.8B' above headline with Cream 'in cash & investments' below in italic. Bottom: '834+ jobs cut since 2023. Pays for stadium naming rights while posting record operating losses.' Bottom right: 'THE ROJAS REPORT' in orange Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Highmark Health FY2025 financials · Form 990 FY2023 · Pittsburgh Post-Gazette · Becker's Payer Issues.'"
+}

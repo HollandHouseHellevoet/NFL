@@ -1,0 +1,170 @@
+{
+  "team": "Kansas City Chiefs",
+  "conference": "AFC",
+  "division": "West",
+  "city": "Kansas City",
+  "state": "Missouri",
+  "healthSystem": "Childrens Mercy",
+  "ein": "44-0546167",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "FY2024 (ending June 30, 2024)",
+    "totalRevenue": 2080000000,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": 3349000000,
+    "totalLiabilities": null,
+    "source": "Form 990 FY2024 (EIN 44-0605373) via ProPublica Nonprofit Explorer; total revenue $2.08B, total expenses $1.81B; operating budget reported as $1.7B by Children's Mercy; total assets $3.349B with net assets of approximately $2.7B"
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": 2600000000,
+    "investmentPortfolioSource": "Unrestricted cash and investments including hospital foundation holdings of $2.6B as of March 31, 2024, per Moody's and S&P credit reports cited in Beacon News and Healthcare Finance News",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": 322069047,
+    "notes": "Children's Mercy Hospital Foundation held $308M in total assets (FY2024). The Endowment Fund (EIN 44-6006542) contained 362 individual funds totaling $322M as of FY2025. Hospital plans to pay $1B+ of a $1.7B campus expansion in cash, indicating substantial liquid reserves beyond operational needs."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": "Series 2026 Revenue Bonds (pending)",
+    "largestIssueProceeds": "Estimated $250M–$350M; hospital seeking up to $500M in total new tax-exempt debt for $1.7B campus expansion, which would nearly triple existing debt load",
+    "issuerAuthority": "Missouri Health and Educational Facilities Authority",
+    "source": "Beacon News June 2026; Bond Buyer; Moody's and S&P reports on 2026 bond offering"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": "Childrens Mercy Hospital Self Insurance Trust (EIN 43-6321807)",
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Children's Mercy - Pediatric Associates, Inc.; Children's Mercy - Preferred Pediatrics, Inc.",
+    "foundationEntity": "Children's Mercy Hospital Foundation (EIN 43-1564302)",
+    "otherRelatedEntities": [
+      "Childrens Mercy Family Health Partners Inc (EIN 43-1726517)",
+      "Childrens Mercy Hospital Endowment Fund (EIN 44-6006542)",
+      "PedsMarket LLC (wholly owned subsidiary for pediatric innovation commercialization)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; ProPublica Nonprofit Explorer; Children's Mercy Center for Pediatric Innovation website"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "FY2024 (ending June 30, 2024)",
+    "ceoName": "Paul D. Kempinski",
+    "ceoBaseComp": 1675833,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 41752,
+    "ceoTotalComp": 1717585,
+    "topOfficersTotalComp": 12158050,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer and GiveFreely; Kempinski retired effective January 2025; Dr. Alejandro Quiroga (formerly of Corewell Health) succeeded him as President and CEO effective January 2, 2025"
+  },
+
+  "communityBenefit": {
+    "claimedAmount": 352773663,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": 215056063,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Children's Mercy FY2025 Community Benefit Report (childrensmercy.org); $352.8M total community benefit including $215.1M in uncompensated care; provides 100% charity care for Missouri and Kansas residents at or below 300% FPL"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Children's Mercy is tax-exempt since February 1956. Seeking up to $500M in new tax-exempt bonds in 2026 for campus expansion. Specific foregone tax amounts not verified."
+  },
+
+  "layoffs": [
+    {
+      "date": "2026-06",
+      "count": null,
+      "notes": "Offered early retirement to an undisclosed number of employees among its approximately 9,000-person workforce; hospital leaders stated the voluntary retirement offer was unrelated to its $1.7 billion building expansion plans; number of eligible employees and projected payroll savings not disclosed",
+      "source": "Beacon News June 12, 2026; Springfield Business Journal"
+    }
+  ],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": "AA",
+    "spOutlook": "Stable",
+    "spDate": "2026-05",
+    "moodys": "Aa2",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2026",
+    "keyRiskFactors": [
+      "$1.7 billion campus expansion could nearly triple existing debt load — Moody's warned significant complications could lead to downgrade",
+      "Stand-alone pediatric hospital with regional concentration in Kansas City metro",
+      "Up to $500M in new tax-exempt bond issuances planned for 2026",
+      "Workforce restructuring via early retirement offers concurrent with massive capital plan"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": "2025",
+      "entity": "Mercy Springfield Pediatric Specialty Care",
+      "type": "Partnership",
+      "hospitals": 0,
+      "notes": "Children's Mercy officially took over leadership of pediatric specialty care in southwest Missouri through a partnership with Mercy Health Springfield; not a full acquisition but an operational takeover of pediatric services"
+    },
+    {
+      "year": "2025",
+      "entity": "Children's Mercy Hospital Kansas Expansion",
+      "type": "Capital expansion",
+      "hospitals": 0,
+      "notes": "$152 million expansion plan for Children's Mercy Hospital Kansas campus in Overland Park"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets; not verified for 2024"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Operating income not separately verified from Form 990; total excess of revenue over expenses was approximately $270M (FY2024), which would yield a ratio of approximately 9.6x ($2.6B investments / $270M excess)",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Total outstanding bond debt not verified; new issuances of up to $500M planned for 2026 campus expansion",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Missouri state average not verified; Children's Mercy provides 100% charity care for residents at or below 300% FPL and claimed $215M in uncompensated care (FY2025)"
+  },
+
+  "accusation": "Holds $2.6 billion in cash and investments atop $3.3 billion in total assets with an AA credit rating, yet offered early retirement to an undisclosed number of its 9,000 employees while seeking $500 million in new tax-exempt bonds to finance a $1.7 billion campus expansion that Moody's warned could triple its debt load.",
+
+  "infographicPrompt": "Rojas Report brand infographic for Children's Mercy Kansas City. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'CHILDREN'S MERCY'. Subhead cream Source Sans Pro 600: 'Kansas City Chiefs — Official Healthcare Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $2.08B (FY2024)'. Block 2 — 'CEO Pay: $1.72M (Kempinski)'. Block 3 — 'Total Assets: $3.35B'. Block 4 — 'Cash & Investments: $2.6B'. Single large orange callout number '$2.6B' above headline with Cream 'in cash and investments' below in italic. Bottom line in Cream Source Sans Pro 600: 'Seeking $500M in new tax-exempt bonds for a $1.7B campus expansion. Offered early retirement to undisclosed number of 9,000 employees. AA credit rating from S&P.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 FY2024 · ProPublica Nonprofit Explorer · Moody's/S&P Credit Reports · Children's Mercy FY2025 Community Benefit Report.'"
+}

@@ -1,0 +1,186 @@
+{
+  "team": "Cincinnati Bengals",
+  "conference": "AFC",
+  "division": "North",
+  "city": "Cincinnati",
+  "state": "Ohio",
+  "healthSystem": "UC Health",
+  "ein": "31-1674014",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "2024",
+    "totalRevenue": 2600000000,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": 1801768938,
+    "totalLiabilities": 1166768938,
+    "source": "Form 990 FY2024 (UC Healthcare System, EIN 27-3850988); total revenue and assets rounded from 990 filing; total liabilities derived from reported total assets minus reported net assets of $635M"
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Not separately disclosed on 990; university-level investments of $533M plus $799M endowment are University of Cincinnati figures, not attributable to UC Health operating entity",
+    "realEstateValue": null,
+    "realEstateSource": "Not separately verified",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "UC Healthcare System reported total assets of $1,801,768,938 and net assets of $635,000,000 on FY2024 Form 990. UC Health Foundation (EIN 26-1594868) holds additional philanthropic assets separately."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": 580000000,
+    "fiscalYear": "2024",
+    "largestIssue": "UC Health Taxable Bonds Series 2025B",
+    "largestIssueProceeds": "$125,000,000",
+    "issuerAuthority": "UC Health (direct obligor)",
+    "source": "Moody's downgrade action cited $580M in outstanding bonds; EMMA filing confirms Series 2025B ($125M taxable), Series 2014 Revenue Bonds ($44.265M outstanding), and $79.08M issuance"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "University of Cincinnati Physicians Company LLC (EIN 31-1405915)",
+    "foundationEntity": "UC Health Foundation (EIN 26-1594868)",
+    "otherRelatedEntities": [
+      "UC Health LLC (EIN 31-1435820, Ohio nonprofit LLC formed 2009)",
+      "University of Cincinnati Medical Center",
+      "West Chester Hospital",
+      "Daniel Drake Center for Post-Acute Care (closing September 2025)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; Wikipedia; UC Health corporate disclosures"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "2024",
+    "ceoName": "Cory Shaw",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": 1372551,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2024 (UC Healthcare System, EIN 27-3850988); FY2024 filing did not itemize Part VII; breakdown unavailable. Former CEO Richard Lofgren reported $2,534,760 in FY2022 before departing for OU Health. Top physician Rani Nasser MD reported $1,600,000 in FY2024."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": 32457545,
+    "claimedPctOfRevenue": 1.25,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Form 990 FY2024 grants/community benefit line; UC Health provides 100% free care at or below 150% FPL and discounted care up to 400% FPL per financial assistance policy"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "UC Health has been tax-exempt since June 1996. Holds approximately $580M in outstanding bond debt including tax-exempt issues. Participates in 340B program as a DSH-qualifying entity. Precise annual tax advantage requires Schedule H, local property tax, and state exemption data not verified here."
+  },
+
+  "layoffs": [
+    {
+      "date": "2025-09",
+      "count": 50,
+      "notes": "UC Health eliminated 50 positions and sunset the mobile stroke unit, citing sustained industry challenges. Affected employees offered severance and internal transfer opportunities.",
+      "source": "Becker's Hospital Review; FOX19; Local12"
+    },
+    {
+      "date": "2025-05",
+      "count": 500,
+      "notes": "Over 500 healthcare support workers at West Chester Hospital and UC Medical Center lost jobs after UC Health did not renew contracts with food service company Morrison Healthcare and support company Crothall Healthcare. These were contract workers, not direct UC Health employees.",
+      "source": "Spectrum News 1 Ohio"
+    },
+    {
+      "date": "2025-05",
+      "count": 474,
+      "notes": "UC Health announced closure of the Daniel Drake Center for Post-Acute Care by September 30, 2025, with approximately 474 employees anticipated to be laid off. Impacted employees offered opportunity to pursue open positions within UC Health.",
+      "source": "WCPO; UC Health press release; Local12"
+    }
+  ],
+
+  "facilityClosures": [
+    {
+      "date": "2025-09-30",
+      "facility": "Daniel Drake Center for Post-Acute Care",
+      "type": "Post-acute care and skilled nursing facility",
+      "notes": "After 165 years of operation, UC Health announced closure citing sustained financial challenges related to facility age and services. Reported $19M in losses at the facility. UC Health also phasing out of skilled nursing and post-acute inpatient care entirely.",
+      "source": "WCPO; UC Health press release; Becker's Hospital Review"
+    },
+    {
+      "date": "2025-09",
+      "facility": "Mobile Stroke Unit",
+      "type": "Mobile emergency service",
+      "notes": "Mobile stroke unit eliminated as part of cost-cutting measures. Staff reassigned to other positions within UC Health.",
+      "source": "FOX19; Becker's Hospital Review"
+    }
+  ],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": "Baa3",
+    "moodysOutlook": "Positive",
+    "moodysDate": "2025",
+    "keyRiskFactors": [
+      "Downgraded from Baa2 to Baa3 on $580M in bonds due to increasing operating losses",
+      "Lowest investment-grade rating, one notch above speculative/junk",
+      "Outlook revised to positive reflecting growing cash flow and liquidity from improvement initiatives",
+      "Historical $256M in cumulative operating losses",
+      "Reliance on Medicaid supplemental payments ($279M sought)",
+      "Small system size relative to regional competitors",
+      "Aging infrastructure including 165-year-old Drake Center (now closing)"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not verified here"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Investment portfolio not separately disclosed on 990; operating income not separately verified from change in net assets",
+    "bondDebtToCommunityBenefit": 17.87,
+    "bondDebtToCommunityBenefitInterpretation": "UC Health carries approximately $17.87 in outstanding tax-advantaged bond debt for every $1 of reported community benefit, indicating bond debt significantly exceeds charitable spending",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Charity care amount not separately broken out from total community benefit; Ohio state average not verified"
+  },
+
+  "accusation": "UC Health holds $1.8 billion in total assets and $580 million in bond debt rated one notch above junk, yet in 2025 alone eliminated over 500 direct positions, shuttered the 165-year-old Daniel Drake Center, cut its mobile stroke unit, and carries nearly $18 in bond debt for every $1 of community benefit — all while maintaining tax-exempt status and providing the sideline medical team at Cincinnati Bengals games.",
+
+  "infographicPrompt": "Rojas Report brand infographic for UC Health. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'UC HEALTH'. Subhead cream Source Sans Pro 600: 'Cincinnati Bengals — Sideline Medical Partner'. Three data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Assets: $1.8B (FY2024)'. Block 2 — 'Bond Debt: $580M (Baa3)'. Block 3 — 'Jobs Cut in 2025: 500+'. Single large orange callout number '$1.8B' above headline with Cream 'in nonprofit assets' below in italic. Bottom line in Cream Source Sans Pro 600: 'Closed a 165-year-old hospital. Cut its mobile stroke unit. Still provides the Bengals sideline medical team.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'UC Healthcare System FY2024 Form 990 · Moody's · EMMA · Becker's Hospital Review.'"
+}

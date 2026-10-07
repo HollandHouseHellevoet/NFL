@@ -1,0 +1,169 @@
+{
+  "team": "Denver Broncos",
+  "conference": "AFC",
+  "division": "West",
+  "city": "Denver",
+  "state": "Colorado",
+  "healthSystem": "CommonSpirit Health",
+  "ein": "86-1223604",
+  "nonprofitType": "faith-based",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "2024",
+    "totalRevenue": null,
+    "operatingIncome": -581000000,
+    "operatingMarginPct": -1.5,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "CommonSpirit Health FY2024 (ending June 30, 2024) quarterly and annual reports; operating loss of $581M and -1.5% operating margin from investor filings. FY2025 operating loss reported at $687M. Patient-related revenue grew 11.4% in FY2024. Consolidated revenue estimated in the $33-38B range but exact figure not verified from primary source."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Search results indicate approximately $1.5 billion in marked-to-market investment gains in calendar 2024, but total portfolio value not verified from primary source.",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified. CommonSpirit operates 137 hospital-based locations and 2,300+ clinics across 24 states.",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Parent entity (EIN 86-1223604) reported net assets of $14,410,705,805 as of June 2024 per ProPublica Nonprofit Explorer. Parent entity revenues of $584,475,882 reflect holding company only; consolidated system revenue is substantially higher. Investment gains of approximately $1.5 billion reported for 2024 strengthened balance sheet."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": "2025",
+    "largestIssue": "Series 2025 fixed-rate taxable bonds",
+    "largestIssueProceeds": "$2,300,000,000 taxable; plus $504,100,000 WA tax-exempt (Series 2025A) and $514,000,000 CO tax-exempt (Series 2025A)",
+    "issuerAuthority": "Washington Health Care Facilities Authority; Colorado Health Facilities Authority",
+    "source": "S&P Global Ratings report September 26, 2025; Bond Buyer reporting. Pre-merger combined debt was approximately $13.7B ($8.5B CHI + $5.2B Dignity Health). Post-merger 2019 refinancing issued $6.5B in tax-exempt and taxable debt. All debt secured under CommonSpirit master trust indenture (MTI) with gross receivable pledge of the obligated group. $5.5B refinancing also referenced."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": null,
+    "foundationEntity": "CommonSpirit Health Research Institute (EIN 27-1050565)",
+    "otherRelatedEntities": [
+      "Catholic Health Initiatives (CHI) - legacy operating entity",
+      "Dignity Health - legacy operating entity (California, Arizona, Nevada)",
+      "Virginia Mason Medical Center - merged into CommonSpirit",
+      "CHI Health (Nebraska, Iowa, North Dakota, Minnesota)",
+      "CHI Memorial (Tennessee, Georgia)",
+      "Penrose-St. Francis Health Services (Colorado Springs)",
+      "St. Anthony Hospital (Lakewood, Colorado)",
+      "Multiple Mercy Hospital locations across several states"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; CommonSpirit formed in 2019 from merger of Catholic Health Initiatives and Dignity Health. Operates 137 hospital-based locations and 2,300+ clinics in 24 states. 157,000+ employees, 45,000 nurses, 25,000 physicians."
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": "Wright Lassiter III",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "CEO name from public reporting. Wright Lassiter III serves as CEO. Compensation details from Form 990 Schedule J not verified in this dossier due to search limitations."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Community benefit and charity care amounts from Form 990 Schedule H not verified in this dossier. CommonSpirit is the largest Catholic and fourth-largest nonprofit health system in the United States."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "CommonSpirit holds massive tax-exempt bond portfolios through multiple state health facility authorities including Colorado and Washington. Total tax advantage across 24-state, 137-hospital system is substantial but not quantified here."
+  },
+
+  "layoffs": [],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": "A",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2025-10-02",
+    "sp": "A-",
+    "spOutlook": "Stable",
+    "spDate": "2025-09-26",
+    "moodys": "A3",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2025-09-30",
+    "keyRiskFactors": [
+      "Persistent operating losses ($581M FY2024, $687M FY2025)",
+      "Massive geographic spread across 24 states creates integration complexity",
+      "Post-merger operational alignment of CHI and Dignity Health legacy systems",
+      "Moody's upgraded from Baa1 to A3 in February 2024 reflecting improved performance",
+      "Heavy reliance on non-operating investment returns to offset operating losses"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": "2019",
+      "entity": "Dignity Health",
+      "type": "Nonprofit merger",
+      "hospitals": 39,
+      "notes": "Catholic Health Initiatives and Dignity Health merged to form CommonSpirit Health, creating a $29 billion system"
+    },
+    {
+      "year": "2021",
+      "entity": "Virginia Mason Medical Center",
+      "type": "Nonprofit affiliation",
+      "hospitals": 1,
+      "notes": "Virginia Mason in Seattle affiliated with CommonSpirit; debt incorporated under master trust indenture"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets - not verified in this dossier"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute: investment portfolio total and operating income not both verified. However, $1.5B in investment gains versus $581M operating loss in FY2024 suggests investment returns substantially exceed (and mask) operating deficits.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute: total bond debt outstanding and community benefit amount not both verified.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Cannot compute: charity care percentage and Colorado state average not verified."
+  },
+
+  "accusation": "CommonSpirit Health holds $14.4 billion in net assets and reaped $1.5 billion in investment gains in a single year, yet posted a $687 million operating loss in fiscal 2025 -- the second consecutive year of losses -- while maintaining tax-exempt status across 137 hospitals in 24 states and serving as the Denver Broncos' official healthcare partner.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. Top badge: 'INTELLIGENCE BRIEFING'. Center headline: 'CommonSpirit Health'. Subhead: 'Denver Broncos -- Official Healthcare Partner'. Three data blocks with 3px orange left border: Block 1 -- 'Net Assets: $14.4B (June 2024)'. Block 2 -- 'Operating Loss: -$687M (FY2025)'. Block 3 -- 'Credit Rating: A/A3/A- (Stable)'. Large orange callout: '$14.4B' with 'net assets' below in italic cream. Bottom line: 'Faith-based nonprofit. 137 hospitals across 24 states. Lost $687M operating but gained $1.5B on investments.' Logo lockup: 'THE ROJAS REPORT' in orange Playfair Display small caps. Source line: 'CommonSpirit Health investor filings, S&P/Moody's/Fitch 2025, ProPublica Nonprofit Explorer.'"
+}

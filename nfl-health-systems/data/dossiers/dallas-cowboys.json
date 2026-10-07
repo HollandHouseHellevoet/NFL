@@ -1,0 +1,172 @@
+{
+  "team": "Dallas Cowboys",
+  "conference": "NFC",
+  "division": "East",
+  "city": "Arlington",
+  "state": "Texas",
+  "healthSystem": "Baylor Scott and White Health",
+  "ein": "75-6068308",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner", "Training Facility"],
+  "dealAnnounced": "2018",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": 200000000,
+  "financials": {
+    "fiscalYear": 2024,
+    "totalRevenue": 15190000000,
+    "operatingIncome": 1200000000,
+    "operatingMarginPct": 7.9,
+    "nonOperatingRevenue": 800000000,
+    "totalAssets": 17500000000,
+    "totalLiabilities": null,
+    "source": "Becker's Hospital Review citing audited financials; total assets from system investment office disclosure (FY2025 figure)"
+  },
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Investment office manages $17.5B total assets including direct real estate, JV hospital partnerships, and venture portfolio via external managers; specific investment securities breakdown not publicly disclosed",
+    "realEstateValue": null,
+    "realEstateSource": "Direct real estate holdings confirmed but value not publicly broken out",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "System reported $17.5B in total assets as of fiscal 2025. Net income of $2B in fiscal 2024 included significant investment returns above the $1.2B operating income."
+  },
+  "bondDebt": {
+    "totalOutstanding": 5500000000,
+    "fiscalYear": 2024,
+    "largestIssue": null,
+    "largestIssueProceeds": "Recent $550M tax-exempt bond issuance pursued for construction in six Texas cities including College Station",
+    "issuerAuthority": "Tarrant County Cultural Education Facilities Finance Corporation and other county conduit issuers",
+    "source": "EMMA / MSRB filings; Becker's Hospital Review; Bond Buyer"
+  },
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Baylor Scott & White Quality Alliance (ACO with 6,000+ physicians)",
+    "foundationEntity": "Baylor Scott & White All Saints Health Foundation; Baylor Scott & White Dallas Foundation; Baylor Scott & White Central Texas Foundation",
+    "otherRelatedEntities": [
+      "Baylor Scott & White Holdings (EIN 46-3130985, parent nonprofit holding company)",
+      "Scott and White Health Plan (health insurance)",
+      "Baylor Scott & White Care Plan (wholly owned subsidiary of SWHP)",
+      "Baylor Scott & White Insurance Company (wholly owned subsidiary of SWHP, offers PPO/EPO products)",
+      "Insurance Company of Scott and White (Medicare Advantage organization)",
+      "BSW Premier Network (integrated health plan via BSWQA and SWHP)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; ProPublica Nonprofit Explorer; CauseIQ; BSW Health Plan public disclosures"
+  },
+  "executiveComp": {
+    "fiscalYear": 2024,
+    "ceoName": "Pete McCanna",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": 5136396,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 (EIN 75-6068308) FY2024 via ProPublica; total executive compensation reported as $5,136,396 (0.3% of expenses); individual CEO breakdown not parsed from 990"
+  },
+  "communityBenefit": {
+    "claimedAmount": 1000000000,
+    "claimedPctOfRevenue": 6.6,
+    "charityCareClaimedAmount": 450000000,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "BSW Health community investment page; includes $450M charity care and unreimbursed Medicaid, $750M unreimbursed Medicare, $27M subsidized health services; claimed ~$1B annually (~$2.7M per day)"
+  },
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Texas has no state income tax. BSW is exempt from federal income tax, property tax, and sales tax. Tax-exempt bond interest subsidy applies to $5.5B+ in outstanding debt. Full estimated annual tax advantage not computed due to missing property and sales tax data."
+  },
+  "layoffs": [
+    {
+      "date": "2024-01",
+      "number": 650,
+      "description": "Corporate services restructuring; part of plan to outsource, lay off, or retrain 1,700 positions expected to save $600M over five years. Over 100 jobs cut in Austin-Round Rock area and 70+ in Dallas area.",
+      "source": "Becker's Hospital Review; KXAN; Healthcare Finance News"
+    },
+    {
+      "date": "2024-05",
+      "number": 80,
+      "description": "Baylor Scott & White Institute for Rehabilitation - Home Health in Flower Mound permanently closed, laying off approximately 80 employees including nurses.",
+      "source": "Dallas Morning News; Becker's Hospital Review; WARN Tracker"
+    },
+    {
+      "date": "2024-11",
+      "number": 102,
+      "description": "Finance and accounting department layoffs to reduce costs.",
+      "source": "Healthcare Finance News"
+    },
+    {
+      "date": "2020-06",
+      "number": 1200,
+      "description": "COVID-19 related layoffs due to drastic drop in visits and suspension of non-urgent procedures.",
+      "source": "WFAA; The Texan"
+    }
+  ],
+  "facilityClosures": [
+    {
+      "date": "2024-05",
+      "facility": "Baylor Scott & White Institute for Rehabilitation - Home Health, Flower Mound, TX",
+      "description": "Permanent closure of home rehabilitation facility operated jointly with Select Medical.",
+      "source": "Dallas Morning News; Becker's Hospital Review"
+    }
+  ],
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": "AA-",
+    "spOutlook": null,
+    "spDate": "2024",
+    "moodys": "Aa2",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2025-02",
+    "keyRiskFactors": [
+      "Upgraded from Aa3 to Aa2 by Moody's in February 2025",
+      "Upgrade driven by consistently strong financial performance and disciplined leadership",
+      "Favorable demographic characteristics in Texas service area",
+      "Largest nonprofit health system in Texas with geographic and business line diversification"
+    ]
+  },
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+  "acquisitions": [],
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets"
+  },
+  "legalIssues": [
+    {
+      "date": "2019-05",
+      "description": "HRSA 340B audit of Baylor Scott & White Medical Center - Irving found issues related to duplicate discounts and incorrect or incomplete information.",
+      "source": "HRSA 340B audit records"
+    }
+  ],
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute: specific investment portfolio value not publicly broken out from $17.5B total assets",
+    "bondDebtToCommunityBenefit": 5.5,
+    "bondDebtToCommunityBenefitInterpretation": "BSW carries $5.5B in tax-exempt bond debt, 5.5x its claimed $1B annual community benefit, meaning for every dollar of community benefit claimed, the system holds $5.50 in subsidized debt",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Texas state average not verified; BSW claims $450M in charity care against ~$15.2B in revenue (~3.0%), but cost-adjusted figures not available to compare against state benchmarks"
+  },
+  "accusation": "Baylor Scott & White Health commands $17.5 billion in total assets and posted $2 billion in net income in fiscal 2024 while laying off more than 800 employees across three rounds of cuts, closing a rehabilitation facility, and co-investing over $200 million in a sports medicine complex at the Dallas Cowboys' Star headquarters in Frisco.",
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Show $17.5B total assets, $5.5B tax-exempt bond debt, $1.2B operating income, $2B net income, $1B claimed community benefit, 832 workers laid off in 2024, $200M+ Cowboys partnership investment, Moody's Aa2 / S&P AA- credit ratings. Bar chart contrasting bond debt ($5.5B) to annual community benefit ($1B) at 5.5:1 ratio."
+}

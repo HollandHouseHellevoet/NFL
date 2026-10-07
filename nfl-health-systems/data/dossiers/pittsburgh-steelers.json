@@ -8,67 +8,131 @@
   "ein": "25-1777902",
   "nonprofitType": "501c3",
   "dealType": ["Training Facility Naming", "Official Healthcare Partner"],
-  "dealAnnounced": "2000 (training facility); renewed/expanded multiple times",
+  "dealAnnounced": "2000 (original partnership); November 17, 2015 (15-year extension and renaming to UPMC Rooney Sports Complex)",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
-  "taxAdvantage": {
-    "totalEstimatedAnnual": null,
-    "federalIncomeTax": null,
-    "stateIncomeTax": null,
-    "propertyTax": null,
-    "salesTax": null,
-    "taxExemptBondSavings": null,
-    "program340B": null,
-    "notes": "City of Pittsburgh has repeatedly challenged UPMC's property tax exemption on downtown real estate holdings. UPMC holds multiple tax-exempt bond issues via Pennsylvania Higher Educational Facilities Authority. Precise dollar totals require Schedule H and local assessor data not verified here."
+  "financials": {
+    "fiscalYear": "CY2025",
+    "totalRevenue": 33560000000,
+    "operatingIncome": 286000000,
+    "operatingMarginPct": 0.85,
+    "nonOperatingRevenue": 349400000,
+    "totalAssets": 24096792000,
+    "totalLiabilities": 12978021000,
+    "source": "UPMC Year End Financial and Operating Report, December 2025 (audited by Ernst & Young)"
   },
 
-  "financials": {
-    "fiscalYear": "2023",
-    "totalRevenue": 27400000000,
-    "operatingIncome": 127000000,
-    "operatingMarginPct": 0.46,
-    "totalAssets": 27800000000,
-    "totalDebt": null,
-    "investmentPortfolio": null,
-    "realEstateValue": null,
-    "bondDebt": null,
-    "source": "UPMC FY2023 financial report, consolidated with UPMC Health Plan insurance revenue"
+  "balanceSheetWealth": {
+    "investmentPortfolio": 9200000000,
+    "investmentPortfolioSource": "UPMC CY2025 Year End Financial Report — total cash and investments rose to $9.2B from $8.9B year-over-year",
+    "realEstateValue": 2100000000,
+    "realEstateSource": "Allegheny County tax-exempt property assessment records (2021); represents Allegheny County holdings only, statewide value is higher",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "UPMC manages ~$10B in investment assets using an endowment-style approach with ~25% in alternatives (PE, VC, real estate, hedge funds, private credit, infrastructure). An additional $2.7B in cash and investments is held through regulated health and captive insurance companies. UPMC's internal investment office manages the portfolio."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": 6135252000,
+    "fiscalYear": "CY2025",
+    "largestIssue": "Series 2023 Tax-Exempt and Taxable Bonds",
+    "largestIssueProceeds": "$1.6 billion — UPMC's largest issuance to date; $800M taxable fixed-rate, $571.3M tax-exempt fixed-rate, $250M direct purchase by JPMorgan Chase",
+    "issuerAuthority": "Pennsylvania Economic Development Financing Authority (PEDFA)",
+    "source": "UPMC CY2025 Year End Financial Report (bonds issued under 2007 Master Trust Indenture); Becker's Hospital Review; Bond Buyer"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": 17600000000,
+    "physicianGroupEntity": null,
+    "foundationEntity": null,
+    "otherRelatedEntities": [
+      "UPMC Health Plan Inc.",
+      "UPMC For You Inc.",
+      "UPMC Health Coverage Inc.",
+      "UPMC Health Network Inc.",
+      "UPMC Health Options Inc.",
+      "Community Care Behavioral Health Organization",
+      "UPMC Enterprises (venture/investment arm)",
+      "UPMC Group (EIN 20-8295721)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; Pennsylvania Insurance Department examination reports; UPMC CY2025 financial report ($17.6B insurance enrollment revenue); all ten insurance companies are 100% wholly-owned direct or indirect subsidiaries of UPMC"
   },
 
   "executiveComp": {
-    "fiscalYear": "2022",
-    "topOfficersTotalComp": null,
-    "numberOfOfficersReported": null,
+    "fiscalYear": "FY2023",
     "ceoName": "Leslie C. Davis",
-    "ceoTotalComp": null,
-    "perks": [],
-    "source": "ProPublica 990 Schedule J — specific Davis compensation not verified here; predecessor Jeffrey Romoff reported $11.7M in final full year as CEO",
-    "notes": "Leslie Davis assumed CEO role in July 2021 after Jeffrey Romoff retirement. Romoff's final-year compensation was widely reported at approximately $11.7M. Davis's comp from 990 not verified in this dossier."
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": 11314762,
+    "topOfficersTotalComp": 435000000,
+    "numberOfOfficersReported": 25,
+    "perks": [
+      "Private jet usage reported by Pittsburgh City Paper"
+    ],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2023 via Paddock Post and ProPublica Nonprofit Explorer; former CEO Jeffrey Romoff received $17,886,701 in deferred compensation payout in FY2023"
+  },
+
+  "communityBenefit": {
+    "claimedAmount": 2000000000,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": 141000000,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "UPMC Annual Community Report FY2024 — nearly $2B total; $141M direct charity care/financial assistance; $605M unreimbursed Medicaid; UPMC cares for 18% of PA patients but claims 28% of hospital charity care statewide. Lown Institute ranked UPMC 5th worst nonprofit health system nationally with $601M fair-share deficit (FY2020 data). UPMC Presbyterian ranked least charitable nonprofit hospital in the nation by Lown."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": 58300000,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Property tax figure ($58.3M) is Allegheny County only (2021 data); UPMC owns $2.1B in tax-exempt property in that county alone. No PILOT agreement with Pittsburgh despite having PILOTs with four other PA municipalities (40-55% of full tax liability). City of Pittsburgh has repeatedly challenged UPMC's property tax exemption. Statewide foregone property tax is significantly higher."
   },
 
   "layoffs": [
     {
       "date": "2024",
-      "count": null,
-      "notes": "UPMC announced workforce reductions in early 2024 across corporate and clinical positions. Exact count not verified here.",
-      "source": "Trade press reports, requires Becker's / local news verification"
+      "count": 1100,
+      "notes": "Restructuring citing post-pandemic challenges; primarily non-clinical and administrative staff",
+      "source": "Pittsburgh Patch; Becker's Hospital Review"
+    },
+    {
+      "date": "2026-06",
+      "count": 500,
+      "notes": "200 workers laid off plus 300 vacant positions eliminated; non-clinical roles; criticized by labor representatives given $261M Q1 2026 profit",
+      "source": "Pittsburgh Post-Gazette; WPSU Radio; Healthcare Finance News"
     }
   ],
 
   "facilityClosures": [],
 
   "creditRating": {
-    "fitch": null,
-    "fitchOutlook": null,
-    "sp": "A+",
-    "spOutlook": null,
-    "moodys": "Aa3",
-    "moodysOutlook": null,
+    "fitch": "A",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2026-03-05",
+    "sp": "A",
+    "spOutlook": "Stable",
+    "spDate": "2026-03-13",
+    "moodys": "A2",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2026-03-11",
     "keyRiskFactors": [
-      "Operating margin compression",
-      "Insurance-provider integration risk via UPMC Health Plan",
-      "Regional concentration in Western Pennsylvania"
+      "Operating margin compression — swung from $211M operating loss in CY2024 to $286M income in CY2025",
+      "Insurance-provider integration risk via UPMC Health Plan ($506M insurance operating loss in CY2024)",
+      "Regional concentration in Western Pennsylvania",
+      "Fitch outlook was negative before March 2026 revision to stable"
     ]
   },
 
@@ -85,7 +149,7 @@
       "entity": "Pinnacle Health (Harrisburg)",
       "type": "Nonprofit",
       "hospitals": 8,
-      "notes": "Merger created UPMC Pinnacle — expanded UPMC footprint into central Pennsylvania"
+      "notes": "Merger created UPMC Pinnacle — expanded into central Pennsylvania"
     },
     {
       "year": null,
@@ -103,27 +167,18 @@
     }
   ],
 
-  "communityBenefit": {
-    "claimedAmount": null,
-    "claimedPct": null,
-    "charityCarePct": null,
-    "stateAveragePct": null,
-    "belowStateAverage": null,
-    "source": "UPMC community benefit reports are publicly posted; specific charity care percentages not verified in this dossier. City of Pittsburgh has repeatedly contested whether UPMC meets charitable purposes threshold for property tax exemption."
-  },
-
   "lobbying": {
     "amount2024": null,
     "politicalContributions2024": null,
-    "source": "OpenSecrets — not verified here"
+    "source": "OpenSecrets; PA state lobbying records show $740,000 in 2022 state-level spending; 2024 federal data not verified"
   },
 
   "legalIssues": [
     {
       "date": "Ongoing (multiple years)",
-      "description": "City of Pittsburgh property tax exemption challenges — city has argued UPMC operates more like a for-profit business than a charitable nonprofit",
+      "description": "City of Pittsburgh property tax exemption challenges — city has argued UPMC operates more like a for-profit business than a charitable nonprofit; UPMC owns $2.1B in tax-exempt property in Allegheny County with no PILOT agreement with Pittsburgh",
       "status": "Multiple rounds of litigation and settlement attempts",
-      "source": "Pittsburgh Post-Gazette coverage, city council records"
+      "source": "Pittsburgh Post-Gazette; PublicSource; Nonprofit Quarterly"
     },
     {
       "date": "2019-ongoing",
@@ -133,7 +188,16 @@
     }
   ],
 
-  "accusation": "Runs a $27.4 billion nonprofit empire, paid its previous CEO $11.7 million, cut staff in 2024, fought Pittsburgh's property tax challenges, and owns the building where the Steelers train.",
+  "ratios": {
+    "investmentsToOperatingIncome": 32.17,
+    "investmentsToOperatingIncomeInterpretation": "UPMC holds 32x its annual operating income in investments, indicating massive accumulated wealth well beyond operational needs",
+    "bondDebtToCommunityBenefit": 3.07,
+    "bondDebtToCommunityBenefitInterpretation": "UPMC carries $3.07 in tax-exempt bond debt for every $1 it claims in community benefit",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "State average not verified; Lown Institute ranked UPMC 5th worst nationally with a $601M fair-share deficit — spending less on charity care and community investment than the value of its tax exemption"
+  },
 
-  "infographicPrompt": "Rojas Report brand infographic for UPMC. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'UPMC'. Subhead cream Source Sans Pro 600: 'Pittsburgh Steelers — Training Facility Owner'. Three data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $27.4B (FY2023)'. Block 2 — 'Previous CEO Pay: $11.7M (Romoff)'. Block 3 — 'Operating Margin: 0.46%'. Single large orange callout number '$27.4B' above headline with Cream 'nonprofit' below in italic. Bottom line in Cream Source Sans Pro 600: 'Fought Pittsburgh's property tax challenges. Named the Steelers' training complex after itself.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'UPMC FY2023 financials · Form 990 filings · Pittsburgh Post-Gazette.'"
+  "accusation": "Sits on $9.2B in investments, carries $6.1B in tax-exempt bond debt, reports a 0.85% operating margin on $33.6B in revenue, paid 25 executives $435M in a single year, and named the Steelers' training facility after itself.",
+
+  "infographicPrompt": "Rojas Report brand infographic for UPMC. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'UPMC'. Subhead cream Source Sans Pro 600: 'Pittsburgh Steelers — Training Facility Naming Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $33.6B (CY2025)'. Block 2 — 'CEO Pay: $11.3M (Davis)'. Block 3 — 'Operating Margin: 0.85%'. Block 4 — 'Investment Portfolio: $9.2B'. Single large orange callout number '$9.2B' above headline with Cream 'in investments' below in italic. Bottom line in Cream Source Sans Pro 600: 'Carries $6.1B in tax-exempt bond debt. Ranked 5th worst nationally for fair-share charity care deficit. Named the Steelers training complex after itself.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'UPMC CY2025 Year End Financial Report · Form 990 FY2023 · Lown Institute · UPMC Bond Disclosures.'"
 }

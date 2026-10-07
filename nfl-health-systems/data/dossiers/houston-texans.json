@@ -1,0 +1,201 @@
+{
+  "team": "Houston Texans",
+  "conference": "AFC",
+  "division": "South",
+  "city": "Houston",
+  "state": "Texas",
+  "healthSystem": "Memorial Hermann",
+  "ein": "76-0222834",
+  "nonprofitType": "501c3",
+  "dealType": ["Team Physicians", "Sports Medicine Partner"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "FY2024 (ending June 2024)",
+    "totalRevenue": 8526519854,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": 408406179,
+    "totalAssets": 13700000000,
+    "totalLiabilities": 4540000000,
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 74-1152597); non-operating revenue is investment income reported on 990"
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Investment income of $408.4M in FY2024 (up 153% from $161.1M in FY2023) implies a multi-billion-dollar portfolio, but exact total not verified from 990 Part X; historical filings showed ~$2.1B in publicly traded securities and ~$431M in other securities",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified; Memorial Hermann operates 17 hospitals and numerous clinics across Greater Houston",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Net assets of $9,120,199,305 as of FY2024. Memorial Hermann Foundation (EIN 74-1653640) held $197M in total assets separately. Total assets of $13.7B less total liabilities of $4.5B yields $9.1B in net assets held by the system."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": 1100000000,
+    "fiscalYear": null,
+    "largestIssue": "Series 2024A/B/C/D Revenue Bonds",
+    "largestIssueProceeds": "$290M+ — $149.8M Series A fixed-rate, $71.1M Series B floating-rate, plus $71M Series C/D variable-rate demand bonds for expansion at Katy, Sugar Land, Pearland hospitals and new construction at Texas Medical Center",
+    "issuerAuthority": "Harris County Cultural Education Facilities Finance Corp",
+    "source": "Bond Buyer; Moody's affirmed A1 on $1.1B of debt; S&P affirmed A+ on approximately $1.3B; Bracewell served as counsel for ~$270M issuance in 2020; Fort Bend County TEFRA approvals for 2024 and 2026 issuances"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": 193500000,
+    "physicianGroupEntity": "MHS Physicians of Texas (EIN 76-0385980)",
+    "foundationEntity": "Memorial Hermann Foundation (EIN 74-1653640)",
+    "otherRelatedEntities": [
+      "Memorial Hermann Healthcare System (EIN 76-0025117)",
+      "Memorial Hermann Community Benefit Corporation (EIN 68-0511504)",
+      "Memorial Hermann Medical Group (EIN 20-4923281)",
+      "Memorial Hermann Hospital Based Physician Group (EIN 84-4504483)",
+      "Memorial Hermann Pharmacy Services LLC (EIN 80-0778181)",
+      "Memorial Hermann Commercial Health Plan (HMO — winding down by end of 2027)",
+      "Memorial Hermann Insurance Company (PPO — winding down by end of 2027)",
+      "Memorial Hermann Health Solutions (third-party administrator for self-funded plans)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; ProPublica Nonprofit Explorer; GuideStar; Memorial Hermann Health Plan premium revenue of $193.5M in FY2025 per Healthcare Dive; health plan commercial coverage winding down by end of 2027"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "FY2024",
+    "ceoName": "David L. Callender, MD",
+    "ceoBaseComp": 3133129,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 421070,
+    "ceoTotalComp": 3554199,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 74-1152597); Callender also reported $5,391,502 compensation plus $528,732 other compensation through Memorial Hermann Pharmacy Services LLC (EIN 80-0778181), indicating total cross-entity compensation may exceed $5.9M; Callender retiring end of 2026, CFO Alec King named successor effective January 1, 2027; former CEO Charles D. Stokes received $3,692,550"
+  },
+
+  "communityBenefit": {
+    "claimedAmount": 472000000,
+    "claimedPctOfRevenue": 5.5,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": 5.0,
+    "belowStateAverage": false,
+    "costToChargeRatio": null,
+    "source": "Memorial Hermann FY2024 Community Report ($472M); FY2025 report claims $530M+; 66% of community benefit is unreimbursed care costs; Texas Health & Safety Code Section 311.045 requires nonprofit hospitals to provide community benefit of at least 5% of net patient revenue with at least 4% in charity care; Lown Institute found 42% of Texas private nonprofit hospitals had fair-share deficits (2020-2022)"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Memorial Hermann operates 17 hospitals and numerous clinics across Harris, Fort Bend, Montgomery and surrounding counties, all property-tax-exempt. Texas has no state income tax. Federal income tax foregone on $860M net income (FY2024) would be substantial. Tax-exempt bond interest subsidy applies to $1.1B+ in outstanding debt."
+  },
+
+  "layoffs": [
+    {
+      "date": "2017-01",
+      "count": 112,
+      "notes": "Restructuring; first round of 2017 layoffs",
+      "source": "Healthcare Finance News; Becker's Hospital Review"
+    },
+    {
+      "date": "2017-06",
+      "count": 350,
+      "notes": "Second round; less than 2% of 25,000+ employees; cited uncertain healthcare environment, escalating costs, declining reimbursements, softened local economy; did not impact direct patient care",
+      "source": "Fox 26 Houston; Healthcare Dive; Healthcare Finance News"
+    },
+    {
+      "date": "2024-2025",
+      "count": null,
+      "notes": "Voluntary Severance Program for nonclinical employees as part of 'strategic acceleration plan' extending over 2.5 years; cited expiration of enhanced ACA subsidies, potential Medicaid funding cuts, reimbursement challenges, rising costs; no predetermined target for position reductions",
+      "source": "Becker's Hospital Review"
+    },
+    {
+      "date": "2025-09",
+      "count": 83,
+      "notes": "WARN Act notice filed for Memorial Hermann Skilled Nursing Facility; University Place Nursing Center closure",
+      "source": "WARN Tracker; Texas WARN Act filings"
+    },
+    {
+      "date": "2025-10",
+      "count": 26,
+      "notes": "WARN Act notice filed for Memorial Hermann Senior Living Facility; University Place Senior Living Community closure (remaining open through June 2026)",
+      "source": "WARN Tracker; Texas WARN Act filings"
+    }
+  ],
+
+  "facilityClosures": [
+    {
+      "date": "2025-09",
+      "facility": "University Place Nursing Center",
+      "location": "Houston, TX",
+      "notes": "Skilled nursing facility closed September 2025; 83 workers affected",
+      "source": "WARN Tracker; Memorial Hermann website"
+    },
+    {
+      "date": "2026-06",
+      "facility": "University Place Senior Living Community",
+      "location": "Houston, TX",
+      "notes": "Senior living facility scheduled to remain open through June 2026 before closure",
+      "source": "WARN Tracker; Memorial Hermann website"
+    }
+  ],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": "A+",
+    "spOutlook": "Stable",
+    "spDate": null,
+    "moodys": "A1",
+    "moodysOutlook": "Stable",
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Unfavorable payer mix cited by Moody's",
+      "High balance sheet metrics cited by Moody's",
+      "Commercial health plan winding down by end of 2027 — loss of integrated payer-provider advantage",
+      "Strategic acceleration plan citing intensifying operating pressures including ACA subsidy expiration and Medicaid funding uncertainty",
+      "CEO transition in 2027 — CFO Alec King succeeding retiring David Callender",
+      "Baylor Scott & White merger attempt failed in 2019 — scale question remains"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Operating income not separately verifiable from 990 total excess revenue; investment income of $408M in FY2024 implies a portfolio likely exceeding $2.5B but exact figure not confirmed from Part X",
+    "bondDebtToCommunityBenefit": 2.33,
+    "bondDebtToCommunityBenefitInterpretation": "Memorial Hermann carries $2.33 in tax-exempt bond debt for every $1 it claims in community benefit ($1.1B debt vs $472M claimed community benefit)",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Memorial Hermann claims 5.5% of revenue in community benefit, just above the Texas statutory minimum of 5%; 66% of that total is unreimbursed care costs rather than direct charity care; Lown Institute found 42% of Texas private nonprofit hospitals had fair-share deficits"
+  },
+
+  "accusation": "Holds $9.1 billion in net assets and $13.7 billion in total assets, generated $408 million in investment income in a single year, yet claims only 5.5% of revenue in community benefit — barely exceeding Texas's 5% statutory floor — while closing its nursing and senior living facilities, winding down its commercial health plan, and offering buyouts to nonclinical workers under a 'strategic acceleration plan' citing financial pressures.",
+
+  "infographicPrompt": "Rojas Report brand infographic for Memorial Hermann. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'Memorial Hermann'. Subhead cream Source Sans Pro 600: 'Houston Texans — Team Physicians & Sports Medicine Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $8.5B (FY2024)'. Block 2 — 'CEO Pay: $3.5M+ (Callender; up to $5.9M cross-entity)'. Block 3 — 'Net Assets: $9.1B'. Block 4 — 'Investment Income: $408M'. Single large orange callout number '$9.1B' above headline with Cream 'in net assets' below in italic. Bottom line in Cream Source Sans Pro 600: 'Claims 5.5% of revenue in community benefit — barely above Texas 5% minimum. Closing nursing and senior living facilities. Winding down commercial health plan.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 FY2024 via ProPublica · Memorial Hermann Community Reports · Moody's/S&P · WARN Act Filings · Healthcare Dive.'"
+}
