@@ -1,0 +1,221 @@
+{
+  "team": "Los Angeles Chargers",
+  "conference": "AFC",
+  "division": "West",
+  "city": "Los Angeles",
+  "state": "California",
+  "healthSystem": "Kaiser Permanente",
+  "ein": "94-1156164",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+  "financials": {
+    "fiscalYear": "FY2024 (ending December 31, 2024)",
+    "totalRevenue": 115800000000,
+    "operatingIncome": 569000000,
+    "operatingMarginPct": 0.49,
+    "nonOperatingRevenue": 5500000000,
+    "totalAssets": 32930337973,
+    "totalLiabilities": 22078604890,
+    "source": "Kaiser Permanente 2024 consolidated financial results (revenue, operating income, non-operating income) via Fierce Healthcare and Healthcare Finance News. Total assets and liabilities from Kaiser Foundation Hospitals Form 990 (EIN 94-1105628, FY2024): $22.08B liabilities + $10.85B net assets = $32.93B total assets. Note: consolidated revenue of $115.8B includes Kaiser Foundation Health Plan, Kaiser Foundation Hospitals, and Risant Health acquisitions (Geisinger Health, Cone Health). Operating expenses were $115.2B. Total assets figure is KFH only; system-wide assets are substantially larger."
+  },
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Kaiser Permanente system and subsidiaries held approximately $100 billion in investments at end of 2022. No precise 2024 year-end total verified. Kaiser Foundation Health Plan manages approximately $5B in investment assets as of mid-2024. Approximately 57% of investments were in illiquid alternatives (private equity, real estate) at end of 2022, with 25% in alternatives overall. Kaiser reportedly marketing $35B in private equity fund holdings for sale. Between December 2023 and June 2025, hedge fund allocations increased $1.1B and private equity rose $1.9B.",
+    "realEstateValue": null,
+    "realEstateSource": "Not separately disclosed in available consolidated data",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Kaiser's balance sheet wealth is dominated by its investment portfolio, estimated at approximately $100B (2022) across the system. Investment returns generated $5.5B in non-operating income in 2024 and $3.8B in 2023 — making the system more dependent on financial market returns than on healthcare operations for its bottom line. The $569M operating income in 2024 was less than one-tenth of the $5.5B investment return. Kaiser Permanente Ventures operates a venture capital arm investing in health technology companies."
+  },
+  "bondDebt": {
+    "totalOutstanding": 12700000000,
+    "fiscalYear": "FY2024",
+    "largestIssue": "Kaiser Permanente $4.2B bond sale (2017 Bond Buyer Deal of the Year)",
+    "largestIssueProceeds": "$4.2B total: approximately $2.1B tax-exempt issued through CHFFA and $2.1B taxable direct issuance, mix of fixed and variable rate bonds to finance capital improvements and refinance outstanding debt",
+    "issuerAuthority": "California Health Facilities Financing Authority (CHFFA)",
+    "source": "Becker's Hospital Review (long-term debt rankings: $12.7B FY2024, $13.5B FY2025), The Bond Buyer (2017 Deal of the Year), Fitch Ratings (upgrade affecting approximately $10B outstanding debt), California State Treasurer CHFFA records."
+  },
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "The Permanente Medical Group, Inc. (TPMG, for-profit partnership, Northern California, 11,225+ medical professionals); Southern California Permanente Medical Group (for-profit); plus regional Permanente Medical Groups in Colorado, Georgia, Hawaii, Mid-Atlantic, Northwest, and Washington",
+    "foundationEntity": "Kaiser Foundation Health Plan, Inc. (EIN 94-1340523, nonprofit)",
+    "otherRelatedEntities": [
+      "Kaiser Foundation Hospitals (EIN 94-1105628, nonprofit 501c3 — owns and operates 39 hospitals)",
+      "Kaiser Foundation Health Plan, Inc. (EIN 94-1340523, nonprofit — prepaid health plans and insurance)",
+      "The Permanente Medical Group, Inc. (for-profit, Northern California, 11,225+ physicians and 186 locations)",
+      "Southern California Permanente Medical Group (for-profit)",
+      "Colorado Permanente Medical Group (for-profit)",
+      "Northwest Permanente (for-profit)",
+      "Hawaii Permanente Medical Group (for-profit)",
+      "Mid-Atlantic Permanente Medical Group (for-profit)",
+      "Washington Permanente Medical Group (for-profit)",
+      "Risant Health (acquired 2024, subsidiary for non-Kaiser health system acquisitions)",
+      "Geisinger Health (acquired via Risant Health, 2024)",
+      "Cone Health (acquired via Risant Health, 2024)",
+      "Kaiser Permanente Ventures (venture capital arm)"
+    ],
+    "relatedPartyTransactions": "The three-entity Kaiser model creates massive related-party fund flows: nonprofit Kaiser Foundation Health Plan collects premiums and contracts with nonprofit Kaiser Foundation Hospitals and for-profit Permanente Medical Groups. The for-profit Medical Groups receive nearly all of their funding from the nonprofit Health Plans, effectively sheltering physician compensation under the tax-exempt umbrella. This structure is unique in American healthcare.",
+    "source": "Wikipedia, Permanente.org fact sheet, Kaiser Permanente organizational disclosures, Form 990 Schedule R"
+  },
+  "executiveComp": {
+    "fiscalYear": "FY2024",
+    "ceoName": "Gregory A. Adams",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 186239,
+    "ceoTotalComp": 12789811,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Kaiser Permanente Form 990 (FY2024) via ProPublica Nonprofit Explorer. Gregory Adams (Chairman & CEO) received total compensation of $12,789,811 plus $186,239 in other reportable compensation. For FY2021, Adams received over $17M total. At least 18 additional executives earned more than $2M each, with three earning over $4M. Historical: former CEO George Halvorson earned $10.16M in 2013."
+  },
+  "communityBenefit": {
+    "claimedAmount": 4600000000,
+    "claimedPctOfRevenue": 3.97,
+    "charityCareClaimedAmount": 835500000,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Kaiser Permanente 2024 Annual Report ($4.6B community benefit including Risant Health entities). Kaiser Foundation Hospitals reported $835.5M in charity care (2.47% of hospital expenses) and $2.06B in total hospital community benefit (6.09% of hospital expenses) for 2023. Pre-Risant consolidated community benefit was $3.1B in 2023. California state average charity care percentage not obtained from available sources. Individual hospital charity care reported to California HCAI ranges from $10.3M (San Marcos) to $40.7M (Roseville) per facility."
+  },
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan are tax-exempt 501(c)(3) organizations. The for-profit Permanente Medical Groups receive nearly all revenue from the tax-exempt health plans, channeling substantial funds to physician-owners while the nonprofit entities absorb the tax-exempt benefits. $12.7B in long-term debt (FY2024) includes significant tax-exempt bond issuances through California Health Facilities Financing Authority, generating substantial interest rate subsidies. Kaiser hospitals participate in the 340B Drug Pricing Program as DSH-eligible entities. The three-entity structure — nonprofit health plan, nonprofit hospitals, for-profit medical groups — maximizes tax advantage while enabling physician profit-taking."
+  },
+  "layoffs": [
+    {
+      "date": "2023-11 to 2024-06",
+      "entity": "Kaiser Permanente",
+      "location": "Pleasanton, California",
+      "count": 162,
+      "source": "PleasantonWeekly, LivermoreVine. IT and food services positions eliminated at Pleasanton administrative offices. Kaiser stated layoffs do not affect direct patient care or union-represented employees."
+    },
+    {
+      "date": "2024-01",
+      "entity": "Kaiser Permanente",
+      "location": "Multiple California locations",
+      "count": 52,
+      "source": "WARN Tracker (January 4, 2024 filing). Educational Theatre outreach initiative restructuring."
+    },
+    {
+      "date": "2024-11-05",
+      "entity": "Kaiser Permanente",
+      "location": "San Leandro, California",
+      "count": null,
+      "source": "WARN Tracker (November 5, 2024 filing). Exact count not specified in available data."
+    },
+    {
+      "date": "2024-11-22",
+      "entity": "Kaiser Permanente",
+      "location": "Multiple California locations",
+      "count": 43,
+      "source": "WARN Tracker (November 22, 2024). Operations and services evaluations across several California sites."
+    },
+    {
+      "date": "2024-12-06",
+      "entity": "Kaiser Permanente",
+      "location": "Multiple California locations",
+      "count": null,
+      "source": "WARN Tracker (December 6, 2024 filing). Exact count not specified in available data."
+    },
+    {
+      "date": "2025-04-14",
+      "entity": "Kaiser Permanente",
+      "location": "4 California locations",
+      "count": 42,
+      "source": "WARN Tracker, Becker's Hospital Review."
+    },
+    {
+      "date": "2025-04-21",
+      "entity": "Kaiser Permanente",
+      "location": "9 California locations",
+      "count": 40,
+      "source": "WARN Tracker."
+    },
+    {
+      "date": "2025-04-25",
+      "entity": "Kaiser Permanente",
+      "location": "18 California locations",
+      "count": 64,
+      "source": "Becker's Hospital Review, WARN Tracker. Kaiser to cut 64 jobs in California."
+    },
+    {
+      "date": "2025-06-02",
+      "entity": "Kaiser Permanente",
+      "location": "13 California locations",
+      "count": 55,
+      "source": "WARN Tracker. Kaiser employs approximately 179,000 in California."
+    }
+  ],
+  "facilityClosures": [],
+  "creditRating": {
+    "fitch": "AA-",
+    "fitchOutlook": "Stable",
+    "fitchDate": null,
+    "sp": "AA-",
+    "spOutlook": "Stable",
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Operating margin of just 0.49% on $115.8B revenue — system is dependent on $5.5B in annual investment returns for net income",
+      "Approximately $100B investment portfolio with 57% in illiquid alternatives (private equity, real estate) creates significant liquidity and market risk",
+      "Long-term debt increased from $12.7B (FY2024) to $13.5B (FY2025)",
+      "Risant Health acquisitions (Geisinger, Cone Health) add integration risk and contributed $6.8B of $12.9B net income in 2024, inflating results",
+      "Multiple rounds of workforce reductions across California in 2024-2025 totaling 458+ documented layoffs",
+      "For-profit Permanente Medical Groups create related-party transaction complexity and governance opacity",
+      "Kaiser reportedly marketing $35B in private equity fund holdings for sale, suggesting portfolio rebalancing pressure"
+    ]
+  },
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+  "acquisitions": [
+    {
+      "year": 2024,
+      "target": "Risant Health / Geisinger Health",
+      "description": "Kaiser Permanente created Risant Health as a nonprofit subsidiary to acquire non-Kaiser health systems. Geisinger Health (Pennsylvania) was the first acquisition, forming a new eighth Kaiser region. The acquisition adds significant revenue and complexity to the Kaiser system.",
+      "source": "Fierce Healthcare, Healthcare Finance News, Kaiser Permanente 2024 financial results, S&P Global Ratings"
+    },
+    {
+      "year": 2024,
+      "target": "Cone Health (via Risant Health)",
+      "description": "Cone Health (North Carolina) acquired through the Risant Health subsidiary. Combined with Geisinger, Risant entities contributed $6.8B of Kaiser's $12.9B net income in 2024 — more than half of total net income came from these new acquisitions rather than legacy Kaiser operations.",
+      "source": "Fierce Healthcare, Kaiser Permanente 2024 consolidated financial results"
+    }
+  ],
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not obtained from available search results"
+  },
+  "legalIssues": [],
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Kaiser's investment portfolio (approximately $100B as of end of 2022, likely higher now) dwarfs its $569M FY2024 operating income by roughly 175x. The system generated $5.5B in non-operating investment income in 2024, nearly 10x its operating income, making Kaiser more dependent on financial market returns than on healthcare operations for its bottom line. Precise 2024 investment total not verified; ratio computed from verified operating income and estimated investment portfolio.",
+    "bondDebtToCommunityBenefit": 2.76,
+    "bondDebtToCommunityBenefitInterpretation": "Long-term debt of $12.7B is 2.76x the $4.6B claimed community benefit (FY2024, including Risant Health). Using the pre-Risant hospital-only community benefit of $2.06B, the ratio rises to 6.17x, meaning Kaiser carries over six dollars of tax-subsidized debt for every dollar of hospital community benefit.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Kaiser Foundation Hospitals reported charity care of $835.5M, representing 2.47% of hospital expenses (2023 data). California state average charity care percentage was not available from research to compute comparison ratio."
+  },
+  "accusation": "Kaiser Permanente holds an estimated $100 billion investment portfolio — a balance sheet war chest roughly 175 times its razor-thin $569 million operating income — while its hospitals provided just $835.5 million in charity care (2.47% of expenses), carries $12.7 billion in long-term debt largely backed by tax-exempt bonds, paid its CEO $12.8 million, conducted multiple rounds of layoffs affecting hundreds of California workers in 2024-2025, channels billions in revenue to for-profit Permanente Medical Groups, and generated $5.5 billion from investment returns that dwarf its healthcare mission, all under the shelter of its tax-exempt nonprofit status.",
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with ~$100B investment portfolio (2022 data) dwarfing $569M operating income by ~175x. Show $5.5B investment returns vs $569M operating income (10x ratio). Display $12.7B long-term debt vs $4.6B claimed community benefit (2.76x ratio; 6.17x using hospital-only $2.06B). Highlight $835.5M charity care at 2.47% of hospital expenses. CEO Gregory Adams total comp $12.8M. Show Fitch AA-/Stable and S&P AA-/Stable credit ratings. Note 458+ documented layoffs across 9 rounds in 2024-2025. Diagram the three-entity structure: nonprofit Health Plan and Hospitals sheltering for-profit Permanente Medical Groups. Show $115.8B consolidated revenue with only 0.49% operating margin. Include Risant Health acquisitions contributing $6.8B of $12.9B net income."
+}

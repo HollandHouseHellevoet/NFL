@@ -1,0 +1,180 @@
+{
+  "team": "Jacksonville Jaguars",
+  "conference": "AFC",
+  "division": "South",
+  "city": "Jacksonville",
+  "state": "Florida",
+  "healthSystem": "Baptist Health",
+  "ein": "59-0714554",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Provider", "Sports Medicine Provider", "Shipyards Orthopedic Complex"],
+  "dealAnnounced": "1993",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": "FY2024",
+    "totalRevenue": 2600000000,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": 750000000,
+    "totalLiabilities": 265000000,
+    "source": "Southern Baptist Hospital of Florida Inc (EIN 59-0747311) Form 990 FY2024 via Impala: total revenue $2.6B, total expenses $2.1B, net income $530.9M. Balance sheet figures are from parent Baptist Health System Inc (EIN 59-2487136) Form 990 FY2024: total assets $750M, total liabilities $265M. User-specified EIN 59-0714554 not found in ProPublica or HRSA databases; primary hospital operating entity is SBHF (59-0747311), parent holding company is BHS Inc (59-2487136)."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Not verified at consolidated system level. Baptist Medical Center of the Beaches (subsidiary) held $93M in investments (32% of $289M total assets) in FY2024, up 20% from $77.6M in FY2023. System-wide investment total not confirmed from 990 Part X.",
+    "realEstateValue": null,
+    "realEstateSource": "Baptist Health Properties Inc (EIN 59-2487133) is the real estate subsidiary. Baptist Health operates five hospitals and numerous outpatient facilities across Northeast Florida. Exact real estate valuation not verified.",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Baptist Health System Inc (parent) reports net assets of $485,698,339 (FY2024). Baptist Health System Foundation Inc (EIN 59-2487135) held $369M in total assets separately. Combined parent + foundation assets exceed $1.1B. Southern Baptist Hospital of Florida (hospital operator) reported net income of $530.9M in FY2024 on $2.6B total revenue, implying substantial accumulated net assets at the operating entity level."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": "Health Care Facilities Revenue Bonds (Baptist Health), Series 2022",
+    "largestIssueProceeds": "Authorized up to $200,000,000 in aggregate principal amount, taxable, tax-exempt, or combination thereof",
+    "issuerAuthority": "City of Jacksonville / Jacksonville Health Facilities Authority",
+    "source": "Nassau County Board of County Commissioners Resolution 2022-111A; City of Jacksonville resolutions; S&P upgraded Series 2007A tax-exempt hospital revenue bonds and Series 2015 taxable healthcare revenue bonds to AA. Historical bonds issued through Jacksonville Health Facilities Authority for capital improvements and refunding. Baptist Health Borrower previously settled $597,751 tax dispute with IRS related to bond compliance."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Baptist Primary Care Physicians Group",
+    "foundationEntity": "Baptist Health System Foundation Inc (EIN 59-2487135)",
+    "otherRelatedEntities": [
+      "Southern Baptist Hospital of Florida Inc (EIN 59-0747311) — operates Baptist Medical Center Jacksonville, Baptist Medical Center South, Wolfson Children's Hospital, and Baptist Emergency Centers",
+      "Baptist Health Properties Inc (EIN 59-2487133) — real estate subsidiary",
+      "Baptist Medical Center of the Beaches Inc (EIN 59-2980620)",
+      "Baptist Medical Center of Nassau Inc (EIN 59-3234721)",
+      "Wolfson Children's Hospital — subsidiary of Southern Baptist Hospital of Florida",
+      "Baptist Home Health Care",
+      "Jacksonville Orthopaedic Institute — affiliated sports medicine practice; official sports medicine provider for Jaguars",
+      "Coastal Community Health — affiliation with Southeast Georgia Health System"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; Wikipedia; ProPublica Nonprofit Explorer; GuideStar; Baptist Health website (baptistjax.com)"
+  },
+
+  "executiveComp": {
+    "fiscalYear": "FY2024",
+    "ceoName": "Michael A. Mayo, DHA, FACHE",
+    "ceoBaseComp": 2400699,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": 55718,
+    "ceoTotalComp": 2456417,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer for Baptist Health System Inc (EIN 59-2487136): Mayo reported $2,400,699 compensation + $0 related + $55,718 other. Mayo also reported $1,457,401 compensation + $50,534 other on Southern Baptist Hospital of Florida Inc (EIN 59-0747311) Form 990, suggesting total cross-entity compensation may reach ~$3.9M. Former CEO Brett S. McClung received $2,130,059 + $11,393 other before resignation effective May 1, 2021. Mayo retiring January 16, 2026; Matthew A. Zuino (COO since 2020) named successor effective January 17, 2026."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Lown Hospitals Index ranks Baptist Medical Center Jacksonville 68th out of 159 Florida hospitals on community benefit. Baptist Health provides free care for uninsured patients with household income below 3x federal poverty guidelines. Florida 340B hospitals provide 4.1% charity care vs 2.28% national average. 45% of Florida private nonprofit hospitals had a 'fair share deficit' (2020-2022), with a total deficit of $485M/year statewide (Lown Institute). System-level community benefit dollar amount not separately confirmed for Jacksonville entity vs Baptist Health South Florida."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Baptist Health operates five hospitals and numerous clinics across Northeast Florida, all property-tax-exempt. Florida has no state personal income tax but does levy a corporate income tax (5.5%) from which Baptist Health is exempt. Federal income tax foregone on $530.9M net surplus (SBHF FY2024) would be substantial at 21% rate (~$111M). Tax-exempt bond interest subsidy applies to outstanding Series 2007A, 2015, and 2022 debt. 340B program participation as DSH provides additional drug discount revenue."
+  },
+
+  "layoffs": [
+    {
+      "date": "2025-05",
+      "count": 306,
+      "notes": "Jacksonville Orthopaedic Institute (Baptist Health-affiliated) laying off 306 employees and closing 6 clinics between May 30 and July 13, 2025. Restructuring followed JOI physicians repurchasing stock originally sold to Baptist Health in 2011. Affected roles include physicians, radiology technologists, medical secretaries, patient account representatives, appointment schedulers, and medical assistants.",
+      "source": "WARN Act filing; Jax Daily Record; Becker's Spine Review"
+    },
+    {
+      "date": "2018-07",
+      "count": 588,
+      "notes": "Baptist Health layoffs statewide in Florida per WARN filing.",
+      "source": "WARN Tracker"
+    }
+  ],
+
+  "facilityClosures": [
+    {
+      "date": "2025",
+      "facility": "Jacksonville Orthopaedic Institute — 6 clinic locations",
+      "location": "Jacksonville, FL area",
+      "notes": "Six JOI clinic locations closed as part of restructuring following Baptist Health divestiture. JOI physicians repurchased ownership stake from Baptist Health.",
+      "source": "Jax Daily Record; Becker's Spine Review"
+    }
+  ],
+
+  "creditRating": {
+    "fitch": "A+",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2023-03-23",
+    "sp": "AA",
+    "spOutlook": "Stable",
+    "spDate": null,
+    "moodys": "A1",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2023-03-23",
+    "keyRiskFactors": [
+      "CEO transition: Michael Mayo retiring January 2026, succeeded by COO Matt Zuino",
+      "Jacksonville Orthopaedic Institute divestiture and restructuring — loss of integrated sports medicine practice",
+      "Ended partnership with UF Health",
+      "Parent entity Baptist Health System Inc operates at a loss ($299M revenue vs $451M expenses in FY2024)",
+      "S&P upgrade to AA from AA- reflects strong operating performance and balance sheet strength; outlook stable"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": 148,
+    "outOfStatePharmaciesPct": 39,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets"
+  },
+
+  "legalIssues": [
+    {
+      "description": "Baptist Health borrower paid $597,751 to settle tax dispute with IRS related to tax-exempt bond compliance.",
+      "source": "Bond Buyer"
+    }
+  ],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Operating income not separately verifiable from Form 990 data; SBHF reported $530.9M in total net surplus (revenue less expenses) in FY2024, but the operating vs non-operating split requires audited financial statements not available from public 990 filings.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Neither total outstanding bond debt nor community benefit dollar amount independently verified for Jacksonville entity; cannot compute ratio.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Baptist Medical Center Jacksonville ranks 68th of 159 Florida hospitals on Lown Institute community benefit index, placing it in the middle of the pack. 45% of Florida private nonprofit hospitals operate with a fair-share deficit, meaning they receive more in tax benefits than they spend on community investments. Without Baptist Health Jacksonville's specific community benefit dollar figure, direct comparison to the state average is not possible."
+  },
+
+  "accusation": "Baptist Health's hospital subsidiary posted a $530 million net surplus on $2.6 billion in revenue in FY2024 while the parent entity held $750 million in assets and the system foundation another $369 million, yet its decade-long orthopedic partnership with Jacksonville Orthopaedic Institute ended with 306 layoffs and six clinic closures, and the system's community benefit spending ranks only 68th out of 159 Florida hospitals.",
+
+  "infographicPrompt": "Rojas Report brand infographic for Baptist Health Jacksonville. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'Baptist Health'. Subhead cream Source Sans Pro 600: 'Jacksonville Jaguars — Official Healthcare Provider Since 1993'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'SBHF Revenue: $2.6B (FY2024)'. Block 2 — 'CEO Pay: $2.5M+ (Mayo; up to ~$3.9M cross-entity)'. Block 3 — 'Net Surplus: $530.9M'. Block 4 — 'Combined Parent + Foundation Assets: $1.1B+'. Single large orange callout number '$530.9M' above headline with Cream 'net surplus in FY2024' below in italic. Bottom line in Cream Source Sans Pro 600: 'Ranks 68th of 159 Florida hospitals on community benefit. JOI partnership ended with 306 layoffs and 6 clinic closures. S&P upgraded to AA.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 FY2024 via Impala/ProPublica · Lown Hospitals Index · WARN Act Filings · Becker's Hospital Review · HRSA 340B OPAIS · S&P/Moody's/Fitch.'"
+}
