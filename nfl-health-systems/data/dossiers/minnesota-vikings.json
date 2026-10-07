@@ -1,0 +1,176 @@
+{
+  "team": "Minnesota Vikings",
+  "conference": "NFC",
+  "division": "North",
+  "city": "Minneapolis",
+  "state": "Minnesota",
+  "healthSystem": "M Health Fairview",
+  "ein": "41-0695635",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner", "Stadium Naming Rights"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "UNVERIFIED — web search budget exhausted; requires verification from Fairview Health Services audited consolidated financial statements and Form 990 (EIN 41-0695635) via ProPublica Nonprofit Explorer"
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Requires verification from Form 990 Part X and audited consolidated financial statements",
+    "realEstateValue": null,
+    "realEstateSource": "Fairview operates 12 hospitals and 100+ clinics across Minnesota; real estate value not separately verified",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Fairview Health Services is a multi-billion-dollar nonprofit health system; investment portfolio, board-designated funds, and endowment require verification from the consolidated balance sheet and Form 990 Part X"
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": null,
+    "source": "EMMA / MSRB; requires verification of outstanding tax-exempt revenue bond balances issued through Minnesota conduit authorities (likely City of Minneapolis or Minnesota Higher Education Facilities Authority)"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "University of Minnesota Physicians (M Physicians)",
+    "foundationEntity": "Fairview Foundation",
+    "otherRelatedEntities": [
+      "University of Minnesota Medical Center (operated by Fairview under affiliation agreement; University of Minnesota Board of Regents voted in 2023 to restructure or end 27-year partnership)",
+      "Ebenezer (senior living and care subsidiary)",
+      "Fairview Pharmacy Services LLC",
+      "Fairview Southdale Hospital",
+      "Fairview Ridges Hospital",
+      "Fairview Lakes Medical Center",
+      "Fairview Northland Medical Center",
+      "Fairview Range Medical Center",
+      "HealthEast Care System entities (acquired 2017): St. John's Hospital, Woodwinds Health Campus, St. Joseph's Hospital, Bethesda Hospital"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; Fairview Health Services corporate structure; Minnesota Secretary of State filings; University of Minnesota affiliation agreement"
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": null,
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "UNVERIFIED — requires verification from Form 990 Part VII and Schedule J via ProPublica Nonprofit Explorer (EIN 41-0695635); James Hereford served as President and CEO through at least 2022; current CEO requires confirmation"
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "UNVERIFIED — requires verification from Fairview community benefit reports, Form 990 Schedule H, and Minnesota Department of Health hospital data"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Fairview Health Services operates 12 hospitals and 100+ clinics as a tax-exempt nonprofit across Minnesota. Property tax exemptions span Hennepin, Ramsey, Dakota, Washington, and other Minnesota counties. Federal and state income tax exemptions, tax-exempt bond interest subsidies, and 340B program benefits all require quantification from financial statements and county assessor records."
+  },
+
+  "layoffs": [
+    {
+      "date": "2022-09",
+      "entity": "Fairview Health Services",
+      "location": "Minnesota (system-wide)",
+      "count": 900,
+      "source": "Fairview Health Services restructuring announcement September 2022; Star Tribune; Becker's Hospital Review; layoffs were part of broader cost reduction initiative amid significant operating losses"
+    }
+  ],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Significant operating losses drove 900-position systemwide layoff in 2022",
+      "Failed merger with Sanford Health collapsed in November 2023 amid opposition from University of Minnesota, employees, legislators, and community groups",
+      "University of Minnesota Board of Regents voted to restructure 27-year academic medicine partnership, with potential separation of University of Minnesota Medical Center operations",
+      "Competitive Minneapolis-St. Paul healthcare market with Mayo Clinic, Allina Health, HealthPartners, and CentraCare",
+      "Leadership transition following departure of CEO James Hereford"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": 2017,
+      "target": "HealthEast Care System",
+      "description": "Acquired four-hospital system including St. John's Hospital, Woodwinds Health Campus, St. Joseph's Hospital, and Bethesda Hospital; approximately 7,500 employees; Minnesota Attorney General approved with conditions",
+      "source": "Minnesota Attorney General approval February 2017; Star Tribune; Minneapolis/St. Paul Business Journal"
+    },
+    {
+      "year": 2019,
+      "target": "University of Minnesota Health brand integration",
+      "description": "Fairview Health Services, University of Minnesota Health, and University of Minnesota Physicians consolidated clinical operations under the M Health Fairview brand",
+      "source": "M Health Fairview brand launch announcement 2019; University of Minnesota"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — requires verification"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Requires verified investment portfolio total and operating income from audited financials and Form 990",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Requires verified bond debt outstanding and community benefit totals from Form 990 Schedule H and EMMA",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Requires verified charity care figures and Minnesota state average from Minnesota Department of Health"
+  },
+
+  "accusation": "DRAFT PENDING FINANCIAL VERIFICATION — M Health Fairview, a multi-billion-dollar tax-exempt health system, eliminated 900 positions in 2022, watched its planned merger with Sanford Health collapse amid community opposition, saw the University of Minnesota move to sever a 27-year academic medicine partnership, yet funds Minnesota Vikings stadium naming rights while balance sheet wealth, executive compensation, and community benefit figures await verification from Form 990 and audited financial statements.",
+
+  "infographicPrompt": "DRAFT PENDING VERIFIED FINANCIAL DATA — Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Layout: Lead with investment portfolio figure (PENDING VERIFICATION from Form 990 Part X). Show CEO total compensation (PENDING from Schedule J). Visualize bond debt outstanding (PENDING from EMMA). Note 900 systemwide layoffs in 2022. Note failed Sanford Health merger (November 2023). Note University of Minnesota partnership dissolution. Vikings official healthcare partner and stadium naming rights deal. Source line: Form 990 via ProPublica (EIN 41-0695635), Fairview audited consolidated financial statements, EMMA/MSRB, Minnesota Department of Health, Star Tribune."
+}
