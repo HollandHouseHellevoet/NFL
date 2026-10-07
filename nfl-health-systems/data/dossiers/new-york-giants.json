@@ -1,0 +1,181 @@
+{
+  "team": "New York Giants",
+  "conference": "NFC",
+  "division": "East",
+  "city": "East Rutherford",
+  "state": "New Jersey",
+  "healthSystem": "Hackensack Meridian Health",
+  "ein": "22-1601338",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "Not verified — web search unavailable this session. Hackensack Meridian Health Inc. (EIN 22-1601338) files Form 990 on a calendar year basis. Consolidated audited financials are filed with EMMA via NJ Health Care Facilities Financing Authority bond disclosures. FY ends December 31. System formed July 1, 2016 from merger of Hackensack University Health Network and Meridian Health. Operates 18 hospitals and 500+ patient care locations across New Jersey with approximately 36,000 employees."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Not verified — check Hackensack Meridian Health consolidated audited financial statements (Notes to Consolidated Balance Sheet) for total investments including cash equivalents, short-term and long-term investments, board-designated funds, and assets whose use is limited",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified — check county property assessment records across Bergen, Hudson, Monmouth, Ocean, Middlesex, Passaic, and other NJ counties where HMH operates facilities",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Hackensack Meridian Health operates 18 hospitals including the flagship Hackensack University Medical Center, Jersey Shore University Medical Center, and JFK University Medical Center. The system spans New Jersey from Bergen County to Ocean County. Consolidated unrestricted cash and investments should be verified from the audited balance sheet filed with EMMA. Investment portfolio and board-designated funds are likely held at the parent entity and foundation level."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": "New Jersey Health Care Facilities Financing Authority (NJHCFFA)",
+    "source": "Not verified — check EMMA (Electronic Municipal Market Access) for all outstanding Hackensack Meridian Health revenue bond series issued through the NJHCFFA. Multiple series outstanding including bonds issued for the 2016 merger and subsequent capital expansion. Also check Form 990 Schedule K for tax-exempt bond detail."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": null,
+    "foundationEntity": "Hackensack Meridian Health Foundation",
+    "otherRelatedEntities": [
+      "Hackensack University Medical Center (flagship hospital, Bergen County)",
+      "Jersey Shore University Medical Center (Monmouth County)",
+      "JFK University Medical Center (Middlesex County — acquired via JFK Health System merger ~2018)",
+      "Meridian Hospitals Corporation",
+      "HMH Hospitals Corp",
+      "Carrier Clinic Inc. (behavioral health hospital, Belle Mead NJ — acquired 2018)",
+      "Hackensack Meridian School of Medicine at Seton Hall University (partnership established 2015, opened 2018)",
+      "Bergen New Bridge Medical Center (management services agreement — HMH manages this county-owned facility)",
+      "Riverview Medical Center (Monmouth County)",
+      "Bayshore Medical Center (Monmouth County)",
+      "Ocean University Medical Center (Ocean County)",
+      "Southern Ocean Medical Center (Ocean County)",
+      "Mountainside Medical Center (Passaic County)",
+      "Palisades Medical Center (Hudson County)",
+      "Pascack Valley Medical Center (Bergen County)",
+      "Raritan Bay Medical Center — Old Bridge and Perth Amboy campuses (Middlesex County)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R (Form 990 EIN 22-1601338); merger and acquisition announcements; NJ Department of Health facility listings. Carrier Clinic acquired 2018. JFK Health System merger completed approximately 2018. Bergen New Bridge Medical Center is county-owned but managed by HMH under a management services agreement."
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": "Robert C. Garrett",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Not verified — check Form 990 Schedule J Parts I-III for Hackensack Meridian Health Inc. (EIN 22-1601338). Robert C. Garrett has served as CEO since the 2016 merger (previously CEO of Hackensack University Health Network). Garrett's total compensation has been widely reported by Becker's Hospital Review and NJ media as among the highest for nonprofit hospital CEOs in New Jersey. Compensation is reported as being paid primarily through related organizations rather than the filing entity. Check Schedule J Part III for deferred compensation, split-dollar life insurance, and other supplemental arrangements."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Not verified — check Form 990 Schedule H (Hospitals) for Hackensack Meridian Health. New Jersey requires nonprofit hospitals to report community benefit. NJ charity care is partially funded through a state hospital care payment assistance fund (Charity Care Subsidy Program) per N.J.S.A. 26:2H-18. Verify NJ state average community benefit percentage from NJ DHSS Hospital Performance Report."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Hackensack Meridian Health operates 18 hospitals and 500+ care locations across New Jersey, all property-tax-exempt. NJ has a 9% corporate business tax rate (11.5% surcharge for income over $1M). Bond debt is issued through the NJ Health Care Facilities Financing Authority generating substantial tax-exempt interest subsidies. Multiple HMH hospitals qualify as DSH for 340B program participation. NJ has a 6.625% sales and use tax from which HMH is exempt on qualifying purchases."
+  },
+
+  "layoffs": [],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Post-merger integration of multiple legacy hospital systems across diverse NJ markets",
+      "High labor costs in the northern New Jersey and New York metropolitan market",
+      "Geographic concentration in a single state (New Jersey)",
+      "Competition from large academic medical centers in New York City for specialty and tertiary services",
+      "Thin operating margins typical of NJ hospital market"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": 2016,
+      "target": "Merger of Hackensack University Health Network and Meridian Health",
+      "description": "Founding merger effective July 1, 2016 creating Hackensack Meridian Health — combined Hackensack UMC (Bergen County) with Meridian Health's hospitals in Monmouth, Ocean, and Middlesex counties to form the largest health system in New Jersey",
+      "source": "NJ Department of Health; public announcements"
+    },
+    {
+      "year": 2018,
+      "target": "Carrier Clinic",
+      "description": "Acquisition of Carrier Clinic, a behavioral health hospital in Belle Mead, NJ (Somerset County), expanding HMH into psychiatric and behavioral health services",
+      "source": "Public announcements; NJ Department of Health"
+    },
+    {
+      "year": 2018,
+      "target": "JFK Health System",
+      "description": "Merger with JFK Health System added JFK Medical Center in Edison (Middlesex County) and associated facilities to the HMH network",
+      "source": "NJ Attorney General filing; public announcements"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not verified this session"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute — investment portfolio and operating income figures not verified from primary sources",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — bond debt and community benefit figures not verified from primary sources",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Cannot compute — charity care and New Jersey state average figures not verified from primary sources"
+  },
+
+  "accusation": "Hackensack Meridian Health — the largest health system in New Jersey, operating 18 hospitals under tax-exempt status, with bond debt issued through the NJ Health Care Facilities Financing Authority and CEO Robert C. Garrett's total compensation reported among the highest for nonprofit hospital executives in the state — serves as the Official Healthcare Partner of the New York Giants.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. DRAFT — populate with verified numbers after web research. Headline: 'HACKENSACK MERIDIAN HEALTH'. Subhead: 'New York Giants — Official Healthcare Partner'. Data blocks to populate after verification: Total Revenue, CEO Pay (Robert C. Garrett), Operating Margin, Investment Portfolio, Bond Debt (via NJHCFFA), Community Benefit. Note 18-hospital system formed from 2016 merger. Note Carrier Clinic and JFK Health acquisitions. Note largest health system in New Jersey. Bottom right: 'THE ROJAS REPORT' in orange Playfair Display small caps."
+}

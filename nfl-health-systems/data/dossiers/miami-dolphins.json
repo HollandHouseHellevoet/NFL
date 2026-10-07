@@ -1,0 +1,159 @@
+{
+  "team": "Miami Dolphins",
+  "conference": "AFC",
+  "division": "East",
+  "city": "Miami",
+  "state": "Florida",
+  "healthSystem": "Baptist Health South Florida",
+  "ein": "59-1026997",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner", "Training Facility Naming"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "Form 990 (EIN 59-1026997) available on ProPublica Nonprofit Explorer; not accessed in this session due to egress proxy blocking ProPublica, EMMA, Becker's, CharityNavigator, and all financial research domains, and web search budget exhausted by parallel agents. Requires follow-up research."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Schedule D Part V on ProPublica; not accessed due to egress restrictions",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified; Baptist Health operates eleven hospitals and over 100 outpatient facilities across Miami-Dade, Broward, and Palm Beach counties",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Baptist Health South Florida is one of the largest nonprofit healthcare organizations in South Florida. Investment portfolio, board-designated funds, and endowment data require verification from Form 990 Schedule D and audited financial statements filed with EMMA."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": "Miami-Dade County Health Facilities Authority",
+    "source": "Schedule K and MSRB EMMA; not accessed due to egress restrictions. Tax-exempt bonds issued through Miami-Dade County Health Facilities Authority."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Baptist Health Medical Group",
+    "foundationEntity": "Baptist Health South Florida Foundation",
+    "otherRelatedEntities": [
+      "Baptist Health Enterprises Inc.",
+      "Baptist Hospital of Miami Inc.",
+      "South Miami Hospital Inc.",
+      "Doctors Hospital Inc.",
+      "Homestead Hospital Inc.",
+      "Mariners Hospital Inc.",
+      "West Kendall Baptist Hospital",
+      "Bethesda Hospital Inc.",
+      "Boca Raton Regional Hospital Inc. (acquired 2019)",
+      "Baptist Health Quality Network Inc.",
+      "Baptist Outpatient Services Inc.",
+      "Fishermen's Community Hospital Inc."
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R entity names from public filings and Baptist Health South Florida website; detailed related-party transactions not verified due to egress restrictions"
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": "Bo Boulenger",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 Schedule J (EIN 59-1026997); Stevan A. 'Bo' Boulenger succeeded Brian E. Keeley as CEO/President circa 2021. Compensation details require verification from ProPublica Nonprofit Explorer, which was blocked by egress proxy."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Schedule H Part I-II and Baptist Health annual community benefit report; not accessed due to egress restrictions"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Baptist Health South Florida is a 501(c)(3) organization exempt from federal income tax and local property taxes. Florida has no state corporate income tax on nonprofits. Tax-exempt bonds issued through Miami-Dade County Health Facilities Authority generate interest subsidy for bondholders. Multiple Baptist Health hospitals participate in 340B program as DSH entities. Specific foregone tax amounts not verified."
+  },
+
+  "layoffs": [],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": []
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": 2019,
+      "target": "Boca Raton Regional Hospital",
+      "description": "Baptist Health South Florida acquired Boca Raton Regional Hospital, a 400-bed acute care facility in Palm Beach County, expanding the system's geographic footprint northward from its traditional Miami-Dade and Broward County base.",
+      "source": "Public announcements; Baptist Health South Florida"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets; not verified due to egress restrictions"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Investment portfolio and operating income not verified; ratio cannot be computed without source document access",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Bond debt and community benefit amounts not verified; ratio cannot be computed without source document access",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Charity care amount and Florida state average not verified; ratio cannot be computed without source document access"
+  },
+
+  "accusation": "Baptist Health South Florida, a 501(c)(3) system operating eleven hospitals across Miami-Dade, Broward, and Palm Beach counties with tax-exempt bond debt issued through the Miami-Dade County Health Facilities Authority, put its name on the Miami Dolphins' training complex while its balance sheet wealth, investment portfolio, executive compensation, and community benefit figures remain unverified pending source document access to its Form 990 and EMMA filings.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. DATA INCOMPLETE — web search budget exhausted and egress proxy blocked access to ProPublica, EMMA, Fitch, Moody's, Becker's, and all financial research domains during this session. Rerun the ten research searches specified in the task to populate: (1) Form 990 financials from ProPublica EIN 59-1026997, (2) investment portfolio from Schedule D, (3) bond debt from EMMA and Schedule K, (4) CEO Bo Boulenger compensation from Schedule J, (5) community benefit from Schedule H, (6) credit ratings from Fitch/Moody's/S&P, (7) 340B contract pharmacy data, (8) layoff history, (9) Dolphins deal details and announcement date, (10) related organizations and captive insurance from Schedule R. System: Baptist Health South Florida, eleven hospitals, Miami Dolphins Official Healthcare Partner and Training Facility Naming."
+}
