@@ -1,0 +1,207 @@
+{
+  "team": "Philadelphia Eagles",
+  "conference": "NFC",
+  "division": "East",
+  "city": "Philadelphia",
+  "state": "Pennsylvania",
+  "healthSystem": "Jefferson Health",
+  "ein": "23-1352651",
+  "nonprofitType": "501c3",
+  "dealType": ["Naming Rights", "Jersey Patch", "Official Healthcare Partner"],
+  "dealAnnounced": "Jersey patch and official healthcare partnership announced circa 2023 NFL season; Jefferson Health Training Complex naming rights effective February 2026",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "Not verified — web search unavailable this session. Thomas Jefferson University (EIN 23-1352651) files consolidated Form 990 covering Jefferson Health. ProPublica Nonprofit Explorer and audited financials are the primary sources. FY ends June 30."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Not verified — check Thomas Jefferson University consolidated financial statements and Form 990 Part X for total investments",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified — check Philadelphia and suburban county property assessment records for tax-exempt holdings",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Thomas Jefferson University is the parent entity and holds the endowment and investment portfolio for the combined Jefferson enterprise. The university merged with Philadelphia University in 2017. Jefferson Health operates 18 hospitals across Pennsylvania and New Jersey following mergers with Abington Health (2015), Aria Health (2016), Kennedy Health (2018), and Einstein Healthcare Network (2021)."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": "Philadelphia Authority for Industrial Development (PAID); Pennsylvania Economic Development Financing Authority (PEDFA)",
+    "source": "Not verified — check EMMA (Electronic Municipal Market Access) for Jefferson Health / Thomas Jefferson University outstanding bond issues through PAID and PEDFA"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Jefferson University Physicians",
+    "foundationEntity": "Thomas Jefferson University Foundation",
+    "otherRelatedEntities": [
+      "Thomas Jefferson University (parent entity, EIN 23-1352651)",
+      "Jefferson Health (healthcare delivery arm)",
+      "Health Partners Plans (managed care / health insurance subsidiary)",
+      "Abington Health (merged 2015, now Jefferson Abington Hospital)",
+      "Aria Health (merged 2016, now Jefferson Torresdale/Bucks/Frankford hospitals)",
+      "Kennedy Health System (merged 2018, now Jefferson Health — New Jersey, 3 campuses)",
+      "Einstein Healthcare Network (merged 2021, Einstein Medical Center Philadelphia, Elkins Park, Montgomery)",
+      "Magee Rehabilitation Hospital",
+      "Jefferson Health Plans",
+      "Philadelphia University (merged with Thomas Jefferson University 2017)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R (Thomas Jefferson University Form 990); merger history from public announcements and Pennsylvania AG filings. Health Partners Plans is a Medicaid managed care organization operating in southeastern Pennsylvania."
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": "Joseph G. Cacchione, MD",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Not verified — check Form 990 Schedule J for Thomas Jefferson University (EIN 23-1352651). Joseph Cacchione, MD became President and CEO of Thomas Jefferson University and Jefferson Health in 2022, succeeding Stephen K. Klasko, MD, MBA who resigned in late 2021. Cacchione previously served as Executive Vice President of Cleveland Clinic."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Not verified — check Form 990 Schedule H (Hospitals) for Thomas Jefferson University. Jefferson operates multiple DSH-qualifying hospitals in Philadelphia serving large Medicaid populations. Pennsylvania requires Act 55 community benefit reporting."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Jefferson Health operates 18 hospitals across multiple Pennsylvania and New Jersey counties. Tax-exempt property holdings span Philadelphia, Montgomery, Bucks, and Delaware counties in PA plus Camden, Burlington, and Gloucester counties in NJ. Pennsylvania's Institutions of Purely Public Charity Act (Act 55 of 1997) governs nonprofit hospital property tax exemptions. Bond debt is issued through public authorities (PAID, PEDFA) generating tax-exempt interest subsidies. Multiple Jefferson hospitals qualify as DSH for 340B program participation."
+  },
+
+  "layoffs": [
+    {
+      "date": "2023",
+      "count": null,
+      "notes": "Jefferson Health announced workforce reductions amid financial pressures and post-merger integration challenges; exact count not verified",
+      "source": "Not verified — reported by Philadelphia Inquirer and Becker's Hospital Review"
+    },
+    {
+      "date": "2024",
+      "count": null,
+      "notes": "Additional restructuring and position eliminations reported as Jefferson continued to address operating losses; exact count not verified",
+      "source": "Not verified — reported by Philadelphia Inquirer and healthcare trade media"
+    }
+  ],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Rapid merger-driven expansion — five major mergers/acquisitions in six years (2015-2021) creating integration risk",
+      "Operating margin pressure and reported operating losses in recent fiscal years",
+      "Significant debt load from capital needs across 18-hospital system",
+      "Leadership transition — CEO change in 2022 following controversial departure of predecessor",
+      "High-profile NFL sponsorship spending amid financial challenges and workforce reductions"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": 2015,
+      "target": "Abington Health",
+      "description": "Merger brought Abington Memorial Hospital and Lansdale Hospital into the Jefferson system, expanding into Montgomery County, PA",
+      "source": "Pennsylvania AG filing; public announcements"
+    },
+    {
+      "year": 2016,
+      "target": "Aria Health",
+      "description": "Merger added three hospitals in Northeast Philadelphia and lower Bucks County (Torresdale, Bucks, Frankford campuses)",
+      "source": "Pennsylvania AG filing; public announcements"
+    },
+    {
+      "year": 2017,
+      "target": "Philadelphia University",
+      "description": "Merger with Thomas Jefferson University created combined academic institution; not a hospital acquisition but expanded university footprint and programs including design, engineering, and textiles",
+      "source": "Public announcements; Middle States Commission accreditation records"
+    },
+    {
+      "year": 2018,
+      "target": "Kennedy Health System",
+      "description": "Merger added three hospital campuses in southern New Jersey (Cherry Hill, Stratford, Washington Township), expanding Jefferson across the Delaware River into Camden, Burlington, and Gloucester counties",
+      "source": "New Jersey AG filing; public announcements"
+    },
+    {
+      "year": 2021,
+      "target": "Einstein Healthcare Network",
+      "description": "Merger added Einstein Medical Center Philadelphia, Elkins Park, and Montgomery campuses plus MossRehab; significantly expanded North Philadelphia and Montgomery County presence; added approximately 800 beds",
+      "source": "Pennsylvania AG filing; FTC review (no challenge); public announcements"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not verified this session"
+  },
+
+  "legalIssues": [
+    {
+      "date": "2021",
+      "type": "CEO Departure",
+      "description": "Stephen Klasko, MD, MBA resigned as CEO of Thomas Jefferson University and Jefferson Health amid reported concerns about governance and management; details of separation agreement not fully public",
+      "source": "Philadelphia Inquirer; Becker's Hospital Review"
+    }
+  ],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute — investment portfolio and operating income figures not verified",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — bond debt and community benefit figures not verified",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Cannot compute — charity care and Pennsylvania state average figures not verified"
+  },
+
+  "accusation": "Jefferson Health — operating an 18-hospital system built through five rapid-fire mergers in six years — invested in an NFL jersey patch, training facility naming rights, and official healthcare partnership with the Philadelphia Eagles while reporting operating losses, cutting workforce in multiple rounds of layoffs, and carrying substantial tax-exempt bond debt, all under the shelter of its 501(c)(3) status as Thomas Jefferson University.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. DRAFT — populate with verified numbers after web research. Headline: 'JEFFERSON HEALTH'. Subhead: 'Philadelphia Eagles — Jersey Patch, Training Facility Naming, Official Healthcare Partner'. Data blocks to populate after verification: Total Revenue, CEO Pay (Cacchione), Operating Margin, Investment Portfolio, Bond Debt, Community Benefit. Note 18-hospital system from 5 mergers (2015-2021). Note workforce reductions amid operating losses. Show Eagles partnership since ~2023 with training complex naming Feb 2026. Bottom right: 'THE ROJAS REPORT' in orange Playfair Display small caps."
+}
