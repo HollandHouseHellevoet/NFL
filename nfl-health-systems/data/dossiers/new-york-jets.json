@@ -1,0 +1,175 @@
+{
+  "team": "New York Jets",
+  "conference": "AFC",
+  "division": "East",
+  "city": "East Rutherford",
+  "state": "New Jersey",
+  "healthSystem": "Atlantic Health System",
+  "ein": "22-3110087",
+  "nonprofitType": "501c3",
+  "dealType": ["Training Facility Naming Rights", "Official Healthcare Partner"],
+  "dealAnnounced": "2008 (partnership established with opening of Atlantic Health Jets Training Center in Florham Park, NJ)",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "Form 990 via ProPublica Nonprofit Explorer (EIN 22-3110087); web research blocked by network egress policy during session — all financial figures require verification from most recent 990 filing. Revenue was approximately $1.6B in 2012 per news reports; system has grown substantially since."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Not verified; requires Form 990 Part X review",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified; Atlantic Health System operates five hospitals and numerous outpatient facilities across Morris, Union, Sussex, Warren, and Passaic counties in northern New Jersey",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Atlantic Health System is one of the largest health systems in New Jersey with approximately 18,000 employees. Revenue grew from $1.6B in 2012 to an estimated $3.5B-$4.5B range by FY2022-FY2023 based on system growth trajectory. Exact investment portfolio, net assets, and total assets require verification from Form 990 Part X balance sheet."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": "New Jersey Health Care Facilities Financing Authority (NJHCFFA)",
+    "source": "NJHCFFA is the standard municipal bond issuer for New Jersey nonprofit hospitals; specific Atlantic Health System bond series and outstanding amounts require verification from EMMA/MSRB"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Atlantic Medical Group",
+    "foundationEntity": "Atlantic Health System Foundation",
+    "otherRelatedEntities": [
+      "Morristown Medical Center (flagship, Level I Trauma Center, ~700 beds, teaching hospital affiliated with Sidney Kimmel Medical College)",
+      "Overlook Medical Center (Summit, NJ, ~500 beds)",
+      "Newton Medical Center (Newton, NJ, ~148 beds)",
+      "Chilton Medical Center (Pompton Plains, NJ, ~260 beds)",
+      "Hackettstown Medical Center (Hackettstown, NJ, ~111 beds)",
+      "Goryeb Children's Hospital (within Morristown Medical Center)",
+      "Atlantic Rehabilitation Institute",
+      "Atlantic Home Care and Hospice",
+      "Atlantic Ambulance Corporation"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; Atlantic Health System public disclosures; full subsidiary listing and EINs require verification from most recent Form 990 Schedule R"
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": "Brian Gragnolati",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Brian Gragnolati served as President & CEO from January 2016 until retirement in mid-2023; predecessor Joseph Trunfio received $10,690,000 in 2012 per NJ.com reporting (large payout connected to deferred compensation); Gragnolati compensation breakdown and successor CEO details require verification from Form 990 Part VII"
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "New Jersey requires nonprofit hospital community benefit reporting; Atlantic Health System Schedule H data requires verification from most recent Form 990; NJ community benefit standards and state average comparisons require verification from NJ DHSS data"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Atlantic Health System operates five hospitals and numerous outpatient facilities across Morris, Union, Sussex, Warren, and Passaic counties in New Jersey, all property-tax-exempt under NJ nonprofit hospital exemption. New Jersey corporate business tax rate is 11.5% for income over $10M. Federal income tax foregone on system net income would be substantial. Tax-exempt bond interest subsidy applies to outstanding NJHCFFA-issued debt. Property tax foregone requires county-by-county assessor data aggregation."
+  },
+
+  "layoffs": [],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": "Aa3",
+    "moodysOutlook": "Stable",
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Rating and outlook require verification from most recent Moody's report; Aa3 Stable recalled from training data",
+      "Regional concentration in northern New Jersey",
+      "CEO transition risk following Gragnolati retirement in 2023"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [
+    {
+      "year": null,
+      "entity": "Newton Medical Center",
+      "type": "Nonprofit",
+      "hospitals": 1,
+      "notes": "Community hospital in Sussex County merged into Atlantic Health System; exact year requires verification"
+    },
+    {
+      "year": null,
+      "entity": "Chilton Medical Center",
+      "type": "Nonprofit",
+      "hospitals": 1,
+      "notes": "Formerly Chilton Memorial Hospital in Pompton Plains; merged into Atlantic Health System; exact year requires verification"
+    },
+    {
+      "year": null,
+      "entity": "Hackettstown Medical Center",
+      "type": "Nonprofit",
+      "hospitals": 1,
+      "notes": "Warren County community hospital merged into Atlantic Health System; exact year requires verification"
+    }
+  ],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not verified; web research unavailable"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Not computed; investment portfolio and operating income figures require verification from Form 990",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Not computed; bond debt outstanding and community benefit amounts require verification",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Not computed; charity care figures and New Jersey state average require verification from Schedule H and NJ DHSS data"
+  },
+
+  "accusation": "A multi-billion-dollar tax-exempt health system that put its name on the New York Jets' training facility, paid its prior CEO $10.69 million in a single year, and operates five New Jersey hospitals free of property, income, and sales tax while leveraging tax-exempt bond financing from the state.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Top: small orange-bordered badge 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'ATLANTIC HEALTH SYSTEM'. Subhead cream Source Sans Pro 600: 'New York Jets — Training Facility Naming Rights & Official Healthcare Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Revenue: [VERIFY FROM 990]'. Block 2 — 'Former CEO Pay: $10.69M (Trunfio, 2012)'. Block 3 — 'Hospitals: 5 (NJ)'. Block 4 — 'Credit Rating: Aa3 (Moody’s)'. Single large orange callout number '$10.69M' above headline with Cream 'paid to prior CEO in one year' below in italic. Bottom line in Cream Source Sans Pro 600: 'Named the Jets training center after itself. Five tax-exempt NJ hospitals. Tax-exempt bond financing through NJHCFFA.' Bottom right: 'THE ROJAS REPORT' in orange Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 via ProPublica (EIN 22-3110087) · NJ.com · NJHCFFA · Moody’s.'"
+}
