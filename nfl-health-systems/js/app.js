@@ -142,23 +142,32 @@
 
   function renderGrid() {
     grid.innerHTML = '';
-
-    if (filteredTeams.length === 0) {
-      noResults.hidden = false;
-      return;
-    }
+    if (filteredTeams.length === 0) { noResults.hidden = false; return; }
     noResults.hidden = true;
 
     var frag = document.createDocumentFragment();
-
-    filteredTeams.forEach(function (team, idx) {
+    filteredTeams.forEach(function(team, idx) {
+      var hasPartner = !!team.healthSystem;
       var card = document.createElement('article');
-      card.className = 'team-card' + (team.healthSystemPartner ? '' : ' team-card--no-partner');
+      card.className = 'team-card' + (hasPartner ? '' : ' team-card--no-partner');
       if (expandedIndex === idx) card.className += ' is-expanded';
       card.dataset.index = idx;
       card.setAttribute('tabindex', '0');
       card.setAttribute('role', 'button');
       card.setAttribute('aria-label', 'View details for ' + team.team);
+
+      // Division -- top
+      var divEl = document.createElement('div');
+      divEl.className = 'team-card__division';
+      divEl.textContent = team.conference + ' \u00b7 ' + team.division;
+      card.appendChild(divEl);
+
+      // Chevron
+      var chev = document.createElement('span');
+      chev.className = 'team-card__chevron';
+      chev.setAttribute('aria-hidden','true');
+      chev.textContent = (expandedIndex === idx) ? '\u2212' : '+';
+      card.appendChild(chev);
 
       // Team name
       var nameEl = document.createElement('h3');
@@ -166,17 +175,17 @@
       nameEl.textContent = team.team;
       card.appendChild(nameEl);
 
-      // City, State
+      // City
       var cityEl = document.createElement('div');
       cityEl.className = 'team-card__city';
-      cityEl.textContent = team.city + (team._state ? ', ' + team._state : '');
+      cityEl.textContent = team.city + (team.state ? ', ' + team.state : '');
       card.appendChild(cityEl);
 
-      // Partner name
+      // Health system
       var partnerEl = document.createElement('div');
-      if (team.healthSystemPartner) {
+      if (hasPartner) {
         partnerEl.className = 'team-card__partner';
-        partnerEl.textContent = team.healthSystemPartner;
+        partnerEl.textContent = team.healthSystem;
       } else {
         partnerEl.className = 'team-card__partner team-card__partner--none';
         partnerEl.textContent = 'No confirmed partner';
@@ -186,73 +195,146 @@
       // Badges
       var badgesEl = document.createElement('div');
       badgesEl.className = 'team-card__badges';
-
-      if (team.partnerType) {
-        var ptBadge = document.createElement('span');
-        ptBadge.className = 'badge';
-        ptBadge.textContent = team.partnerType;
-        badgesEl.appendChild(ptBadge);
+      if (team.nonprofitType) {
+        var b1 = document.createElement('span');
+        b1.className = 'badge';
+        b1.textContent = team.nonprofitType;
+        badgesEl.appendChild(b1);
       }
-
       if (team.conState) {
-        var conBadge = document.createElement('span');
-        conBadge.className = 'badge badge--con';
-        conBadge.textContent = 'CON State';
-        badgesEl.appendChild(conBadge);
+        var b2 = document.createElement('span');
+        b2.className = 'badge badge--con';
+        b2.textContent = 'CON State';
+        badgesEl.appendChild(b2);
       }
-
+      if (!hasPartner) {
+        var b3 = document.createElement('span');
+        b3.className = 'badge badge--no-deal';
+        b3.textContent = 'No Deal';
+        badgesEl.appendChild(b3);
+      }
       card.appendChild(badgesEl);
 
-      // Partnership type as text
-      if (team.partnershipType && team.partnershipType.length > 0) {
-        var ptText = document.createElement('div');
-        ptText.className = 'team-card__partnership-type';
-        ptText.textContent = team.partnershipType.join(' \u00b7 ');
-        card.appendChild(ptText);
+      // Deal type
+      if (team.dealType && team.dealType.length) {
+        var dealEl = document.createElement('div');
+        dealEl.className = 'team-card__partnership-type';
+        dealEl.textContent = team.dealType.join(' \u00b7 ');
+        card.appendChild(dealEl);
       }
 
-      // Division
-      var divEl = document.createElement('div');
-      divEl.className = 'team-card__division';
-      divEl.textContent = team.conference + ' ' + team.division;
-      card.appendChild(divEl);
-
-      // Expanded content
-      var expanded = document.createElement('div');
-      expanded.className = 'team-card__expanded';
-
-      if (team.notes) {
-        var notesEl = document.createElement('p');
-        notesEl.className = 'team-card__notes';
-        notesEl.textContent = team.notes;
-        expanded.appendChild(notesEl);
+      // ACCUSATION -- the whole point
+      if (hasPartner && team.accusation) {
+        var accEl = document.createElement('div');
+        accEl.className = 'team-card__accusation';
+        accEl.textContent = team.accusation;
+        card.appendChild(accEl);
       }
 
-      if (team.additionalHealthcareSponsors && team.additionalHealthcareSponsors.length > 0) {
-        var addTitle = document.createElement('div');
-        addTitle.className = 'team-card__additional-title';
-        addTitle.textContent = 'Additional Healthcare Sponsors';
-        expanded.appendChild(addTitle);
+      // Expanded dossier
+      var exp = document.createElement('div');
+      exp.className = 'team-card__expanded';
 
-        var addList = document.createElement('ul');
-        addList.className = 'team-card__additional-list';
-
-        team.additionalHealthcareSponsors.forEach(function (s) {
-          var li = document.createElement('li');
-          li.innerHTML = '<span class="team-card__additional-name">' + esc(s.name) +
-            '</span> <span class="team-card__additional-type">\u2014 ' + esc(s.type) + '</span>';
-          addList.appendChild(li);
-        });
-
-        expanded.appendChild(addList);
+      function dossierRow(label, value, cls) {
+        var row = document.createElement('div');
+        row.className = 'dossier-row';
+        row.innerHTML = '<span class="dossier-label">' + label + '</span>' +
+          '<span class="dossier-value' + (cls ? ' ' + cls : '') + '">' + value + '</span>';
+        exp.appendChild(row);
       }
 
-      card.appendChild(expanded);
+      function fmtM(n) {
+        if (n === null || n === undefined) return null;
+        if (Math.abs(n) >= 1e9) return '$' + (n/1e9).toFixed(2) + 'B';
+        if (Math.abs(n) >= 1e6) return '$' + (n/1e6).toFixed(0) + 'M';
+        return '$' + n.toLocaleString();
+      }
+
+      // === BALANCE SHEET WEALTH — what the P&L hides ===
+      if (team.balanceSheetWealth && team.balanceSheetWealth.investmentPortfolio)
+        dossierRow('Investment Portfolio', fmtM(team.balanceSheetWealth.investmentPortfolio), 'dossier-value--orange');
+
+      if (team.bondDebt && team.bondDebt.totalOutstanding)
+        dossierRow('Tax-Exempt Bond Debt', fmtM(team.bondDebt.totalOutstanding));
+
+      if (team.balanceSheetWealth && team.balanceSheetWealth.realEstateValue)
+        dossierRow('Real Estate', fmtM(team.balanceSheetWealth.realEstateValue));
+
+      // === P&L — what they show ===
+      if (team.financials && team.financials.totalRevenue)
+        dossierRow('Total Revenue', fmtM(team.financials.totalRevenue));
+
+      if (team.financials && team.financials.operatingIncome !== null && team.financials.operatingIncome !== undefined) {
+        var v = team.financials.operatingIncome;
+        var marginStr = team.financials.operatingMarginPct !== null && team.financials.operatingMarginPct !== undefined
+          ? ' \u00b7 ' + team.financials.operatingMarginPct.toFixed(2) + '% margin' : '';
+        dossierRow('Operating Income', (v<0?'-':'') + fmtM(Math.abs(v)) + marginStr, v<0?'dossier-value--loss':'');
+      }
+
+      // === EXEC COMP — what Schedule J hides ===
+      if (team.executiveComp && team.executiveComp.ceoTotalComp) {
+        var ceoName = team.executiveComp.ceoName ? team.executiveComp.ceoName + ' \u00b7 ' : '';
+        dossierRow('CEO Total Comp', ceoName + fmtM(team.executiveComp.ceoTotalComp));
+      }
+      if (team.executiveComp && team.executiveComp.ceoDeferredComp)
+        dossierRow('Deferred Comp', fmtM(team.executiveComp.ceoDeferredComp));
+
+      if (team.executiveComp && team.executiveComp.perks && team.executiveComp.perks.length)
+        dossierRow('Schedule J Perks', team.executiveComp.perks.join(', '));
+
+      // === COMMUNITY BENEFIT — claimed vs actual ===
+      if (team.communityBenefit && team.communityBenefit.claimedAmount)
+        dossierRow('Claimed Community Benefit', fmtM(team.communityBenefit.claimedAmount));
+
+      if (team.communityBenefit && team.communityBenefit.charityCareCostAdjusted)
+        dossierRow('Actual Charity Care (cost-adj)', fmtM(team.communityBenefit.charityCareCostAdjusted), 'dossier-value--loss');
+
+      if (team.communityBenefit && team.communityBenefit.chargemasterMarkupRatio)
+        dossierRow('Chargemaster Markup', team.communityBenefit.chargemasterMarkupRatio.toFixed(1) + 'x');
+
+      // === RELATED ORGS — the architecture ===
+      if (team.relatedOrganizations && team.relatedOrganizations.captiveInsurance)
+        dossierRow('Captive Insurance', team.relatedOrganizations.captiveInsurance);
+
+      if (team.relatedOrganizations && team.relatedOrganizations.foundationEntity)
+        dossierRow('Wealth Holding Entity', team.relatedOrganizations.foundationEntity);
+
+      // === THREE RATIOS ===
+      if (team.ratios && team.ratios.investmentsToOperatingIncome)
+        dossierRow('Investments : Op Income', team.ratios.investmentsToOperatingIncome.toFixed(1) + 'x', 'dossier-value--orange');
+
+      if (team.ratios && team.ratios.bondDebtToCommunityBenefit)
+        dossierRow('Bond Debt : Community Benefit', team.ratios.bondDebtToCommunityBenefit.toFixed(1) + 'x');
+
+      if (team.ratios && team.ratios.charityCarePctVsStateAvg !== null && team.ratios.charityCarePctVsStateAvg !== undefined)
+        dossierRow('Charity Care vs State Avg', team.ratios.charityCarePctVsStateAvg.toFixed(2) + '%',
+                   team.ratios.charityCarePctVsStateAvg < 0 ? 'dossier-value--loss' : '');
+
+      // === LAYOFFS ===
+      if (team.layoffs && team.layoffs.length) {
+        var lay = team.layoffs[team.layoffs.length-1];
+        dossierRow('Layoffs', (lay.count ? lay.count.toLocaleString()+' employees \u00b7 ' : '') + lay.date);
+      }
+
+      // === CREDIT RATING ===
+      if (team.creditRating) {
+        var cr = team.creditRating;
+        var parts = [];
+        if (cr.fitch)  parts.push('Fitch: '+cr.fitch+(cr.fitchOutlook?' ('+cr.fitchOutlook+')':''));
+        if (cr.sp)     parts.push('S&P: '+cr.sp+(cr.spOutlook?' ('+cr.spOutlook+')':''));
+        if (cr.moodys) parts.push("Moody's: "+cr.moodys+(cr.moodysOutlook?' ('+cr.moodysOutlook+')':''));
+        if (parts.length) dossierRow('Credit Rating', parts.join(' \u00b7 '));
+      }
+
+      if (team.program340B && team.program340B.contractPharmacies)
+        dossierRow('340B Pharmacies', team.program340B.contractPharmacies + ' contracts');
+
+      card.appendChild(exp);
       frag.appendChild(card);
     });
-
     grid.appendChild(frag);
   }
+
 
   // --- Counter ---
 
