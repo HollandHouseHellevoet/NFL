@@ -1,0 +1,139 @@
+{
+  "team": "Tampa Bay Buccaneers",
+  "conference": "NFC",
+  "division": "South",
+  "city": "Tampa",
+  "state": "Florida",
+  "healthSystem": "BayCare Health System",
+  "ein": "59-3474479",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner", "Stadium Signage"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "UNVERIFIED — web search budget exhausted and egress proxy blocked access to ProPublica Nonprofit Explorer, IRS EOS, and all external data sources. Form 990 for EIN 59-3474479 must be retrieved from ProPublica Nonprofit Explorer or IRS TEOS to populate FY2023 or FY2024 financials. BayCare Health System Inc is headquartered in Clearwater, Florida and operates approximately 16 hospitals across the Tampa Bay region."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "UNVERIFIED — requires Form 990 Part X (Balance Sheet) for EIN 59-3474479. Check lines for publicly traded securities, other securities, and program-related investments.",
+    "realEstateValue": null,
+    "realEstateSource": "UNVERIFIED — requires Form 990 Part X. BayCare operates approximately 16 hospitals and over 300 outpatient facilities across Hillsborough, Pinellas, Pasco, and Polk counties.",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "UNVERIFIED — BayCare Health System is one of the largest employers in the Tampa Bay area with approximately 30,000+ team members. Financial statements and Form 990 Schedule D would disclose investment and endowment details."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": null,
+    "source": "UNVERIFIED — EMMA (emma.msrb.org) was blocked by egress proxy. BayCare has historically issued tax-exempt revenue bonds through Florida authorities. Search EMMA for obligor 'BayCare Health System' or CUSIP searches to identify outstanding series and amounts."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": null,
+    "foundationEntity": null,
+    "otherRelatedEntities": [],
+    "relatedPartyTransactions": null,
+    "source": "UNVERIFIED — requires Form 990 Schedule R for EIN 59-3474479. Known affiliated entities include BayCare Medical Group (physician group), BayCare Foundation (philanthropic arm), and individual hospital entities such as Morton Plant Hospital, Mease Countryside Hospital, Mease Dunedin Hospital, St. Joseph's Hospital (Tampa), St. Joseph's Women's Hospital, St. Joseph's Children's Hospital, South Florida Baptist Hospital, Bartow Regional Medical Center, Winter Haven Hospital, Winter Haven Women's Hospital, St. Anthony's Hospital, and BayCare Alliant Hospital. Schedule R would confirm all related organizations, EINs, and transaction amounts."
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": null,
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "UNVERIFIED — requires Form 990 Part VII and Schedule J for EIN 59-3474479. Tommy Inzina has served as President and CEO of BayCare Health System but compensation figures must be verified from the filing."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "UNVERIFIED — requires Form 990 Schedule H for EIN 59-3474479 and Florida AHCA hospital financial data. Florida state average charity care percentage needed from Lown Hospitals Index or comparable source."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "UNVERIFIED — BayCare Health System is a tax-exempt 501(c)(3) organization. Florida has no state income tax, so state income tax foregone would be $0. Property tax exemptions across approximately 16 hospitals and 300+ outpatient sites in Hillsborough, Pinellas, Pasco, and Polk counties would represent a significant annual benefit. Florida sales tax exemption rate is 6% plus applicable county surtax."
+  },
+
+  "layoffs": [],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": []
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "UNVERIFIED — check OpenSecrets for BayCare Health System lobbying and political contribution data"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "UNVERIFIED — requires investment portfolio total and operating income from Form 990 to calculate",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "UNVERIFIED — requires total outstanding bond debt from EMMA and community benefit claimed amount from Schedule H to calculate",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "UNVERIFIED — requires charity care amount from Schedule H and Florida state average charity care percentage to calculate"
+  },
+
+  "accusation": "UNVERIFIED — requires verified balance sheet wealth (investment portfolio from Form 990 Part X), community benefit and charity care figures (Schedule H), bond debt (EMMA), and executive compensation (Schedule J) before drafting the accusation sentence per Rojas Report methodology.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. PENDING VERIFICATION: BayCare Health System (EIN 59-3474479), Tampa Bay Buccaneers Official Healthcare Partner with Stadium Signage at Raymond James Stadium. Approximately 16 hospitals across Tampa Bay region. All financial figures require verification from Form 990 and EMMA before populating infographic."
+}
