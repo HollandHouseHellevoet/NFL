@@ -1,0 +1,145 @@
+{
+  "team": "Detroit Lions",
+  "conference": "NFC",
+  "division": "North",
+  "city": "Detroit",
+  "state": "Michigan",
+  "healthSystem": "Henry Ford Health",
+  "ein": "38-1357519",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner", "Stadium Signage"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "Web verification not completed — ProPublica, EMMA, and news sources blocked by network egress policy"
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Schedule D Part V — not verified; requires ProPublica 990 access",
+    "realEstateValue": null,
+    "realEstateSource": "Audited balance sheet or county assessor — not verified",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Henry Ford Health holds investments at system and foundation level; specific figures require Schedule D and audited balance sheet verification via EMMA"
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": "Michigan Finance Authority",
+    "source": "MSRB EMMA — not verified; bonds historically issued through Michigan Finance Authority (formerly Michigan Hospital Finance Authority)"
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": "Health Alliance Plan (HAP)",
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Henry Ford Medical Group",
+    "foundationEntity": "Henry Ford Health Foundation",
+    "otherRelatedEntities": [
+      "Henry Ford Hospital",
+      "Henry Ford Macomb Hospital",
+      "Henry Ford West Bloomfield Hospital",
+      "Henry Ford Wyandotte Hospital",
+      "Henry Ford Jackson Hospital",
+      "Henry Ford Kingswood Hospital"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R — entity names from public records, transaction amounts not verified"
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": "Robert G. Riney",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "ProPublica 990 Schedule J — not verified; Robert G. Riney succeeded Wright L. Lassiter III as President and CEO circa 2022"
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Schedule H Parts I-II — not verified"
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Henry Ford Health benefits from federal and state income tax exemption, property tax exemption on hospital facilities in Michigan, sales tax exemption, tax-exempt bond interest savings through Michigan Finance Authority, and 340B drug pricing; specific dollar estimates require verified financial data"
+  },
+
+  "layoffs": [],
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": []
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute — investment portfolio and operating income not verified",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — bond debt and community benefit amounts not verified",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Cannot compute — charity care and Michigan state average percentages not verified"
+  },
+
+  "accusation": "A tax-exempt nonprofit that operates Health Alliance Plan as a captive insurance subsidiary, carries tax-exempt bond debt through the Michigan Finance Authority, and put its name on Ford Field signage as the Detroit Lions' official healthcare partner.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. NOTE: Financial figures not yet verified — populate infographic only after completing web research to fill null fields in this dossier."
+}

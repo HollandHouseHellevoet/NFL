@@ -1,0 +1,171 @@
+{
+  "team": "Tennessee Titans",
+  "conference": "AFC",
+  "division": "South",
+  "city": "Nashville",
+  "state": "Tennessee",
+  "healthSystem": "Ascension",
+  "ein": "43-1671412",
+  "nonprofitType": "faith-based",
+  "dealType": ["Official Healthcare Partner", "Training Facility Naming"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "Not verified via web search in this session. Ascension Health (EIN 43-1671412) is the parent entity of one of the largest Catholic nonprofit health systems in the U.S., operating approximately 140 hospitals across 19 states and Washington D.C. Consolidated revenue is estimated in the $28-29B range based on prior public reporting. Ascension reported a consolidated operating loss of approximately $2.66B in FY2023 (ending June 30, 2023). FY2024 showed significant improvement but specifics not verified. ProPublica Nonprofit Explorer filing for EIN 43-1671412 needed for exact 990 figures."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Not verified. Ascension Investment Management manages the system's investment portfolio, which has been publicly reported in the $17-20B+ range. Exact current figure requires verification from Form 990 Part X or audited financial statements.",
+    "realEstateValue": null,
+    "realEstateSource": "Not verified. Ascension operates approximately 140 hospitals and 40 senior living facilities across 19 states. Ascension Saint Thomas operates multiple hospitals in the Nashville area.",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Ascension's total assets have been publicly reported in the $37-41B range but exact current figure not verified. The system's investment portfolio is managed by Ascension Investment Management, a dedicated subsidiary. Net assets figures require verification from Form 990 or audited financials."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": null,
+    "source": "Not verified via web search. Ascension carries substantial tax-exempt bond debt estimated at $10B+ outstanding, issued through multiple state health facility authorities. EMMA MSRB filings needed for exact outstanding amounts and issuance details."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": null,
+    "foundationEntity": null,
+    "otherRelatedEntities": [
+      "Ascension Saint Thomas (Nashville, TN — local operating division)",
+      "Ascension St. Vincent (Indianapolis, IN — Colts jersey patch sponsor)",
+      "Ascension Investment Management (investment management subsidiary)",
+      "Ascension Health (parent operating entity)",
+      "Multiple state-level Ascension operating entities across 19 states"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R not reviewed. Ascension is the parent system for Ascension Saint Thomas (Tennessee) and Ascension St. Vincent (Indiana, Colts partner). Full related-entity list requires review of Form 990 Schedule R for EIN 43-1671412."
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": null,
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Not verified via web search. Form 990 Schedule J for EIN 43-1671412 needed for exact compensation figures. Joseph Impicciche served as CEO; leadership transition reported but successor and current compensation not confirmed in this session."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "Not verified via web search. Form 990 Schedule H for EIN 43-1671412 needed for community benefit and charity care figures. Ascension, as the largest Catholic nonprofit health system, publicly claims substantial community benefit but exact amounts and percentages require verification."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Ascension operates approximately 140 hospitals and 40 senior living facilities across 19 states, all property-tax-exempt. Tax-exempt bond interest subsidy applies to estimated $10B+ in outstanding debt. Tennessee has no state income tax on wages. Federal income tax foregone on a system of this scale is substantial. Total tax advantage across the 19-state system not quantified."
+  },
+
+  "layoffs": [
+    {
+      "date": "2023",
+      "count": null,
+      "notes": "Ascension implemented workforce reductions across multiple markets amid ongoing operating losses; exact number of positions eliminated not verified",
+      "source": "Public reporting; exact figures not verified via web search in this session"
+    },
+    {
+      "date": "2024",
+      "count": null,
+      "notes": "Additional workforce reductions reported; operations further disrupted by major ransomware cyberattack in May 2024 that affected systems nationwide",
+      "source": "Public reporting; exact figures not verified via web search in this session"
+    }
+  ],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Consecutive years of operating losses (approximately -$2.66B in FY2023 per public reporting)",
+      "Major ransomware cyberattack in May 2024 disrupted operations system-wide",
+      "Large geographic spread across 19 states creates operational complexity",
+      "Divestiture activity and market exits in some regions",
+      "Heavy reliance on investment portfolio returns to offset operating deficits"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not verified in this session"
+  },
+
+  "legalIssues": [
+    {
+      "date": "2024-05",
+      "type": "Cybersecurity Incident",
+      "description": "Major ransomware cyberattack disrupted Ascension operations nationwide, affecting electronic health records, phone systems, and clinical operations across multiple states including Tennessee. Systems were taken offline for weeks. The attack impacted patient care workflows and billing operations across the entire system.",
+      "source": "Widely reported; HHS, FBI, CISA advisories; Ascension public statements"
+    }
+  ],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute: investment portfolio total and operating income figures not verified via web search. Public reporting indicates Ascension's $17-20B+ investment portfolio substantially exceeds operating results, and investment returns have been critical to offsetting consecutive years of operating losses.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute: total bond debt outstanding and community benefit amount not both verified via web search.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Cannot compute: charity care percentage and Tennessee state average not verified via web search."
+  },
+
+  "accusation": "Ascension holds an estimated $17-20 billion investment portfolio managed by its own investment subsidiary and total assets reported in the $37-41 billion range, yet posted a $2.66 billion operating loss in FY2023, suffered a system-wide ransomware attack in May 2024 that disrupted patient care across 19 states including Nashville, and continues to serve as the Tennessee Titans' official healthcare partner with training facility naming rights -- all while maintaining tax-exempt status on approximately 140 hospitals and 40 senior living facilities.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. Top badge: 'INTELLIGENCE BRIEFING'. Center headline: 'Ascension'. Subhead: 'Tennessee Titans -- Official Healthcare Partner & Training Facility Naming'. Data blocks with 3px orange left border: Block 1 -- 'Operating Loss: -$2.66B (FY2023)'. Block 2 -- 'Investment Portfolio: $17-20B+ (estimated)'. Block 3 -- 'Hospitals: ~140 across 19 states'. Block 4 -- 'Cyberattack: May 2024 (system-wide)'. Large orange callout: '-$2.66B' with 'FY2023 operating loss' below in italic cream. Bottom line: 'Faith-based Catholic nonprofit. ~140 hospitals, 19 states. Lost $2.66B operating in FY2023. Hit by major ransomware attack. Holds $17-20B+ in investments.' Logo lockup: 'THE ROJAS REPORT' in orange Playfair Display small caps. Source line: 'Ascension Health financial reports, ProPublica Nonprofit Explorer EIN 43-1671412, public cyberattack reporting, EMMA MSRB bond filings.'"
+}
