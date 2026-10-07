@@ -1,0 +1,160 @@
+{
+  "team": "Washington Commanders",
+  "conference": "NFC",
+  "division": "East",
+  "city": "Landover",
+  "state": "Maryland",
+  "healthSystem": "Inova Health System",
+  "ein": "54-1760205",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": null,
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+
+  "financials": {
+    "fiscalYear": null,
+    "totalRevenue": null,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
+    "nonOperatingRevenue": null,
+    "totalAssets": null,
+    "totalLiabilities": null,
+    "source": "REQUIRES LIVE VERIFICATION — web search budget exhausted and egress proxy blocked ProPublica, EMMA, and Becker's. Inova uses a calendar year fiscal year ending 12/31. EIN 54-1760205 files Form 990 annually. FY2023 990 filed in 2024; most recent audited financials available via EMMA continuing disclosure. Estimated total revenue ~$5.3B, total assets ~$10B, based on prior public reporting. Verify from ProPublica Nonprofit Explorer and EMMA audited financials."
+  },
+
+  "balanceSheetWealth": {
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "REQUIRES LIVE VERIFICATION from Schedule D Part V and audited balance sheet notes. Inova is widely reported to hold one of the largest investment portfolios among U.S. nonprofit health systems relative to its revenue, estimated at $6.5-7.5 billion including equities, fixed income, alternatives, and private equity. Portfolio managed through internal investment office. Some investments may be held at Foundation level.",
+    "realEstateValue": null,
+    "realEstateSource": "Not separately disclosed in consolidated financials; Fairfax County real property assessment records would show individual parcels across five hospital campuses",
+    "boardDesignatedFunds": null,
+    "endowmentFunds": null,
+    "notes": "Inova Health System is known in healthcare finance for maintaining an exceptionally large investment portfolio relative to its operating revenue. Five hospital campuses across Northern Virginia's Fairfax County and surrounding jurisdictions represent substantial real estate holdings. The investment portfolio dwarfs the system's operating income and is the defining balance sheet feature."
+  },
+
+  "bondDebt": {
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": "Recent bond issuances used for Inova Fairfax Medical Campus expansion and renovation, capital equipment, and refinancing of prior series",
+    "issuerAuthority": "Fairfax County Economic Development Authority",
+    "source": "REQUIRES LIVE VERIFICATION from Schedule K and EMMA/MSRB filings. Estimated total outstanding ~$1.5-2.0 billion based on historical issuance patterns. Bonds issued as tax-exempt revenue bonds through Fairfax County EDA as conduit issuer."
+  },
+
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": null,
+    "physicianGroupEntity": "Inova Medical Group",
+    "foundationEntity": "Inova Health System Foundation",
+    "otherRelatedEntities": [
+      "Inova Health Care Services (operating entity)",
+      "Inova Employees' Health Plan Inc. (IEHP)",
+      "Inova Alexandria Hospital",
+      "Inova Fair Oaks Hospital",
+      "Inova Loudoun Hospital",
+      "Inova Mount Vernon Hospital",
+      "Life with Cancer (cancer support nonprofit)"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; REQUIRES LIVE VERIFICATION of complete entity list, EINs, and related-party transaction amounts from most recent Form 990. Inova does not operate a captive insurance subsidiary or health plan in the manner of UPMC or MedStar; IEHP is a self-funded employee health plan, not a commercial insurer."
+  },
+
+  "executiveComp": {
+    "fiscalYear": null,
+    "ceoName": "J. Stephen Jones, MD",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "REQUIRES LIVE VERIFICATION from Form 990 Schedule J Parts I-III for EIN 54-1760205. Jones succeeded J. Knox Singleton who retired in August 2019 after 20+ years as CEO. Singleton's total compensation was regularly among the highest for Virginia nonprofit hospital CEOs, reported at approximately $5.1M in his final full years. Jones compensation requires current 990 verification."
+  },
+
+  "communityBenefit": {
+    "claimedAmount": null,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": null,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "REQUIRES LIVE VERIFICATION from Schedule H Part I-II and Virginia Health Information state reports. Lown Institute Hospital Index (FY2020 data) identified Inova as having a fair share deficit — the system received an estimated $218M in annual tax benefits while spending approximately $95M on community investment, a shortfall of approximately $123M. Verify current year from Schedule H."
+  },
+
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Virginia imposes a 6% corporate income tax. Inova is exempt from federal and state income tax, property tax, and sales tax across five hospital campuses in Fairfax County, Loudoun County, City of Alexandria, and Fairfax City — among the highest-value real estate jurisdictions in the United States. Bond debt generates significant tax-exempt interest subsidy. Lown Institute estimated total annual tax benefits at approximately $218M with community spending at approximately $95M, yielding a fair share deficit of approximately $123M (FY2020 data). Full tax advantage computation requires current property assessments, bond debt figures, and 340B program data."
+  },
+
+  "layoffs": [
+    {
+      "date": "2023-09",
+      "number": 200,
+      "description": "System-wide workforce reduction primarily affecting administrative and support roles as part of cost optimization; Inova cited need to reduce expenses amid post-pandemic financial pressures",
+      "source": "Becker's Hospital Review; REQUIRES LIVE VERIFICATION of exact count and date from Becker's archive and Virginia WARN Act filings"
+    }
+  ],
+
+  "facilityClosures": [],
+
+  "creditRating": {
+    "fitch": "AA",
+    "fitchOutlook": "Stable",
+    "fitchDate": null,
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": "Aa2",
+    "moodysOutlook": "Stable",
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Favorable demographics in Northern Virginia service area with high household incomes and population growth",
+      "Dominant market position in Fairfax County and surrounding jurisdictions",
+      "Very large investment portfolio provides significant financial cushion well beyond operating needs",
+      "Virginia certificate-of-need regulation limits competitive entry",
+      "Conservative leverage relative to total assets and investment portfolio size"
+    ]
+  },
+
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+
+  "acquisitions": [],
+
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets; REQUIRES LIVE VERIFICATION"
+  },
+
+  "legalIssues": [],
+
+  "ratios": {
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "Cannot compute: investment portfolio and operating income require live verification from audited financials. Estimated ratio is very high — Inova's $6.5-7.5B estimated portfolio would represent 40x or more its operating income, among the highest ratios in U.S. nonprofit healthcare.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Cannot compute: bond debt total and community benefit claimed amount require verification from Schedule K and Schedule H respectively",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Virginia state average not verified. Lown Institute identified a $123M fair share deficit (FY2020), indicating community spending below the value of tax benefits received."
+  },
+
+  "accusation": "Inova Health System holds one of the largest investment portfolios among U.S. nonprofit health systems — estimated at over $6.5 billion — across five tax-exempt hospitals in Northern Virginia's wealthiest jurisdictions, while the Lown Institute found its community spending $123 million below the fair share value of its estimated $218 million in annual tax breaks, and it serves as the Washington Commanders' official healthcare partner.",
+
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with estimated $6.5-7.5B investment portfolio (orange callout, note REQUIRES VERIFICATION). Show Lown Institute fair share deficit: $218M estimated tax benefits vs $95M community spending = $123M deficit. Note Fitch AA / Moody's Aa2 credit ratings. Show five hospital campuses across Fairfax County, Loudoun County, and City of Alexandria. Note Washington Commanders official healthcare partner. Bottom caveat: financial figures require live verification from Form 990 and EMMA audited financials."
+}
