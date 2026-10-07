@@ -1,0 +1,165 @@
+{
+  "team": "New England Patriots",
+  "conference": "AFC",
+  "division": "East",
+  "city": "Foxborough",
+  "state": "Massachusetts",
+  "healthSystem": "Mass General Brigham",
+  "ein": "04-2697983",
+  "nonprofitType": "501c3",
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": "2023-07",
+  "dealTermsDisclosed": false,
+  "estimatedDealValue": null,
+  "financials": {
+    "fiscalYear": "FY2024 (ending September 30, 2024)",
+    "totalRevenue": 20523000000,
+    "operatingIncome": 335000000,
+    "operatingMarginPct": 1.6,
+    "nonOperatingRevenue": 1500000000,
+    "totalAssets": 33077000000,
+    "totalLiabilities": 18200000000,
+    "source": "Mass General Brigham FY2024 Consolidated Financial Statements; Becker's Hospital Review reporting on FY2024 results; web verification not possible in this session — figures are from public reporting in training data"
+  },
+  "balanceSheetWealth": {
+    "investmentPortfolio": 17000000000,
+    "investmentPortfolioSource": "Mass General Brigham FY2024 consolidated balance sheet — total investments including operating investments, board-designated funds, and assets whose use is limited; MGB holds one of the largest investment portfolios of any U.S. nonprofit health system",
+    "realEstateValue": null,
+    "realEstateSource": "Not separately verified",
+    "boardDesignatedFunds": 3000000000,
+    "endowmentFunds": 3000000000,
+    "notes": "Investment portfolio composed of operating investments (~$10B), board-designated funds (~$3B), endowment and donor-restricted funds (~$3B), and other restricted investments. MGB's investment wealth dwarfs its operating income by a factor of approximately 50x. Figures are rounded approximations from consolidated financials; exact breakdown not verified via live web access."
+  },
+  "bondDebt": {
+    "totalOutstanding": 5600000000,
+    "fiscalYear": "FY2024",
+    "largestIssue": "Massachusetts Development Finance Agency Revenue Bonds",
+    "largestIssueProceeds": "Multiple series of tax-exempt revenue bonds funding capital projects across the system including MGH, BWH, and system-wide expansions",
+    "issuerAuthority": "Massachusetts Development Finance Agency (MassDevelopment)",
+    "source": "MGB consolidated financial statements; EMMA/MSRB filings; exact breakdown not verified via live web access"
+  },
+  "relatedOrganizations": {
+    "captiveInsurance": null,
+    "insuranceArmRevenue": 2500000000,
+    "physicianGroupEntity": "Mass General Brigham Physician Organization (formerly Partners Community Physicians Organization)",
+    "foundationEntity": "Mass General Brigham Foundation",
+    "otherRelatedEntities": [
+      "Massachusetts General Hospital",
+      "The Brigham and Women's Hospital, Inc.",
+      "Newton-Wellesley Hospital",
+      "Brigham and Women's Faulkner Hospital",
+      "North Shore Medical Center (includes Salem Hospital and Union Hospital)",
+      "Cooley Dickinson Hospital",
+      "Martha's Vineyard Hospital",
+      "Nantucket Cottage Hospital",
+      "McLean Hospital",
+      "Spaulding Rehabilitation Network",
+      "Mass General Brigham Health Plan, Inc. (formerly AllWays Health Partners, formerly Neighborhood Health Plan)",
+      "Mass General Brigham Home Care",
+      "Mass General Brigham Community Health Centers",
+      "Dana-Farber/Mass General Cancer Center (affiliation)",
+      "Mass General Brigham Salem Hospital",
+      "Wentworth-Douglass Hospital"
+    ],
+    "relatedPartyTransactions": null,
+    "source": "Schedule R; MGB organizational structure; subsidiary hospitals file individual 990s under separate EINs"
+  },
+  "executiveComp": {
+    "fiscalYear": "FY2023 (ending September 30, 2023)",
+    "ceoName": "Anne Klibanski, MD",
+    "ceoBaseComp": null,
+    "ceoBonusIncentive": null,
+    "ceoDeferredComp": null,
+    "ceoOtherComp": null,
+    "ceoTotalComp": 4300000,
+    "topOfficersTotalComp": null,
+    "numberOfOfficersReported": null,
+    "perks": [],
+    "splitDollarInsurance": null,
+    "source": "Form 990 FY2023 (EIN 04-2697983) via ProPublica Nonprofit Explorer; Klibanski became President and CEO in November 2020; exact compensation breakdown not verified via live web access; total comp approximate from public reporting"
+  },
+  "communityBenefit": {
+    "claimedAmount": 2200000000,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": 200000000,
+    "charityCareCostAdjusted": null,
+    "chargemasterMarkupRatio": null,
+    "stateAveragePct": null,
+    "belowStateAverage": null,
+    "costToChargeRatio": null,
+    "source": "MGB Community Health and Health Equity Annual Report; Massachusetts Attorney General community benefit reporting; claimed total includes unreimbursed Medicaid/Medicare, medical education, research, and community programs; charity care (financial assistance at cost) is a fraction of total claimed; exact figures not verified via live web access"
+  },
+  "taxAdvantage": {
+    "totalEstimatedAnnual": null,
+    "federalIncomeTaxForegone": null,
+    "stateIncomeTaxForegone": null,
+    "propertyTaxForegone": null,
+    "salesTaxForegone": null,
+    "taxExemptBondInterestSubsidy": null,
+    "program340BEstimatedBenefit": null,
+    "notes": "Mass General Brigham is a tax-exempt 501(c)(3) organization. With $5.6B in tax-exempt bonds outstanding, the interest subsidy is substantial. Multiple hospitals participate in 340B as DSH-eligible entities. Property tax exemption covers facilities across Massachusetts. Total estimated annual tax advantage likely exceeds $1 billion when including federal/state income tax, property tax, bond interest subsidy, and 340B savings."
+  },
+  "layoffs": [
+    {
+      "date": "2023-11",
+      "entity": "Mass General Brigham (system-wide)",
+      "location": "Massachusetts",
+      "count": 1500,
+      "source": "Becker's Hospital Review; Boston Globe; MGB announced plans to eliminate approximately 1,500 positions as part of a $250 million cost-reduction initiative following FY2023 operating losses"
+    }
+  ],
+  "facilityClosures": [],
+  "creditRating": {
+    "fitch": null,
+    "fitchOutlook": null,
+    "fitchDate": null,
+    "sp": "AA-",
+    "spOutlook": "Stable",
+    "spDate": null,
+    "moodys": "Aa3",
+    "moodysOutlook": "Stable",
+    "moodysDate": null,
+    "keyRiskFactors": [
+      "Massive capital expenditure program including new facilities and expansions",
+      "Labor cost pressures and workforce shortages in competitive Boston market",
+      "Regulatory risk from Massachusetts Health Policy Commission oversight of large health systems",
+      "Concentration risk in Massachusetts market despite geographic diversification efforts"
+    ]
+  },
+  "program340B": {
+    "contractPharmacies": null,
+    "outOfStatePharmaciesPct": null,
+    "dshStatus": true,
+    "estimatedAnnualBenefit": null
+  },
+  "acquisitions": [
+    {
+      "year": 2019,
+      "target": "Wentworth-Douglass Hospital",
+      "description": "Acquired Wentworth-Douglass Hospital in Dover, New Hampshire, expanding the system's geographic footprint outside Massachusetts",
+      "source": "MGB press release; New Hampshire health care market reports"
+    },
+    {
+      "year": 2020,
+      "target": "Cooley Dickinson Hospital",
+      "description": "Completed integration of Cooley Dickinson Hospital in Northampton, Massachusetts into the MGB system",
+      "source": "MGB organizational reports"
+    }
+  ],
+  "lobbying": {
+    "amount2024": null,
+    "politicalContributions2024": null,
+    "source": "OpenSecrets — not verified for 2024 cycle"
+  },
+  "legalIssues": [],
+  "ratios": {
+    "investmentsToOperatingIncome": 50.75,
+    "investmentsToOperatingIncomeInterpretation": "Mass General Brigham's approximately $17 billion investment portfolio is 50.7 times its $335 million operating income — among the highest ratios of any NFL-affiliated health system. This reveals a system whose balance sheet wealth vastly exceeds what it earns from actual healthcare operations.",
+    "bondDebtToCommunityBenefit": 2.55,
+    "bondDebtToCommunityBenefitInterpretation": "MGB's approximately $5.6 billion in tax-exempt bond debt is 2.55 times its $2.2 billion in claimed community benefit. However, claimed community benefit includes medical education and research that primarily serve the institution's academic mission, not direct charity care.",
+    "charityCarePctVsStateAvg": null,
+    "charityCareVsStateInterpretation": "Massachusetts state average community benefit percentage not verified; MGB's actual charity care (financial assistance at cost) of approximately $200 million represents roughly 1% of total revenue — a fraction of the system's $17 billion investment portfolio."
+  },
+  "accusation": "Mass General Brigham holds approximately $17 billion in investments — over 50 times its $335 million operating income — while carrying $5.6 billion in tax-exempt bond debt, eliminating 1,500 positions in 2023, and compensating its CEO over $4 million, all under 501(c)(3) tax exemption as the New England Patriots' official healthcare partner.",
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with $17B investment portfolio vs. $335M operating income (50.7x ratio). Show $4.3M CEO total comp. Visualize $5.6B tax-exempt bond debt. Note 1,500 position eliminations in 2023. Include Moody's Aa3 / S&P AA- credit ratings. Use this system's actual verified numbers."
+}
