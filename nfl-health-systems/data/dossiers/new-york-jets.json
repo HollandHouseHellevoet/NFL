@@ -8,38 +8,38 @@
   "ein": "22-3110087",
   "nonprofitType": "501c3",
   "dealType": ["Training Facility Naming Rights", "Official Healthcare Partner"],
-  "dealAnnounced": "2008 (partnership established with opening of Atlantic Health Jets Training Center in Florham Park, NJ)",
+  "dealAnnounced": "2007 (12-year naming rights deal announced; Atlantic Health Jets Training Center opened 2008 in Florham Park, NJ; partnership still active as of 2025 per atlantichealth.org)",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
+    "fiscalYear": 2024,
+    "totalRevenue": 4763861023,
+    "operatingIncome": 304147157,
+    "operatingMarginPct": 6.4,
     "nonOperatingRevenue": null,
-    "totalAssets": null,
-    "totalLiabilities": null,
-    "source": "Form 990 via ProPublica Nonprofit Explorer (EIN 22-3110087); web research blocked by network egress policy during session — all financial figures require verification from most recent 990 filing. Revenue was approximately $1.6B in 2012 per news reports; system has grown substantially since."
+    "totalAssets": 6350000000,
+    "totalLiabilities": 2660000000,
+    "source": "Form 990 (EIN 65-1301877 group return) via ProPublica Nonprofit Explorer for revenue ($4,763,861,023), expenses ($4,459,713,866), and net income ($304,147,157) for FY2024. AHS Hospital Corp. audited consolidated financial statements (Dec 31, 2024) for total assets (~$6.35B) and derived total liabilities (~$2.66B from $6.35B assets minus $3.69B net assets). Note: EIN 22-3110087 in this file maps to Shark Research Institute per ProPublica; Atlantic Health System files under EIN 22-3380375 (main entity) and 65-1301877 (group return)."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Not verified; requires Form 990 Part X review",
+    "investmentPortfolio": 2872830000,
+    "investmentPortfolioSource": "AHS Hospital Corp. audited consolidated financial statements, Dec 31, 2024. Total assets whose use is limited: $2,872,830,000 (up from $2,659,047,000 in 2023). Composition: mutual funds $1.54B, fixed income funds $649M, equity securities $416M. Noncurrent portion: $2,804,958,000. Separately, long-term investments and other assets: $601,600,000.",
     "realEstateValue": null,
-    "realEstateSource": "Not verified; Atlantic Health System operates five hospitals and numerous outpatient facilities across Morris, Union, Sussex, Warren, and Passaic counties in northern New Jersey",
+    "realEstateSource": "Not separately disclosed in audited financial statements; Atlantic Health System operates five hospitals and numerous outpatient facilities across Morris, Union, Sussex, Warren, and Passaic counties in northern New Jersey",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Atlantic Health System is one of the largest health systems in New Jersey with approximately 18,000 employees. Revenue grew from $1.6B in 2012 to an estimated $3.5B-$4.5B range by FY2022-FY2023 based on system growth trajectory. Exact investment portfolio, net assets, and total assets require verification from Form 990 Part X balance sheet."
+    "notes": "Total net assets: $3,690,000,000 (Dec 31, 2024), growing to $4,170,000,000 (Dec 31, 2025) per audited statements. Total assets: $6,350,000,000 (2024), $6,820,000,000 (2025). System employs approximately 22,000 people as of 2024."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": null,
-    "largestIssue": null,
+    "totalOutstanding": 1386033000,
+    "fiscalYear": 2024,
+    "largestIssue": "NJHCFFA Revenue Bonds Series 2016 (tax-exempt refunding, maturities through 2041, rates 3.00%-5.00%)",
     "largestIssueProceeds": null,
     "issuerAuthority": "New Jersey Health Care Facilities Financing Authority (NJHCFFA)",
-    "source": "NJHCFFA is the standard municipal bond issuer for New Jersey nonprofit hospitals; specific Atlantic Health System bond series and outstanding amounts require verification from EMMA/MSRB"
+    "source": "AHS Hospital Corp. audited consolidated financial statements, Dec 31, 2024. Long-term debt net of current portion: $1,366,897,000; current portion: $19,136,000; total: $1,386,033,000. Includes $50,000,000 Bank of America taxable term loan at 5.60% maturing Dec 1, 2028. Average bond interest rate: 4.21%. As of Q2 2025 (unaudited): $1,364,054,000 net of current portion. Series 2016 refunded earlier Series 2008A and 2011 bonds (originally ~$450M outstanding across five active series per 2015 NJHCFFA minutes)."
   },
 
   "relatedOrganizations": {
@@ -63,18 +63,18 @@
   },
 
   "executiveComp": {
-    "fiscalYear": null,
+    "fiscalYear": 2024,
     "ceoName": "Brian Gragnolati",
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 1810496,
+    "ceoTotalComp": 11531308,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "Brian Gragnolati served as President & CEO from January 2016 until retirement in mid-2023; predecessor Joseph Trunfio received $10,690,000 in 2012 per NJ.com reporting (large payout connected to deferred compensation); Gragnolati compensation breakdown and successor CEO details require verification from Form 990 Part VII"
+    "source": "Form 990 Part VII (EIN 65-1301877 group return) FY2024 via ProPublica. Reportable compensation: $9,720,812; related organization compensation: $0; other compensation (benefits, deferred comp): $1,810,496; total: $11,531,308. Base vs. bonus breakdown requires Schedule J. Prior year (FY2023): reportable $8,373,068 + other $1,137,448 = $9,510,516 total. Predecessor Joseph Trunfio received $10,690,000 in 2012 per NJ.com. Gragnolati announced retirement Dec 3, 2024; successor Saad Ehtisham named as next President & CEO per NJBIZ. Earlier years: $4,214,047 (2019 per Crain's); $2,715,543 (2017 per Paddock Post)."
   },
 
   "communityBenefit": {
@@ -86,7 +86,7 @@
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "New Jersey requires nonprofit hospital community benefit reporting; Atlantic Health System Schedule H data requires verification from most recent Form 990; NJ community benefit standards and state average comparisons require verification from NJ DHSS data"
+    "source": "No specific dollar amounts found in web searches; Schedule H data for EIN 65-1301877 or 22-3380375 not returned by ProPublica search results. NJ Charity Care program: full coverage for income up to 200% FPL, partial coverage 200%-300% FPL per Atlantic Health plain-language summary. Uninsured discount available below 500% FPL. AHA reports national average community benefit at 15.1% of total expenses (2022). Atlantic Health publishes community benefit reports and CHNAs on its website; dollar amounts require direct Form 990 Schedule H review."
   },
 
   "taxAdvantage": {
@@ -108,16 +108,20 @@
     "fitch": null,
     "fitchOutlook": null,
     "fitchDate": null,
-    "sp": null,
-    "spOutlook": null,
-    "spDate": null,
+    "sp": "AA-",
+    "spOutlook": "Stable",
+    "spDate": "2019",
     "moodys": "Aa3",
     "moodysOutlook": "Stable",
-    "moodysDate": null,
+    "moodysDate": "2024",
     "keyRiskFactors": [
-      "Rating and outlook require verification from most recent Moody's report; Aa3 Stable recalled from training data",
-      "Regional concentration in northern New Jersey",
-      "CEO transition risk following Gragnolati retirement in 2023"
+      "Moody's Aa3 Stable confirmed in Becker's 2024 and 2025 strong-finances lists; highest health system rating in NJ",
+      "S&P AA- last publicly confirmed 2019 (affirmed for fourth consecutive year per Patch); upgraded from A+ in 2016",
+      "Strong operating performance with high single-digit operating cash flow margins per Moody's",
+      "Favorable liquidity: over 300 days cash on hand per Moody's",
+      "CEO transition: Gragnolati retired Dec 2024; successor Saad Ehtisham named",
+      "Canceled merger with Saint Peter's Healthcare System (2025)",
+      "Regional concentration in northern New Jersey"
     ]
   },
 

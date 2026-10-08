@@ -8,19 +8,29 @@
   "ein": "54-1760205",
   "nonprofitType": "501c3",
   "dealType": ["Official Healthcare Partner"],
-  "dealAnnounced": null,
+  "dealAnnounced": "2017",
   "dealTermsDisclosed": false,
+  "dealEndDate": "2021-04",
+  "dealNotes": "10-year agreement announced 2017 per Washington Post; financial terms not disclosed. Inova ended partnership in April 2021, approximately 5 years early, citing decision to focus on orthopedic and musculoskeletal growth. Sponsorship as Official Health System continued through 2021 season. Current Commanders health partners include VHC Health (women's health, Oct 2023) and OrthoVirginia (orthopedic/sports medicine, Sept 2022).",
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
-    "nonOperatingRevenue": null,
-    "totalAssets": null,
-    "totalLiabilities": null,
-    "source": "REQUIRES LIVE VERIFICATION — web search budget exhausted and egress proxy blocked ProPublica, EMMA, and Becker's. Inova uses a calendar year fiscal year ending 12/31. EIN 54-1760205 files Form 990 annually. FY2023 990 filed in 2024; most recent audited financials available via EMMA continuing disclosure. Estimated total revenue ~$5.3B, total assets ~$10B, based on prior public reporting. Verify from ProPublica Nonprofit Explorer and EMMA audited financials."
+    "fiscalYear": "2025",
+    "totalRevenue": 7300000000,
+    "operatingIncome": 582700000,
+    "operatingMarginPct": 8.0,
+    "nonOperatingRevenue": 1417300000,
+    "netIncome": 2000000000,
+    "totalAssets": 14670000000,
+    "totalLiabilities": 3580000000,
+    "priorYear": {
+      "fiscalYear": "2024",
+      "totalRevenue": 6550000000,
+      "operatingIncome": 366800000,
+      "operatingMarginPct": 5.6,
+      "netIncome": 1300000000
+    },
+    "source": "FY2025 (12 months ended Dec 31, 2025) operating data from Becker's Hospital Review reporting on EMMA continuing disclosure. Total operating revenue $7.3B (+11.5% YoY), net patient service revenue $6.8B (+10.7%). Operating income $582.7M (8.0% margin), up from $366.8M (5.6%) in FY2024. Net income $2.0B (FY2025), $1.3B (FY2024). Non-operating revenue of $1.417B estimated as net income minus operating income, driven primarily by investment returns on $9.5B portfolio. Balance sheet figures (total assets $14.67B, total liabilities $3.58B) from Ernst & Young audited consolidated financial statements as of Dec 31, 2024. FY2024 revenue of $6.55B is estimated from 11.5% growth rate. Obligated group for bond purposes consists of Inova Health System Foundation (EIN 54-1071867) and Inova Health Care Services (EIN 54-0620889). EIN 54-1760205 not found on ProPublica; primary 990 filings are under those two EINs."
   },
 
   "balanceSheetWealth": {

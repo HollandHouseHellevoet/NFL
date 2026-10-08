@@ -8,38 +8,47 @@
   "ein": "22-1601338",
   "nonprofitType": "501c3",
   "dealType": ["Official Healthcare Partner"],
-  "dealAnnounced": null,
+  "dealAnnounced": "Pre-2016 (partnership predates 2016 merger; Hackensack UMC long served as Hometown Hospital of the Giants)",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
+    "fiscalYear": 2024,
+    "totalRevenue": 8846442863,
     "operatingIncome": null,
     "operatingMarginPct": null,
     "nonOperatingRevenue": null,
-    "totalAssets": null,
-    "totalLiabilities": null,
-    "source": "Not verified — web search unavailable this session. Hackensack Meridian Health Inc. (EIN 22-1601338) files Form 990 on a calendar year basis. Consolidated audited financials are filed with EMMA via NJ Health Care Facilities Financing Authority bond disclosures. FY ends December 31. System formed July 1, 2016 from merger of Hackensack University Health Network and Meridian Health. Operates 18 hospitals and 500+ patient care locations across New Jersey with approximately 36,000 employees."
+    "excessRevenueOverExpenses": 534744396,
+    "totalExpenses": 8311698467,
+    "totalAssets": 7606228788,
+    "totalLiabilities": 1692330815,
+    "netAssets": 5913897973,
+    "source": "Form 990 FY2024 (calendar year ending Dec 2024) for Hackensack Meridian Health Inc-Subordinates, EIN 01-0649794, via ProPublica Nonprofit Explorer. This is the group return with subordinates; the consolidated audited financial statements (filed with EMMA via NJHCFFA) show higher total assets (~$10.1B at Q1 2023) because they consolidate additional entities. Operating income is not separable from the 990 excess-of-revenue-over-expenses figure, which includes investment gains and other non-operating items. FY2022 operating income was $97.5M on $6.8B revenue per Becker's. Monthly NJ DHSS metrics showed 3.1% operating margin in April 2023. System targets 5% operating margin for FY2025. FY ends December 31."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Not verified — check Hackensack Meridian Health consolidated audited financial statements (Notes to Consolidated Balance Sheet) for total investments including cash equivalents, short-term and long-term investments, board-designated funds, and assets whose use is limited",
+    "investmentPortfolio": 4320310000,
+    "investmentPortfolioSource": "HMH Q1 2023 unaudited consolidated financial statements: current investments and assets limited as to use $1,147,254,000 + non-current investments and assets limited as to use $3,173,056,000 = $4,320,310,000 at March 31, 2023. Institutional Investor reported CIO Donna Snider oversees a $6 billion balance sheet. MarketBeat 13F filing shows $902.81M in publicly traded U.S. equity/ETF holdings as of June 30, 2025. The $4.3B figure is the most conservative verifiable number from official filings; the $6B press figure may include pension assets and other categories.",
+    "investmentPortfolioAsOfDate": "2023-03-31",
     "realEstateValue": null,
-    "realEstateSource": "Not verified — check county property assessment records across Bergen, Hudson, Monmouth, Ocean, Middlesex, Passaic, and other NJ counties where HMH operates facilities",
+    "realEstateSource": "Not verified — check county property assessment records across Bergen, Hudson, Monmouth, Ocean, Middlesex, Passaic, and other NJ counties where HMH operates 18 hospitals and 500+ locations",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Hackensack Meridian Health operates 18 hospitals including the flagship Hackensack University Medical Center, Jersey Shore University Medical Center, and JFK University Medical Center. The system spans New Jersey from Bergen County to Ocean County. Consolidated unrestricted cash and investments should be verified from the audited balance sheet filed with EMMA. Investment portfolio and board-designated funds are likely held at the parent entity and foundation level."
+    "publiclyTradedSecurities13F": 902810000,
+    "publiclyTradedSecurities13FAsOf": "2025-06-30",
+    "notes": "Hackensack Meridian Health operates 18 hospitals including flagship Hackensack University Medical Center, Jersey Shore University Medical Center, and JFK University Medical Center. The consolidated balance sheet (Q1 2023 unaudited) showed total assets of $10,137,843,000, significantly higher than the $7.6B reported on the FY2024 Form 990 group return, because the audited statements consolidate additional entities. The Hackensack Meridian Health Defined Benefit Plan holds approximately $1.5B in pension fund assets per Institutional Investor."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": null,
-    "largestIssue": null,
-    "largestIssueProceeds": null,
+    "totalOutstanding": 3049000000,
+    "totalOutstandingAsOfDate": "2023-03-31",
+    "fiscalYear": 2023,
+    "largestIssue": "Series 2017A Revenue Bonds (NJ Health Care Facilities Financing Authority)",
+    "largestIssueProceeds": 588800000,
+    "series2017ATaxExempt": 588800000,
+    "series2017Taxable": 300000000,
     "issuerAuthority": "New Jersey Health Care Facilities Financing Authority (NJHCFFA)",
-    "source": "Not verified — check EMMA (Electronic Municipal Market Access) for all outstanding Hackensack Meridian Health revenue bond series issued through the NJHCFFA. Multiple series outstanding including bonds issued for the 2016 merger and subsequent capital expansion. Also check Form 990 Schedule K for tax-exempt bond detail."
+    "source": "Total outstanding from HMH Q1 2023 unaudited consolidated financial statements: long-term debt and capital lease obligations net of current maturities ~$2,990,000,000 + current maturities ~$59,000,000 = ~$3,049,000,000 at March 31, 2023 (vs ~$3,157,000,000 at Dec 31, 2022). Series 2017A from NJHCFFA April 2017 meeting minutes: ~$588.8M publicly issued tax-exempt bonds rated AA- by Fitch and A+ by S&P, plus $300M taxable series. Serial bonds mature 2020-2040, term bonds 2043/2047/2052/2057. Proceeds refinanced legacy Hackensack UMC and Meridian Health obligations under a new Master Trust Indenture plus reimbursed Hope Tower project costs. Current total outstanding not verified — check EMMA continuing disclosure filings for updated figure."
   },
 
   "relatedOrganizations": {
@@ -70,30 +79,41 @@
   },
 
   "executiveComp": {
-    "fiscalYear": null,
+    "fiscalYear": 2024,
     "ceoName": "Robert C. Garrett",
+    "ceoReportableComp": 10828094,
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 2713496,
+    "ceoTotalComp": 13541590,
+    "priorYearCeoTotalComp": 7772269,
+    "priorYearFiscalYear": 2023,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "Not verified — check Form 990 Schedule J Parts I-III for Hackensack Meridian Health Inc. (EIN 22-1601338). Robert C. Garrett has served as CEO since the 2016 merger (previously CEO of Hackensack University Health Network). Garrett's total compensation has been widely reported by Becker's Hospital Review and NJ media as among the highest for nonprofit hospital CEOs in New Jersey. Compensation is reported as being paid primarily through related organizations rather than the filing entity. Check Schedule J Part III for deferred compensation, split-dollar life insurance, and other supplemental arrangements."
+    "source": "Form 990 FY2024 Part VII and Schedule J for EIN 01-0649794 via ProPublica Nonprofit Explorer. Garrett listed as CEO/Trustee with $10,828,094 reportable compensation (from organization and related organizations combined) and $2,713,496 estimated other compensation (deferred comp, nontaxable benefits). Total = $13,541,590. The $10.8M figure appears in both the parent and affiliated filings, indicating compensation flows through related organizations. Prior year (FY2023): $7,711,687 reportable + $60,582 other = $7,772,269. Base/bonus/deferred breakdown not available from 990 summary; requires Schedule J Part II detail. Garrett announced retirement effective June 30, 2026; will serve as CEO Emeritus for up to one year. Board conducting national search for successor, expects to name one by end of Q1 2027. Historical: $4.5M reported for 2016 per HPAE."
   },
 
   "communityBenefit": {
-    "claimedAmount": null,
+    "claimedAmount": 255100000,
+    "claimedAmountFiscalYear": 2017,
     "claimedPctOfRevenue": null,
-    "charityCareClaimedAmount": null,
+    "charityCareClaimedAmount": 158100000,
+    "charityCareClaimedAmountFiscalYear": 2017,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
-    "belowStateAverage": null,
+    "belowStateAverage": false,
     "costToChargeRatio": null,
-    "source": "Not verified — check Form 990 Schedule H (Hospitals) for Hackensack Meridian Health. New Jersey requires nonprofit hospitals to report community benefit. NJ charity care is partially funded through a state hospital care payment assistance fund (Charity Care Subsidy Program) per N.J.S.A. 26:2H-18. Verify NJ state average community benefit percentage from NJ DHSS Hospital Performance Report."
+    "lownInstituteFairShareSurplus": 358000000,
+    "lownInstituteFairShareYear": "2024 report (based on 2021 filing data)",
+    "lownInstituteRanking": "Largest fair share surplus in the nation; #1 health system nationally",
+    "lownTopHospitals": 9,
+    "hackensackUMCFairShareAmount": 96291000,
+    "charityCarePolicyThreshold": "100% free care at or below 200% FPL; sliding scale above; insured patients with out-of-pocket exceeding 30% of gross annual income",
+    "source": "Community benefit total of $255.1M and charity care of $158.1M from HMH 2017 Community Benefit Report. Current-year Schedule H amounts not located in web search. Lown Institute 2024 report: HMH had largest fair share surplus in the nation at $358M, meaning community investment spending exceeded value of tax exemption by that amount. Nine HMH hospitals earned Top Hospital for Fair Share Spending designation. Hackensack UMC alone had $96.3M fair share amount. Note: AHA disputes Lown methodology as selectively excluding Medicare/Medicaid underpayments. Charity care policy thresholds from CareRoute.ai (unverified third-party source). NJ charity care partially funded via state Charity Care Subsidy Program per N.J.S.A. 26:2H-18."
   },
 
   "taxAdvantage": {
@@ -107,20 +127,47 @@
     "notes": "Hackensack Meridian Health operates 18 hospitals and 500+ care locations across New Jersey, all property-tax-exempt. NJ has a 9% corporate business tax rate (11.5% surcharge for income over $1M). Bond debt is issued through the NJ Health Care Facilities Financing Authority generating substantial tax-exempt interest subsidies. Multiple HMH hospitals qualify as DSH for 340B program participation. NJ has a 6.625% sales and use tax from which HMH is exempt on qualifying purchases."
   },
 
-  "layoffs": [],
+  "layoffs": [
+    {
+      "date": "2020-12-31",
+      "numberOfEmployees": 754,
+      "entity": "Hackensack Meridian Health",
+      "location": "Edison, NJ",
+      "type": "WARN Act notice",
+      "source": "NJ WARN Act filing via WARNTracker"
+    },
+    {
+      "date": "2021-01-31",
+      "numberOfEmployees": 181,
+      "entity": "Hackensack Meridian Health - Long Term Care",
+      "location": "Edison, NJ",
+      "type": "WARN Act notice",
+      "source": "NJ WARN Act filing via WARNTracker and Kadoa"
+    },
+    {
+      "date": "2023-03-31",
+      "numberOfEmployees": 108,
+      "entity": "Hackensack Meridian Ambulatory Care",
+      "location": "Red Bank, NJ",
+      "type": "WARN Act notice",
+      "source": "NJ WARN Act filing via WARNTracker"
+    }
+  ],
 
   "facilityClosures": [],
 
   "creditRating": {
-    "fitch": null,
-    "fitchOutlook": null,
-    "fitchDate": null,
-    "sp": null,
-    "spOutlook": null,
-    "spDate": null,
+    "fitch": "AA-",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2024-08",
+    "sp": "AA-",
+    "spOutlook": "Stable",
+    "spDate": "2024-08",
     "moodys": null,
     "moodysOutlook": null,
     "moodysDate": null,
+    "commercialPaperRating": "Highest possible rating assigned by both Fitch and S&P",
+    "priorRating2017": "A+ (S&P) / AA- (Fitch) on Series 2017A bonds",
     "keyRiskFactors": [
       "Post-merger integration of multiple legacy hospital systems across diverse NJ markets",
       "High labor costs in the northern New Jersey and New York metropolitan market",
@@ -132,9 +179,23 @@
 
   "program340B": {
     "contractPharmacies": null,
+    "knownContractPharmacyArrangements": [
+      {
+        "coveredEntity": "Jersey Shore University Medical Center (Ryan White Part B)",
+        "pharmacy": "Hackensack Meridian Health Pharmacy @ JE, Neptune, NJ",
+        "contractBeginDate": "2024-07-01"
+      },
+      {
+        "coveredEntity": "Early Intervention Program (Ryan White Part A, Perth Amboy)",
+        "pharmacy": "Hackensack Meridian Health Pharmacy, Eatontown, NJ",
+        "contractBeginDate": "2025-04-01"
+      }
+    ],
+    "coveredEntityRegistrations": "Multiple Hackensack University Medical Center DSH outpatient sites registered April 2025 with participating start date July 1, 2025. Authorizing official: William James Carroll (Chief Pharmacy Officer). 340B Program Manager: Sheba Saggu.",
     "outOfStatePharmaciesPct": null,
     "dshStatus": true,
-    "estimatedAnnualBenefit": null
+    "estimatedAnnualBenefit": null,
+    "source": "HRSA 340B OPAIS database (2024-2025 snapshots). Total contract pharmacy count not determinable from web search; requires querying live HRSA database across all HMH covered entity IDs."
   },
 
   "acquisitions": [

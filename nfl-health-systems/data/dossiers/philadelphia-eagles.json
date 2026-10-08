@@ -8,38 +8,38 @@
   "ein": "23-1352651",
   "nonprofitType": "501c3",
   "dealType": ["Naming Rights", "Jersey Patch", "Official Healthcare Partner"],
-  "dealAnnounced": "Jersey patch and official healthcare partnership announced circa 2023 NFL season; Jefferson Health Training Complex naming rights effective February 2026",
+  "dealAnnounced": "Practice jersey patch and official healthcare partnership announced August 2023 (replacing Rothman Orthopaedics on patch); Jefferson Health Training Complex naming rights announced February 17, 2026 (replacing NovaCare Complex name in use since 2001); multiyear extension of partnership",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
-    "nonOperatingRevenue": null,
-    "totalAssets": null,
+    "fiscalYear": "FY2025 (ended June 30, 2025)",
+    "totalRevenue": 15800000000,
+    "operatingIncome": -196000000,
+    "operatingMarginPct": -1.2,
+    "nonOperatingRevenue": 271000000,
+    "totalAssets": 18291623000,
     "totalLiabilities": null,
-    "source": "Not verified — web search unavailable this session. Thomas Jefferson University (EIN 23-1352651) files consolidated Form 990 covering Jefferson Health. ProPublica Nonprofit Explorer and audited financials are the primary sources. FY ends June 30."
+    "source": "Thomas Jefferson University consolidated audited financial statements FY2025 and Becker's Hospital Review (Aug 2025). Total revenue rose 57.6% YoY due to Lehigh Valley Health Network merger (closed Aug 1, 2024; 11 months included). Operating loss of $196M (-1.2% margin); $170M of that loss attributable to Jefferson Health Plans (GLP-1 drug costs). Excluding insurance arm, operating loss was $25.6M. Total assets in thousands per audit: $18,291,623. Non-operating investment income of ~$271M per Fitch. FY2024 operating income was ~$1.3M (essentially breakeven). FY ends June 30. ProPublica Nonprofit Explorer: EIN 23-1352651."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Not verified — check Thomas Jefferson University consolidated financial statements and Form 990 Part X for total investments",
+    "investmentPortfolio": 4000000000,
+    "investmentPortfolioSource": "Russell Investments case study (c. 2023): Jefferson investment office oversees 'over $4 billion of non-qualified and qualified assets' plus $2.2 billion in defined contribution assets. FY2024 audit shows investments held by Methodist Hospital Foundation and Magee Rehabilitation Hospital Foundation totaling ~$3.92B (a subset of system total). Endowment payout was $150.1M in FY2024 (up from $134.9M in FY2023); net realized/unrealized gains of $247.6M in FY2024.",
     "realEstateValue": null,
-    "realEstateSource": "Not verified — check Philadelphia and suburban county property assessment records for tax-exempt holdings",
+    "realEstateSource": "Not verified — check Philadelphia, Montgomery, Bucks, Delaware county (PA) and Camden, Burlington, Gloucester county (NJ) property assessment records for tax-exempt holdings across 18+ hospital campuses",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Thomas Jefferson University is the parent entity and holds the endowment and investment portfolio for the combined Jefferson enterprise. The university merged with Philadelphia University in 2017. Jefferson Health operates 18 hospitals across Pennsylvania and New Jersey following mergers with Abington Health (2015), Aria Health (2016), Kennedy Health (2018), and Einstein Healthcare Network (2021)."
+    "notes": "Thomas Jefferson University is the parent entity and holds the endowment and investment portfolio for the combined Jefferson enterprise. The university merged with Philadelphia University in 2017. Jefferson Health now operates 18+ hospitals across Pennsylvania and New Jersey following mergers with Abington Health (2015), Aria Health (2016), Kennedy Health (2018), Einstein Healthcare Network (2021), and Lehigh Valley Health Network (2024). Post-LVHN merger, total assets jumped from ~$11.8B to ~$18.3B."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": null,
+    "totalOutstanding": 5077672000,
+    "fiscalYear": "FY2025 (ended June 30, 2025)",
     "largestIssue": null,
     "largestIssueProceeds": null,
     "issuerAuthority": "Philadelphia Authority for Industrial Development (PAID); Pennsylvania Economic Development Financing Authority (PEDFA)",
-    "source": "Not verified — check EMMA (Electronic Municipal Market Access) for Jefferson Health / Thomas Jefferson University outstanding bond issues through PAID and PEDFA"
+    "source": "Thomas Jefferson University consolidated audited financial statements FY2025: total revenue bonds $5,077,672 (in thousands), up from $3,440,830 in FY2024. Total long-term debt obligations $5,282,201 (in thousands). Increase reflects assumption of LVHN debt in merger. Historical PEDFA issues include Series 1998A ($141.6M) and Series 2005B ($54.4M), likely since refunded. EMMA (emma.msrb.org) has series-level detail by obligor."
   },
 
   "relatedOrganizations": {
@@ -64,30 +64,30 @@
   },
 
   "executiveComp": {
-    "fiscalYear": null,
+    "fiscalYear": "FY2025 (ended June 30, 2025)",
     "ceoName": "Joseph G. Cacchione, MD",
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
     "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoTotalComp": 6932295,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "Not verified — check Form 990 Schedule J for Thomas Jefferson University (EIN 23-1352651). Joseph Cacchione, MD became President and CEO of Thomas Jefferson University and Jefferson Health in 2022, succeeding Stephen K. Klasko, MD, MBA who resigned in late 2021. Cacchione previously served as Executive Vice President of Cleveland Clinic."
+    "source": "ProPublica Nonprofit Explorer Form 990 Part VII for EIN 23-1352651: Cacchione total compensation $6,932,295. Philadelphia Inquirer (July 2026) reports ~$7M for CY2024, highest among Philadelphia-area nonprofit health system CEOs. Prior year (FY2024): $5,674,228 per ProPublica / ~$5.38M per Inquirer. Contract extended through 2029. Baligh R. Yehia (President, Jefferson Health) reported at $3,159,075. Former CEO Stephen K. Klasko collected $8M in CY2022 separation; cumulative total of $48.7M over 8.5 years as CEO. Breakdown of base/bonus/deferred/other not available from search — check Schedule J."
   },
 
   "communityBenefit": {
-    "claimedAmount": null,
-    "claimedPctOfRevenue": null,
+    "claimedAmount": 754000000,
+    "claimedPctOfRevenue": 7.5,
     "charityCareClaimedAmount": null,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "Not verified — check Form 990 Schedule H (Hospitals) for Thomas Jefferson University. Jefferson operates multiple DSH-qualifying hospitals in Philadelphia serving large Medicaid populations. Pennsylvania requires Act 55 community benefit reporting."
+    "source": "Jefferson Health website: 'nearly $754 million in charitable care and community benefit (FY24).' Percentage estimated against ~$10B consolidated operating revenue for FY2024. Includes charity care, medical education, subsidized health services, research, prevention/screening programs, and in-kind grants — charity care alone not broken out in available sources. FY2020 total was $448M per earlier Jefferson report. Pennsylvania requires Act 55 community benefit reporting. Check Form 990 Schedule H for individual hospital entities for charity care line items."
   },
 
   "taxAdvantage": {
@@ -103,37 +103,51 @@
 
   "layoffs": [
     {
-      "date": "2023",
-      "count": null,
-      "notes": "Jefferson Health announced workforce reductions amid financial pressures and post-merger integration challenges; exact count not verified",
-      "source": "Not verified — reported by Philadelphia Inquirer and Becker's Hospital Review"
+      "date": "2023-07",
+      "count": 400,
+      "notes": "Cut ~1% of workforce (~400 positions), concentrated in corporate and administrative roles, as part of plan to reduce costs by $300 million",
+      "source": "Philadelphia Inquirer (July 2023); WHYY; Becker's Hospital Review"
     },
     {
-      "date": "2024",
-      "count": null,
-      "notes": "Additional restructuring and position eliminations reported as Jefferson continued to address operating losses; exact count not verified",
-      "source": "Not verified — reported by Philadelphia Inquirer and healthcare trade media"
+      "date": "2025-01",
+      "count": 171,
+      "notes": "Back-office layoffs affecting billing, insurance preauthorization, and clinical documentation roles; related to outsourcing of back-office functions",
+      "source": "Philadelphia Inquirer (Jan 2025)"
+    },
+    {
+      "date": "2025-03",
+      "count": 271,
+      "notes": "Lehigh Valley Health Network (acquired Aug 2024) laid off 271 workers; LVHN spokesperson said cuts were unrelated to the merger",
+      "source": "Healthcare Dive; Philadelphia Inquirer"
+    },
+    {
+      "date": "2025-10",
+      "count": 650,
+      "notes": "Cut ~1% of 65,000-employee workforce (600-700 positions) amid $196M operating loss; Jefferson said layoffs are part of integration strategy and expanding presence between Philadelphia and Lehigh Valley. Fitch lowered outlook to Negative same month.",
+      "source": "Fierce Healthcare; Philadelphia Inquirer; Healthcare Finance News; Newsweek"
     }
   ],
 
   "facilityClosures": [],
 
   "creditRating": {
-    "fitch": null,
-    "fitchOutlook": null,
-    "fitchDate": null,
-    "sp": null,
-    "spOutlook": null,
-    "spDate": null,
-    "moodys": null,
-    "moodysOutlook": null,
-    "moodysDate": null,
+    "fitch": "A",
+    "fitchOutlook": "Negative",
+    "fitchDate": "2025-10",
+    "sp": "A",
+    "spOutlook": "Negative",
+    "spDate": "2026-01",
+    "moodys": "A3",
+    "moodysOutlook": "Negative",
+    "moodysDate": "2025-12",
     "keyRiskFactors": [
-      "Rapid merger-driven expansion — five major mergers/acquisitions in six years (2015-2021) creating integration risk",
-      "Operating margin pressure and reported operating losses in recent fiscal years",
-      "Significant debt load from capital needs across 18-hospital system",
-      "Leadership transition — CEO change in 2022 following controversial departure of predecessor",
-      "High-profile NFL sponsorship spending amid financial challenges and workforce reductions"
+      "All three agencies moved to Negative outlook in late 2025 / early 2026",
+      "Fitch cited $170M loss from Jefferson Health Plans (Medicaid managed care) and expects 'measured recovery' over 24-36 months",
+      "Moody's cited margins below expectations and likelihood of further liquidity decline; days cash on hand fell from ~140 to ~114",
+      "S&P cited magnitude of operating losses and 'anticipated difficulties in returning to or near operating profitability for several years'",
+      "Rapid merger-driven expansion — six major mergers (2015-2024 including LVHN) creating ongoing integration risk across $16B enterprise",
+      "$5.1B in tax-exempt revenue bonds outstanding (FY2025), up from $3.4B pre-LVHN merger",
+      "High-profile NFL sponsorship spending (Eagles jersey patch, training complex naming) amid $196M operating loss and ~1,000 layoffs in 2025"
     ]
   },
 
@@ -194,14 +208,14 @@
 
   "ratios": {
     "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Cannot compute — investment portfolio and operating income figures not verified",
-    "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — bond debt and community benefit figures not verified",
+    "investmentsToOperatingIncomeInterpretation": "Not meaningful — Jefferson posted a -$196M operating loss in FY2025. Investment portfolio (~$4B) represents ~20x the absolute value of the operating loss, indicating substantial accumulated wealth despite sustained operating deficits.",
+    "bondDebtToCommunityBenefit": 6.73,
+    "bondDebtToCommunityBenefitInterpretation": "For every $1 of claimed community benefit ($754M FY2024), Jefferson carries $6.73 in tax-exempt bond debt ($5.08B FY2025). Bond debt increased 48% in one year due to LVHN merger.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Cannot compute — charity care and Pennsylvania state average figures not verified"
+    "charityCareVsStateInterpretation": "Cannot isolate charity care from the $754M community benefit total; figure includes medical education, research, and subsidized services. Pennsylvania state average charity care percentage not available from search."
   },
 
-  "accusation": "Jefferson Health — operating an 18-hospital system built through five rapid-fire mergers in six years — invested in an NFL jersey patch, training facility naming rights, and official healthcare partnership with the Philadelphia Eagles while reporting operating losses, cutting workforce in multiple rounds of layoffs, and carrying substantial tax-exempt bond debt, all under the shelter of its 501(c)(3) status as Thomas Jefferson University.",
+  "accusation": "Jefferson Health — a $15.8 billion system built through six mergers in nine years, now carrying $5.1 billion in tax-exempt bond debt — paid its CEO $6.9 million and secured Eagles jersey patch sponsorship and training complex naming rights while posting a $196 million operating loss in FY2025, cutting approximately 1,500 jobs across four rounds of layoffs (2023-2025), and drawing Negative outlooks from all three credit rating agencies. The system sits on an investment portfolio exceeding $4 billion and claimed $754 million in community benefit, yet the bulk of its operating deficit came from its own Medicaid managed care plan (Jefferson Health Plans, -$170M), not from charity care. All of this under the shelter of its 501(c)(3) status as Thomas Jefferson University (EIN 23-1352651), which exempts it from federal, state, and local taxes and allows it to issue tax-exempt bonds.",
 
   "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. DRAFT — populate with verified numbers after web research. Headline: 'JEFFERSON HEALTH'. Subhead: 'Philadelphia Eagles — Jersey Patch, Training Facility Naming, Official Healthcare Partner'. Data blocks to populate after verification: Total Revenue, CEO Pay (Cacchione), Operating Margin, Investment Portfolio, Bond Debt, Community Benefit. Note 18-hospital system from 5 mergers (2015-2021). Note workforce reductions amid operating losses. Show Eagles partnership since ~2023 with training complex naming Feb 2026. Bottom right: 'THE ROJAS REPORT' in orange Playfair Display small caps."
 }

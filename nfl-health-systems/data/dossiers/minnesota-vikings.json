@@ -13,33 +13,33 @@
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
+    "fiscalYear": 2024,
+    "totalRevenue": 5326063577,
+    "operatingIncome": 51000000,
+    "operatingMarginPct": 0.6,
     "nonOperatingRevenue": null,
-    "totalAssets": null,
+    "totalAssets": 6494256080,
     "totalLiabilities": null,
-    "source": "UNVERIFIED — web search budget exhausted; requires verification from Fairview Health Services audited consolidated financial statements and Form 990 (EIN 41-0695635) via ProPublica Nonprofit Explorer"
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 41-0991680; note: the EIN 41-0695635 in this file could not be verified — Fairview Health Services files under 41-0991680). Total revenue and total assets from Form 990. Operating income (~$51M) and operating margin (<1%) from Star Tribune and MedCity News reporting on FY2024 audited consolidated financial statements (first operating profit since 2018 on ~$8B audited operating revenue). Form 990 revenue ($5.33B) differs from audited GAAP operating revenue (~$8B) due to reporting methodology differences. Audited FY2025/2024 statements published April 2026 at fairview.org."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Requires verification from Form 990 Part X and audited consolidated financial statements",
+    "investmentPortfolio": 2007675000,
+    "investmentPortfolioSource": "FY2023 audited consolidated financial statements (short-term investments $466,989K + long-term investments $1,460,835K; total investments per note disclosure $2,007,675K including equity-method and NAV-measured holdings). FY2022: $1,935,426K. FY2024 investment figures require verification from FY2025/2024 audited statements published April 2026.",
     "realEstateValue": null,
-    "realEstateSource": "Fairview operates 12 hospitals and 100+ clinics across Minnesota; real estate value not separately verified",
+    "realEstateSource": "Fairview operates 12 hospitals and 100+ clinics across Minnesota; real estate value not separately broken out in available filings",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Fairview Health Services is a multi-billion-dollar nonprofit health system; investment portfolio, board-designated funds, and endowment require verification from the consolidated balance sheet and Form 990 Part X"
+    "notes": "Total net assets FY2023: $2,057,673K (Fairview Health Services $1,973,274K + non-controlling interests $48,802K + donor-restricted $35,597K). Assets limited as to use reported separately (insurance subsidiaries $55,958K and restricted fund investments $18,687K in FY2022). Board-designated and endowment sub-totals require Form 990 Part X or note disclosure verification."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": null,
-    "largestIssue": null,
-    "largestIssueProceeds": null,
-    "issuerAuthority": null,
-    "source": "EMMA / MSRB; requires verification of outstanding tax-exempt revenue bond balances issued through Minnesota conduit authorities (likely City of Minneapolis or Minnesota Higher Education Facilities Authority)"
+    "totalOutstanding": 1520000000,
+    "fiscalYear": 2023,
+    "largestIssue": "Series 2018A Fixed-Rate Tax-Exempt Revenue Bonds",
+    "largestIssueProceeds": 263890000,
+    "issuerAuthority": "City of Minneapolis",
+    "source": "FY2023 audited consolidated financial statements (~$1.52B total debt, down from ~$1.55B in FY2022). Key tax-exempt series: 2018A ($263.9M original proceeds via City of Minneapolis, refunding + $100M new money), 2017A (2.00-5.00%, maturing 2047, ~$176M at FY2022), 2015A (2.00-5.00%, maturing 2044, ~$95M at FY2022). Also 3.456% taxable bonds maturing Nov 2051 (~$100.9M per CBonds). Moody's cited ~$1.6B total debt at time of Baa1 downgrade. Current outstanding balances require verification from most recent EMMA continuing disclosure or FY2025/2024 audited statements."
   },
 
   "relatedOrganizations": {
@@ -63,22 +63,22 @@
   },
 
   "executiveComp": {
-    "fiscalYear": null,
-    "ceoName": null,
-    "ceoBaseComp": null,
+    "fiscalYear": 2024,
+    "ceoName": "James Hereford",
+    "ceoBaseComp": 4854478,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 805007,
+    "ceoTotalComp": 5659485,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "UNVERIFIED — requires verification from Form 990 Part VII and Schedule J via ProPublica Nonprofit Explorer (EIN 41-0695635); James Hereford served as President and CEO through at least 2022; current CEO requires confirmation"
+    "source": "Form 990 FY2024 Part VII via ProPublica Nonprofit Explorer (EIN 41-0991680). Reportable compensation from organization: $4,854,478; reportable from related organizations: $0; estimated other compensation: $805,007; total: $5,659,485. FY2023 total: $5,246,751 ($5,208,444 reportable + $38,307 other). FY2022 total: $3,370,758 (included ~$1.4M bonus/incentive per Star Tribune despite operating losses; board used discretion). Bonus/incentive breakdown and deferred comp not separately itemized in available 990 data; requires Schedule J verification."
   },
 
   "communityBenefit": {
-    "claimedAmount": null,
+    "claimedAmount": 680000000,
     "claimedPctOfRevenue": null,
     "charityCareClaimedAmount": null,
     "charityCareCostAdjusted": null,
@@ -86,7 +86,7 @@
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "UNVERIFIED — requires verification from Fairview community benefit reports, Form 990 Schedule H, and Minnesota Department of Health hospital data"
+    "source": "Fairview Community Impact Report FY2024: $1.4B total community investment, of which $680M classified as community benefit (charity care, education/training, hospital-based research, community programs/services). FY2025 report: $1.6B total, $740M community benefit. Fairview notes methodology differs from Form 990 Schedule H; 990 figures may differ. Charity care sub-total and cost-adjusted amounts require Schedule H verification. Minnesota state average comparison requires Minnesota Department of Health hospital data."
   },
 
   "taxAdvantage": {
@@ -107,6 +107,13 @@
       "location": "Minnesota (system-wide)",
       "count": 900,
       "source": "Fairview Health Services restructuring announcement September 2022; Star Tribune; Becker's Hospital Review; layoffs were part of broader cost reduction initiative amid significant operating losses"
+    },
+    {
+      "date": "2023-11",
+      "entity": "Fairview Health Services",
+      "location": "Minnesota (system-wide)",
+      "count": 250,
+      "source": "Fairview announced elimination of 250 positions in November 2023, citing inflation, labor costs, and insurer payment rates; less than 1% of workforce; included ~50% reduction in staff chaplains at metropolitan locations and security staff cuts; MPR News, Fox 9, Becker's Hospital Review, CBS Minnesota"
     }
   ],
 
@@ -116,19 +123,21 @@
     "fitch": null,
     "fitchOutlook": null,
     "fitchDate": null,
-    "sp": null,
-    "spOutlook": null,
-    "spDate": null,
-    "moodys": null,
-    "moodysOutlook": null,
-    "moodysDate": null,
+    "sp": "BBB+",
+    "spOutlook": "Stable",
+    "spDate": "2023-02",
+    "moodys": "Baa1",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2024",
     "keyRiskFactors": [
-      "Significant operating losses drove 900-position systemwide layoff in 2022",
+      "Five consecutive years of operating losses (2019-2023) totaling over $900M before first operating profit in 2024",
+      "Moody's downgraded from A3 to Baa1 (January 2023); S&P downgraded from A to BBB+ (February 2023)",
       "Failed merger with Sanford Health collapsed in November 2023 amid opposition from University of Minnesota, employees, legislators, and community groups",
-      "University of Minnesota Board of Regents voted to restructure 27-year academic medicine partnership, with potential separation of University of Minnesota Medical Center operations",
+      "University of Minnesota Board of Regents voted to restructure 27-year academic medicine partnership; new 10-year deal finalized January 2026 with M Health Fairview brand phaseout by end of 2026",
       "Competitive Minneapolis-St. Paul healthcare market with Mayo Clinic, Allina Health, HealthPartners, and CentraCare",
-      "Leadership transition following departure of CEO James Hereford"
-    ]
+      "~$1.5B total debt outstanding with Baa1/BBB+ ratings (lowest investment-grade tier)"
+    ],
+    "source": "Moody's: Baa1 with negative outlook (January 2023 downgrade from A3), revised to stable in 2024 citing expected improvement in operating cash flow margins. S&P: BBB+ with stable outlook (February 2023 downgrade from A). Fitch does not rate Fairview. Bond Buyer, Becker's Hospital Review, Star Tribune."
   },
 
   "program340B": {
@@ -162,15 +171,15 @@
   "legalIssues": [],
 
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Requires verified investment portfolio total and operating income from audited financials and Form 990",
-    "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Requires verified bond debt outstanding and community benefit totals from Form 990 Schedule H and EMMA",
+    "investmentsToOperatingIncome": 39.4,
+    "investmentsToOperatingIncomeInterpretation": "Fairview holds ~$2.01B in investments (FY2023 audited) against ~$51M operating income (FY2024). The investment portfolio is 39x the operating profit, meaning the system's accumulated financial wealth vastly exceeds its slim operating margin. Years of operating losses (2019-2023) were sustained by this balance sheet cushion.",
+    "bondDebtToCommunityBenefit": 2.24,
+    "bondDebtToCommunityBenefitInterpretation": "Fairview carries ~$1.52B in total debt (FY2023) against $680M in claimed community benefit (FY2024). For every dollar of community benefit, the system carries $2.24 in debt — reflecting significant financial leverage. However, Fairview's community benefit methodology differs from Form 990 Schedule H; actual 990-reported community benefit may be lower.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Requires verified charity care figures and Minnesota state average from Minnesota Department of Health"
+    "charityCareVsStateInterpretation": "Charity care sub-total not separately broken out in available data. Fairview reports $680M total community benefit (FY2024) but does not publicly disclose charity care as a separate line. Minnesota state average comparison requires Minnesota Department of Health hospital data and Form 990 Schedule H Part I charity care figure."
   },
 
-  "accusation": "DRAFT PENDING FINANCIAL VERIFICATION — M Health Fairview, a multi-billion-dollar tax-exempt health system, eliminated 900 positions in 2022, watched its planned merger with Sanford Health collapse amid community opposition, saw the University of Minnesota move to sever a 27-year academic medicine partnership, yet funds Minnesota Vikings stadium naming rights while balance sheet wealth, executive compensation, and community benefit figures await verification from Form 990 and audited financial statements.",
+  "accusation": "M Health Fairview, a $5.3B-revenue tax-exempt health system, holds a $2.01B investment portfolio and carries $1.52B in bond debt while its CEO James Hereford collected $5.66M in total compensation (FY2024) — even after five consecutive years of operating losses (2019-2023) that triggered 1,150 layoffs across 2022-2023, credit downgrades to Baa1/BBB+ (lowest investment-grade tier), and the collapse of its Sanford Health merger. Fairview claims $680M in community benefit (FY2024) but uses a self-defined methodology that differs from its Form 990 reporting, and charity care as a standalone figure remains undisclosed. The system partners with the Minnesota Vikings as an official healthcare sponsor while the University of Minnesota moves to dissolve the M Health Fairview brand by end of 2026.",
 
-  "infographicPrompt": "DRAFT PENDING VERIFIED FINANCIAL DATA — Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Layout: Lead with investment portfolio figure (PENDING VERIFICATION from Form 990 Part X). Show CEO total compensation (PENDING from Schedule J). Visualize bond debt outstanding (PENDING from EMMA). Note 900 systemwide layoffs in 2022. Note failed Sanford Health merger (November 2023). Note University of Minnesota partnership dissolution. Vikings official healthcare partner and stadium naming rights deal. Source line: Form 990 via ProPublica (EIN 41-0695635), Fairview audited consolidated financial statements, EMMA/MSRB, Minnesota Department of Health, Star Tribune."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Layout: Lead with $2.01B investment portfolio (FY2023 audited). Show CEO James Hereford total comp $5.66M (FY2024 Form 990). Show $1.52B bond debt outstanding (FY2023 audited). Note 1,150 combined layoffs (900 in Sept 2022 + 250 in Nov 2023). Note five consecutive years of operating losses (2019-2023) before first operating profit of ~$51M in FY2024. Note failed Sanford Health merger (November 2023). Note UMN partnership restructuring: M Health Fairview brand phaseout by end of 2026. Credit ratings: Moody's Baa1 Stable, S&P BBB+ Stable. Community benefit: $680M claimed (FY2024, self-reported methodology). Vikings official healthcare partner. Source line: Form 990 via ProPublica (EIN 41-0991680), Fairview audited consolidated financial statements, EMMA/MSRB, Fairview Community Impact Report, Star Tribune, Bond Buyer, Becker's Hospital Review."
 }
