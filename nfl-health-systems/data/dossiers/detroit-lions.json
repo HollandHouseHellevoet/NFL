@@ -7,44 +7,57 @@
   "healthSystem": "Henry Ford Health",
   "ein": "38-1357519",
   "nonprofitType": "501c3",
-  "dealType": ["Official Healthcare Partner", "Stadium Signage"],
-  "dealAnnounced": null,
+  "dealType": ["Official Healthcare Partner", "Stadium Signage", "Team Physicians", "Brand Ambassadors"],
+  "dealAnnounced": "2018-09-24",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
+  "dealNotes": "Relationship dates to the 1950s; 2018 announcement celebrated nearly six decades of partnership. Henry Ford has exclusive healthcare branding inside Ford Field. Lions head coach Dan Campbell voices the 'We Go For It' campaign; Jahmyr Gibbs and Amon-Ra St. Brown have served as brand ambassadors.",
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
-    "nonOperatingRevenue": null,
-    "totalAssets": null,
-    "totalLiabilities": null,
-    "source": "Web verification not completed — ProPublica, EMMA, and news sources blocked by network egress policy"
+    "fiscalYear": "2024",
+    "totalRevenue": 9600000000,
+    "operatingIncome": 294200000,
+    "operatingMarginPct": 3.1,
+    "nonOperatingRevenue": 248200000,
+    "totalAssets": 4979151383,
+    "totalLiabilities": 2600000000,
+    "netIncome": 542400000,
+    "operatingExpenses": 9300000000,
+    "source": "Consolidated system figures from Becker's Hospital Review (revenue, operating income, margin, net income). Total assets from Form 990 EIN 38-1357020 via Instrumentl ($4,979,151,383). Total liabilities approximately $2.6B from Philanthropy.org 990 aggregator. Note: EIN in this dossier (38-1357519) does not match the primary 990 filer EIN (38-1357020) found in all public sources.",
+    "form990Revenue": 5284200687,
+    "form990RevenueNote": "Form 990 filer (EIN 38-1357020) reports $5.28B in revenue for FY2024, which is a subset of the $9.6B consolidated system revenue that includes all subsidiaries"
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Schedule D Part V — not verified; requires ProPublica 990 access",
+    "investmentPortfolio": 905300000,
+    "investmentPortfolioSource": "Publicly traded securities reported on Form 990 Part X for EIN 38-1357020, FY2024, per Philanthropy.org aggregator",
     "realEstateValue": null,
     "realEstateSource": "Audited balance sheet or county assessor — not verified",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Henry Ford Health holds investments at system and foundation level; specific figures require Schedule D and audited balance sheet verification via EMMA"
+    "foundationTotalAssets": 394300000,
+    "foundationNetAssets": 375900000,
+    "foundationNote": "Henry Ford Health System Foundation (EIN 23-7383042) reported $394.3M total assets, $375.9M net assets, $18.4M total liabilities for FY2024 per ProPublica",
+    "notes": "System-level investments of $905.3M in publicly traded securities plus Foundation assets of $394.3M represent over $1.3 billion in combined investment and foundation wealth"
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
+    "totalOutstanding": 1237000000,
     "fiscalYear": null,
-    "largestIssue": null,
-    "largestIssueProceeds": null,
+    "largestIssue": "Michigan Finance Authority Revenue Bonds (2016 systemwide restructuring)",
+    "largestIssueProceeds": 1000000000,
     "issuerAuthority": "Michigan Finance Authority",
-    "source": "MSRB EMMA — not verified; bonds historically issued through Michigan Finance Authority (formerly Michigan Hospital Finance Authority)"
+    "debtToCapitalization": 0.31,
+    "source": "EMMA annual financial report disclosed total debt of $1,237M with 31% debt-to-capitalization ratio. Fiscal year of that disclosure not confirmed in search results. 2016 refinancing generated $1B in proceeds ($853M bond par, $113M bond premium, $38M taxable debt). 2024 series included $249M green bonds for Central Utility Plant (issued through subsidiary borrower)."
   },
 
   "relatedOrganizations": {
     "captiveInsurance": "Health Alliance Plan (HAP)",
     "insuranceArmRevenue": null,
+    "insuranceArmNetIncome": 32400000,
+    "insuranceArmOperatingIncome": 6700000,
+    "insuranceArmMembers": 450000,
+    "insuranceArmNote": "HAP reported $32.4M net income and $6.7M operating income for 2024, a turnaround from $17.9M net loss and $46.8M operating loss in 2023. Joint venture with CareSource expanded Medicaid and marketplace membership. Rebranded as Health Alliance Plan by Henry Ford Health in May 2026.",
     "physicianGroupEntity": "Henry Ford Medical Group",
     "foundationEntity": "Henry Ford Health Foundation",
     "otherRelatedEntities": [
@@ -53,37 +66,60 @@
       "Henry Ford West Bloomfield Hospital",
       "Henry Ford Wyandotte Hospital",
       "Henry Ford Jackson Hospital",
-      "Henry Ford Kingswood Hospital"
+      "Henry Ford Kingswood Hospital",
+      "Henry Ford Rochester Hospital",
+      "Henry Ford Providence Hospital",
+      "Henry Ford Genesys Hospital (acquired from Ascension, October 2024)",
+      "Henry Ford St. John Hospital (acquired from Ascension, 2024)"
     ],
     "relatedPartyTransactions": null,
-    "source": "Schedule R — entity names from public records, transaction amounts not verified"
+    "source": "Entity names from public records and Becker's reporting. HAP financial data from HAP press release April 2025. Transaction amounts not verified from Schedule R."
   },
 
   "executiveComp": {
-    "fiscalYear": null,
+    "fiscalYear": "2024",
     "ceoName": "Robert G. Riney",
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 61705,
+    "ceoTotalComp": 7081174,
+    "ceoReportableComp": 7019469,
+    "ceoReportableCompNote": "Form 990 Part VII Column D (total reportable compensation from the organization); $0 from related organizations",
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
+    "otherHighlyCompensated": [
+      {
+        "name": "Adnan R. Munkarah",
+        "title": "Chief Medical Officer",
+        "totalReportableComp": 3373948,
+        "fiscalYear": "2024"
+      }
+    ],
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "ProPublica 990 Schedule J — not verified; Robert G. Riney succeeded Wright L. Lassiter III as President and CEO circa 2022"
+    "compensationHistory": [
+      {"year": "2024", "totalReportable": 7019469},
+      {"year": "2023", "totalReportable": 4467923},
+      {"year": "2022", "totalReportable": 2993892},
+      {"year": "2021", "totalReportable": 2175090}
+    ],
+    "source": "FY2024 total from Philanthropy.org 990 aggregator (98th percentile among $100M+ healthcare nonprofits). FY2023 corroborated by ProPublica. Schedule J base/bonus/deferred breakdown not available from search results. Compensation independently reviewed per 990.",
+    "independentReview": true
   },
 
   "communityBenefit": {
-    "claimedAmount": null,
+    "claimedAmount": 1600000000,
+    "claimedYear": "2025",
     "claimedPctOfRevenue": null,
-    "charityCareClaimedAmount": null,
+    "charityCareClaimedAmount": 1100000000,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "Schedule H Parts I-II — not verified"
+    "priorYearFigures": "AHA 2022 case study reported $1B in community benefits. HFH About page cites $780M+ annually in uncompensated care (undated). Detroit City Council February 2024 report listed $640.63M system-wide from June 2023 quarterly report.",
+    "source": "Henry Ford Health press release (October 2026) reported record $1.6B in community benefit for 2025, including $1.1B in uncompensated care across Wayne, Oakland, Macomb, Jackson, Genesee and Livingston counties. Note: this is the system's self-reported figure and may differ from IRS Schedule H totals."
   },
 
   "taxAdvantage": {
@@ -94,33 +130,67 @@
     "salesTaxForegone": null,
     "taxExemptBondInterestSubsidy": null,
     "program340BEstimatedBenefit": null,
-    "notes": "Henry Ford Health benefits from federal and state income tax exemption, property tax exemption on hospital facilities in Michigan, sales tax exemption, tax-exempt bond interest savings through Michigan Finance Authority, and 340B drug pricing; specific dollar estimates require verified financial data"
+    "notes": "Henry Ford Health benefits from federal and state income tax exemption, property tax exemption on hospital facilities in Michigan, sales tax exemption, tax-exempt bond interest savings through Michigan Finance Authority, and 340B drug pricing. On $9.6B consolidated revenue, federal income tax exemption alone could represent hundreds of millions in foregone tax."
   },
 
-  "layoffs": [],
+  "layoffs": [
+    {
+      "date": "2023-12",
+      "event": "Health Alliance Plan (HAP) began layoffs and early retirements tied to consolidation of business lines into HAP CareSource joint venture and combining job functions between HAP and Henry Ford Health",
+      "affectedCount": null,
+      "affectedCountNote": "HAP employed approximately 1,000 people; exact layoff count not disclosed by company",
+      "source": "Crain's Detroit Business, December 22, 2023"
+    },
+    {
+      "date": "2020-04",
+      "event": "Approximately 2,800 temporary layoffs and furloughs system-wide due to COVID-19 pandemic financial impact, accompanied by executive pay cuts",
+      "affectedCount": 2800,
+      "type": "Temporary furlough",
+      "source": "Fox 2 Detroit, Bridge Michigan, DBusiness, April 2020"
+    }
+  ],
+
   "facilityClosures": [],
 
   "creditRating": {
-    "fitch": null,
-    "fitchOutlook": null,
+    "fitch": "A+",
+    "fitchOutlook": "Stable",
     "fitchDate": null,
-    "sp": null,
-    "spOutlook": null,
+    "sp": "A",
+    "spOutlook": "Stable",
     "spDate": null,
-    "moodys": null,
-    "moodysOutlook": null,
+    "moodys": "A2",
+    "moodysOutlook": "Stable",
     "moodysDate": null,
-    "keyRiskFactors": []
+    "keyRiskFactors": [
+      "Ascension Michigan integration execution risk",
+      "Competitive southeastern Michigan healthcare market",
+      "Large capital investment needs including Central Utility Plant",
+      "HAP insurance subsidiary performance volatility"
+    ],
+    "ratingHistory": "Moody's upgraded from A3 to A2 ahead of $250M Michigan Finance Authority tax-exempt sale. S&P raised to A from A- after fiscal 2015 turnaround. Ratings confirmed as A (S&P), A2 (Moody's), A+ (Fitch), all stable, per Becker's 2025 CFO profile and 2026 commercial real estate listing.",
+    "source": "Becker's Hospital Review 2025 CFO profile; InvestmentGrade.com 2026. Specific rating action dates not confirmed — verify against EMMA or rating agency websites for exact dates."
   },
 
   "program340B": {
     "contractPharmacies": null,
     "outOfStatePharmaciesPct": null,
     "dshStatus": true,
-    "estimatedAnnualBenefit": null
+    "estimatedAnnualBenefit": null,
+    "legalDispute": "Henry Ford Health sued CVS Health in 2025 alleging $29M+ in diverted 340B drug savings through unlawful reimbursement scheme since 2020. CVS allegedly terminated pharmacy services agreements in retaliation for audit attempt. Similar lawsuits filed by Mount Sinai, Michigan Medicine, and University of Kansas Health System alleging combined $250M in diversions.",
+    "source": "Becker's Hospital Review, Yahoo Finance (July 2025)"
   },
 
-  "acquisitions": [],
+  "acquisitions": [
+    {
+      "date": "2024",
+      "target": "Ascension Michigan",
+      "type": "Combination/Asset Transfer",
+      "revenueImpact": 848000000,
+      "notes": "Combination added approximately $848 million to 2024 operating revenue and brought Genesys Hospital, St. John Hospital, Providence Hospital and other Ascension Michigan facilities into the Henry Ford Health system",
+      "source": "Axios Detroit (September 2024), Becker's Hospital Review"
+    }
+  ],
 
   "lobbying": {
     "amount2024": null,
@@ -128,18 +198,40 @@
     "source": "OpenSecrets"
   },
 
-  "legalIssues": [],
+  "legalIssues": [
+    {
+      "date": "2025",
+      "type": "Lawsuit Filed (Plaintiff)",
+      "description": "Henry Ford Health sued CVS Health alleging $29M+ in diverted 340B drug savings through unlawful reimbursement practices since 2020",
+      "source": "Becker's Hospital Review, Yahoo Finance"
+    },
+    {
+      "date": "2025-06",
+      "type": "Labor Dispute",
+      "description": "Five-day lockout of nurses at Henry Ford Rochester Hospital over contract dispute",
+      "source": "WSWS, June 2025"
+    },
+    {
+      "date": "2025",
+      "type": "Labor Dispute",
+      "description": "Teamsters dispute at Henry Ford Genesys Hospital over position eliminations following October 2024 acquisition from Ascension",
+      "source": "Henry Ford Health newsroom, August 2025"
+    }
+  ],
 
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Cannot compute — investment portfolio and operating income not verified",
-    "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — bond debt and community benefit amounts not verified",
+    "investmentsToOperatingIncome": 3.1,
+    "investmentsToOperatingIncomeInterpretation": "$905M in publicly traded securities equals 3.1 years of operating income ($294M). System holds over three years of operating surplus in investment securities alone.",
+    "totalAssetsToOperatingIncome": 16.9,
+    "totalAssetsToOperatingIncomeInterpretation": "$5.0B in total assets equals 16.9 years of operating income",
+    "bondDebtToCommunityBenefit": 0.77,
+    "bondDebtToCommunityBenefitInterpretation": "$1.24B in bond debt equals 77% of $1.6B claimed community benefit (2025). Debt is below claimed community benefit, though community benefit figure is system self-reported.",
+    "ceoCompToMedianWorker": null,
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Cannot compute — charity care and Michigan state average percentages not verified"
+    "charityCareVsStateInterpretation": "Cannot compute — Michigan state average charity care percentage not verified"
   },
 
-  "accusation": "A tax-exempt nonprofit that operates Health Alliance Plan as a captive insurance subsidiary, carries tax-exempt bond debt through the Michigan Finance Authority, and put its name on Ford Field signage as the Detroit Lions' official healthcare partner.",
+  "accusation": "A tax-exempt nonprofit sitting on $5.0 billion in total assets — including $905 million in publicly traded securities and a $394 million foundation — that reported $9.6 billion in consolidated operating revenue, $294 million in operating income, and $542 million in net income in 2024, while paying its CEO $7.1 million (up from $2.2 million three years prior). Operates Health Alliance Plan as a captive insurance subsidiary with 450,000 members, carries an estimated $1.2 billion in tax-exempt bond debt through the Michigan Finance Authority, claimed $1.6 billion in community benefit, and brands Ford Field as the Detroit Lions' official healthcare partner — a relationship the system has monetized since the 1950s with exclusive stadium signage, head-coach advertising campaigns, and player brand ambassadors.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. NOTE: Financial figures not yet verified — populate infographic only after completing web research to fill null fields in this dossier."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Total assets $5.0B. Investment securities $905M. Operating revenue $9.6B. Operating income $294M (3.1% margin). CEO comp $7.1M. Bond debt ~$1.2B. Community benefit claimed $1.6B. HAP members 450K. Ford Field signage since 1950s."
 }

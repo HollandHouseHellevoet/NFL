@@ -8,38 +8,38 @@
   "ein": "59-1026997",
   "nonprofitType": "501c3",
   "dealType": ["Official Healthcare Partner", "Training Facility Naming"],
-  "dealAnnounced": null,
+  "dealAnnounced": "2019-08-21",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
+    "fiscalYear": "FY2025 (ended September 30, 2025)",
+    "totalRevenue": 7035939000,
+    "operatingIncome": 532200000,
+    "operatingMarginPct": 7.6,
     "nonOperatingRevenue": null,
-    "totalAssets": null,
-    "totalLiabilities": null,
-    "source": "Form 990 (EIN 59-1026997) available on ProPublica Nonprofit Explorer; not accessed in this session due to egress proxy blocking ProPublica, EMMA, Becker's, CharityNavigator, and all financial research domains, and web search budget exhausted by parallel agents. Requires follow-up research."
+    "totalAssets": 12132902000,
+    "totalLiabilities": 3956526000,
+    "source": "Audited consolidated financial statements (Baptist Health South Florida Inc. and Affiliates, years ended September 30, 2025 and 2024), audited by Deloitte & Touche LLP, filed as continuing disclosure on EMMA/MSRB and available via dacbond.com. Parent entity Form 990 filed under EIN 65-0267668 on ProPublica Nonprofit Explorer; EIN 59-1026997 did not return results on ProPublica. Total revenue is total unrestricted revenues, gains and other support. FY2024 comparatives: revenue $6,292,412,000; operating income $395,000,000; total assets $10,441,970,000; total liabilities $3,468,689,000."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Schedule D Part V on ProPublica; not accessed due to egress restrictions",
+    "investmentPortfolio": 6038700000,
+    "investmentPortfolioSource": "Audited consolidated balance sheet FY2025: assets whose use is limited $5,510,000,000 plus other investments $528,700,000. Assets whose use is limited includes board-designated funds, trustee-held bond proceeds, self-insurance trust funds, and funded depreciation. FY2024 comparatives: assets whose use is limited $4,300,000,000, other investments $436,300,000 (total $4,736,300,000).",
     "realEstateValue": null,
-    "realEstateSource": "Not verified; Baptist Health operates eleven hospitals and over 100 outpatient facilities across Miami-Dade, Broward, and Palm Beach counties",
+    "realEstateSource": "Not separately verified; Baptist Health operates eleven hospitals and over 100 outpatient facilities across Miami-Dade, Broward, and Palm Beach counties. Property is embedded in total assets.",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Baptist Health South Florida is one of the largest nonprofit healthcare organizations in South Florida. Investment portfolio, board-designated funds, and endowment data require verification from Form 990 Schedule D and audited financial statements filed with EMMA."
+    "notes": "Net assets of $8,176,376,000 as of September 30, 2025 (up from $6,973,281,000 in FY2024). Baptist Health South Florida Foundation (separate entity, EIN 59-1923401) holds $474,300,000 in net assets and $601,500,000 in total assets. Beneficial interest in Boca Raton Regional Hospital Foundation of approximately $463,000,000 also appears on the consolidated balance sheet. A third-party advisory analysis noted investment income nearly doubled to $729 million in 2023-2024 due to stock market performance."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": null,
-    "largestIssue": null,
-    "largestIssueProceeds": null,
-    "issuerAuthority": "Miami-Dade County Health Facilities Authority",
-    "source": "Schedule K and MSRB EMMA; not accessed due to egress restrictions. Tax-exempt bonds issued through Miami-Dade County Health Facilities Authority."
+    "totalOutstanding": 2100000000,
+    "fiscalYear": "FY2025 (ended September 30, 2025)",
+    "largestIssue": "Series 2017 Hospital Revenue Refunding Bonds (December 2017, City of South Miami Health Facilities Authority)",
+    "largestIssueProceeds": 809600000,
+    "issuerAuthority": "City of South Miami Health Facilities Authority",
+    "source": "Audited consolidated financial statements FY2025: long-term debt approximately $2.10 billion (up from approximately $1.63 billion in FY2024). On August 21, 2025, the BHSF Obligated Group issued $259,545,000 Series 2025A and $199,800,000 Series 2025B tax-exempt revenue bonds through the City of South Miami Health Facilities Authority at 5.00% interest. Series 2017 refunding bonds of $809,600,000 were issued in December 2017 at 3.00%-5.00% interest, maturing through 2047. Moody's 2017 downgrade press release referenced $1.3 billion in outstanding debt at that time. Current maturities approximately $21,600,000."
   },
 
   "relatedOrganizations": {
@@ -49,11 +49,11 @@
     "foundationEntity": "Baptist Health South Florida Foundation",
     "otherRelatedEntities": [
       "Baptist Health Enterprises Inc.",
-      "Baptist Hospital of Miami Inc.",
-      "South Miami Hospital Inc.",
+      "Baptist Hospital of Miami Inc. (EIN 59-0910342)",
+      "South Miami Hospital Inc. (EIN 59-0872594)",
       "Doctors Hospital Inc.",
       "Homestead Hospital Inc.",
-      "Mariners Hospital Inc.",
+      "Mariners Hospital Inc. (EIN 59-1987355)",
       "West Kendall Baptist Hospital",
       "Bethesda Hospital Inc.",
       "Boca Raton Regional Hospital Inc. (acquired 2019)",
@@ -62,34 +62,34 @@
       "Fishermen's Community Hospital Inc."
     ],
     "relatedPartyTransactions": null,
-    "source": "Schedule R entity names from public filings and Baptist Health South Florida website; detailed related-party transactions not verified due to egress restrictions"
+    "source": "Schedule R entity names from public filings and Baptist Health South Florida website. Parent filing entity on ProPublica is Baptist Health Of South Florida Inc (EIN 65-0267668), reporting $1,340,000,000 revenue and $9,140,000,000 total assets for FY2024. The consolidated system (Inc. and Affiliates) is the broader reporting unit in the audited financial statements."
   },
 
   "executiveComp": {
-    "fiscalYear": null,
+    "fiscalYear": "FY2022",
     "ceoName": "Bo Boulenger",
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
     "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoTotalComp": 3050000,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
-    "perks": [],
+    "perks": ["First-class or charter travel (reported on FY2024 Form 990 Schedule J)"],
     "splitDollarInsurance": null,
-    "source": "Form 990 Schedule J (EIN 59-1026997); Stevan A. 'Bo' Boulenger succeeded Brian E. Keeley as CEO/President circa 2021. Compensation details require verification from ProPublica Nonprofit Explorer, which was blocked by egress proxy."
+    "source": "CEO total compensation of approximately $3,050,000 for FY2022 per news analysis (Miami Herald / South Florida Business Journal), citing the most recent tax filing available. Boulenger became CEO effective October 1, 2022, succeeding Brian E. Keeley. FY2024 Form 990 (EIN 65-0267668) on ProPublica Nonprofit Explorer reports first-class or charter travel for key employees. Other reported officers in the $1,000,000-$2,200,000 range per ProPublica summaries. Individual compensation breakdown (base, bonus, deferred, other) not verified; requires direct review of Schedule J."
   },
 
   "communityBenefit": {
-    "claimedAmount": null,
-    "claimedPctOfRevenue": null,
+    "claimedAmount": 576000000,
+    "claimedPctOfRevenue": 8.2,
     "charityCareClaimedAmount": null,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "Schedule H Part I-II and Baptist Health annual community benefit report; not accessed due to egress restrictions"
+    "source": "Baptist Health South Florida website (baptisthealth.net/about-baptist-health/fulfilling-our-mission/community-benefit): system reports 'more than $576 million in total charity care and community benefit in fiscal year 2025.' FY2024 figure was $474,000,000 covering 31,730 low-income uninsured patients with 59,860 charitable encounters. Free care provided for uninsured patients with household income below 300% FPL. State of Florida defines charity care as free care for household incomes up to 200% FPL. Bethesda Hospital and Boca Raton Regional Hospital follow separate financial assistance policies. Schedule H Part I-II breakdowns not separately verified."
   },
 
   "taxAdvantage": {
@@ -100,10 +100,16 @@
     "salesTaxForegone": null,
     "taxExemptBondInterestSubsidy": null,
     "program340BEstimatedBenefit": null,
-    "notes": "Baptist Health South Florida is a 501(c)(3) organization exempt from federal income tax and local property taxes. Florida has no state corporate income tax on nonprofits. Tax-exempt bonds issued through Miami-Dade County Health Facilities Authority generate interest subsidy for bondholders. Multiple Baptist Health hospitals participate in 340B program as DSH entities. Specific foregone tax amounts not verified."
+    "notes": "Baptist Health South Florida is a 501(c)(3) organization exempt from federal income tax and local property taxes. Florida has no state corporate income tax on nonprofits. Tax-exempt bonds issued through City of South Miami Health Facilities Authority generate interest subsidy for bondholders; $2.1 billion in long-term debt outstanding as of FY2025 includes tax-exempt series. Multiple Baptist Health hospitals participate in 340B program as DSH entities. Specific foregone tax amounts not verified."
   },
 
-  "layoffs": [],
+  "layoffs": [
+    {
+      "year": 2023,
+      "description": "Baptist Health South Florida offered a voluntary separation program to eligible workers, excluding physicians and nurses in direct patient care, temporary workers, and employees hired after June 30, 2023. Approximately 60 executives at the director level and above accepted buyout packages as of November 29, 2023. CEO Bo Boulenger cited 'financial headwinds stemming from rising costs, decreased reimbursement, staffing shortages and other industry factors' as the rationale for focusing on efficiency.",
+      "source": "Becker's Hospital Review; Miami Herald"
+    }
+  ],
 
   "facilityClosures": [],
 
@@ -111,20 +117,26 @@
     "fitch": null,
     "fitchOutlook": null,
     "fitchDate": null,
-    "sp": null,
-    "spOutlook": null,
-    "spDate": null,
-    "moodys": null,
-    "moodysOutlook": null,
-    "moodysDate": null,
-    "keyRiskFactors": []
+    "sp": "AA-",
+    "spOutlook": "Stable",
+    "spDate": "2016",
+    "moodys": "Aa3",
+    "moodysOutlook": "Stable",
+    "moodysDate": "2025",
+    "keyRiskFactors": [
+      "Moody's upgraded from A1 to Aa3 in 2025, citing measurable operational strengthening and rising cash reserves; restored rating lost in 2017 downgrade",
+      "Moody's notes system's position as largest in South Florida with leading market share in attractive markets",
+      "S&P AA- dates from 2016 downgrade from AA on $250 million Series 2011 taxable notes, citing weaker operating performance; no subsequent S&P action found in 2024-2025 searches",
+      "No Fitch rating found for Baptist Health South Florida specifically; Fitch ratings in search results belong to other Baptist Health systems (Kentucky, Pensacola)"
+    ]
   },
 
   "program340B": {
     "contractPharmacies": null,
     "outOfStatePharmaciesPct": null,
     "dshStatus": true,
-    "estimatedAnnualBenefit": null
+    "estimatedAnnualBenefit": null,
+    "notes": "Baptist Hospital of Miami listed as DSH entity (340B ID DSH100008). Florida 340B hospitals collectively have 2,571 contracts with 340B pharmacies, 31% with out-of-state pharmacies (per AIR340B advocacy data). Baptist Health operates in-house pharmacies and a specialty pharmacy with home delivery capability. Specific contract pharmacy count for BHSF entities not found in HRSA OPAIS search results."
   },
 
   "acquisitions": [
@@ -139,21 +151,21 @@
   "lobbying": {
     "amount2024": null,
     "politicalContributions2024": null,
-    "source": "OpenSecrets; not verified due to egress restrictions"
+    "source": "OpenSecrets; not verified"
   },
 
   "legalIssues": [],
 
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Investment portfolio and operating income not verified; ratio cannot be computed without source document access",
-    "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Bond debt and community benefit amounts not verified; ratio cannot be computed without source document access",
+    "investmentsToOperatingIncome": 11.3,
+    "investmentsToOperatingIncomeInterpretation": "Baptist Health South Florida holds $6.04 billion in investments (assets whose use is limited plus other investments) against $532 million in operating income — 11.3 years of operating surplus stored in financial assets. Investment portfolio grew $1.3 billion (27%) year-over-year from FY2024's $4.74 billion.",
+    "bondDebtToCommunityBenefit": 3.6,
+    "bondDebtToCommunityBenefitInterpretation": "The system carries $2.1 billion in long-term debt (much of it tax-exempt) against $576 million in claimed community benefit — $3.60 in subsidized borrowing for every $1 in community benefit reported. Bond debt grew $470 million in FY2025 with new Series 2025A/B issuances of $459 million.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Charity care amount and Florida state average not verified; ratio cannot be computed without source document access"
+    "charityCareVsStateInterpretation": "Charity care as a separate line item (distinct from total community benefit) and the Florida state average percentage were not verified. Baptist Health defines free care eligibility at 300% FPL for uninsured patients, while Florida's statutory definition uses 200% FPL."
   },
 
-  "accusation": "Baptist Health South Florida, a 501(c)(3) system operating eleven hospitals across Miami-Dade, Broward, and Palm Beach counties with tax-exempt bond debt issued through the Miami-Dade County Health Facilities Authority, put its name on the Miami Dolphins' training complex while its balance sheet wealth, investment portfolio, executive compensation, and community benefit figures remain unverified pending source document access to its Form 990 and EMMA filings.",
+  "accusation": "Baptist Health South Florida, a 501(c)(3) system sitting on $6.0 billion in investments and $8.2 billion in net assets as of September 2025, with $2.1 billion in tax-exempt bond debt issued through the City of South Miami Health Facilities Authority, paid CEO Bo Boulenger approximately $3.1 million (FY2022) with first-class travel perks while claiming $576 million in community benefit — 8.2% of its $7.0 billion in revenue. Its investment portfolio equals 11.3 years of operating income, and it carries $3.60 in subsidized debt for every $1 in community benefit reported. The system put its name on the Miami Dolphins' $135 million Baptist Health Training Complex in Miami Gardens, serving as the team's Official Sports Medicine Provider and Official Wellness Provider, while offering voluntary buyout packages to executives and staff in 2023 citing 'financial headwinds stemming from rising costs, decreased reimbursement, staffing shortages and other industry factors' — headwinds that did not prevent its net assets from growing $1.2 billion in a single year to $8.2 billion.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. DATA INCOMPLETE — web search budget exhausted and egress proxy blocked access to ProPublica, EMMA, Fitch, Moody's, Becker's, and all financial research domains during this session. Rerun the ten research searches specified in the task to populate: (1) Form 990 financials from ProPublica EIN 59-1026997, (2) investment portfolio from Schedule D, (3) bond debt from EMMA and Schedule K, (4) CEO Bo Boulenger compensation from Schedule J, (5) community benefit from Schedule H, (6) credit ratings from Fitch/Moody's/S&P, (7) 340B contract pharmacy data, (8) layoff history, (9) Dolphins deal details and announcement date, (10) related organizations and captive insurance from Schedule R. System: Baptist Health South Florida, eleven hospitals, Miami Dolphins Official Healthcare Partner and Training Facility Naming."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Baptist Health South Florida (EIN 59-1026997 / 65-0267668), eleven hospitals, Miami Dolphins Official Healthcare Partner and Training Facility Naming. KEY FIGURES (FY2025): Revenue $7.04B, Operating Income $532M (7.6% margin), Total Assets $12.1B, Net Assets $8.2B, Investment Portfolio $6.04B, Long-Term Debt $2.1B, Community Benefit $576M (8.2% of revenue). RATIOS: Investments-to-Operating Income 11.3x, Bond Debt-to-Community Benefit 3.6x. CREDIT: Moody's Aa3 Stable (upgraded from A1 in 2025). CEO Bo Boulenger total comp ~$3.1M (FY2022). Dolphins deal: $135M Baptist Health Training Complex (groundbreaking Aug 2019, opened 2021). 2023 voluntary buyouts: ~60 executives. GAPS: CEO FY2024-2025 comp, Fitch rating, S&P current status, 340B contract pharmacy count, charity care vs. state average, deal financial terms."
 }

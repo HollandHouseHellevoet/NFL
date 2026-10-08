@@ -86,18 +86,22 @@
   },
 
   "executiveComp": {
-    "fiscalYear": null,
+    "fiscalYear": "2023",
     "ceoName": "J. Stephen Jones, MD",
+    "ceoReportableComp": 6505967,
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 73484,
+    "ceoTotalComp": 6579451,
+    "priorYearCeoReportableComp": 5480396,
+    "priorYearCeoOtherComp": 70495,
+    "priorYearCeoTotalComp": 5550891,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "REQUIRES LIVE VERIFICATION from Form 990 Schedule J Parts I-III for EIN 54-1760205. Jones succeeded J. Knox Singleton who retired in August 2019 after 20+ years as CEO. Singleton's total compensation was regularly among the highest for Virginia nonprofit hospital CEOs, reported at approximately $5.1M in his final full years. Jones compensation requires current 990 verification."
+    "source": "ProPublica Nonprofit Explorer, Inova Health Care Services (EIN 54-0620889) Form 990 Part VII. Most recent filing shows J. Stephen Jones MD (President/CEO) reportable compensation $6,505,967, related-organization compensation $0, other compensation $73,484, total $6,579,451. Prior filing shows $5,480,396 reportable, $70,495 other, total $5,550,891. Fiscal years not clearly labeled in ProPublica snippets; estimated as FY2023 (higher) and FY2022 (lower) based on filing sequence. Compensation reported on Inova Health Care Services return; Inova Health System Foundation return shows $0 direct compensation and cross-references the same amounts as related-organization pay. Jones succeeded J. Knox Singleton who retired in 2018 after 20+ years as CEO."
   },
 
   "communityBenefit": {
