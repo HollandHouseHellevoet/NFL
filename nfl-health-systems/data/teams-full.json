@@ -1790,8 +1790,8 @@
       "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 74-1152597); non-operating revenue is investment income reported on 990"
     },
     "balanceSheetWealth": {
-      "investmentPortfolio": null,
-      "investmentPortfolioSource": "Investment income of $408.4M in FY2024 (up 153% from $161.1M in FY2023) implies a multi-billion-dollar portfolio, but exact total not verified from 990 Part X; historical filings showed ~$2.1B in publicly traded securities and ~$431M in other securities",
+      "investmentPortfolio": 4950000000,
+      "investmentPortfolioSource": "Form 990 FY2025 Part X Lines 11-13 beginning-of-year balance (= FY2024 end-of-year, June 30, 2024) via philanthropy.org reading IRS e-file XML for EIN 74-1152597; approximately $4.95B (rounded — exact dollar amount not verified from 990 PDF); corroborated by Institutional Investor reporting ~$4B fund circa 2020-2021 and FY2024 investment income of $408.4M implying portfolio in $4-6B range; FY2025 end-of-year balance grew to ~$5.38B",
       "realEstateValue": null,
       "realEstateSource": "Not verified; Memorial Hermann operates 17 hospitals and numerous clinics across Greater Houston",
       "boardDesignatedFunds": null,
@@ -1941,7 +1941,7 @@
     "legalIssues": [],
     "ratios": {
       "investmentsToOperatingIncome": null,
-      "investmentsToOperatingIncomeInterpretation": "Operating income not separately verifiable from 990 total excess revenue; investment income of $408M in FY2024 implies a portfolio likely exceeding $2.5B but exact figure not confirmed from Part X",
+      "investmentsToOperatingIncomeInterpretation": "Operating income not separately verifiable from 990 total excess revenue; investment portfolio of ~$4.95B (Form 990 Part X Lines 11-13, FY2024 end-of-year) generated $408M in investment income at an approximate 8.2% return; if total excess revenue of ~$860M is used as proxy for operating income, ratio would be approximately 5.8x",
       "bondDebtToCommunityBenefit": 2.33,
       "bondDebtToCommunityBenefitInterpretation": "Memorial Hermann carries $2.33 in tax-exempt bond debt for every $1 it claims in community benefit ($1.1B debt vs $472M claimed community benefit)",
       "charityCarePctVsStateAvg": null,
