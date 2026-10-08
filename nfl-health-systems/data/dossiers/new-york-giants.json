@@ -229,11 +229,13 @@
 
   "ratios": {
     "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Cannot compute — investment portfolio and operating income figures not verified from primary sources",
+    "investmentsToOperatingIncomeInterpretation": "Cannot reliably compute — investment portfolio ($4.3B) is from Q1 2023 consolidated statements while operating income is not separable from Form 990 excess-of-revenue figure. Using FY2022 operating income of $97.5M as a reference: $4.3B / $97.5M = 44.1x, meaning the system held roughly 44 years of operating income in investments. However, these are from different fiscal years.",
+    "excessRevenueToTotalRevenuePct": 6.0,
+    "excessRevenueToTotalRevenueInterpretation": "FY2024 excess of revenue over expenses ($534.7M) as percentage of total revenue ($8.85B) = 6.0%. This is NOT operating margin — it includes investment gains and non-operating items. Operating margin was 3.1% as of April 2023 per NJ DHSS metrics.",
     "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Cannot compute — bond debt and community benefit figures not verified from primary sources",
+    "bondDebtToCommunityBenefitInterpretation": "Cannot reliably compute — bond debt ($3.05B) is from Q1 2023 and community benefit ($255.1M) is from 2017. Using those figures provisionally: $3.05B / $255.1M = 11.9x, meaning bond debt was roughly 12 times annual claimed community benefit. Both figures are dated.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Cannot compute — charity care and New Jersey state average figures not verified from primary sources"
+    "charityCareVsStateInterpretation": "Lown Institute found HMH had the largest fair share surplus in the nation ($358M), meaning community investment exceeded the value of tax exemption. Nine HMH hospitals in top 20% nationally. This suggests HMH exceeds NJ state averages, but specific charity care percentage vs. state average not computed."
   },
 
   "accusation": "Hackensack Meridian Health — the largest health system in New Jersey, operating 18 hospitals under tax-exempt status, with bond debt issued through the NJ Health Care Facilities Financing Authority and CEO Robert C. Garrett's total compensation reported among the highest for nonprofit hospital executives in the state — serves as the Official Healthcare Partner of the New York Giants.",

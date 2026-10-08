@@ -34,22 +34,37 @@
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "REQUIRES LIVE VERIFICATION from Schedule D Part V and audited balance sheet notes. Inova is widely reported to hold one of the largest investment portfolios among U.S. nonprofit health systems relative to its revenue, estimated at $6.5-7.5 billion including equities, fixed income, alternatives, and private equity. Portfolio managed through internal investment office. Some investments may be held at Foundation level.",
+    "investmentPortfolio": 9500000000,
+    "investmentPortfolioSource": "EMMA continuing disclosure filing for period ended March 31, 2025. Obligated group investments of approximately $9.5B, of which $7.9B can be liquidated within three days. Asset allocation: global equity 51.6%, fixed income 21.8%, private investments 15.4%, cash 4.2%. Investment Fund comprises ~93% of assets whose use is limited, Capital Fund ~7%. Portfolio managed through internal investment office.",
+    "investmentPortfolioAsOfDate": "2025-03-31",
+    "totalNetAssets": 11090000000,
+    "totalNetAssetsAsOfDate": "2024-12-31",
     "realEstateValue": null,
     "realEstateSource": "Not separately disclosed in consolidated financials; Fairfax County real property assessment records would show individual parcels across five hospital campuses",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Inova Health System is known in healthcare finance for maintaining an exceptionally large investment portfolio relative to its operating revenue. Five hospital campuses across Northern Virginia's Fairfax County and surrounding jurisdictions represent substantial real estate holdings. The investment portfolio dwarfs the system's operating income and is the defining balance sheet feature."
+    "notes": "Inova Health System maintains one of the largest investment portfolios among U.S. nonprofit health systems. Total net assets grew from $9.71B (Dec 31, 2023) to $11.09B (Dec 31, 2024), a $1.38B increase in one year, driven by investment returns and operating surpluses. The $9.5B investment portfolio is approximately 16x FY2025 operating income of $582.7M. Five hospital campuses across Northern Virginia's Fairfax County, Loudoun County, and City of Alexandria represent substantial real estate holdings in some of the highest-value jurisdictions in the United States."
   },
 
   "bondDebt": {
     "totalOutstanding": null,
     "fiscalYear": null,
-    "largestIssue": null,
-    "largestIssueProceeds": "Recent bond issuances used for Inova Fairfax Medical Campus expansion and renovation, capital equipment, and refinancing of prior series",
-    "issuerAuthority": "Fairfax County Economic Development Authority",
-    "source": "REQUIRES LIVE VERIFICATION from Schedule K and EMMA/MSRB filings. Estimated total outstanding ~$1.5-2.0 billion based on historical issuance patterns. Bonds issued as tax-exempt revenue bonds through Fairfax County EDA as conduit issuer."
+    "largestIssue": "Series 2024 (5.000% coupon, maturing 2051 and 2054)",
+    "largestIssueProceeds": "Recent issuances include Series 2024 and Series 2022 refunding bonds. Series 2018A/B totaled $500M ($206.86M Series 2018A confirmed). 2022 Loudoun County Board approved up to $425M refunding authority. Proceeds used for Inova Fairfax Medical Campus expansion/renovation, capital equipment, and refinancing of prior series.",
+    "knownSeries": [
+      "Series 2024 (5.000%, maturing 2051 and 2054)",
+      "Series 2022 (refunding)",
+      "Series 2018A ($206,860,000, 4.000%, maturing 2048)",
+      "Series 2018B",
+      "Series 2014A ($200,000,000)",
+      "Series 2012A (5.000%, maturing 2040)",
+      "Series 2005C-1 ($9,305,000, weekly rate, LOC-backed)"
+    ],
+    "priorOutstandingEstimate": 1150000000,
+    "priorOutstandingEstimateSource": "Becker's/Moody's reference to Aa2 affirmation on approximately $1.15B of outstanding debt (pre-2024 issuance); current total likely higher after Series 2024 issuance",
+    "issuerAuthority": "Fairfax County Industrial Development Authority",
+    "obligatedGroup": "Inova Health System Foundation, Inova Health Care Services, Inova Loudoun Hospital, Inova Health System Services, Inova Alexandria Hospital",
+    "source": "EMMA/MSRB filings, Bond Buyer, Moody's, and Becker's Hospital Review. Bonds issued as tax-exempt healthcare revenue bonds through Fairfax County Industrial Development Authority as conduit issuer. Joint and several general obligation of the Obligated Group. Total liabilities of $3.58B (Dec 31, 2024 audited) include bonds plus other liabilities. Exact current bonds-payable total requires review of audited financial statements debt footnote on EMMA."
   },
 
   "relatedOrganizations": {

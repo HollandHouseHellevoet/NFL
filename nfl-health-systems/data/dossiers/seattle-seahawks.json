@@ -7,39 +7,39 @@
   "healthSystem": "Virginia Mason Franciscan Health",
   "ein": "91-0565816",
   "nonprofitType": "faith-based",
-  "dealType": ["Official Healthcare Partner", "Training Facility"],
-  "dealAnnounced": "2008",
+  "dealType": ["Official Healthcare Partner", "Training Facility Naming Rights"],
+  "dealAnnounced": "2007",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
-    "nonOperatingRevenue": null,
-    "totalAssets": null,
-    "totalLiabilities": null,
-    "source": "Form 990 for EIN 91-0565816 not verified via ProPublica Nonprofit Explorer due to search limitations. VMFH is a subsidiary of CommonSpirit Health (EIN 86-1223604), which reports consolidated financials. VMFH operates 10 hospitals and 300+ sites of care in the Puget Sound region. Parent CommonSpirit reported consolidated net assets of $14.4B as of June 2024. Web searches required to pull entity-level 990 data."
+    "fiscalYear": "2024",
+    "totalRevenue": 4489355000,
+    "operatingIncome": -193030000,
+    "operatingMarginPct": -4.3,
+    "nonOperatingRevenue": 15830000,
+    "totalAssets": 3423658000,
+    "totalLiabilities": 1803177000,
+    "source": "Washington State Department of Health audited consolidated financial statements, fiscal year ended June 30, 2024 (doh.wa.gov/sites/default/files/2025-06/Audit-VMFH.pdf). Total operating revenues $4,489,355K. Operating loss $(193,030)K. Deficit of revenues over expenses $(177,200)K after ~$20.9M investment income and ~$22.6M net interest expense. NonOperatingRevenue is net non-operating figure calculated as difference between operating loss and total deficit. EIN 91-0565816 maps to a supporting organization filing Form 990-EZ (EIN 86-1332353 per IRS); the consolidated operating entity files under Virginia Mason Medical Center (EIN 91-0565539) and subsidiary EINs. VMFH is a subsidiary of CommonSpirit Health (EIN 86-1223604)."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Not verified. VMFH investment assets are largely pooled at the CommonSpirit Health parent level. CommonSpirit reported approximately $1.5B in investment gains in calendar 2024.",
+    "investmentPortfolio": 238531000,
+    "investmentPortfolioSource": "WA DOH audit, June 30, 2024. Assets limited as to use: designated for capital projects $129,715K plus restricted by donors $108,816K = $238,531K total. VMFH investment assets are largely pooled at the CommonSpirit Health parent level; this figure represents entity-level restricted and designated assets only, not the full investment exposure through the parent.",
     "realEstateValue": null,
-    "realEstateSource": "Not verified. VMFH operates 10 hospitals in Washington state: Virginia Mason Medical Center (Seattle), St. Joseph Medical Center (Tacoma), St. Francis Hospital (Federal Way), St. Anthony Hospital (Gig Harbor), St. Clare Hospital (Lakewood), St. Elizabeth Hospital (Enumclaw), St. Michael Medical Center (Silverdale), Highline Medical Center (Burien), St. Anne Hospital (Burien), and Rehabilitation Hospital (Tacoma).",
-    "boardDesignatedFunds": null,
+    "realEstateSource": "Not separately broken out in consolidated balance sheet. VMFH operates 10 hospitals in Washington: Virginia Mason Medical Center (Seattle), St. Joseph Medical Center (Tacoma), St. Francis Hospital (Federal Way), St. Anthony Hospital (Gig Harbor), St. Clare Hospital (Lakewood), St. Elizabeth Hospital (Enumclaw), St. Michael Medical Center (Silverdale), Highline Medical Center (Burien), St. Anne Hospital (Burien), and Rehabilitation Hospital (Tacoma).",
+    "boardDesignatedFunds": 129715000,
     "endowmentFunds": null,
-    "notes": "VMFH's balance sheet is consolidated into CommonSpirit Health, which held $14.4B in net assets as of June 2024. Entity-level assets for EIN 91-0565816 not verified. Virginia Mason Foundation exists as a separate fundraising entity."
+    "notes": "Total net assets $1,620,481K as of June 30, 2024: $1,512,716K without donor restrictions, $107,765K with donor restrictions. Net assets declined ~$164M from $1,784,219K at June 30, 2023. Total liabilities rose ~$297M from $1,506,640K at June 30, 2023. VMFH balance sheet is consolidated into CommonSpirit Health, which held $14.4B in net assets as of June 2024. Virginia Mason Foundation exists as a separate fundraising entity."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": null,
+    "totalOutstanding": 619953000,
+    "fiscalYear": "2024",
     "largestIssue": null,
     "largestIssueProceeds": null,
     "issuerAuthority": "Washington Health Care Facilities Authority",
-    "source": "VMFH debt is incorporated into CommonSpirit Health's master trust indenture (MTI). CommonSpirit issued $504.1M in Washington state tax-exempt bonds (Series 2025A) through the Washington Health Care Facilities Authority per S&P September 2025 report. Legacy CHI Franciscan and Virginia Mason debt was folded into the CommonSpirit MTI. Total CommonSpirit system debt was approximately $13.7B pre-merger ($8.5B CHI + $5.2B Dignity Health). Entity-level VMFH bond debt not separately verified via EMMA."
+    "source": "WA DOH audit, June 30, 2024. Current portion of long-term debt $15,409K plus long-term debt net of current portion $604,544K = $619,953K total. VMFH debt is incorporated into CommonSpirit Health's master trust indenture (MTI). CommonSpirit issued $504.1M in Washington state tax-exempt bonds (Series 2025A) through the WHCFA per S&P September 2025 report. Legacy CHI Franciscan and Virginia Mason debt was folded into the CommonSpirit MTI. Parent CommonSpirit system total debt approximately $15.5B per EMMA consolidated disclosure. Legacy Virginia Mason Medical Center Taxable Bonds, Series 2013 were refinanced through a taxable loan under CommonSpirit."
   },
 
   "relatedOrganizations": {
@@ -51,7 +51,7 @@
       "CommonSpirit Health (parent entity, EIN 86-1223604)",
       "Catholic Health Initiatives (legacy parent of CHI Franciscan)",
       "CHI Franciscan Health (legacy entity, merged with Virginia Mason in 2021)",
-      "Virginia Mason Medical Center (Seattle flagship hospital)",
+      "Virginia Mason Medical Center (Seattle flagship hospital, EIN 91-0565539)",
       "St. Joseph Medical Center (Tacoma)",
       "St. Francis Hospital (Federal Way)",
       "St. Anthony Hospital (Gig Harbor)",
@@ -61,37 +61,39 @@
       "Highline Medical Center (Burien)",
       "St. Anne Hospital (Burien)",
       "Rehabilitation Hospital (Tacoma)",
-      "Benaroya Research Institute at Virginia Mason (immunology research)"
+      "Benaroya Research Institute at Virginia Mason (immunology research)",
+      "Madrona Pharmacy (joint venture with Confluence Health, specialty pharmacy)",
+      "Virginia Mason Institute (EIN 26-3763656, consulting and training)"
     ],
     "relatedPartyTransactions": null,
     "source": "Schedule R not verified due to search limitations. VMFH formed in January 2021 from the combination of Virginia Mason Medical Center and CHI Franciscan Health, both under CommonSpirit Health. CHI Franciscan was part of Catholic Health Initiatives, which merged with Dignity Health to form CommonSpirit in 2019. Virginia Mason affiliated with CommonSpirit in 2021."
   },
 
   "executiveComp": {
-    "fiscalYear": null,
-    "ceoName": null,
-    "ceoBaseComp": null,
-    "ceoBonusIncentive": null,
+    "fiscalYear": "2022",
+    "ceoName": "Ketul J. Patel",
+    "ceoBaseComp": 1348212,
+    "ceoBonusIncentive": 1189554,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 559738,
+    "ceoTotalComp": 3097504,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "Executive compensation from Form 990 Schedule J for EIN 91-0565816 not verified due to search limitations. Ketul Patel served as CEO of VMFH; leadership transitions have occurred. Parent CommonSpirit Health CEO is Wright Lassiter III. Compensation data requires 990 verification."
+    "source": "Washington State Department of Health Hospital Employee Compensation Report (Comp010-2023.pdf), calendar year 2022 compensation for Virginia Mason Medical Center. Base pay $1,348,212; bonus/other $1,189,554; additional amounts $530,202 + $17,750 + $11,786 = $559,738; total $3,097,504. ProPublica Nonprofit Explorer for Virginia Mason Medical Center (EIN 91-0565539) shows Patel at $3,565,171 as President/Co-CEO in a more recent filing year (likely FY2023). Patel departed VMFH to become CEO of Wellstar Health System (announced late 2025). VMFH executive compensation is reported on subsidiary hospital 990s, not the VMFH supporting organization 990-EZ (EIN 86-1332353), which shows $0 compensation."
   },
 
   "communityBenefit": {
-    "claimedAmount": null,
-    "claimedPctOfRevenue": null,
+    "claimedAmount": 304000000,
+    "claimedPctOfRevenue": 6.8,
     "charityCareClaimedAmount": null,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "Community benefit from Form 990 Schedule H for EIN 91-0565816 not verified due to search limitations. Washington state requires nonprofit hospitals to develop community health needs assessments and implementation strategies. Washington Attorney General has oversight of nonprofit hospital conversions and charity care compliance under RCW 70.170."
+    "source": "VMFH About page (vmfh.org/about-vmfh) self-reports 'nearly $304 million in community benefits' including free, subsidized, and reduced-cost care. Year not specified on page; figure likely covers FY2023 or FY2024. Predecessor CHI Franciscan reported ~$196M in community benefit and ~$25M in charity care in 2018. VMFH awarded $1.7M in Community Health Improvement Grants to 24 nonprofits in 2024 and $1.8M to 29 nonprofits in 2026. ClaimedPctOfRevenue computed as $304M / $4,489M total operating revenue = 6.8%. Washington state requires nonprofit hospitals to develop CHNAs and implementation strategies. Washington AG has oversight under RCW 70.170. Form 990 Schedule H for individual hospital EINs not verified."
   },
 
   "taxAdvantage": {
@@ -102,7 +104,7 @@
     "salesTaxForegone": null,
     "taxExemptBondInterestSubsidy": null,
     "program340BEstimatedBenefit": null,
-    "notes": "VMFH operates 10 hospitals and 300+ care sites across Washington state, all property-tax-exempt. Washington state has no personal income tax but does have a business & occupation (B&O) tax from which nonprofits receive exemptions. Tax-exempt bond interest subsidy applies through CommonSpirit's master trust indenture. Total tax advantage not quantified."
+    "notes": "VMFH operates 10 hospitals and 300+ care sites across Washington state, all property-tax-exempt. Washington state has no personal income tax but does have a business & occupation (B&O) tax from which nonprofits receive exemptions. Tax-exempt bond interest subsidy applies to ~$620M of long-term debt through CommonSpirit's master trust indenture. Total tax advantage not quantified."
   },
 
   "layoffs": [
@@ -113,10 +115,16 @@
       "source": "Not verified via web search; requires confirmation from WARN Act filings and news reports"
     },
     {
-      "date": "2023",
-      "count": null,
-      "notes": "Reports of workforce reductions at Virginia Mason Franciscan Health as part of CommonSpirit Health restructuring efforts; exact count not verified",
-      "source": "Not verified via web search; requires confirmation from WARN Act filings and Becker's Hospital Review"
+      "date": "2023-04",
+      "count": 400,
+      "notes": "Virginia Mason Franciscan Health laid off nearly 400 staffers, less than 2% of its ~19,000 workforce. Cuts primarily hit non-patient-facing roles. System cited 'tremendous financial strain' from lasting pandemic effects, inflation, and labor shortages as part of CommonSpirit Health restructuring.",
+      "source": "Seattle Times (seattletimes.com/seattle-news/health/virginia-mason-franciscan-health-lays-off-nearly-400-staffers/); Becker's Hospital Review (beckershospitalreview.com/finance/virginia-mason-lays-off-over-300-employees/)"
+    },
+    {
+      "date": "2025-07",
+      "count": 200,
+      "notes": "VMFH announced layoffs impacting approximately 200 team members across transitioned virtual health services and administrative functions. WARN notice filed for 116 workers in Tacoma with layoffs beginning July 28, 2025. Additional WARN filings: 24 workers (September 8, 2025), 5 workers (October 17, 2025). System cited Washington state budget changes expected to cost VMFH an additional $30 million annually.",
+      "source": "KING 5 (king5.com); WA WARN tracker; Yahoo News; Kadoa layoff tracker (kadoa.com/layoffs/company/virginia-mason-franciscan-health-virtual-health-services)"
     }
   ],
 
@@ -134,8 +142,10 @@
     "moodysDate": "2025-09-30",
     "keyRiskFactors": [
       "VMFH debt is under CommonSpirit Health master trust indenture — ratings reflect parent system",
-      "CommonSpirit posted operating losses of $581M (FY2024) and $687M (FY2025)",
+      "VMFH posted consolidated operating loss of $193M (FY2024) and reported ~$275M annual operating losses across eight hospitals from 2022-2026",
+      "Parent CommonSpirit posted operating losses of $581M (FY2024) and $687M (FY2025)",
       "Heavy reliance on non-operating investment returns to offset operating losses at parent level",
+      "Washington state budget changes expected to cost VMFH an additional $30M annually",
       "Washington state Certificate of Need regulations constrain market expansion",
       "Integration complexity from 2021 Virginia Mason and CHI Franciscan combination",
       "Competition from UW Medicine, Swedish (Providence), MultiCare, and Kaiser Permanente in Puget Sound market"
@@ -143,10 +153,11 @@
   },
 
   "program340B": {
-    "contractPharmacies": null,
+    "contractPharmacies": 0,
     "outOfStatePharmaciesPct": null,
     "dshStatus": true,
-    "estimatedAnnualBenefit": null
+    "estimatedAnnualBenefit": null,
+    "notes": "Six CHI Franciscan hospitals are 340B-eligible: St. Anne, St. Clare, St. Elizabeth, St. Francis, St. Joseph Medical Center, and St. Michael Medical Center. Virginia Mason Medical Center's 340B registration was TERMINATED effective 1/1/2024 because DSH percentage fell below the statutory minimum (HRSA 340B OPAIS database, CE ID 96551). HRSA database shows zero contract pharmacies for the terminated VMMC registration. Contract pharmacy count for the six active CHI Franciscan hospitals not verified via OPAIS. VMFH operates retail, clinic, and specialty pharmacies including Madrona Pharmacy (joint venture with Confluence Health)."
   },
 
   "acquisitions": [
@@ -162,7 +173,7 @@
       "entity": "Virginia Mason Medical Center affiliation with CommonSpirit",
       "type": "Nonprofit affiliation",
       "hospitals": 1,
-      "notes": "Virginia Mason Medical Center in Seattle affiliated with CommonSpirit Health and combined with CHI Franciscan to form Virginia Mason Franciscan Health"
+      "notes": "Virginia Mason Medical Center in Seattle affiliated with CommonSpirit Health and combined with CHI Franciscan to form Virginia Mason Franciscan Health, effective January 1, 2021"
     }
   ],
 
@@ -175,15 +186,15 @@
   "legalIssues": [],
 
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Cannot compute: VMFH entity-level investment portfolio and operating income not verified from 990. Parent CommonSpirit posted $1.5B investment gains against $581M operating loss in FY2024.",
-    "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Cannot compute: VMFH entity-level bond debt and community benefit not separately verified.",
+    "investmentsToOperatingIncome": -1.24,
+    "investmentsToOperatingIncomeInterpretation": "VMFH holds $238.5M in restricted/designated investments against a $(193.0)M operating loss (FY2024). Ratio is negative because operating income is negative. The entity-level investment portfolio of $238.5M understates total investment exposure because VMFH investments are largely pooled at the CommonSpirit Health parent level. Parent CommonSpirit posted $1.5B investment gains against $581M operating loss in FY2024.",
+    "bondDebtToCommunityBenefit": 2.04,
+    "bondDebtToCommunityBenefitInterpretation": "VMFH carries $620.0M in long-term debt against a self-reported $304M community benefit. For every dollar VMFH claims in community benefit, it carries $2.04 in bonded debt. Community benefit year not specified by VMFH; ratio is approximate. Entity-level debt of $620M is a fraction of parent CommonSpirit's ~$15.5B total system debt.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Cannot compute: VMFH charity care percentage and Washington state average not verified from 990 Schedule H."
+    "charityCareVsStateInterpretation": "Cannot compute: VMFH charity care amount not separately verified from 990 Schedule H. Washington state average not confirmed."
   },
 
-  "accusation": "Virginia Mason Franciscan Health is a subsidiary of CommonSpirit Health, which holds $14.4 billion in net assets and reaped $1.5 billion in investment gains in a single year while posting consecutive operating losses of $581 million and $687 million, yet its ten tax-exempt hospitals across Washington state sponsor the Seahawks' training facility while entity-level community benefit, charity care, and executive compensation figures remain unverified from its own Form 990.",
+  "accusation": "Virginia Mason Franciscan Health, a CommonSpirit Health subsidiary operating ten tax-exempt hospitals across Washington state, lost $193 million on operations in fiscal 2024 while carrying $620 million in tax-exempt debt and reporting $3.4 billion in total assets, yet it holds naming rights to the Seahawks' training facility (the Virginia Mason Athletic Center in Renton), laid off nearly 400 workers in 2023 and another 200 in 2025, saw its flagship hospital lose 340B drug-discount eligibility in 2024, and self-reports $304 million in community benefit without disclosing entity-level charity care figures on its Form 990 while its parent system collected $1.5 billion in investment gains and held $14.4 billion in net assets.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. Top badge: 'INTELLIGENCE BRIEFING'. Center headline: 'Virginia Mason Franciscan Health'. Subhead: 'Seattle Seahawks -- Training Facility & Healthcare Partner'. Three data blocks with 3px orange left border: Block 1 -- 'Parent Net Assets: $14.4B (CommonSpirit, June 2024)'. Block 2 -- 'Hospitals: 10 across Washington state'. Block 3 -- 'Parent Credit Rating: A/A3/A- (Stable)'. Large orange callout: '$14.4B' with 'parent net assets (CommonSpirit Health)' below in italic cream. Bottom line: 'Faith-based subsidiary of CommonSpirit Health. 10 hospitals in Puget Sound. Parent lost $687M operating but gained $1.5B on investments. Entity-level 990 data requires verification.' Logo lockup: 'THE ROJAS REPORT' in orange Playfair Display small caps. Source line: 'CommonSpirit Health investor filings, S&P/Moody's/Fitch 2025, ProPublica Nonprofit Explorer EIN 91-0565816.'"
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. Top badge: 'INTELLIGENCE BRIEFING'. Center headline: 'Virginia Mason Franciscan Health'. Subhead: 'Seattle Seahawks -- Training Facility Naming Rights & Healthcare Partner'. Three data blocks with 3px orange left border: Block 1 -- 'Total Revenue: $4.49B | Operating Loss: $(193.0)M (FY2024)'. Block 2 -- 'Total Assets: $3.42B | Long-Term Debt: $620.0M'. Block 3 -- 'Credit Rating: A/A3/A- (Stable) via CommonSpirit MTI'. Large orange callout: '$(193.0)M' with 'operating loss on $4.49B revenue (FY2024)' below in italic cream. Bottom line: 'Faith-based subsidiary of CommonSpirit Health. 10 hospitals, ~19,000 employees. Self-reports $304M community benefit. Laid off ~400 in 2023, ~200 in 2025. Flagship lost 340B eligibility 1/1/2024. Parent holds $14.4B net assets.' Logo lockup: 'THE ROJAS REPORT' in orange Playfair Display small caps. Source line: 'WA DOH Audit FY2024, CommonSpirit Health investor filings, S&P/Moody's/Fitch 2025, ProPublica Nonprofit Explorer, HRSA 340B OPAIS.'"
 }

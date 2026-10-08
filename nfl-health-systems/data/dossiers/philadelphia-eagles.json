@@ -188,6 +188,12 @@
       "target": "Einstein Healthcare Network",
       "description": "Merger added Einstein Medical Center Philadelphia, Elkins Park, and Montgomery campuses plus MossRehab; significantly expanded North Philadelphia and Montgomery County presence; added approximately 800 beds",
       "source": "Pennsylvania AG filing; FTC review (no challenge); public announcements"
+    },
+    {
+      "year": 2024,
+      "target": "Lehigh Valley Health Network",
+      "description": "Merger closed August 1, 2024; added Lehigh Valley's 13 hospital campuses and ~$6B in revenue to Jefferson enterprise. Total assets jumped from ~$11.8B to ~$18.3B; bond debt from ~$3.4B to ~$5.1B. Created a ~$16B combined system spanning southeastern and eastern Pennsylvania and southern New Jersey. FY2025 results include 11 months of LVHN operations.",
+      "source": "Thomas Jefferson University consolidated audited financial statements FY2025; Becker's Hospital Review; Philadelphia Inquirer"
     }
   ],
 
@@ -217,5 +223,5 @@
 
   "accusation": "Jefferson Health — a $15.8 billion system built through six mergers in nine years, now carrying $5.1 billion in tax-exempt bond debt — paid its CEO $6.9 million and secured Eagles jersey patch sponsorship and training complex naming rights while posting a $196 million operating loss in FY2025, cutting approximately 1,500 jobs across four rounds of layoffs (2023-2025), and drawing Negative outlooks from all three credit rating agencies. The system sits on an investment portfolio exceeding $4 billion and claimed $754 million in community benefit, yet the bulk of its operating deficit came from its own Medicaid managed care plan (Jefferson Health Plans, -$170M), not from charity care. All of this under the shelter of its 501(c)(3) status as Thomas Jefferson University (EIN 23-1352651), which exempts it from federal, state, and local taxes and allows it to issue tax-exempt bonds.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. DRAFT — populate with verified numbers after web research. Headline: 'JEFFERSON HEALTH'. Subhead: 'Philadelphia Eagles — Jersey Patch, Training Facility Naming, Official Healthcare Partner'. Data blocks to populate after verification: Total Revenue, CEO Pay (Cacchione), Operating Margin, Investment Portfolio, Bond Debt, Community Benefit. Note 18-hospital system from 5 mergers (2015-2021). Note workforce reductions amid operating losses. Show Eagles partnership since ~2023 with training complex naming Feb 2026. Bottom right: 'THE ROJAS REPORT' in orange Playfair Display small caps."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Headline: 'JEFFERSON HEALTH'. Subhead: 'Philadelphia Eagles — Jersey Patch, Training Complex Naming, Official Healthcare Partner'. Data blocks: Total Revenue $15.8B (FY2025), CEO Pay $6.9M (Cacchione), Operating Loss -$196M (-1.2% margin), Investment Portfolio $4B+, Bond Debt $5.1B, Community Benefit $754M (FY2024). Credit ratings: Fitch A/Negative, Moody's A3/Negative, S&P A/Negative. Note 18+ hospital system from 6 mergers (2015-2024 incl. LVHN). Note ~1,500 layoffs across 4 rounds (2023-2025). Note $170M loss from Jefferson Health Plans insurance arm. Show Eagles partnership: practice jersey patch (Aug 2023), Jefferson Health Training Complex naming (Feb 2026). Bottom right: 'THE ROJAS REPORT' in orange Playfair Display small caps."
 }

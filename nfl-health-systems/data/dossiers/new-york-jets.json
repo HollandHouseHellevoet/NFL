@@ -165,15 +165,15 @@
   "legalIssues": [],
 
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Not computed; investment portfolio and operating income figures require verification from Form 990",
+    "investmentsToOperatingIncome": 9.4,
+    "investmentsToOperatingIncomeInterpretation": "Investment portfolio ($2.87B) is 9.4x annual net income ($304M), indicating massive accumulated wealth far exceeding annual operating surplus. The system's investment assets alone exceed its total long-term debt ($1.39B) by nearly 2:1.",
     "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Not computed; bond debt outstanding and community benefit amounts require verification",
+    "bondDebtToCommunityBenefitInterpretation": "Not computed; community benefit dollar amount not found in web searches. Bond debt outstanding: $1,386,033,000.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Not computed; charity care figures and New Jersey state average require verification from Schedule H and NJ DHSS data"
+    "charityCareVsStateInterpretation": "Not computed; charity care dollar figures not found. NJ Charity Care eligibility: full coverage up to 200% FPL, partial 200%-300% FPL. AHA national average community benefit: 15.1% of expenses (2022)."
   },
 
-  "accusation": "A multi-billion-dollar tax-exempt health system that put its name on the New York Jets' training facility, paid its prior CEO $10.69 million in a single year, and operates five New Jersey hospitals free of property, income, and sales tax while leveraging tax-exempt bond financing from the state.",
+  "accusation": "A $4.8 billion-revenue tax-exempt health system sitting on $2.9 billion in investments and $3.7 billion in net assets, which put its name on the New York Jets' training facility via a 12-year naming-rights deal (terms undisclosed), paid its CEO $11.5 million in FY2024 (up from $9.5M the year before and $10.7M to his predecessor in 2012), carries $1.4 billion in bond debt financed at tax-exempt rates through the New Jersey Health Care Facilities Financing Authority, and operates five New Jersey hospitals free of property, income, and sales tax — all while its community benefit spending remains opaque and unquantified in public filings found online.",
 
   "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Top: small orange-bordered badge 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'ATLANTIC HEALTH SYSTEM'. Subhead cream Source Sans Pro 600: 'New York Jets — Training Facility Naming Rights & Official Healthcare Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Revenue: [VERIFY FROM 990]'. Block 2 — 'Former CEO Pay: $10.69M (Trunfio, 2012)'. Block 3 — 'Hospitals: 5 (NJ)'. Block 4 — 'Credit Rating: Aa3 (Moody’s)'. Single large orange callout number '$10.69M' above headline with Cream 'paid to prior CEO in one year' below in italic. Bottom line in Cream Source Sans Pro 600: 'Named the Jets training center after itself. Five tax-exempt NJ hospitals. Tax-exempt bond financing through NJHCFFA.' Bottom right: 'THE ROJAS REPORT' in orange Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 via ProPublica (EIN 22-3110087) · NJ.com · NJHCFFA · Moody’s.'"
 }
