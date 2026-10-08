@@ -569,8 +569,8 @@
       "source": "Charlotte-Mecklenburg Hospital Authority (Atrium Health CMHA) FY2024 Audited Financial Statements"
     },
     "balanceSheetWealth": {
-      "investmentPortfolio": null,
-      "investmentPortfolioSource": "CMHA-specific investment breakdown not separately disclosed; consolidated Advocate Health (CMHA + AAH + WFB) held $22.18B in long-term investments as of Dec 31, 2024",
+      "investmentPortfolio": 7538312000,
+      "investmentPortfolioSource": "Atrium Health CMHA FY2024 Audited Financial Statements — fair value of CMHA's interest in the Advocate Health centralized investment pool was $7,538,312 (thousands) as of December 31, 2024; consolidated Advocate Health held $22.18B in long-term investments total",
       "realEstateValue": 1724085300,
       "realEstateSource": "Mecklenburg County property tax assessment (2022); Atrium is exempt as a unit of local government",
       "boardDesignatedFunds": null,
@@ -681,8 +681,8 @@
       }
     ],
     "ratios": {
-      "investmentsToOperatingIncome": null,
-      "investmentsToOperatingIncomeInterpretation": "CMHA-specific investment portfolio not separately disclosed in audited financials; consolidated Advocate Health holds $22.18B in long-term investments against CMHA operating income of $597M, but cross-entity ratio is not meaningful.",
+      "investmentsToOperatingIncome": 12.63,
+      "investmentsToOperatingIncomeInterpretation": "CMHA holds $7.54B in investments (its share of the Advocate Health centralized investment pool) against $597M in operating income — 12.63x ratio indicates a massive investment portfolio relative to operations, with every dollar of operating income backed by $12.63 in invested assets.",
       "bondDebtToCommunityBenefit": null,
       "bondDebtToCommunityBenefitInterpretation": "CMHA bond debt $3.1B vs. Atrium NC community benefit claim $2.38B (different fiscal years and reporting scopes); ratio not computed due to entity mismatch.",
       "charityCarePctVsStateAvg": null,
@@ -896,7 +896,7 @@
     },
     "balanceSheetWealth": {
       "investmentPortfolio": null,
-      "investmentPortfolioSource": "Not separately disclosed on 990; university-level investments of $533M plus $799M endowment are University of Cincinnati figures, not attributable to UC Health operating entity",
+      "investmentPortfolioSource": "Not separately disclosed on Form 990 (EIN 27-3850988); UC Health's audited financial statements and EMMA continuing disclosures not accessible for verification. UC Health had $921M in unrestricted cash and investments at pandemic peak but spent $600M+ of that by Sept 2023; days cash on hand fell from 171 (2021) to 56 (2023) per WCPO/S&P reporting. University-level investments ($533M + $799M endowment) are University of Cincinnati figures, not attributable to UC Health operating entity.",
       "realEstateValue": null,
       "realEstateSource": "Not separately verified",
       "boardDesignatedFunds": null,
@@ -1067,8 +1067,8 @@
       "source": "Becker's Hospital Review citing audited financials; total assets from system investment office disclosure (FY2025 figure)"
     },
     "balanceSheetWealth": {
-      "investmentPortfolio": null,
-      "investmentPortfolioSource": "Investment office manages $17.5B total assets including direct real estate, JV hospital partnerships, and venture portfolio via external managers; specific investment securities breakdown not publicly disclosed",
+      "investmentPortfolio": 7537000000,
+      "investmentPortfolioSource": "Audited consolidated financial statements (FY ending June 30, 2024) report $7.537B in total long-term investments ($6.927B unrestricted, $610M restricted). Confirmed as prior-year comparatives in FY2025 audit filed on EMMA (MSRB). Unrestricted portfolio includes ~$83M under measurement alternative. Asset classes include public equity, diversifiers, private equity/debt, and private real assets managed via external managers.",
       "realEstateValue": null,
       "realEstateSource": "Direct real estate holdings confirmed but value not publicly broken out",
       "boardDesignatedFunds": null,
@@ -1105,13 +1105,13 @@
       "ceoBaseComp": null,
       "ceoBonusIncentive": null,
       "ceoDeferredComp": null,
-      "ceoOtherComp": null,
-      "ceoTotalComp": null,
+      "ceoOtherComp": 1976887,
+      "ceoTotalComp": 10016731,
       "topOfficersTotalComp": 5136396,
       "numberOfOfficersReported": null,
       "perks": [],
       "splitDollarInsurance": null,
-      "source": "Form 990 (EIN 75-6068308) FY2024 via ProPublica; total executive compensation reported as $5,136,396 (0.3% of expenses); individual CEO breakdown not parsed from 990"
+      "source": "Baylor Scott & White Holdings Form 990 (EIN 46-3130985) FY ending June 2024, filed May 2025. McCanna listed as CEO with $8,039,844 reportable compensation (W-2/1099-MISC) and $1,976,887 estimated other compensation, totaling $10,016,731. Base vs. bonus/deferred breakdown not separately disclosed on 990 Part VII. Total executive compensation of $5,136,396 reported on BSW Health entity (EIN 75-6068308). Sources: philanthropy.org 990 extract; Rojas Report analysis citing filed 990."
     },
     "communityBenefit": {
       "claimedAmount": 1000000000,
@@ -1205,8 +1205,8 @@
       }
     ],
     "ratios": {
-      "investmentsToOperatingIncome": null,
-      "investmentsToOperatingIncomeInterpretation": "Cannot compute: specific investment portfolio value not publicly broken out from $17.5B total assets",
+      "investmentsToOperatingIncome": 6.28,
+      "investmentsToOperatingIncomeInterpretation": "BSW holds $7.537B in long-term investments against $1.2B in operating income (FY2024), a 6.28x ratio — meaning for every dollar of operating income the system generates, it holds $6.28 in investment assets. This is among the highest ratios in the nonprofit health system sector.",
       "bondDebtToCommunityBenefit": 5.5,
       "bondDebtToCommunityBenefitInterpretation": "BSW carries $5.5B in tax-exempt bond debt, 5.5x its claimed $1B annual community benefit, meaning for every dollar of community benefit claimed, the system holds $5.50 in subsidized debt",
       "charityCarePctVsStateAvg": null,
@@ -1646,7 +1646,7 @@
     },
     "balanceSheetWealth": {
       "investmentPortfolio": null,
-      "investmentPortfolioSource": "Investment income of $14,303,977 reported on FY2024 990 (1.7% of revenue); total investment portfolio balance not independently verified from Part X balance sheet",
+      "investmentPortfolioSource": "Investment income of $14,303,977 reported on FY2024 990 (1.7% of revenue). Total assets $1,148,095,932, net assets $711,522,185 per ProPublica extract of FY2024 990. Part X balance sheet investment line items (lines 11-13: publicly traded securities, other securities, program-related investments) not independently verified — ProPublica, CauseIQ, Instrumentl, and GuideStar summaries do not break out securities balances. Bellin Health Foundation (EIN 39-1809171) held $6.3M in separate foundation investment assets as of September 2023. WHEFA bond continuing-disclosure filings on EMMA may contain audited financial statements with investment detail but were not accessed.",
       "realEstateValue": null,
       "realEstateSource": "Not independently verified",
       "boardDesignatedFunds": null,
@@ -2335,79 +2335,80 @@
     "division": "West",
     "city": "Kansas City",
     "state": "Missouri",
-    "healthSystem": "Childrens Mercy",
-    "ein": "44-0546167",
+    "healthSystem": "The University of Kansas Health System",
+    "ein": null,
     "nonprofitType": "501c3",
     "dealType": [
-      "Official Healthcare Partner"
+      "Official Healthcare Provider"
     ],
-    "dealAnnounced": null,
+    "dealAnnounced": "2012-08",
     "dealTermsDisclosed": false,
     "estimatedDealValue": null,
     "financials": {
-      "fiscalYear": "FY2024 (ending June 30, 2024)",
-      "totalRevenue": 2080000000,
+      "fiscalYear": "FY2025 (ending June 30, 2025)",
+      "totalRevenue": 5400000000,
       "operatingIncome": null,
       "operatingMarginPct": null,
       "nonOperatingRevenue": null,
-      "totalAssets": 3349000000,
+      "totalAssets": 5100000000,
       "totalLiabilities": null,
-      "source": "Form 990 FY2024 (EIN 44-0605373) via ProPublica Nonprofit Explorer; total revenue $2.08B, total expenses $1.81B; operating budget reported as $1.7B by Children's Mercy; total assets $3.349B with net assets of approximately $2.7B"
+      "source": "Bond Buyer reporting on $415M bond offering (2026): total revenue $5.4B in FY2025 (up from $4.5B in FY2024), total assets $5.1B; health system FY2025 financial overview confirms total operating revenue of $5,394,325 (in thousands); Q1 FY2025 Becker's report: long-term debt $1B as of Sept. 30, 2024; the University of Kansas Hospital Authority is a state instrumentality created by K.S.A. 76-3304 and does not file Form 990"
     },
     "balanceSheetWealth": {
-      "investmentPortfolio": 2600000000,
-      "investmentPortfolioSource": "Unrestricted cash and investments including hospital foundation holdings of $2.6B as of March 31, 2024, per Moody's and S&P credit reports cited in Beacon News and Healthcare Finance News",
+      "investmentPortfolio": null,
+      "investmentPortfolioSource": "Not separately disclosed in public financial overviews; S&P noted days cash on hand of 154 days in FY2025, down from 161 days in FY2023 and FY2024; balance sheet figures described as 'relatively weak compared with peers' by S&P Global",
       "realEstateValue": null,
       "realEstateSource": "Not verified",
       "boardDesignatedFunds": null,
-      "endowmentFunds": 322069047,
-      "notes": "Children's Mercy Hospital Foundation held $308M in total assets (FY2024). The Endowment Fund (EIN 44-6006542) contained 362 individual funds totaling $322M as of FY2025. Hospital plans to pay $1B+ of a $1.7B campus expansion in cash, indicating substantial liquid reserves beyond operational needs."
+      "endowmentFunds": null,
+      "notes": "Total assets of $5.1B against long-term debt of $1B as of Sept. 30, 2024, implying net assets in the range of $3B-$4B depending on other liabilities. The system does not publish a detailed balance sheet in its publicly available financial overviews. Its audited financial statements and bond investor presentations contain the full breakdown but are not freely available online. The $415M bond offering in 2026 — its first new debt since 2019 — will increase total leverage significantly."
     },
     "bondDebt": {
-      "totalOutstanding": null,
-      "fiscalYear": null,
-      "largestIssue": "Series 2026 Revenue Bonds (pending)",
-      "largestIssueProceeds": "Estimated $250M–$350M; hospital seeking up to $500M in total new tax-exempt debt for $1.7B campus expansion, which would nearly triple existing debt load",
-      "issuerAuthority": "Missouri Health and Educational Facilities Authority",
-      "source": "Beacon News June 2026; Bond Buyer; Moody's and S&P reports on 2026 bond offering"
+      "totalOutstanding": 1000000000,
+      "fiscalYear": "As of Sept. 30, 2024 (Q1 FY2025)",
+      "largestIssue": "Series 2026 Health Facilities Revenue Bonds",
+      "largestIssueProceeds": "415000000",
+      "issuerAuthority": "University of Kansas Hospital Authority",
+      "source": "Bond Buyer 2026: $415M offering split into $365M fixed-rate and $50M put bonds, secured by gross revenue pledge, rated AA- by both Fitch and S&P; proceeds fund cancer pavilion, purchase of leased Indian Creek Campus buildings, and refunding of 2004, 2011, and 2015 series; Becker's Hospital Review Q1 FY2025: long-term debt was $1B as of Sept. 30, 2024; this was the first debt issuance since 2019"
     },
     "relatedOrganizations": {
-      "captiveInsurance": "Childrens Mercy Hospital Self Insurance Trust (EIN 43-6321807)",
+      "captiveInsurance": null,
       "insuranceArmRevenue": null,
-      "physicianGroupEntity": "Children's Mercy - Pediatric Associates, Inc.; Children's Mercy - Preferred Pediatrics, Inc.",
-      "foundationEntity": "Children's Mercy Hospital Foundation (EIN 43-1564302)",
+      "physicianGroupEntity": "Kansas University Physicians Inc (EIN 48-1163756)",
+      "foundationEntity": null,
       "otherRelatedEntities": [
-        "Childrens Mercy Family Health Partners Inc (EIN 43-1726517)",
-        "Childrens Mercy Hospital Endowment Fund (EIN 44-6006542)",
-        "PedsMarket LLC (wholly owned subsidiary for pediatric innovation commercialization)"
+        "University of Kansas Medical Center Research Institute (EIN 48-1108830)",
+        "KU Endowment Association",
+        "Olathe Health System (acquired January 2023)",
+        "Liberty Hospital (acquired July 2024)"
       ],
       "relatedPartyTransactions": null,
-      "source": "Schedule R; ProPublica Nonprofit Explorer; Children's Mercy Center for Pediatric Innovation website"
+      "source": "HRSA 340B database; ProPublica Nonprofit Explorer; Daffy.org; Kansas University Physicians Inc stated mission is 'support to the University of Kansas Hospital Authority in connection with its health care operations'; the Hospital Authority is governed by a 19-member board, 13 appointed by the Kansas governor"
     },
     "executiveComp": {
-      "fiscalYear": "FY2024 (ending June 30, 2024)",
-      "ceoName": "Paul D. Kempinski",
-      "ceoBaseComp": 1675833,
+      "fiscalYear": null,
+      "ceoName": "Bob Page",
+      "ceoBaseComp": null,
       "ceoBonusIncentive": null,
       "ceoDeferredComp": null,
-      "ceoOtherComp": 41752,
-      "ceoTotalComp": 1717585,
-      "topOfficersTotalComp": 12158050,
+      "ceoOtherComp": null,
+      "ceoTotalComp": null,
+      "topOfficersTotalComp": null,
       "numberOfOfficersReported": null,
       "perks": [],
       "splitDollarInsurance": null,
-      "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer and GiveFreely; Kempinski retired effective January 2025; Dr. Alejandro Quiroga (formerly of Corewell Health) succeeded him as President and CEO effective January 2, 2025"
+      "source": "Bob Page has served as President and CEO since July 2007, selected by the Hospital Authority Board; the University of Kansas Hospital Authority is a state instrumentality under K.S.A. 76-3304 and does not file IRS Form 990, so executive compensation is not publicly reported through that mechanism; employees are explicitly not state employees per Kansas statute, complicating public salary disclosure; no compensation figures found in public databases"
     },
     "communityBenefit": {
-      "claimedAmount": 352773663,
+      "claimedAmount": 713700000,
       "claimedPctOfRevenue": null,
-      "charityCareClaimedAmount": 215056063,
+      "charityCareClaimedAmount": 166200000,
       "charityCareCostAdjusted": null,
       "chargemasterMarkupRatio": null,
       "stateAveragePct": null,
       "belowStateAverage": null,
       "costToChargeRatio": null,
-      "source": "Children's Mercy FY2025 Community Benefit Report (childrensmercy.org); $352.8M total community benefit including $215.1M in uncompensated care; provides 100% charity care for Missouri and Kansas residents at or below 300% FPL"
+      "source": "KU Health System FY2025 Financial Overview: total community care support of $713.7M comprising $166.2M in charity care, in-kind health services, community education and advocacy, and health education training plus $547.5M in Medicaid and Medicare losses; excludes Olathe Hospital and Paola Hospital; FY2024 total was $693M ($151.1M charity care plus $541.9M Medicaid/Medicare losses); financial assistance eligibility covers patients with gross family income from 0% to 300% of federal poverty guidelines"
     },
     "taxAdvantage": {
       "totalEstimatedAnnual": null,
@@ -2417,72 +2418,87 @@
       "salesTaxForegone": null,
       "taxExemptBondInterestSubsidy": null,
       "program340BEstimatedBenefit": null,
-      "notes": "Children's Mercy is tax-exempt since February 1956. Seeking up to $500M in new tax-exempt bonds in 2026 for campus expansion. Specific foregone tax amounts not verified."
+      "notes": "The Hospital Authority is exempt from Kansas ad valorem (property) taxes and state sales/use taxes on purchases for public purposes under K.S.A. 76-3313; its $415M in new tax-exempt bonds (2026) and prior outstanding debt generate substantial federal interest subsidy; the CVS lawsuit alleges $62M in 340B savings were diverted between 2020 and 2025, suggesting significant annual 340B program participation; specific foregone tax amounts not verified"
     },
     "layoffs": [
       {
-        "date": "2026-06",
-        "count": null,
-        "notes": "Offered early retirement to an undisclosed number of employees among its approximately 9,000-person workforce; hospital leaders stated the voluntary retirement offer was unrelated to its $1.7 billion building expansion plans; number of eligible employees and projected payroll savings not disclosed",
-        "source": "Beacon News June 12, 2026; Springfield Business Journal"
+        "date": "2020",
+        "count": 29,
+        "notes": "The St. Francis Campus in Topeka eliminated 29 positions and furloughed 235 full- and part-time workers during COVID-19 pandemic restructuring; CEO framed cuts as consolidation of some services; no other hospitals in the system were reported affected",
+        "source": "Becker's Hospital Review; KSNT"
       }
     ],
     "facilityClosures": [],
     "creditRating": {
-      "fitch": null,
-      "fitchOutlook": null,
-      "fitchDate": null,
-      "sp": "AA",
-      "spOutlook": "Stable",
-      "spDate": "2026-05",
-      "moodys": "Aa2",
-      "moodysOutlook": "Stable",
-      "moodysDate": "2026",
+      "fitch": "AA-",
+      "fitchOutlook": "Stable",
+      "fitchDate": "2026",
+      "sp": "AA-",
+      "spOutlook": "Negative",
+      "spDate": "2026",
+      "moodys": null,
+      "moodysOutlook": null,
+      "moodysDate": null,
       "keyRiskFactors": [
-        "$1.7 billion campus expansion could nearly triple existing debt load — Moody's warned significant complications could lead to downgrade",
-        "Stand-alone pediatric hospital with regional concentration in Kansas City metro",
-        "Up to $500M in new tax-exempt bond issuances planned for 2026",
-        "Workforce restructuring via early retirement offers concurrent with massive capital plan"
+        "S&P assigned negative outlook citing weak days cash on hand — slipped from 161 days in FY2023/FY2024 to 154 days in FY2025",
+        "S&P noted balance sheet figures remain 'relatively weak compared with peers'",
+        "$415M new bond offering in 2026, first debt issuance since 2019, will significantly increase leverage atop $1B existing long-term debt",
+        "Rapid acquisition pace: absorbed Olathe Health (2023) and Liberty Hospital (2024) while still integrating operations",
+        "Thin operating margins — Q1 FY2025 margin of 2.2% ($26.8M on $1.22B revenue), following a -1.5% loss in Q1 FY2024"
       ]
     },
     "program340B": {
       "contractPharmacies": null,
       "outOfStatePharmaciesPct": null,
       "dshStatus": true,
-      "estimatedAnnualBenefit": null
+      "estimatedAnnualBenefit": null,
+      "notes": "Registered as DSH170040 (Disproportionate Share Hospital) since 10/1/2000; HRSA database shows multiple contract pharmacies including specialty pharmacies (Caremark, Accredo Health Group, Onco360); CVS terminated its contract pharmacy arrangement with KU in 2025 after the hospital requested an audit; the Hospital Authority filed suit in May 2026 alleging CVS diverted approximately $62M in 340B savings between 2020 and 2025"
     },
     "acquisitions": [
       {
-        "year": "2025",
-        "entity": "Mercy Springfield Pediatric Specialty Care",
-        "type": "Partnership",
-        "hospitals": 0,
-        "notes": "Children's Mercy officially took over leadership of pediatric specialty care in southwest Missouri through a partnership with Mercy Health Springfield; not a full acquisition but an operational takeover of pediatric services"
+        "year": "2023",
+        "entity": "Olathe Health System",
+        "type": "Acquisition",
+        "hospitals": 2,
+        "notes": "Two-hospital system in Olathe, Kansas; deal finalized January 2023; included commitments to bring KU Cancer Center care to Olathe campus and support Magnet nursing designation; Fitch cited the acquisition as contributing to improved scale"
       },
       {
-        "year": "2025",
-        "entity": "Children's Mercy Hospital Kansas Expansion",
-        "type": "Capital expansion",
-        "hospitals": 0,
-        "notes": "$152 million expansion plan for Children's Mercy Hospital Kansas campus in Overland Park"
+        "year": "2024",
+        "entity": "Liberty Hospital",
+        "type": "Acquisition",
+        "hospitals": 1,
+        "notes": "First hospital acquisition in Missouri; letter of intent signed November 2023, deal closed July 1, 2024; KU Health System pledged $324M investment in Liberty's service area and guaranteed no layoffs for at least one year; deal drew legislative opposition from Missouri lawmakers who pre-filed bills to block it; Liberty Hospital Foundation remains a separate entity"
       }
     ],
     "lobbying": {
       "amount2024": null,
       "politicalContributions2024": null,
-      "source": "OpenSecrets; not verified for 2024"
+      "source": "Not verified; as a state instrumentality the Hospital Authority may have different disclosure requirements than a private nonprofit"
     },
-    "legalIssues": [],
+    "legalIssues": [
+      {
+        "date": "2026-05",
+        "type": "340B fraud lawsuit",
+        "description": "University of Kansas Hospital Authority sued CVS and subsidiaries alleging CVS diverted approximately $62M in 340B drug pricing savings between 2020 and 2025; KU claims CVS terminated the contract pharmacy arrangement in retaliation after the hospital requested an audit of CVS records",
+        "source": "KCUR May 20, 2026"
+      },
+      {
+        "date": "2026-10",
+        "type": "Patient debt collection / wage garnishment",
+        "description": "KCUR/The Beacon investigation found the University of Kansas Health System and NKC Health are the only Kansas City area hospitals that garnish patients' wages; the system had sued more than 400 patients in Missouri and Kansas in 2026 alone (approximately 218 cases in Missouri, 114 in Kansas); other area systems including St. Luke's and AdventHealth do not sue patients, garnish wages, or place liens",
+        "source": "KCUR October 1-2, 2026"
+      }
+    ],
     "ratios": {
       "investmentsToOperatingIncome": null,
-      "investmentsToOperatingIncomeInterpretation": "Operating income not separately verified from Form 990; total excess of revenue over expenses was approximately $270M (FY2024), which would yield a ratio of approximately 9.6x ($2.6B investments / $270M excess)",
-      "bondDebtToCommunityBenefit": null,
-      "bondDebtToCommunityBenefitInterpretation": "Total outstanding bond debt not verified; new issuances of up to $500M planned for 2026 campus expansion",
+      "investmentsToOperatingIncomeInterpretation": "Investment portfolio not separately disclosed; operating income not reported for full FY2025; Q1 FY2025 operating income was $26.8M (2.2% margin) on $1.22B revenue",
+      "bondDebtToCommunityBenefit": 1.4,
+      "bondDebtToCommunityBenefitInterpretation": "Existing $1B long-term debt (Sept. 2024) against $713.7M claimed community benefit (FY2025) yields a ratio of 1.4x; with the $415M new issuance, total debt could approach $1.4B, pushing the ratio toward 2.0x — meaning every dollar of claimed community benefit would be matched by nearly two dollars of tax-exempt debt",
       "charityCarePctVsStateAvg": null,
-      "charityCareVsStateInterpretation": "Missouri state average not verified; Children's Mercy provides 100% charity care for residents at or below 300% FPL and claimed $215M in uncompensated care (FY2025)"
+      "charityCareVsStateInterpretation": "Charity care of $166.2M against $5.4B total revenue is approximately 3.1% of revenue; the bulk of the system's $713.7M community benefit claim ($547.5M, or 77%) consists of Medicaid and Medicare shortfalls rather than charity care"
     },
-    "accusation": "Holds $2.6 billion in cash and investments atop $3.3 billion in total assets with an AA credit rating, yet offered early retirement to an undisclosed number of its 9,000 employees while seeking $500 million in new tax-exempt bonds to finance a $1.7 billion campus expansion that Moody's warned could triple its debt load.",
-    "infographicPrompt": "Rojas Report brand infographic for Children's Mercy Kansas City. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'CHILDREN'S MERCY'. Subhead cream Source Sans Pro 600: 'Kansas City Chiefs — Official Healthcare Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $2.08B (FY2024)'. Block 2 — 'CEO Pay: $1.72M (Kempinski)'. Block 3 — 'Total Assets: $3.35B'. Block 4 — 'Cash & Investments: $2.6B'. Single large orange callout number '$2.6B' above headline with Cream 'in cash and investments' below in italic. Bottom line in Cream Source Sans Pro 600: 'Seeking $500M in new tax-exempt bonds for a $1.7B campus expansion. Offered early retirement to undisclosed number of 9,000 employees. AA credit rating from S&P.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 FY2024 · ProPublica Nonprofit Explorer · Moody's/S&P Credit Reports · Children's Mercy FY2025 Community Benefit Report.'"
+    "accusation": "Sits atop $5.1 billion in total assets with $5.4 billion in annual revenue as a tax-exempt state instrumentality, yet garnishes the wages of patients who cannot pay their medical bills — one of only two hospitals in Kansas City that does so — while suing more than 400 patients in a single year. Issued $415 million in new tax-exempt bonds in 2026 atop $1 billion in existing debt, even as S&P downgraded its outlook to negative over weakening cash reserves. Claims $713.7 million in community benefit, but 77% of that figure ($547.5 million) is Medicaid and Medicare shortfalls rather than actual charity care. Meanwhile, alleges CVS diverted $62 million in 340B drug pricing savings — taxpayer-subsidized discounts intended for vulnerable patients — raising questions about oversight of its own contract pharmacy operations.",
+    "infographicPrompt": "Rojas Report brand infographic for The University of Kansas Health System. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'THE UNIVERSITY OF KANSAS HEALTH SYSTEM'. Subhead cream Source Sans Pro 600: 'Kansas City Chiefs — Official Healthcare Provider'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $5.4B (FY2025)'. Block 2 — 'Total Assets: $5.1B'. Block 3 — 'Long-Term Debt: $1.0B'. Block 4 — 'Community Benefit Claimed: $713.7M'. Single large orange callout number '$5.1B' above headline with Cream 'in total assets as a tax-exempt state instrumentality' below in italic. Bottom line in Cream Source Sans Pro 600: 'Garnishes patient wages. Sued 400+ patients in 2026. S&P outlook negative. $415M in new tax-exempt bonds. CVS alleges $62M in 340B savings diverted.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Bond Buyer · Becker's Hospital Review · KCUR · HRSA 340B Database · KU Health System FY2025 Financial Overview · S&P Global · Fitch Ratings.'"
   },
   {
     "team": "Los Angeles Chargers",
@@ -2490,89 +2506,87 @@
     "division": "West",
     "city": "Los Angeles",
     "state": "California",
-    "healthSystem": "Kaiser Permanente",
-    "ein": "94-1156164",
-    "nonprofitType": "501c3",
+    "healthSystem": "UCLA Health",
+    "ein": "95-6006143",
+    "nonprofitType": "Government instrumentality (The Regents of the University of California), tax-exempt under IRC 501(c)(3) per IRS determination letter dated September 14, 1939; does not file Form 990 as a public university",
     "dealType": [
-      "Official Healthcare Partner"
+      "Official Medical Partner",
+      "Presenting Partner of Chargers Training Camp"
     ],
-    "dealAnnounced": null,
+    "dealAnnounced": "2024-08-08",
     "dealTermsDisclosed": false,
     "estimatedDealValue": null,
     "financials": {
-      "fiscalYear": "FY2024 (ending December 31, 2024)",
-      "totalRevenue": 115800000000,
-      "operatingIncome": 569000000,
-      "operatingMarginPct": 0.49,
-      "nonOperatingRevenue": 5500000000,
-      "totalAssets": 32930337973,
-      "totalLiabilities": 22078604890,
-      "source": "Kaiser Permanente 2024 consolidated financial results (revenue, operating income, non-operating income) via Fierce Healthcare and Healthcare Finance News. Total assets and liabilities from Kaiser Foundation Hospitals Form 990 (EIN 94-1105628, FY2024): $22.08B liabilities + $10.85B net assets = $32.93B total assets. Note: consolidated revenue of $115.8B includes Kaiser Foundation Health Plan, Kaiser Foundation Hospitals, and Risant Health acquisitions (Geisinger Health, Cone Health). Operating expenses were $115.2B. Total assets figure is KFH only; system-wide assets are substantially larger."
+      "fiscalYear": "FY2025 (ending June 30, 2025)",
+      "totalRevenue": null,
+      "operatingIncome": null,
+      "operatingMarginPct": null,
+      "nonOperatingRevenue": null,
+      "totalAssets": null,
+      "totalLiabilities": null,
+      "source": "UCLA Health generated more than $4.4 billion in operating revenue in FY2024-25 and ended with a positive net position of $284 million (Daily Bruin reporting on November 2025 UC Regents Health Services Committee meeting). The UC Regents FY2025 budget projected UCLA Hospital System operating revenue at $4,752 million. A September 2026 Regents document reports UCLA Health modified net income of $780 million (15.5% modified net margin), but the fiscal year was cut off in the source. Patient volume increased 11.9% year-over-year. UCLA campus total assets (including health system) were $20.1 billion in FY2023; no standalone UCLA Health balance sheet is published — audited financials exist only at the UC system level. UCLA Health's FY2024 campus-wide operating loss was $144.2 million, a reversal from $159.6 million operating income the prior year (campus-wide, not health system only). Precise UCLA Health-only audited figures are in the UC Medical Centers Annual Financial Report 2024-25 (Tables MDA.24a-c), not available via web search."
     },
     "balanceSheetWealth": {
       "investmentPortfolio": null,
-      "investmentPortfolioSource": "Kaiser Permanente system and subsidiaries held approximately $100 billion in investments at end of 2022. No precise 2024 year-end total verified. Kaiser Foundation Health Plan manages approximately $5B in investment assets as of mid-2024. Approximately 57% of investments were in illiquid alternatives (private equity, real estate) at end of 2022, with 25% in alternatives overall. Kaiser reportedly marketing $35B in private equity fund holdings for sale. Between December 2023 and June 2025, hedge fund allocations increased $1.1B and private equity rose $1.9B.",
+      "investmentPortfolioSource": "UCLA Health's investments are managed at the University of California system level. The UC system-wide endowment totaled $29.5 billion as of June 30, 2024 (UC Investments). UCLA's campus share of the endowment is estimated at approximately $3.5 billion (third-party aggregator, June 2024); the UCLA Investment Company manages UCLA Foundation endowment and other assets. UCLA Foundation approved spending policy for FY2024 is 4.25% of a 12-quarter rolling average. Most endowment funds participate in the General Endowment Pool (GEP), a balanced portfolio of equities, fixed-income, and alternative investments. UCLA campus standalone financial records do not fully reflect centrally managed investment balances.",
       "realEstateValue": null,
-      "realEstateSource": "Not separately disclosed in available consolidated data",
+      "realEstateSource": "UCLA Health operates five hospitals across Southern California: Ronald Reagan UCLA Medical Center (446 beds, Westwood), UCLA Santa Monica Medical Center (281 beds), UCLA West Valley Medical Center (260 beds, acquired March 2024 from HCA Healthcare on a 14-acre campus), UCLA Mattel Children's Hospital (131 beds within Ronald Reagan/Santa Monica), and Resnick Neuropsychiatric Hospital (74 beds). The system also operates approximately 290 clinics and 12 immediate care locations across Southern California and the Central Coast. Real estate values are not separately disclosed; properties are owned by The Regents of the University of California.",
       "boardDesignatedFunds": null,
       "endowmentFunds": null,
-      "notes": "Kaiser's balance sheet wealth is dominated by its investment portfolio, estimated at approximately $100B (2022) across the system. Investment returns generated $5.5B in non-operating income in 2024 and $3.8B in 2023 — making the system more dependent on financial market returns than on healthcare operations for its bottom line. The $569M operating income in 2024 was less than one-tenth of the $5.5B investment return. Kaiser Permanente Ventures operates a venture capital arm investing in health technology companies."
+      "notes": "UCLA Health's balance sheet wealth is embedded within the University of California system, making it difficult to isolate. The UC system holds $29.5 billion in endowment assets and total system-wide assets of approximately $112 billion (FY2025). UCLA's campus-wide assets (health system plus academic) totaled $20.1 billion in FY2023. The health system benefits from university-wide investment returns, centralized treasury management, and the state's implicit backing. A behavioral health campus in mid-Wilshire Los Angeles is planned for 2026, representing additional capital investment."
     },
     "bondDebt": {
-      "totalOutstanding": 12700000000,
-      "fiscalYear": "FY2024",
-      "largestIssue": "Kaiser Permanente $4.2B bond sale (2017 Bond Buyer Deal of the Year)",
-      "largestIssueProceeds": "$4.2B total: approximately $2.1B tax-exempt issued through CHFFA and $2.1B taxable direct issuance, mix of fixed and variable rate bonds to finance capital improvements and refinance outstanding debt",
-      "issuerAuthority": "California Health Facilities Financing Authority (CHFFA)",
-      "source": "Becker's Hospital Review (long-term debt rankings: $12.7B FY2024, $13.5B FY2025), The Bond Buyer (2017 Deal of the Year), Fitch Ratings (upgrade affecting approximately $10B outstanding debt), California State Treasurer CHFFA records."
+      "totalOutstanding": null,
+      "fiscalYear": "FY2025",
+      "largestIssue": "University of California Medical Center Pooled Revenue Bonds (shared credit across five UC medical centers)",
+      "largestIssueProceeds": null,
+      "issuerAuthority": "The Regents of the University of California (issuer); bonds also issued through California Health Facilities Financing Authority (CHFFA)",
+      "source": "UCLA Health's debt is issued through the UC Medical Center Pooled Revenue Bond (MCPRB) program, which is a pooled credit secured by gross revenues of all five UC medical centers ($26.2 billion pledged revenues, FY2024-25). Total UC system bonds outstanding were approximately $32 billion as of April 30, 2025 across General Revenue Bond, Limited Project Revenue Bond, and MCPRB credits. All five UC medical centers combined had long-term debt of approximately $10.4 billion (FY2025 Medical Centers Report). UC issued approximately $4.9 billion in bonds in FY2024-25 over three transactions. UCLA's specific share of outstanding MCPRB debt is not separately disclosed. A 2022 UC medical center bond sale totaled approximately $3 billion (Moody's Aa3, S&P AA-, Fitch AA-)."
     },
     "relatedOrganizations": {
       "captiveInsurance": null,
       "insuranceArmRevenue": null,
-      "physicianGroupEntity": "The Permanente Medical Group, Inc. (TPMG, for-profit partnership, Northern California, 11,225+ medical professionals); Southern California Permanente Medical Group (for-profit); plus regional Permanente Medical Groups in Colorado, Georgia, Hawaii, Mid-Atlantic, Northwest, and Washington",
-      "foundationEntity": "Kaiser Foundation Health Plan, Inc. (EIN 94-1340523, nonprofit)",
+      "physicianGroupEntity": "David Geffen School of Medicine at UCLA (faculty practice plan provides physician services; physicians are university employees, not a separate for-profit entity)",
+      "foundationEntity": "The UCLA Foundation (EIN 95-2250801, tax-exempt since October 1949, manages donations and endowment funds for UCLA including UCLA Health)",
       "otherRelatedEntities": [
-        "Kaiser Foundation Hospitals (EIN 94-1105628, nonprofit 501c3 — owns and operates 39 hospitals)",
-        "Kaiser Foundation Health Plan, Inc. (EIN 94-1340523, nonprofit — prepaid health plans and insurance)",
-        "The Permanente Medical Group, Inc. (for-profit, Northern California, 11,225+ physicians and 186 locations)",
-        "Southern California Permanente Medical Group (for-profit)",
-        "Colorado Permanente Medical Group (for-profit)",
-        "Northwest Permanente (for-profit)",
-        "Hawaii Permanente Medical Group (for-profit)",
-        "Mid-Atlantic Permanente Medical Group (for-profit)",
-        "Washington Permanente Medical Group (for-profit)",
-        "Risant Health (acquired 2024, subsidiary for non-Kaiser health system acquisitions)",
-        "Geisinger Health (acquired via Risant Health, 2024)",
-        "Cone Health (acquired via Risant Health, 2024)",
-        "Kaiser Permanente Ventures (venture capital arm)"
+        "The Regents of the University of California (EIN 95-6006143, parent governing body, owns all UC property and issues bonds)",
+        "UCLA Health System Auxiliary (EIN 95-3701255, support organization, files Form 990)",
+        "Jonsson Comprehensive Cancer Center (NCI-designated, within UCLA Health)",
+        "UCLA Investment Company (manages UCLA Foundation endowment and other assets, assumed oversight October 1, 2011)",
+        "UC Health (system-wide academic health enterprise encompassing all five UC medical centers)",
+        "UCLA West Valley Medical Center (260-bed hospital, acquired from HCA Healthcare March 28, 2024, formerly West Hills Hospital)"
       ],
-      "relatedPartyTransactions": "The three-entity Kaiser model creates massive related-party fund flows: nonprofit Kaiser Foundation Health Plan collects premiums and contracts with nonprofit Kaiser Foundation Hospitals and for-profit Permanente Medical Groups. The for-profit Medical Groups receive nearly all of their funding from the nonprofit Health Plans, effectively sheltering physician compensation under the tax-exempt umbrella. This structure is unique in American healthcare.",
-      "source": "Wikipedia, Permanente.org fact sheet, Kaiser Permanente organizational disclosures, Form 990 Schedule R"
+      "relatedPartyTransactions": "UCLA Health president Johnese Spisso sits on the boards of Welltower Inc. (NYSE: WELL), a healthcare REIT that leases space to the University of California, and Vizient Inc., a group purchasing organization through which UCLA Health sources supplies. The San Francisco Chronicle reported these dual roles raise conflict-of-interest concerns. Spisso received $336,709 in total compensation as a Welltower director (2024 proxy). She previously served as a Douglas Emmett Inc. independent director (2019-2022). UC policy requires disclosure of outside activities but the Regents' conflict-of-interest review of these arrangements was not found in public records.",
+      "source": "UCLA Health leadership page, Welltower DEF 14A proxy filings (SEC), Vizient governance page, San Francisco Chronicle investigation of UC executive board seats, UCLA Foundation GuideStar profile, UC Regents governance documents"
     },
     "executiveComp": {
-      "fiscalYear": "FY2024",
-      "ceoName": "Gregory A. Adams",
-      "ceoBaseComp": null,
+      "fiscalYear": "CY2024",
+      "ceoName": "Johnese Spisso, MPA",
+      "ceoTitle": "President, UCLA Health; CEO, UCLA Hospital System; Associate Vice Chancellor, UCLA Health Sciences",
+      "ceoBaseComp": 1779807,
       "ceoBonusIncentive": null,
       "ceoDeferredComp": null,
-      "ceoOtherComp": 186239,
-      "ceoTotalComp": 12789811,
+      "ceoOtherComp": 650664,
+      "ceoTotalComp": 2601928,
+      "ceoBenefits": 171457,
       "topOfficersTotalComp": null,
       "numberOfOfficersReported": null,
       "perks": [],
       "splitDollarInsurance": null,
-      "source": "Kaiser Permanente Form 990 (FY2024) via ProPublica Nonprofit Explorer. Gregory Adams (Chairman & CEO) received total compensation of $12,789,811 plus $186,239 in other reportable compensation. For FY2021, Adams received over $17M total. At least 18 additional executives earned more than $2M each, with three earning over $4M. Historical: former CEO George Halvorson earned $10.16M in 2013."
+      "outsideBoardComp": 336709,
+      "outsideBoardCompSource": "Welltower Inc. 2024 proxy statement (director compensation table). Vizient board compensation not found in available sources.",
+      "source": "Transparent California (2024): base pay $1,779,807, other pay $650,664, benefits $171,457, total pay and benefits $2,601,928. Corroborated by San Francisco Chronicle reporting that UC compensated Spisso approximately $2.4 million per year as of 2024. UC Office of the President 2023 Annual Report on Executive Compensation listed Spisso total at $2,189,180. Spisso has held these roles since February 8, 2016, coming from UW Medicine. Note: as a public university employee, her compensation is reported through state transparency databases, not IRS Form 990."
     },
     "communityBenefit": {
-      "claimedAmount": 4600000000,
-      "claimedPctOfRevenue": 3.97,
-      "charityCareClaimedAmount": 835500000,
+      "claimedAmount": 421200000,
+      "claimedPctOfRevenue": null,
+      "charityCareClaimedAmount": null,
       "charityCareCostAdjusted": null,
       "chargemasterMarkupRatio": null,
       "stateAveragePct": null,
       "belowStateAverage": null,
       "costToChargeRatio": null,
-      "source": "Kaiser Permanente 2024 Annual Report ($4.6B community benefit including Risant Health entities). Kaiser Foundation Hospitals reported $835.5M in charity care (2.47% of hospital expenses) and $2.06B in total hospital community benefit (6.09% of hospital expenses) for 2023. Pre-Risant consolidated community benefit was $3.1B in 2023. California state average charity care percentage not obtained from available sources. Individual hospital charity care reported to California HCAI ranges from $10.3M (San Marcos) to $40.7M (Roseville) per facility."
+      "source": "UCLA Health's 340B program page reports $421.2 million 'provided as charity care, in-kind health services, volunteer time, health education training and cost of uncompensated care for Medi-Cal patients' (FY2024). This is a bundled figure — not pure charity care. An additional $306.5 million was reported as uncompensated care for Medicare patients (FY2024), bringing total claimed community benefit to approximately $727.7 million. However, UCLA Health's FY2019-20 community benefit report broke out financial assistance (charity care) at only $8,624,297 out of $619,583,422 total community benefit including Medicare — meaning pure charity care was approximately 0.2% of operating revenue. A separate UC report lists UCLA financial assistance at $28.6 million for FY2020, suggesting different category definitions. Under California's Hospital Fair Pricing Act (SB 1276), UCLA Health must offer charity care to patients at or below 400% of the Federal Poverty Level. UC Health system-wide delivered $5.9 billion in community benefits and uncompensated care in FY2023-24."
     },
     "taxAdvantage": {
       "totalEstimatedAnnual": null,
@@ -2581,131 +2595,80 @@
       "propertyTaxForegone": null,
       "salesTaxForegone": null,
       "taxExemptBondInterestSubsidy": null,
-      "program340BEstimatedBenefit": null,
-      "notes": "Kaiser Foundation Hospitals and Kaiser Foundation Health Plan are tax-exempt 501(c)(3) organizations. The for-profit Permanente Medical Groups receive nearly all revenue from the tax-exempt health plans, channeling substantial funds to physician-owners while the nonprofit entities absorb the tax-exempt benefits. $12.7B in long-term debt (FY2024) includes significant tax-exempt bond issuances through California Health Facilities Financing Authority, generating substantial interest rate subsidies. Kaiser hospitals participate in the 340B Drug Pricing Program as DSH-eligible entities. The three-entity structure — nonprofit health plan, nonprofit hospitals, for-profit medical groups — maximizes tax advantage while enabling physician profit-taking."
+      "program340BEstimatedBenefit": 133400000,
+      "notes": "UCLA Health operates under the tax-exempt status of The Regents of the University of California, a government instrumentality exempt under IRC 501(c)(3) since 1939. Tax advantages include: (1) exemption from federal and state income taxes on $4.4 billion+ in operating revenue; (2) property tax exemption on all hospital and clinic real estate across Southern California, including five hospitals and approximately 290 clinics; (3) access to tax-exempt bond financing through UC Medical Center Pooled Revenue Bonds (AA-/Aa3 rated), providing interest rate subsidies on billions in borrowing; (4) $133.4 million in 340B Drug Pricing Program savings (FY2024); and (5) ability to receive tax-deductible donations through the UCLA Foundation. As a public university health system, UCLA Health also receives state appropriations and benefits from the UC system's $29.5 billion endowment pool. The combined tax benefit likely exceeds hundreds of millions annually, but no comprehensive estimate has been published."
     },
-    "layoffs": [
-      {
-        "date": "2023-11 to 2024-06",
-        "entity": "Kaiser Permanente",
-        "location": "Pleasanton, California",
-        "count": 162,
-        "source": "PleasantonWeekly, LivermoreVine. IT and food services positions eliminated at Pleasanton administrative offices. Kaiser stated layoffs do not affect direct patient care or union-represented employees."
-      },
-      {
-        "date": "2024-01",
-        "entity": "Kaiser Permanente",
-        "location": "Multiple California locations",
-        "count": 52,
-        "source": "WARN Tracker (January 4, 2024 filing). Educational Theatre outreach initiative restructuring."
-      },
-      {
-        "date": "2024-11-05",
-        "entity": "Kaiser Permanente",
-        "location": "San Leandro, California",
-        "count": null,
-        "source": "WARN Tracker (November 5, 2024 filing). Exact count not specified in available data."
-      },
-      {
-        "date": "2024-11-22",
-        "entity": "Kaiser Permanente",
-        "location": "Multiple California locations",
-        "count": 43,
-        "source": "WARN Tracker (November 22, 2024). Operations and services evaluations across several California sites."
-      },
-      {
-        "date": "2024-12-06",
-        "entity": "Kaiser Permanente",
-        "location": "Multiple California locations",
-        "count": null,
-        "source": "WARN Tracker (December 6, 2024 filing). Exact count not specified in available data."
-      },
-      {
-        "date": "2025-04-14",
-        "entity": "Kaiser Permanente",
-        "location": "4 California locations",
-        "count": 42,
-        "source": "WARN Tracker, Becker's Hospital Review."
-      },
-      {
-        "date": "2025-04-21",
-        "entity": "Kaiser Permanente",
-        "location": "9 California locations",
-        "count": 40,
-        "source": "WARN Tracker."
-      },
-      {
-        "date": "2025-04-25",
-        "entity": "Kaiser Permanente",
-        "location": "18 California locations",
-        "count": 64,
-        "source": "Becker's Hospital Review, WARN Tracker. Kaiser to cut 64 jobs in California."
-      },
-      {
-        "date": "2025-06-02",
-        "entity": "Kaiser Permanente",
-        "location": "13 California locations",
-        "count": 55,
-        "source": "WARN Tracker. Kaiser employs approximately 179,000 in California."
-      }
-    ],
+    "layoffs": [],
     "facilityClosures": [],
     "creditRating": {
       "fitch": "AA-",
       "fitchOutlook": "Stable",
-      "fitchDate": null,
+      "fitchDate": "2025-12",
       "sp": "AA-",
       "spOutlook": "Stable",
-      "spDate": null,
-      "moodys": null,
-      "moodysOutlook": null,
-      "moodysDate": null,
+      "spDate": "2025-12",
+      "moodys": "Aa3",
+      "moodysOutlook": "Stable",
+      "moodysDate": "2025-12",
       "keyRiskFactors": [
-        "Operating margin of just 0.49% on $115.8B revenue — system is dependent on $5.5B in annual investment returns for net income",
-        "Approximately $100B investment portfolio with 57% in illiquid alternatives (private equity, real estate) creates significant liquidity and market risk",
-        "Long-term debt increased from $12.7B (FY2024) to $13.5B (FY2025)",
-        "Risant Health acquisitions (Geisinger, Cone Health) add integration risk and contributed $6.8B of $12.9B net income in 2024, inflating results",
-        "Multiple rounds of workforce reductions across California in 2024-2025 totaling 458+ documented layoffs",
-        "For-profit Permanente Medical Groups create related-party transaction complexity and governance opacity",
-        "Kaiser reportedly marketing $35B in private equity fund holdings for sale, suggesting portfolio rebalancing pressure"
+        "Pooled bond credit: UCLA Health's bonds are part of the UC Medical Center Pooled Revenue Bond program securing all five UC medical centers — UCLA's individual creditworthiness is not separately rated",
+        "UC system total debt of approximately $32 billion as of April 2025, with $4.9 billion in new issuances in FY2024-25 alone",
+        "Campus-wide operating loss of $144.2 million in FY2024 (UCLA overall, not health system only), a sharp reversal from $159.6 million operating income the prior year",
+        "Nearly $700 million in sexual abuse lawsuit settlements (James Heaps cases) represent a massive financial and reputational liability",
+        "Rapid expansion via West Hills Hospital acquisition (March 2024) and planned behavioral health campus (2026) adds integration and capital risk",
+        "CEO holds board seats at Welltower (REIT that leases space to UC) and Vizient (group purchasing organization supplying UCLA Health), creating governance and conflict-of-interest risk",
+        "Dependence on state of California and UC system for fiscal support, bond guarantees, and investment management; state budget pressures can directly impact operations",
+        "340B savings of $133.4 million (FY2024) face legislative and manufacturer threats to the program nationally"
       ]
     },
     "program340B": {
       "contractPharmacies": null,
       "outOfStatePharmaciesPct": null,
       "dshStatus": true,
-      "estimatedAnnualBenefit": null
+      "dshEntities": [
+        "Ronald Reagan UCLA Medical Center (340B ID DSH050262, active, participating since January 1, 1998, recertified August 16, 2024, not rural)",
+        "Santa Monica UCLAMC and Orthopaedic Hospital (340B ID DSH050112, active, participating since July 1, 2009, classified as rural in HRSA database — verify)"
+      ],
+      "estimatedAnnualBenefit": 133400000,
+      "source": "UCLA Health 340B Community Health Program page (FY2024: $133.4 million in savings; FY2023: $123 million). HRSA 340B OPAIS database lists two DSH-eligible covered entities with child sites including Santa Clarita Radiation Oncology (DSH050262AZ, since April 2023) and Pain Medicine Procedure Unit (DSH050112H, since April 2025). UC's 2023 RFI response notes all UC hospitals have DSH adjustment percentages well above the minimum eligibility requirement. UCLA Health states savings fund services for under- and uninsured patients and costly therapies such as CAR-T cell treatments."
     },
     "acquisitions": [
       {
         "year": 2024,
-        "target": "Risant Health / Geisinger Health",
-        "description": "Kaiser Permanente created Risant Health as a nonprofit subsidiary to acquire non-Kaiser health systems. Geisinger Health (Pennsylvania) was the first acquisition, forming a new eighth Kaiser region. The acquisition adds significant revenue and complexity to the Kaiser system.",
-        "source": "Fierce Healthcare, Healthcare Finance News, Kaiser Permanente 2024 financial results, S&P Global Ratings"
-      },
-      {
-        "year": 2024,
-        "target": "Cone Health (via Risant Health)",
-        "description": "Cone Health (North Carolina) acquired through the Risant Health subsidiary. Combined with Geisinger, Risant entities contributed $6.8B of Kaiser's $12.9B net income in 2024 — more than half of total net income came from these new acquisitions rather than legacy Kaiser operations.",
-        "source": "Fierce Healthcare, Kaiser Permanente 2024 consolidated financial results"
+        "target": "West Hills Hospital and Medical Center (from HCA Healthcare)",
+        "description": "UCLA Health acquired the 260-bed West Hills Hospital and Medical Center in the San Fernando Valley from HCA Healthcare, with the transaction closing March 28, 2024. The hospital was renamed UCLA West Valley Medical Center. The acquisition was UCLA Health's first hospital in the San Fernando Valley and was driven by inpatient, emergency department, and operating room capacity constraints. The campus includes seven operating rooms and a freestanding ambulatory surgery center on a 14-acre site. UCLA retained the vast majority of staff. Purchase price was not disclosed.",
+        "source": "UCLA Health news release, Daily Bruin, Healthcare Dive, Healthcare Brew"
       }
     ],
     "lobbying": {
       "amount2024": null,
       "politicalContributions2024": null,
-      "source": "OpenSecrets — not obtained from available search results"
+      "source": "Not obtained from available search results. UC system lobbying and political contributions are reported through federal Senate lobbying disclosure database and California Secretary of State. A JNS opinion piece (unverified) claimed UCLA spends over $1 million on lobbyists and its personnel ranked 47th in political giving for the 2022 cycle. OpenSecrets profiles for University of California would have current figures."
     },
-    "legalIssues": [],
+    "legalIssues": [
+      {
+        "date": "2022",
+        "type": "Sexual abuse settlement",
+        "description": "The University of California system paid nearly $700 million total to settle lawsuits brought by more than 300 women who alleged sexual abuse by UCLA gynecologist James Heaps. A $374.4 million settlement was announced in 2022, on top of prior settlements. Heaps pleaded not guilty to 21 felony criminal counts. An earlier proposed class-action settlement would have paid between $2,500 and $250,000 each to up to 6,600 of Heaps' former patients.",
+        "source": "Associated Press, Courthouse News, Daily Bruin"
+      },
+      {
+        "date": "2015",
+        "type": "Data breach class-action settlement",
+        "description": "UCLA Health agreed to pay $7.5 million to settle a class-action lawsuit brought by patients after a data breach exposed personal and health information.",
+        "source": "Becker's Hospital Review, Compliancy Group"
+      }
+    ],
     "ratios": {
       "investmentsToOperatingIncome": null,
-      "investmentsToOperatingIncomeInterpretation": "Kaiser's investment portfolio (approximately $100B as of end of 2022, likely higher now) dwarfs its $569M FY2024 operating income by roughly 175x. The system generated $5.5B in non-operating investment income in 2024, nearly 10x its operating income, making Kaiser more dependent on financial market returns than on healthcare operations for its bottom line. Precise 2024 investment total not verified; ratio computed from verified operating income and estimated investment portfolio.",
-      "bondDebtToCommunityBenefit": 2.76,
-      "bondDebtToCommunityBenefitInterpretation": "Long-term debt of $12.7B is 2.76x the $4.6B claimed community benefit (FY2024, including Risant Health). Using the pre-Risant hospital-only community benefit of $2.06B, the ratio rises to 6.17x, meaning Kaiser carries over six dollars of tax-subsidized debt for every dollar of hospital community benefit.",
+      "investmentsToOperatingIncomeInterpretation": "UCLA Health's investments are managed at the UC system level and cannot be isolated to the health system. The UC system-wide endowment totaled $29.5 billion as of June 2024. UCLA's campus share is estimated at approximately $3.5 billion. UCLA Health's modified net income was reported at $780 million (15.5% modified net margin) in a recent fiscal year, but the year and definition were not confirmed. The pooled nature of UC investments makes a health-system-specific ratio impossible to compute.",
+      "bondDebtToCommunityBenefit": null,
+      "bondDebtToCommunityBenefitInterpretation": "UCLA Health's bond debt is embedded within the UC Medical Center Pooled Revenue Bond program (all five UC medical centers combined long-term debt approximately $10.4 billion, FY2025). UCLA's specific share is not disclosed. Using the $421.2 million bundled community benefit claim (FY2024), even one-fifth of the pooled debt (~$2.1 billion) would represent approximately 5x the claimed community benefit. Using the $8.6 million in pure financial assistance from FY2020, the ratio would be far more extreme.",
       "charityCarePctVsStateAvg": null,
-      "charityCareVsStateInterpretation": "Kaiser Foundation Hospitals reported charity care of $835.5M, representing 2.47% of hospital expenses (2023 data). California state average charity care percentage was not available from research to compute comparison ratio."
+      "charityCareVsStateInterpretation": "UCLA Health's FY2019-20 community benefit report listed financial assistance (charity care) at $8,624,297 out of $619,583,422 total community benefit — approximately 1.4% of community benefit and roughly 0.2% of operating revenue. A separate UC report lists UCLA financial assistance at $28.6 million for FY2020. The discrepancy may reflect different category definitions. Either figure — $8.6 million or $28.6 million — is a fraction of a percent of UCLA Health's $4.4 billion+ in annual operating revenue, and substantially less than the $133.4 million the system captures in 340B drug discount savings alone."
     },
-    "accusation": "Kaiser Permanente holds an estimated $100 billion investment portfolio — a balance sheet war chest roughly 175 times its razor-thin $569 million operating income — while its hospitals provided just $835.5 million in charity care (2.47% of expenses), carries $12.7 billion in long-term debt largely backed by tax-exempt bonds, paid its CEO $12.8 million, conducted multiple rounds of layoffs affecting hundreds of California workers in 2024-2025, channels billions in revenue to for-profit Permanente Medical Groups, and generated $5.5 billion from investment returns that dwarf its healthcare mission, all under the shelter of its tax-exempt nonprofit status.",
-    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with ~$100B investment portfolio (2022 data) dwarfing $569M operating income by ~175x. Show $5.5B investment returns vs $569M operating income (10x ratio). Display $12.7B long-term debt vs $4.6B claimed community benefit (2.76x ratio; 6.17x using hospital-only $2.06B). Highlight $835.5M charity care at 2.47% of hospital expenses. CEO Gregory Adams total comp $12.8M. Show Fitch AA-/Stable and S&P AA-/Stable credit ratings. Note 458+ documented layoffs across 9 rounds in 2024-2025. Diagram the three-entity structure: nonprofit Health Plan and Hospitals sheltering for-profit Permanente Medical Groups. Show $115.8B consolidated revenue with only 0.49% operating margin. Include Risant Health acquisitions contributing $6.8B of $12.9B net income."
+    "accusation": "UCLA Health operates within the University of California's $29.5 billion endowment and a campus asset base exceeding $20 billion — yet its hospitals reported just $8.6 million in direct financial assistance (0.2% of revenue) in its most recent detailed breakdown, bundling that with $412 million in other categories to claim $421 million in 'community benefit' — while generating over $4.4 billion in annual operating revenue, capturing $133.4 million in 340B drug discount savings that exceed its charity care sixteen-fold, paying its president $2.6 million in total compensation while she collects an additional $336,709 sitting on the board of Welltower (a healthcare REIT that leases space to the University of California) and serves as a director of Vizient (the group purchasing organization through which UCLA Health sources supplies), financing expansion through tax-exempt UC Medical Center Pooled Revenue Bonds rated AA-/Aa3, settling nearly $700 million in sexual abuse lawsuits, and operating as a government instrumentality of the State of California exempt from federal income tax, state income tax, property tax, and sales tax on billions in revenue and real estate holdings across Southern California.",
+    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with UC system $29.5B endowment and $20.1B campus asset base. Show $4.4B+ operating revenue with $780M modified net income (15.5% modified net margin). Display $133.4M in 340B savings vs $8.6M financial assistance (charity care) — 340B captures 15x more than pure charity care. Highlight bundled $421.2M community benefit claim vs $8.6M actual financial assistance. CEO Johnese Spisso total comp $2.6M plus $336,709 Welltower board fees. Show Welltower and Vizient board conflicts. Credit ratings: S&P AA-/Stable, Fitch AA-/Stable, Moody's Aa3/Stable on UC Medical Center Pooled Revenue Bonds. Display $700M in James Heaps sexual abuse settlements. Show five hospitals including March 2024 West Hills acquisition from HCA Healthcare. Note UC system $32B total bonds outstanding. Map 290 clinics and 12 immediate care locations across Southern California."
   },
   {
     "team": "Los Angeles Rams",
@@ -3016,78 +2979,72 @@
     "division": "North",
     "city": "Minneapolis",
     "state": "Minnesota",
-    "healthSystem": "M Health Fairview",
-    "ein": "41-0695635",
+    "healthSystem": "North Memorial Health",
+    "ein": "41-0729979",
     "nonprofitType": "501c3",
     "dealType": [
-      "Official Healthcare Partner",
-      "Stadium Naming Rights"
+      "Official Healthcare Partner"
     ],
-    "dealAnnounced": null,
+    "dealAnnounced": "2018-09-21",
     "dealTermsDisclosed": false,
     "estimatedDealValue": null,
     "financials": {
       "fiscalYear": 2024,
-      "totalRevenue": 5326063577,
-      "operatingIncome": 51000000,
-      "operatingMarginPct": 0.6,
+      "totalRevenue": 998718346,
+      "operatingIncome": null,
+      "operatingMarginPct": null,
       "nonOperatingRevenue": null,
-      "totalAssets": 6494256080,
+      "totalAssets": 713005318,
       "totalLiabilities": null,
-      "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 41-0991680; note: the EIN 41-0695635 in this file could not be verified — Fairview Health Services files under 41-0991680). Total revenue and total assets from Form 990. Operating income (~$51M) and operating margin (<1%) from Star Tribune and MedCity News reporting on FY2024 audited consolidated financial statements (first operating profit since 2018 on ~$8B audited operating revenue). Form 990 revenue ($5.33B) differs from audited GAAP operating revenue (~$8B) due to reporting methodology differences. Audited FY2025/2024 statements published April 2026 at fairview.org."
+      "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 41-0729979, filed 2025-11-17). Total revenue $998,718,346; total expenses $1,025,460,021; net deficit -$26,741,675. Total assets $713,005,318. FY2023 990: revenue $907,596,774. Operating income not separately stated on 990; EMMA obligated group quarterly disclosure shows ~$4.5M net operating income for FY2024 and ~$29.9M operating loss for FY2025 on ~$1.29B operating revenue (obligated group scope differs from 990 filer scope). Star Tribune reported $8.5M operating loss on ~$1.1B revenue for FY2023 and $12.8M operating loss for FY2022. EMMA obligated group total assets: $921,077,000 (Dec 2024), $905,263,000 (Dec 2025)."
     },
     "balanceSheetWealth": {
-      "investmentPortfolio": 2007675000,
-      "investmentPortfolioSource": "FY2023 audited consolidated financial statements (short-term investments $466,989K + long-term investments $1,460,835K; total investments per note disclosure $2,007,675K including equity-method and NAV-measured holdings). FY2022: $1,935,426K. FY2024 investment figures require verification from FY2025/2024 audited statements published April 2026.",
+      "investmentPortfolio": 312400000,
+      "investmentPortfolioSource": "EMMA obligated group financial disclosure for year ended December 31, 2025 (prior-year comparative column: $312.4M long-term investments at Dec 2024). At Dec 2025: market value $302.3M, cost basis $198.7M, unrealized gains ~$103.6M. Portfolio managed by CAPTRUST with target allocation of 40% equities, 20% hedged equities, 35% fixed income, 5% real estate. Securities carried at fair market value with changes flowing through income statement. Cash and short-term investments: $29.5M (Dec 2024), $9.3M (Dec 2025).",
       "realEstateValue": null,
-      "realEstateSource": "Fairview operates 12 hospitals and 100+ clinics across Minnesota; real estate value not separately broken out in available filings",
+      "realEstateSource": "North Memorial operates two hospitals (Robbinsdale and Maple Grove) plus clinics across Minnesota and western Wisconsin; real estate value not separately broken out in available filings",
       "boardDesignatedFunds": null,
       "endowmentFunds": null,
-      "notes": "Total net assets FY2023: $2,057,673K (Fairview Health Services $1,973,274K + non-controlling interests $48,802K + donor-restricted $35,597K). Assets limited as to use reported separately (insurance subsidiaries $55,958K and restricted fund investments $18,687K in FY2022). Board-designated and endowment sub-totals require Form 990 Part X or note disclosure verification."
+      "notes": "North Memorial Health 2018 audited financial statements showed board-designated investments of $338.7M and total assets of $911.7M. Current board-designated and endowment sub-totals require Form 990 Part X or audited financial statement note disclosure verification. Days cash on hand fell below 125 days by end of 2025, a threshold Moody's flagged as a credit concern."
     },
     "bondDebt": {
-      "totalOutstanding": 1520000000,
-      "fiscalYear": 2023,
-      "largestIssue": "Series 2018A Fixed-Rate Tax-Exempt Revenue Bonds",
-      "largestIssueProceeds": 263890000,
-      "issuerAuthority": "City of Minneapolis",
-      "source": "FY2023 audited consolidated financial statements (~$1.52B total debt, down from ~$1.55B in FY2022). Key tax-exempt series: 2018A ($263.9M original proceeds via City of Minneapolis, refunding + $100M new money), 2017A (2.00-5.00%, maturing 2047, ~$176M at FY2022), 2015A (2.00-5.00%, maturing 2044, ~$95M at FY2022). Also 3.456% taxable bonds maturing Nov 2051 (~$100.9M per CBonds). Moody's cited ~$1.6B total debt at time of Baa1 downgrade. Current outstanding balances require verification from most recent EMMA continuing disclosure or FY2025/2024 audited statements."
+      "totalOutstanding": null,
+      "fiscalYear": null,
+      "largestIssue": "Maple Grove Hospital Healthcare Facilities Revenue Bonds, Series 2017",
+      "largestIssueProceeds": null,
+      "issuerAuthority": null,
+      "source": "EMMA obligated group disclosure (Dec 2025): Maple Grove Hospital bonds $84,400,000 (3.6% fixed, maturing 2037, 100% guaranteed by North Memorial); Maple Grove MOB bonds $8,450,000 (3.25% fixed, maturing 2030); North Memorial Series 2015 bonds $44,900,000 (3.8% fixed). North Memorial Series 2017 balance not captured from search snippets. Moody's cited combined $191M total debt outstanding as of March 2022. FY2019 audited: Maple Grove Series 2017 at $111,650,000, Series 2015 at $40,480,000. Obligated group does not include Maple Grove Hospital Corporation; Maple Grove debt is guaranteed by North Memorial. Total current outstanding requires verification from full EMMA continuing disclosure or FY2025 audited statements."
     },
     "relatedOrganizations": {
       "captiveInsurance": null,
       "insuranceArmRevenue": null,
-      "physicianGroupEntity": "University of Minnesota Physicians (M Physicians)",
-      "foundationEntity": "Fairview Foundation",
+      "physicianGroupEntity": null,
+      "foundationEntity": "North Memorial Foundation",
       "otherRelatedEntities": [
-        "University of Minnesota Medical Center (operated by Fairview under affiliation agreement; University of Minnesota Board of Regents voted in 2023 to restructure or end 27-year partnership)",
-        "Ebenezer (senior living and care subsidiary)",
-        "Fairview Pharmacy Services LLC",
-        "Fairview Southdale Hospital",
-        "Fairview Ridges Hospital",
-        "Fairview Lakes Medical Center",
-        "Fairview Northland Medical Center",
-        "Fairview Range Medical Center",
-        "HealthEast Care System entities (acquired 2017): St. John's Hospital, Woodwinds Health Campus, St. Joseph's Hospital, Bethesda Hospital"
+        "Maple Grove Hospital (100% owned by North Memorial since May 2022; previously 75% NMH / 25% Fairview Health Services; largest birth center in Minnesota)",
+        "Blaze Health (clinic joint venture: 51% North Memorial Health / 49% Stella, parent of Blue Cross and Blue Shield of Minnesota)",
+        "North Memorial Ambulance Services (air and ground EMS: 9 helicopters and 7 bases across Minnesota as of 2018 provider guide; Level 1 Trauma center transport)",
+        "Sanford Health (parent organization effective September 1, 2026; North Memorial became anchor of Sanford's Twin Cities region under 10-year Minnesota AG oversight agreement)"
       ],
       "relatedPartyTransactions": null,
-      "source": "Schedule R; Fairview Health Services corporate structure; Minnesota Secretary of State filings; University of Minnesota affiliation agreement"
+      "source": "North Memorial Health press releases; EMMA bond disclosures; Minnesota Secretary of State filings; North Memorial Foundation (EIN 41-1777966) files separately with ProPublica. Blaze Health structure per Blue Cross Blue Shield of Minnesota and North Memorial public descriptions. Sanford Health merger per Minnesota AG announcement August 28, 2026."
     },
     "executiveComp": {
       "fiscalYear": 2024,
-      "ceoName": "James Hereford",
-      "ceoBaseComp": 4854478,
+      "ceoName": "J. Kevin Croston, MD (through 2/2024) / Trevor Sawallish (CEO from 2/2024)",
+      "ceoBaseComp": null,
       "ceoBonusIncentive": null,
       "ceoDeferredComp": null,
-      "ceoOtherComp": 805007,
-      "ceoTotalComp": 5659485,
+      "ceoOtherComp": null,
+      "ceoTotalComp": 3175889,
       "topOfficersTotalComp": null,
       "numberOfOfficersReported": null,
       "perks": [],
       "splitDollarInsurance": null,
-      "source": "Form 990 FY2024 Part VII via ProPublica Nonprofit Explorer (EIN 41-0991680). Reportable compensation from organization: $4,854,478; reportable from related organizations: $0; estimated other compensation: $805,007; total: $5,659,485. FY2023 total: $5,246,751 ($5,208,444 reportable + $38,307 other). FY2022 total: $3,370,758 (included ~$1.4M bonus/incentive per Star Tribune despite operating losses; board used discretion). Bonus/incentive breakdown and deferred comp not separately itemized in available 990 data; requires Schedule J verification."
+      "source": "Form 990 FY2024 Part VII via ProPublica Nonprofit Explorer (EIN 41-0729979). J. Kevin Croston, MD (CEO through 2/2024): reportable compensation $1,758,247, other compensation $10,625, total $1,768,872. Trevor Sawallish (CEO from 2/2024, previously COO from 2023): reportable compensation $1,368,361, other compensation $38,656, total $1,407,017. Combined CEO compensation for FY2024: $3,175,889. Base/bonus/deferred breakdown not separately itemized in available 990 data; requires Schedule J verification. Croston's $1.77M for approximately two months of service implies annualized compensation significantly exceeding Sawallish's rate."
     },
     "communityBenefit": {
-      "claimedAmount": 680000000,
+      "claimedAmount": null,
       "claimedPctOfRevenue": null,
       "charityCareClaimedAmount": null,
       "charityCareCostAdjusted": null,
@@ -3095,7 +3052,7 @@
       "stateAveragePct": null,
       "belowStateAverage": null,
       "costToChargeRatio": null,
-      "source": "Fairview Community Impact Report FY2024: $1.4B total community investment, of which $680M classified as community benefit (charity care, education/training, hospital-based research, community programs/services). FY2025 report: $1.6B total, $740M community benefit. Fairview notes methodology differs from Form 990 Schedule H; 990 figures may differ. Charity care sub-total and cost-adjusted amounts require Schedule H verification. Minnesota state average comparison requires Minnesota Department of Health hospital data."
+      "source": "Form 990 Schedule H filed for FY2024 (EIN 41-0729979) but specific community benefit dollar amounts not extracted in available aggregator data. North Memorial reports providing charity care, health screenings, crisis intervention, pastoral care, wellness classes, transportation services, and donated facility space. Financial assistance application available in English, Hmong, Spanish, and Russian. System pays patient service taxes including Medicaid surcharge and MinnesotaCare tax. Sanford Health merger oversight agreement (August 2026) requires maintenance of charity care, community benefit, financial assistance programs, and Medicare/Medicaid participation. Specific Schedule H Part I totals require direct 990 PDF verification."
     },
     "taxAdvantage": {
       "totalEstimatedAnnual": null,
@@ -3105,63 +3062,66 @@
       "salesTaxForegone": null,
       "taxExemptBondInterestSubsidy": null,
       "program340BEstimatedBenefit": null,
-      "notes": "Fairview Health Services operates 12 hospitals and 100+ clinics as a tax-exempt nonprofit across Minnesota. Property tax exemptions span Hennepin, Ramsey, Dakota, Washington, and other Minnesota counties. Federal and state income tax exemptions, tax-exempt bond interest subsidies, and 340B program benefits all require quantification from financial statements and county assessor records."
+      "notes": "North Memorial Health operates two hospitals and clinics as a tax-exempt 501(c)(3) nonprofit in Minnesota and western Wisconsin. Property tax exemptions primarily in Hennepin County (Robbinsdale and Maple Grove campuses). Federal and state income tax exemptions, tax-exempt bond interest subsidies on revenue bonds issued through conduit authorities, and 340B program benefits all require quantification from financial statements and county assessor records."
     },
     "layoffs": [
       {
-        "date": "2022-09",
-        "entity": "Fairview Health Services",
-        "location": "Minnesota (system-wide)",
-        "count": 900,
-        "source": "Fairview Health Services restructuring announcement September 2022; Star Tribune; Becker's Hospital Review; layoffs were part of broader cost reduction initiative amid significant operating losses"
-      },
-      {
-        "date": "2023-11",
-        "entity": "Fairview Health Services",
-        "location": "Minnesota (system-wide)",
-        "count": 250,
-        "source": "Fairview announced elimination of 250 positions in November 2023, citing inflation, labor costs, and insurer payment rates; less than 1% of workforce; included ~50% reduction in staff chaplains at metropolitan locations and security staff cuts; MPR News, Fox 9, Becker's Hospital Review, CBS Minnesota"
+        "date": "2024-03",
+        "entity": "North Memorial Health",
+        "location": "Robbinsdale, Minnesota",
+        "count": 103,
+        "source": "Star Tribune, Becker's Hospital Review, KARE 11, TCB Magazine (March 2024). North Memorial eliminated 103 jobs and closed outpatient mental health services at flagship Robbinsdale hospital, affecting approximately 3,400 mental health patients. Also downgraded neonatal care from Level 2 special care nursery to Level 1 well newborn nursery. CEO cited rising government-sponsored plan enrollment (lower reimbursement) and Hennepin County's elimination of $22M annual subsidy. Minnesota Nurses Association condemned closures as prioritizing profit over patient care. System reported $8.5M operating loss in FY2023."
       }
     ],
-    "facilityClosures": [],
+    "facilityClosures": [
+      {
+        "date": "2024",
+        "facility": "North Memorial Health Hospital Outpatient Mental Health Services",
+        "location": "Robbinsdale, Minnesota",
+        "source": "Star Tribune, CBS Minnesota, Minnesota Department of Health public hearing (June 2024). Outpatient mental health programs closed; neonatal care downgraded from Level 2 to Level 1 (higher-acuity cases transferred to Maple Grove Hospital Level 3 NICU). Minnesota Department of Health held public hearing on nursery level change."
+      }
+    ],
     "creditRating": {
       "fitch": null,
       "fitchOutlook": null,
       "fitchDate": null,
-      "sp": "BBB+",
-      "spOutlook": "Stable",
-      "spDate": "2023-02",
-      "moodys": "Baa1",
+      "sp": null,
+      "spOutlook": null,
+      "spDate": null,
+      "moodys": "Baa2",
       "moodysOutlook": "Stable",
-      "moodysDate": "2024",
+      "moodysDate": "2023-08",
       "keyRiskFactors": [
-        "Five consecutive years of operating losses (2019-2023) totaling over $900M before first operating profit in 2024",
-        "Moody's downgraded from A3 to Baa1 (January 2023); S&P downgraded from A to BBB+ (February 2023)",
-        "Failed merger with Sanford Health collapsed in November 2023 amid opposition from University of Minnesota, employees, legislators, and community groups",
-        "University of Minnesota Board of Regents voted to restructure 27-year academic medicine partnership; new 10-year deal finalized January 2026 with M Health Fairview brand phaseout by end of 2026",
-        "Competitive Minneapolis-St. Paul healthcare market with Mayo Clinic, Allina Health, HealthPartners, and CentraCare",
-        "~$1.5B total debt outstanding with Baa1/BBB+ ratings (lowest investment-grade tier)"
+        "Consecutive operating losses: $12.8M (FY2022), $8.5M (FY2023); net deficit of $26.7M on Form 990 (FY2024); EMMA obligated group shows $29.9M operating loss for FY2025",
+        "Moody's downgrade history: A3 (2007) to Baa1 (2010) to Baa2 (August 2023); two-decade rating decline",
+        "Days cash on hand fell below 125-day threshold flagged by Moody's as credit concern (end of 2025)",
+        "CEO described system at 'fiscal breaking point' due to Medicaid/Medicare reimbursement losses concentrated at Robbinsdale Hospital",
+        "Hennepin County eliminated $22M annual subsidy for care of low-income residents (effective January 2024)",
+        "Robbinsdale flagship hospital losing approximately $124M annually per Becker's Hospital Review",
+        "Sold to Sanford Health (September 2026) under 10-year AG oversight, signaling inability to operate independently",
+        "Minnesota Senate committee document (March 2026) warned bond rating 'in jeopardy of declining again this year'"
       ],
-      "source": "Moody's: Baa1 with negative outlook (January 2023 downgrade from A3), revised to stable in 2024 citing expected improvement in operating cash flow margins. S&P: BBB+ with stable outlook (February 2023 downgrade from A). Fitch does not rate Fairview. Bond Buyer, Becker's Hospital Review, Star Tribune."
+      "source": "Moody's: Baa2 with stable outlook (August 2023 downgrade from Baa1 with negative outlook; Baa1 affirmed March 2022). Moody's cited low days cash on hand and no anticipated improvement. Rating history per North Memorial presentation to Minnesota Senate Tax Committee (March 2026): A3 (2007), Baa1 (2010), Baa2 (2023). S&P and Fitch do not rate North Memorial Health. Becker's Hospital Review, Minnesota House and Senate committee presentations."
     },
     "program340B": {
       "contractPharmacies": null,
       "outOfStatePharmaciesPct": null,
-      "dshStatus": true,
-      "estimatedAnnualBenefit": null
+      "dshStatus": null,
+      "estimatedAnnualBenefit": 88000000,
+      "source": "Minnesota Department of Health report (covered by Star Tribune, circa 2024): North Memorial collected $88M via the 340B drug discount program. North Memorial operates three outpatient pharmacies (Robbinsdale campus, Maple Grove campus, Robbinsdale Specialty Center). Statewide, Minnesota hospitals and clinics paid $120M to contract pharmacies and third-party administrators; North Memorial's share not broken out. Contract pharmacy count and out-of-state percentage require HRSA OPAIS database verification. DSH status requires Schedule H verification."
     },
     "acquisitions": [
       {
-        "year": 2017,
-        "target": "HealthEast Care System",
-        "description": "Acquired four-hospital system including St. John's Hospital, Woodwinds Health Campus, St. Joseph's Hospital, and Bethesda Hospital; approximately 7,500 employees; Minnesota Attorney General approved with conditions",
-        "source": "Minnesota Attorney General approval February 2017; Star Tribune; Minneapolis/St. Paul Business Journal"
+        "year": 2022,
+        "target": "Maple Grove Hospital (remaining 25% stake)",
+        "description": "North Memorial acquired Fairview Health Services' 25% stake in Maple Grove Hospital Corporation, achieving 100% ownership effective May 2022. North Memorial had held 75% since the hospital's opening. Maple Grove Hospital is Minnesota's largest birth center.",
+        "source": "North Memorial Health press release; Fairview Health Services continuing disclosure (EMMA); Moody's March 2022 action noting guarantee rising to 100%"
       },
       {
-        "year": 2019,
-        "target": "University of Minnesota Health brand integration",
-        "description": "Fairview Health Services, University of Minnesota Health, and University of Minnesota Physicians consolidated clinical operations under the M Health Fairview brand",
-        "source": "M Health Fairview brand launch announcement 2019; University of Minnesota"
+        "year": 2026,
+        "target": "Acquired by Sanford Health",
+        "description": "Sanford Health (Sioux Falls, SD; 58-hospital system) signed definitive agreement in May 2026 to acquire North Memorial Health. Closed September 1, 2026 under 10-year Minnesota Attorney General oversight agreement. Sanford committed $600M investment: $500M for Maple Grove Hospital expansion, $100M for Robbinsdale Hospital equipment and deferred maintenance, plus $15M for independent healthcare providers. North Memorial became anchor of Sanford's Twin Cities region led by CEO Trevor Sawallish with local board oversight.",
+        "source": "Minnesota AG announcement August 28, 2026; Fox 9; Becker's Hospital Review; Healthcare Finance News; Fierce Healthcare; Minnesota Reformer; KEYC; Dakota News Now"
       }
     ],
     "lobbying": {
@@ -3171,15 +3131,15 @@
     },
     "legalIssues": [],
     "ratios": {
-      "investmentsToOperatingIncome": 39.4,
-      "investmentsToOperatingIncomeInterpretation": "Fairview holds ~$2.01B in investments (FY2023 audited) against ~$51M operating income (FY2024). The investment portfolio is 39x the operating profit, meaning the system's accumulated financial wealth vastly exceeds its slim operating margin. Years of operating losses (2019-2023) were sustained by this balance sheet cushion.",
-      "bondDebtToCommunityBenefit": 2.24,
-      "bondDebtToCommunityBenefitInterpretation": "Fairview carries ~$1.52B in total debt (FY2023) against $680M in claimed community benefit (FY2024). For every dollar of community benefit, the system carries $2.24 in debt — reflecting significant financial leverage. However, Fairview's community benefit methodology differs from Form 990 Schedule H; actual 990-reported community benefit may be lower.",
+      "investmentsToOperatingIncome": null,
+      "investmentsToOperatingIncomeInterpretation": "North Memorial holds a $312M investment portfolio (Dec 2024 EMMA) against persistent operating losses ($8.5M loss in FY2023; $26.7M net deficit on FY2024 Form 990). The ratio cannot be computed against a loss, but the contrast is stark: the system's accumulated financial wealth of $312M in securities — with $104M in unrealized gains — dwarfs any operating surplus the system has produced in recent years. The portfolio represents 31% of the system's $999M in total revenue.",
+      "bondDebtToCommunityBenefit": null,
+      "bondDebtToCommunityBenefitInterpretation": "Community benefit total not available from extracted data. Bond debt partially documented at ~$138M+ across identified series (Maple Grove $84.4M + $8.45M; NMH Series 2015 $44.9M; Series 2017 balance unknown). Ratio requires Schedule H community benefit figure from Form 990 FY2024.",
       "charityCarePctVsStateAvg": null,
-      "charityCareVsStateInterpretation": "Charity care sub-total not separately broken out in available data. Fairview reports $680M total community benefit (FY2024) but does not publicly disclose charity care as a separate line. Minnesota state average comparison requires Minnesota Department of Health hospital data and Form 990 Schedule H Part I charity care figure."
+      "charityCareVsStateInterpretation": "Charity care sub-total not separately broken out in available data. Minnesota Department of Health and Form 990 Schedule H Part I charity care figures required for state average comparison."
     },
-    "accusation": "M Health Fairview, a $5.3B-revenue tax-exempt health system, holds a $2.01B investment portfolio and carries $1.52B in bond debt while its CEO James Hereford collected $5.66M in total compensation (FY2024) — even after five consecutive years of operating losses (2019-2023) that triggered 1,150 layoffs across 2022-2023, credit downgrades to Baa1/BBB+ (lowest investment-grade tier), and the collapse of its Sanford Health merger. Fairview claims $680M in community benefit (FY2024) but uses a self-defined methodology that differs from its Form 990 reporting, and charity care as a standalone figure remains undisclosed. The system partners with the Minnesota Vikings as an official healthcare sponsor while the University of Minnesota moves to dissolve the M Health Fairview brand by end of 2026.",
-    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Layout: Lead with $2.01B investment portfolio (FY2023 audited). Show CEO James Hereford total comp $5.66M (FY2024 Form 990). Show $1.52B bond debt outstanding (FY2023 audited). Note 1,150 combined layoffs (900 in Sept 2022 + 250 in Nov 2023). Note five consecutive years of operating losses (2019-2023) before first operating profit of ~$51M in FY2024. Note failed Sanford Health merger (November 2023). Note UMN partnership restructuring: M Health Fairview brand phaseout by end of 2026. Credit ratings: Moody's Baa1 Stable, S&P BBB+ Stable. Community benefit: $680M claimed (FY2024, self-reported methodology). Vikings official healthcare partner. Source line: Form 990 via ProPublica (EIN 41-0991680), Fairview audited consolidated financial statements, EMMA/MSRB, Fairview Community Impact Report, Star Tribune, Bond Buyer, Becker's Hospital Review."
+    "accusation": "North Memorial Health, a tax-exempt health system with $713 million in total assets, holds a $312 million investment portfolio — including $104 million in unrealized gains — while reporting consecutive operating losses and a $27 million net deficit on $999 million in revenue (FY2024 Form 990). The system collected $88 million through the 340B drug discount program while its flagship Robbinsdale hospital was losing $124 million annually, prompting its CEO to tell the Maple Grove City Council the system had reached its 'fiscal breaking point.' In FY2024, departing CEO J. Kevin Croston collected $1.77 million in compensation for approximately two months of service before handing control to Trevor Sawallish, who received $1.41 million for the remainder of the year — combined CEO pay of $3.18 million in a year the system cut 103 jobs and closed outpatient mental health services affecting 3,400 patients at its Robbinsdale hospital. Moody's has downgraded North Memorial three times in two decades — from A3 to Baa1 to Baa2 — now two notches above junk, with a March 2026 Minnesota Senate presentation warning the rating was 'in jeopardy of declining again.' Rather than stabilize independently, North Memorial sold itself to South Dakota-based Sanford Health in September 2026, requiring a 10-year Attorney General oversight agreement to protect the Level 1 trauma center, charity care, reproductive healthcare, and emergency transport services that critics feared would be cut. The system partners with the Minnesota Vikings as an official healthcare sponsor while its own nurses issued a vote of no confidence in hospital leadership.",
+    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Layout: Lead with $312M investment portfolio ($104M unrealized gains, Dec 2024 EMMA). Show combined CEO compensation $3.18M (Croston $1.77M for ~2 months + Sawallish $1.41M, FY2024 Form 990). Show $999M total revenue vs $1.025B total expenses = $27M net deficit (FY2024 Form 990). Note $88M collected via 340B drug discount program. Note 103 layoffs and outpatient mental health closure (March 2024). Note Robbinsdale Hospital losing $124M annually. Credit rating: Moody's Baa2 Stable (downgraded from A3 over two decades). Note Sanford Health acquisition September 2026 with $600M investment commitment under 10-year AG oversight. Note days cash on hand below 125-day Moody's threshold. Vikings official healthcare partner since September 2018. Source line: Form 990 via ProPublica (EIN 41-0729979), EMMA obligated group financial disclosures, Minnesota Senate Tax Committee presentation (March 2026), Minnesota AG oversight agreement (August 2026), Star Tribune, Becker's Hospital Review, Minnesota Department of Health."
   },
   {
     "team": "New England Patriots",
@@ -4505,76 +4465,83 @@
     "division": "South",
     "city": "Tampa",
     "state": "Florida",
-    "healthSystem": "BayCare Health System",
-    "ein": "59-3474479",
-    "nonprofitType": "501c3",
+    "healthSystem": "AdventHealth",
+    "ein": "59-1479658",
+    "nonprofitType": "faith-based",
     "dealType": [
-      "Official Healthcare Partner",
-      "Stadium Signage"
+      "Exclusive Hospital",
+      "Training Facility Naming Rights",
+      "Training Camp Presenting Partner"
     ],
-    "dealAnnounced": null,
+    "dealAnnounced": "2018-08",
     "dealTermsDisclosed": false,
     "estimatedDealValue": null,
     "financials": {
-      "fiscalYear": 2025,
-      "totalRevenue": 6970000000,
-      "operatingIncome": 821400000,
-      "operatingMarginPct": 11.8,
-      "nonOperatingRevenue": 578600000,
-      "totalAssets": null,
+      "fiscalYear": "FY2025 (ending December 31, 2025)",
+      "totalRevenue": 22997652000,
+      "operatingIncome": 2700000000,
+      "operatingMarginPct": 11.6,
+      "nonOperatingRevenue": 1400000000,
+      "totalAssets": 32155503000,
       "totalLiabilities": null,
-      "source": "FY2025 operating figures from Becker's Hospital Review (March 2026) and BayCare 2025 Report to the Community. Total operating revenue $6.97B, operating income $821.4M (11.8% margin), net income $1.4B. Non-operating revenue derived as net income minus operating income. FY2024: revenue $6.27B, operating income $603.4M (9.6% margin), net income $1.2B. Total assets and liabilities not confirmed for FY2025; Q1 2023 combined balance sheet showed total assets of $11.58B. ProPublica Form 990 (EIN 59-2796965) for FY2024 shows ~$16B total assets and ~$9.09B liabilities for the filing entity, but this may reflect a parent/consolidated scope distinct from operating figures. NOTE: EIN in this dossier (59-3474479) was not found on ProPublica; the verified BayCare Health System EIN is 59-2796965."
+      "source": "AdventHealth audited consolidated financial statements (December 31, 2025). Total operating revenue $22,997,652k (net patient service revenue $21,411,326k + other revenue $1,586,326k). Operating income ~$2.7B (11.6% margin) per Becker's Hospital Review (May 2026). Net income $4.1B (FY2025) vs. $2.7B (FY2024). Non-operating revenue derived as net income minus operating income (~$1.4B). Total assets $32,155,503k from 2025 audited balance sheet (vs. $26,922,368k in FY2024). Total liabilities not confirmed for FY2025; FY2024 liabilities were approximately $9.06B (total assets $26.92B minus net assets $17.86B). Form 990 (EIN 59-1479658) for FY2024 shows $8.31B revenue, $14.09B total assets, and $5.37B liabilities for the filing entity Adventist Health System Sunbelt Inc, which reflects a narrower consolidation scope than the audited statements for Adventist Health System Sunbelt Healthcare Corporation."
     },
     "balanceSheetWealth": {
-      "investmentPortfolio": null,
-      "investmentPortfolioSource": "Pre-Trinity-split balance sheet (March 2020) showed ~$4.79B in investments. In 2024 BayCare paid Trinity Health $4B ($3B cash + $1B bridge loan) to dissolve the JOA. Current investment portfolio unavailable; post-split balance sheet not yet surfaced. Check BayCare FY2025 audited financials on EMMA or annual report for current figure.",
+      "investmentPortfolio": 9435606000,
+      "investmentPortfolioSource": "FY2024 audited consolidated financial statements: investments $8,376,931k plus assets whose use is limited, totaling $9,435,606k (vs. $6,944,808k in FY2023). Includes hedge funds ($1,357,575k) and private market funds ($1,489,983k). The system employs a diversified multi-asset strategy using total return swaps and futures for leveraged market exposure. A third-party directory (Pipeline Road) estimates ~$14B in investment assets under management as of December 31, 2024, but this exceeds the audited total and may use a different asset definition. FY2025 investment totals not yet confirmed.",
       "realEstateValue": null,
-      "realEstateSource": "Q1 2023 combined balance sheet showed PP&E net of $2.38B. BayCare operates 15 hospitals and 300+ outpatient facilities across Hillsborough, Pinellas, Pasco, Polk, and Manatee counties.",
+      "realEstateSource": "AdventHealth operates 55-57 hospital campuses and more than 2,000 care sites across nine states, headquartered in Altamonte Springs, FL. PP&E net value not separately confirmed; check property, plant and equipment note in audited financials.",
       "boardDesignatedFunds": null,
       "endowmentFunds": null,
-      "notes": "Trinity Health split finalized May 2024. BayCare paid $4B to acquire full independence. Post-split balance sheet will reflect significantly different asset composition. BayCare received $1.9B tax-exempt bond authorization in August 2024 from Hillsborough County IDA. Financial statements and Form 990 Schedule D would disclose investment and endowment details."
+      "notes": "FY2024 net assets $17,862,613k (including noncontrolling interests), up from $15,080,460k in FY2023. FY2025 net assets not confirmed but likely above $21B given $4.1B net income in 2025. AdventHealth Foundation (EIN 59-2219301) held approximately $204M in total assets for FY2024, separate from consolidated system totals. The system's consolidated balance sheet scope includes Adventist Health System Sunbelt Healthcare Corporation and all controlled affiliates."
     },
     "bondDebt": {
-      "totalOutstanding": null,
-      "fiscalYear": 2024,
-      "largestIssue": "Hillsborough County IDA Health System Revenue Bonds Series 2024 (BayCare Health System)",
-      "largestIssueProceeds": 1300000000,
-      "issuerAuthority": "Hillsborough County Industrial Development Authority",
-      "source": "Bond Buyer reported $1.3B priced week of Aug 19, 2024, underwritten by Morgan Stanley and Barclays. Fitch rated AA/Stable. Proceeds for capital reimbursement, future projects, capitalized interest, and issuance costs. Maximum rate 6.5%, latest maturity Dec 31, 2061. SEC fund filings show Series 2024-C with 4.125% coupon (Nov 2051 maturity) and 5.00% coupon (Nov 2029 maturity). BayCare received $1.9B total authorization from Hillsborough County IDA in Aug 2024. Total outstanding across all series not confirmed; check EMMA for full debt schedule. Pre-2024 debt included older series; 2010 total long-term debt was ~$794M (Fitch), now significantly higher."
+      "totalOutstanding": 3700000000,
+      "fiscalYear": null,
+      "largestIssue": null,
+      "largestIssueProceeds": null,
+      "issuerAuthority": "Various Florida and state health facilities authorities (Highlands County Health Facilities Authority and others)",
+      "source": "Becker's Hospital Review ranked AdventHealth at $3.7B in long-term debt (date of ranking undetermined). Substantially all bonds are tax-exempt and secured under a Master Trust Indenture (MTI). In 2024 the system issued $185,495k in tax-exempt fixed-rate put bonds (5.00%, maturing 2059) and $71,365k in serial bonds (5.00%, maturing 2029-2039). Proceeds used for capital expenditure reimbursement and refunding older bonds. A $250M commercial paper draw occurred after December 31, 2024. AdventHealth also sells patient receivables to the Highlands County Health Facilities Authority, which funds purchases with private-placement tax-exempt variable-rate bonds (~$3.48B balance shown in 2024 statements, scope unclear whether bond face or receivables sold). FY2024 interest expense was $109.6M. All bonds issued by Adventist Health System Georgia Inc and Adventist Health System Sunbelt Healthcare Corporation are fully consolidated. EMMA filings under these obligor names would show the full debt schedule by series."
     },
     "relatedOrganizations": {
       "captiveInsurance": null,
       "insuranceArmRevenue": null,
-      "physicianGroupEntity": null,
-      "foundationEntity": null,
-      "otherRelatedEntities": [],
+      "physicianGroupEntity": "AdventHealth Primary Care Inc (EIN 59-3231322)",
+      "foundationEntity": "AdventHealth Foundation Inc (EIN 59-2219301)",
+      "otherRelatedEntities": [
+        "Adventist Health System Sunbelt Healthcare Corporation — consolidated operating parent (audited financial statements entity)",
+        "Adventist Health System Georgia Inc (EIN 58-1425000) — Georgia hospital operations (d/b/a AdventHealth Gordon)",
+        "AdventHealth Investment Management — manages system investment portfolio",
+        "General Conference of Seventh-day Adventists — denominational sponsor and church affiliation",
+        "AdventHealth University — educational affiliate"
+      ],
       "relatedPartyTransactions": null,
-      "source": "UNVERIFIED — requires Form 990 Schedule R for EIN 59-3474479. Known affiliated entities include BayCare Medical Group (physician group), BayCare Foundation (philanthropic arm), and individual hospital entities such as Morton Plant Hospital, Mease Countryside Hospital, Mease Dunedin Hospital, St. Joseph's Hospital (Tampa), St. Joseph's Women's Hospital, St. Joseph's Children's Hospital, South Florida Baptist Hospital, Bartow Regional Medical Center, Winter Haven Hospital, Winter Haven Women's Hospital, St. Anthony's Hospital, and BayCare Alliant Hospital. Schedule R would confirm all related organizations, EINs, and transaction amounts."
+      "source": "ProPublica Nonprofit Explorer, AdventHealth audited financial statements, AdventHealth careers site. Form 990 Schedule R for EIN 59-1479658 would confirm all related organizations, EINs, and intercompany transaction amounts."
     },
     "executiveComp": {
-      "fiscalYear": 2023,
-      "ceoName": "Stephanie Conners",
+      "fiscalYear": "FY2024",
+      "ceoName": "Terry Shaw",
       "ceoBaseComp": null,
       "ceoBonusIncentive": null,
       "ceoDeferredComp": null,
-      "ceoOtherComp": 538413,
-      "ceoTotalComp": 3027169,
+      "ceoOtherComp": null,
+      "ceoTotalComp": 9855391,
       "topOfficersTotalComp": null,
       "numberOfOfficersReported": null,
       "perks": [],
       "splitDollarInsurance": null,
-      "source": "ProPublica Form 990 (EIN 59-2796965) FY2023. Stephanie Conners (President & CEO since Nov 28, 2022, succeeding Tommy Inzina who retired end of 2022): $2,488,756 reportable compensation from organization + $538,413 from related organizations = $3,027,169 total. Base/bonus/deferred breakdown requires Schedule J detail not available in search results. Prior CEO Tommy Inzina FY2021: ~$4,330,000 reportable + ~$74,000 other. FY2024 990 compensation not yet surfaced."
+      "source": "Paddock Post analysis of Form 990 (EIN 59-1479658) FY2024. Terry Shaw (President & CEO 2016-April 2025): $9,855,391 total compensation in FY2024. Shaw's compensation trajectory: FY2023 $6,344,107; FY2022 $5,678,983; FY2021 $4,728,689; FY2020 $3,198,492; cumulative FY2016-2024 approximately $45M per Paddock Post. David Banks succeeded Shaw as President & CEO on April 3, 2025. Banks previously served as Group CEO for Primary Health and Multi-State Divisions (22 campuses, eight states) and prior to that as Chief Strategy Officer for eight years. A Paddock Post headline reported 26 employees received $270M in compensation but the article contained conflicting per-year figures, so that total is not verified as a single-year amount. Base/bonus/deferred breakdown requires Schedule J detail not available in search results."
     },
     "communityBenefit": {
-      "claimedAmount": 500000000,
-      "claimedPctOfRevenue": 7.2,
-      "charityCareClaimedAmount": null,
+      "claimedAmount": 1310000000,
+      "claimedPctOfRevenue": null,
+      "charityCareClaimedAmount": 109960000,
       "charityCareCostAdjusted": null,
       "chargemasterMarkupRatio": null,
       "stateAveragePct": null,
       "belowStateAverage": null,
       "costToChargeRatio": null,
-      "source": "BayCare 2025 Report to the Community (released April 2026): community benefit of $500M in 2025 (up from $467M in 2024) in categories of charity care, subsidizing the underinsured, and health-related social services. Pct calculated as $500M / $6.97B total operating revenue = 7.2%. The $500M figure includes more than charity care alone; charity care subtotal not broken out in press materials. FY2023 community benefit reported as $557M. Schedule H would provide exact charity care vs. other community benefit breakdown. Florida state average charity care pct and cost-to-charge ratio require AHCA data or Lown Hospitals Index."
+      "source": "AdventHealth 2021 Community Investment Report (Central Florida Division only, seven counties: Flagler, Lake, Orange, Osceola, Polk, Seminole, Volusia): $1.31B total community investment, including $109.96M charity care, $318.07M coverage shortfalls, $33.36M community health services, $60.47M health professional education and research, $21.30M cash and in-kind contributions, $10.58M faith-based care. FY2019 Central Florida community investment was $1.2B. CRITICAL CAVEAT: These figures cover Central Florida only, not the full nine-state system, and are from FY2021 — four years stale. System-wide community benefit total not confirmed for FY2024 or FY2025. AdventHealth's Central Florida Financial Reports page posts IRS Form 990 filings and Community Investment Reports for 2020-2024 but those PDFs were not retrievable in search. Schedule H would provide system-level charity care vs. other community benefit breakdown."
     },
     "taxAdvantage": {
       "totalEstimatedAnnual": null,
@@ -4584,24 +4551,26 @@
       "salesTaxForegone": null,
       "taxExemptBondInterestSubsidy": null,
       "program340BEstimatedBenefit": null,
-      "notes": "UNVERIFIED — BayCare Health System is a tax-exempt 501(c)(3) organization. Florida has no state income tax, so state income tax foregone would be $0. Property tax exemptions across approximately 16 hospitals and 300+ outpatient sites in Hillsborough, Pinellas, Pasco, and Polk counties would represent a significant annual benefit. Florida sales tax exemption rate is 6% plus applicable county surtax."
+      "notes": "AdventHealth is a faith-based 501(c)(3) affiliated with the Seventh-day Adventist Church. Florida has no state income tax, so state income tax foregone is $0 for Florida operations; the system also operates in eight other states where state income tax exemptions would apply. Property tax exemptions across 55-57 hospital campuses and 2,000+ care sites in nine states represent a substantial annual benefit. Florida sales tax exemption rate is 6% plus applicable county surtax. Estimated $3.7B in tax-exempt bond debt generates significant interest subsidy for bondholders. 340B program benefit not quantified but the system participates in the program with contract pharmacies."
     },
     "layoffs": [],
     "facilityClosures": [],
     "creditRating": {
       "fitch": "AA",
       "fitchOutlook": "Stable",
-      "fitchDate": "2024-08",
-      "sp": null,
+      "fitchDate": "2025",
+      "sp": "AA",
       "spOutlook": null,
       "spDate": null,
       "moodys": "Aa2",
-      "moodysOutlook": null,
-      "moodysDate": "2024-08",
+      "moodysOutlook": "Stable",
+      "moodysDate": "2026",
       "keyRiskFactors": [
-        "Post-Trinity JOA dissolution corporate restructuring (Fitch viewed as credit positive)",
-        "Large capital program funded by $1.9B bond authorization",
-        "$4B cash outlay to acquire independence from Trinity Health"
+        "Sizable market presence across nine states with dominant Florida position",
+        "Highly centralized operating model cited by Moody's as credit strength",
+        "Exceptional financial profile with 11.6% operating margin sustained across FY2024-FY2025",
+        "Rapid expansion through acquisitions (AdventHealth Port Charlotte consolidated March 2025)",
+        "Concentration in favorable growth markets, particularly Central Florida"
       ]
     },
     "program340B": {
@@ -4610,23 +4579,36 @@
       "dshStatus": true,
       "estimatedAnnualBenefit": null
     },
-    "acquisitions": [],
+    "acquisitions": [
+      {
+        "year": 2025,
+        "target": "AdventHealth Port Charlotte",
+        "description": "Consolidated into AdventHealth financial statements beginning March 1, 2025, contributing to revenue growth in FY2025.",
+        "source": "AdventHealth 2025 audited consolidated financial statements"
+      },
+      {
+        "year": 2026,
+        "target": "Heart of Florida Regional Medical Center and Lake Wales Medical Center",
+        "description": "Announced intent to join AdventHealth, adding two hospitals to the system's Florida footprint.",
+        "source": "AdventHealth newsroom"
+      }
+    ],
     "lobbying": {
       "amount2024": null,
       "politicalContributions2024": null,
-      "source": "UNVERIFIED — check OpenSecrets for BayCare Health System lobbying and political contribution data"
+      "source": "UNVERIFIED — check OpenSecrets for AdventHealth / Adventist Health System Sunbelt lobbying and political contribution data"
     },
     "legalIssues": [],
     "ratios": {
-      "investmentsToOperatingIncome": null,
-      "investmentsToOperatingIncomeInterpretation": "Cannot calculate — current investment portfolio value unknown post-Trinity split. Operating income is $821.4M (FY2025). Once investment portfolio is confirmed from post-split balance sheet, divide portfolio by operating income.",
+      "investmentsToOperatingIncome": 3.5,
+      "investmentsToOperatingIncomeInterpretation": "$9.44B total investment-type assets (FY2024 audited) / $2.7B operating income (FY2025 Becker's) = 3.5x. For every dollar of operating income, AdventHealth holds $3.50 in investments. Cross-year ratio; FY2025 investment total not yet confirmed.",
       "bondDebtToCommunityBenefit": null,
-      "bondDebtToCommunityBenefitInterpretation": "Cannot calculate — total outstanding bond debt across all series not confirmed. Largest known single issuance is $1.3B (Series 2024). Community benefit claimed at $500M (FY2025). Once total debt confirmed from EMMA, divide total outstanding by community benefit.",
+      "bondDebtToCommunityBenefitInterpretation": "Total bond debt ~$3.7B (Becker's, undated) vs. Central Florida community benefit $1.31B (FY2021 only, seven counties). Ratio not computed due to mismatched years, reporting scopes, and geographic coverage. System-wide community benefit total unavailable.",
       "charityCarePctVsStateAvg": null,
-      "charityCareVsStateInterpretation": "Cannot calculate — charity care subtotal not broken out from the $500M total community benefit figure. Florida state average charity care pct not yet sourced. Requires Schedule H line-item data and AHCA/Lown benchmark."
+      "charityCareVsStateInterpretation": "FY2021 Central Florida charity care $109.96M against FY2025 system revenue of $23B would represent under 0.5%, but these are mismatched years and scopes (seven-county vs. nine-state system). System-wide charity care total and Florida state average charity care percentage not sourced. Requires Schedule H line-item data and Lown Institute or AHCA benchmark."
     },
-    "accusation": "BayCare Health System, a 501(c)(3) with $6.97 billion in operating revenue (FY2025), paid its CEO $3.03 million, issued $1.3 billion in tax-exempt bonds through the Hillsborough County IDA, and claims $500 million in community benefit (7.2% of revenue) while its charity care subtotal remains undisclosed; following its $4 billion buyout of Trinity Health's stake, the system's post-split investment portfolio and total debt remain opaque. IMPORTANT: Web searches found NO evidence of a BayCare-Buccaneers partnership. The Tampa Bay Buccaneers' verified official healthcare partner is AdventHealth (formerly Florida Hospital), which holds naming rights to the team's training facility (AdventHealth Training Center) and serves as the exclusive hospital of the Buccaneers. This dossier's team pairing requires correction.",
-    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. BayCare Health System (verified EIN 59-2796965), 15 hospitals across Tampa Bay. FY2025: $6.97B revenue, $821.4M operating income (11.8% margin), $1.4B net income. CEO Stephanie Conners: $3.03M total comp (FY2023). Fitch AA/Stable, Moody's Aa2 (Aug 2024). $1.3B tax-exempt bonds issued 2024. Community benefit: $500M (7.2% of revenue). WARNING: Buccaneers partnership NOT verified — AdventHealth is the confirmed official healthcare partner of the Tampa Bay Buccaneers. This dossier pairing may be incorrect."
+    "accusation": "AdventHealth, a Seventh-day Adventist 501(c)(3), controls $32.2 billion in total assets, a $9.4 billion investment portfolio, and $17.9 billion in net assets — shielded by an estimated $3.7 billion in tax-exempt debt and property tax exemptions across 55 hospital campuses in nine states — while outgoing CEO Terry Shaw collected $9.86 million in his final full year (FY2024), capping approximately $45 million in cumulative pay since 2016, as the system generated $4.1 billion in net income on $23 billion in revenue (FY2025) and sponsors the Tampa Bay Buccaneers with training facility naming rights and an exclusive hospital designation, yet its most recent disclosed community benefit of $1.31 billion covers only seven Central Florida counties and is four years stale.",
+    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. AdventHealth (EIN 59-1479658), Seventh-day Adventist faith-based 501(c)(3), 55-57 hospital campuses across nine states, headquartered Altamonte Springs FL, ~100,000 employees. Lead with $32.2B total assets, $9.4B investment portfolio, $17.9B net assets (FY2024). CEO Terry Shaw: $9.86M total comp (FY2024), cumulative $45M (2016-2024); succeeded by David Banks April 2025. Fitch AA/Stable, Moody's Aa2/Stable, S&P AA. Visualize $3.7B tax-exempt bond debt. FY2025: $23B revenue, $2.7B operating income (11.6% margin), $4.1B net income. Central Florida community benefit $1.31B (FY2021 only, seven counties). Buccaneers partnership: 10-year training facility naming rights (August 2018), exclusive hospital designation (since ~2012), training camp presenting partner (2024)."
   },
   {
     "team": "Tennessee Titans",
@@ -4634,90 +4616,114 @@
     "division": "South",
     "city": "Nashville",
     "state": "Tennessee",
-    "healthSystem": "Ascension",
-    "ein": "43-1671412",
-    "nonprofitType": "faith-based",
+    "healthSystem": "Vanderbilt Health",
+    "ein": "35-2528741",
+    "nonprofitType": "academic medical center",
     "dealType": [
-      "Official Healthcare Partner (former)",
-      "Training Facility Naming (former)"
+      "Official Healthcare Provider",
+      "Cornerstone Stadium Sponsor",
+      "Training Facility Naming"
     ],
-    "dealAnnounced": "July 2013 (Saint Thomas Sports Park naming); partnership ended March 1, 2026 when Ascension ended the relationship; replaced by Vanderbilt Health",
+    "dealAnnounced": "March 2, 2026",
     "dealTermsDisclosed": false,
     "estimatedDealValue": null,
+    "dealNotes": "Multiyear agreement. Vanderbilt Health becomes Official Healthcare Provider of the Tennessee Titans and Nissan Stadium. Training facility renamed Vanderbilt Health Football Center. Vanderbilt LifeFlight Event Medicine provides first aid and emergency medical services for all stadium events. As a founding Cornerstone Sponsor of the new $2.1B Nissan Stadium (opening 2027), VUMC receives a branded family zone named the Monroe Carell Jr. Children's Hospital at Vanderbilt Terrace, a Vanderbilt Health entry gate, and permanent signage inside the 60,000-capacity stadium bowl. Partnership includes community initiatives centered on Monroe Carell Jr. Children's Hospital and youth sports. Replaces Ascension Saint Thomas, which ended its partnership effective March 1, 2026.",
     "financials": {
-      "fiscalYear": "FY2025 (ended June 30, 2025)",
-      "totalRevenue": 25300000000,
-      "operatingIncome": -491000000,
-      "operatingMarginPct": -1.9,
-      "nonOperatingRevenue": 1409000000,
-      "totalAssets": 39860000000,
-      "totalLiabilities": null,
-      "source": "Ascension Consolidated Financial Statements Q4 FY2025; Ascension Q4 FY25 news release September 2025; FierceHealthcare; Becker's Hospital Review. Non-operating revenue derived from reported net income of $918M minus operating loss of -$491M. Figures are for consolidated Ascension system (Ascension Health Alliance, EIN 45-3358926). Same health system as Indianapolis Colts dossier."
+      "fiscalYear": "FY2024 (ended June 30, 2024)",
+      "totalRevenue": 7706035528,
+      "operatingIncome": 168300000,
+      "operatingMarginPct": 2.2,
+      "nonOperatingRevenue": 152500000,
+      "netIncome": 320800000,
+      "totalAssets": 6568033000,
+      "totalLiabilities": 4106297000,
+      "netAssets": 2461736000,
+      "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 35-2528741); VUMC Continuing Disclosure Report; Becker's Hospital Review (operating income and margin from disclosure report data). Total revenue of $7,706,035,528 per Form 990. Operating income of $168.3M on ~$7.6B operating revenue per disclosure report (2.2% margin), up from $51.7M (0.8% margin) in FY2023. Net income of $320.8M includes $67M Medicare 340B settlement and $83M in one-time state-directed payments. FY2025 interim (nine months ended March 31, 2025): operating revenue $6,192M (+11% YoY), income from operations $120.3M, operating margin 1.9%, total assets $7,241,679,000. VUMC separated from Vanderbilt University in April 2016 as an independent nonprofit; these figures are VUMC-only, not the university."
     },
     "balanceSheetWealth": {
-      "investmentPortfolio": 19450000000,
-      "investmentPortfolioSource": "Ascension Consolidated Financial Statements Q4 FY2025 — long-term investments of $19,449,512 thousand as of June 30, 2025; plus short-term investments of $43,974 thousand",
+      "investmentPortfolio": 1073228000,
+      "investmentPortfolioSource": "VUMC Consolidated Balance Sheet as of June 30, 2024 — noncurrent investments of $1,073,228 thousand, up from $932,952 thousand at June 30, 2023. Separately, noncurrent investments limited as to use totaled $209,718 thousand. Total noncurrent investment-related assets approximately $1.28B. FY2023 audited statements noted VUMC has $2,447.6M of financial assets available within one year, including unrestricted investments of $1,037.9M.",
       "realEstateValue": null,
       "realEstateSource": null,
       "boardDesignatedFunds": null,
-      "endowmentFunds": null,
-      "notes": "Substantially all cash and investments are managed by Ascension Investment Management (AIM), a wholly owned subsidiary. More than $1B allocated to alternative investments including private equity and private credit. As of December 31, 2024 (mid-year FY2025), net unrestricted cash and investments were $15B. System had 228 days cash on hand as of June 30, 2025. Ascension manages assets using an endowment-style approach. Ascension Saint Thomas operates 11 hospital campuses in Tennessee across a 45-county area."
+      "endowmentFunds": 111400000,
+      "endowmentSource": "VUMC permanent endowment funds of $111.4M per state disclosure note. This is VUMC's own endowment, separate from Vanderbilt University's ~$10.9B endowment (FY2025). The university and medical center maintain separate balance sheets since the April 2016 separation.",
+      "notes": "VUMC manages all investments, including endowments, in various investment pools. Net assets without donor restrictions were $2,117,322,000 and net assets with donor restrictions were $344,414,000 as of June 30, 2024. Total net assets grew from $2,113,555,000 (FY2023) to $2,461,736,000 (FY2024). As of March 31, 2025 (interim), total assets had grown to $7,241,679,000, driven in part by the $600M Tennova Healthcare-Clarksville acquisition. VUMC's investment portfolio is modest compared to the largest health systems but represents substantial accumulated nonprofit wealth for a single-market academic medical center."
     },
     "bondDebt": {
-      "totalOutstanding": 5600000000,
-      "fiscalYear": "Q3 FY2025 (as of March 31, 2025)",
-      "largestIssue": "December 2025 tax-exempt revenue bonds",
-      "largestIssueProceeds": "$2.5 billion — issued through authorities in Indiana, Tennessee, and Texas for capital projects and refunding of previously issued tax-exempt bonds; separate $2.1B taxable bond issuance in November 2025 used to defease remaining tax-exempt subordinate bonds",
-      "issuerAuthority": "Multiple state health facility finance authorities (Indiana, Tennessee, Texas)",
-      "source": "Ascension Consolidated Financial Statements Q3 FY2025 ($5.6B long-term debt as of March 31, 2025); Fitch Ratings September 2025 (downgrade affected $5.5B in bonds); Bond Buyer; Fitch expects Ascension to issue up to $4.2B in additional debt. Tennessee is one of the issuing states for Ascension's tax-exempt revenue bonds."
+      "totalOutstanding": null,
+      "fiscalYear": null,
+      "largestIssue": "Series 2026 tax-exempt and taxable revenue bonds",
+      "largestIssueProceeds": "$1,094,555,000 — tax-exempt and taxable offering for new money and refunding per Piper Sandler Healthcare Market Update April 6, 2026",
+      "issuerAuthority": "Health and Educational Facilities Board of the Metropolitan Government of Nashville and Davidson County",
+      "outstandingSeries": "Series 2016A, 2016B (taxable), 2017A, 2021B, 2022B, 2024A, 2026-B per VUMC March 31, 2025 disclosure report and SEC fund filings",
+      "recentIssuances": [
+        "October 2024: HEFB approved up to $450,000,000 in Series 2024 tax-exempt revenue bonds for VUMC",
+        "2025: HEFB approved up to $194,000,000 in tax-exempt bonds for Vanderbilt LifeFlight aircraft and refunding of existing debt",
+        "2026: $1,094,555,000 tax-exempt and taxable offering (new money and refunding) per Piper Sandler; Series 2026-B at 5.00% maturing 7/1/2043 per SEC fund filing"
+      ],
+      "source": "VUMC Continuing Disclosure Report (March 31, 2025); Nashville HEFB meeting minutes (October 2024 and May 2025); Piper Sandler Weekly Healthcare Market Update April 6, 2026; SEC NPORT-P filing (Tax Exempt Bond Fund of America). Moody's affirmed A3 rating on approximately $926M of outstanding VUMC bonds circa 2017; outstanding principal has grown significantly since then through multiple new series. Exact total outstanding not confirmed from available search results; VUMC's audited financial statements contain the definitive figure."
     },
     "relatedOrganizations": {
       "captiveInsurance": null,
       "insuranceArmRevenue": null,
       "physicianGroupEntity": null,
-      "foundationEntity": "Ascension Foundation",
+      "foundationEntity": null,
       "otherRelatedEntities": [
-        "Ascension Saint Thomas (Nashville, TN — local operating division; 11 hospital campuses across 45 Tennessee counties)",
-        "Ascension Investment Management (AIM) — manages substantially all system cash and investments",
-        "Ascension Care Management — insurance holdings company",
-        "Ascension Capital",
-        "Ascension Ventures",
-        "Ascension Holdings",
-        "Ascension Technologies — healthcare IT services",
-        "Ascension Leadership Academy",
-        "Ascension Rx — pharmacy operations including 340B and specialty pharmacy",
-        "Ascension St. Vincent (Indianapolis, IN — Colts partner)"
+        "Vanderbilt University (Nashville, TN — separate nonprofit since April 2016; VUMC clinicians serve as faculty at VU School of Medicine and School of Nursing; VU endowment ~$10.9B is separate from VUMC)",
+        "Monroe Carell Jr. Children's Hospital at Vanderbilt (pediatric hospital within VUMC system)",
+        "Vanderbilt-Ingram Cancer Center (NCI-designated comprehensive cancer center)",
+        "Vanderbilt Psychiatric Hospital",
+        "Vanderbilt Stallworth Rehabilitation Hospital",
+        "Vanderbilt Wilson County Hospital (acquired 2019 from CHS/Tennova Healthcare-Lebanon)",
+        "Vanderbilt Bedford Hospital (acquired 2021 from CHS/Tennova Healthcare-Shelbyville)",
+        "Vanderbilt Tullahoma-Harton Hospital (acquired 2021 from CHS/Tennova Healthcare-Tullahoma)",
+        "Vanderbilt Clarksville Hospital (acquired February 2026 from CHS/Tennova Healthcare-Clarksville, $600M, 270-bed)",
+        "Vanderbilt Emergency Sango (freestanding ER, acquired with Clarksville)",
+        "Vanderbilt LifeFlight (air medical transport program; HEFB approved up to $194M in bonds for aircraft)",
+        "Vanderbilt Health Affiliated Network (clinician network covering 172 counties)",
+        "Vanderbilt Health Football Center (renamed training facility per Titans partnership)"
       ],
       "relatedPartyTransactions": null,
-      "source": "Schedule R; Ascension Consolidated Financial Statements; Ascension corporate website; Missouri subsidiary list includes 40+ entities. Same parent system as Indianapolis Colts dossier."
+      "source": "VUMC corporate website; VUMC news releases; Wikipedia; Vanderbilt University financial reports. Schedule R details not extracted from Form 990 filing. VUMC operates hospitals, clinics, physician practices and affiliates covering 172 counties per VUMC corporate materials."
     },
     "executiveComp": {
-      "fiscalYear": "FY2023 (ended June 30, 2023)",
-      "ceoName": "Joseph R. Impicciche",
+      "fiscalYear": "FY2024 (ended June 30, 2024)",
+      "ceoName": "Jeffrey R. Balser, MD, PhD",
+      "ceoTitle": "President and CEO, Vanderbilt Health; Dean, Vanderbilt University School of Medicine",
       "ceoBaseComp": null,
       "ceoBonusIncentive": null,
       "ceoDeferredComp": null,
-      "ceoOtherComp": 61076,
-      "ceoTotalComp": 9118708,
-      "topOfficersTotalComp": null,
+      "ceoReportableComp": 7614754,
+      "ceoOtherComp": 1528353,
+      "ceoTotalComp": 9143107,
+      "otherHighlyCompensatedOfficers": [
+        {
+          "name": "C. Wright Pinson, MBA, MD",
+          "title": "Deputy CEO and Chief Health System Officer",
+          "reportableComp": 3843576,
+          "otherComp": 914759,
+          "totalComp": 4758335
+        }
+      ],
       "numberOfOfficersReported": null,
       "perks": [
-        "First class or charter travel",
-        "Tax indemnification and gross-up payments"
+        "First class or charter travel"
       ],
       "splitDollarInsurance": null,
-      "source": "Form 990 FY2023 via ProPublica Nonprofit Explorer and Paddock Post (EIN 45-3358926). Other top executives FY2023: Craig Cordola (EVP/COO) $5,304,408; Eduardo Conrado (Former Board Member) $5,073,352; Elizabeth Foshage (EVP/CFO) $3,981,721; Karen Springer (EVP/CNE) $3,921,283. FY2024 filing shows CEO reportable compensation of $9,963,725 plus $2,317,426 in other compensation ($12,281,151 total). Five-year CEO total (FY2020-2024): approximately $48M."
+      "ceoTransition": "Balser retiring December 31, 2026 after nearly two decades. David C. Miller, MD, MPH (CEO of Michigan Medicine and EVP for Medical Affairs at University of Michigan) chosen as successor effective January 1, 2027.",
+      "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 35-2528741). Balser FY2024 reportable compensation $7,614,754 plus $1,528,353 in other compensation ($9,143,107 total). FY2023: $5,488,022 reportable plus $1,439,525 other ($6,927,547 total). FY2022: $5,461,441. FY2021: $4,244,426. FY2020: $2,791,658. Pinson FY2024: $3,843,576 reportable plus $914,759 other ($4,758,335 total). FY2023: $3,383,341 reportable plus $757,224 other ($4,140,565 total). Schedule J indicates first class or charter travel for key employees. Retirement announced March 12, 2026; successor announced July 15, 2026."
     },
     "communityBenefit": {
-      "claimedAmount": 2100000000,
-      "claimedPctOfRevenue": 7.4,
+      "claimedAmount": 952000000,
+      "claimedPctOfRevenue": 12.4,
       "charityCareClaimedAmount": null,
       "charityCareCostAdjusted": null,
       "chargemasterMarkupRatio": null,
       "stateAveragePct": null,
       "belowStateAverage": null,
       "costToChargeRatio": null,
-      "source": "Ascension community benefit webpage and Ascension Consolidated Financial Statements FY2024. $2.1B in Care of Persons Living in Poverty and Other Community Benefit Programs for FY2024 (ended June 30, 2024). With unpaid costs of Medicare included, total reaches $4.3B. Ascension claims this is four times what it would have paid in taxes as a for-profit company. Percentage calculated against FY2024 total operating revenue of $28.55B. System-wide figure; Ascension Saint Thomas reported $154M in Tennessee community benefit in FY2021 but current Tennessee-specific figure not verified."
+      "source": "VUMC news release (March 26, 2025): $952 million in charity care, community benefits and other unrecovered costs for FY2024. Includes costs directly supporting patients through financial assistance, unreimbursed TennCare/Medicaid costs, community health improvement grants, and investments in medical research and education. Broader definition claims more than $1B in total community benefit and investment. Percentage calculated against FY2024 Form 990 total revenue of $7,706,035,528. Combined Vanderbilt University and VUMC economic impact on Nashville and Tennessee: $22.13B from 2019-2024. Schedule H community benefit breakdown not extracted from Form 990 filing."
     },
     "taxAdvantage": {
       "totalEstimatedAnnual": null,
@@ -4727,132 +4733,111 @@
       "salesTaxForegone": null,
       "taxExemptBondInterestSubsidy": null,
       "program340BEstimatedBenefit": null,
-      "notes": "Ascension claims its $2.1B community benefit is four times what it would have paid in taxes as a for-profit company, implying estimated annual tax advantage of approximately $525M. Operates across 15 states and the District of Columbia with significant tax-exempt property holdings. Tennessee has no state income tax on wages. Ascension Saint Thomas operates 11 hospital campuses across Tennessee, all property-tax-exempt. Tennessee is one of the issuing states for Ascension's tax-exempt revenue bonds."
+      "notes": "VUMC is a 501(c)(3) tax-exempt organization (EIN 35-2528741, tax-exempt since 2015 following April 2016 separation from Vanderbilt University). Tennessee has no state income tax on wages, but VUMC benefits from federal income tax exemption, property tax exemption on its Nashville/Davidson County campus and satellite facilities, and the ability to issue tax-exempt revenue bonds through the HEFB. Multiple bond series outstanding through Nashville's Health and Educational Facilities Board, with over $1B in new issuance in 2026 alone. No PILOT (payment in lieu of taxes) agreement found in Nashville Metro Council records."
     },
     "layoffs": [
       {
-        "date": "2023-01",
+        "date": "2025-05",
         "count": null,
-        "notes": "Ascension confirmed layoffs of employees in Texas; primarily nonclinical support roles; declined to specify number of positions affected",
-        "source": "Becker's Hospital Review; KXAN Austin"
+        "notes": "Initial round of cost reductions: hiring freeze for most research and administrative positions, some positions eliminated. Part of $250M cost-cutting effort in response to federal funding reductions.",
+        "source": "WPLN Nashville; Becker's Hospital Review"
       },
       {
-        "date": "2024",
-        "count": null,
-        "notes": "Layoffs and hiring freeze triggered by May 2024 ransomware cyberattack and resulting $1.8B operating loss; number unspecified; New York Times alleged system-wide staffing crisis leading to complaints about possible preventable deaths. No Tennessee-specific WARN notices found for Ascension in 2024.",
-        "source": "FierceHealthcare; Becker's Hospital Review; New York Times; Tennessee WARN notice tracker"
-      },
-      {
-        "date": "2025",
-        "count": 500,
-        "notes": "Approximately 500 employees laid off system-wide with reports suggesting total could climb to 1,000; affected locations include Michigan (Ascension St. John), Illinois, Kansas, and Oklahoma. No Tennessee-specific layoffs confirmed in search results.",
-        "source": "Crain's Detroit Business; FierceHealthcare; Lime Entrepreneur"
+        "date": "2025-06-20",
+        "count": 650,
+        "notes": "Up to 650 employees laid off, largely research, administration and support roles (less than 2% of total workforce). Tennessee WARN notice filed for 615 workers with effective date of April 8, 2025. Combined with earlier cuts as part of $300M+ operating cost reduction. Driven by federal budgetary actions related to government-sponsored research and patient care, including proposed NIH funding cuts and Medicaid changes. Clinical positions largely unaffected. Laid-off employees received severance packages and outplacement assistance.",
+        "source": "FierceHealthcare; WPLN Nashville; Tennessee Lookout; WSMV Nashville; Nashville Banner; HealthLeaders Media; Tennessee Department of Labor WARN notice tracker (615 workers); Kadoa layoff tracker"
       }
     ],
-    "facilityClosures": [
-      {
-        "date": "2022-2025",
-        "facility": "System-wide hospital portfolio reduction",
-        "notes": "Reduced from approximately 139 hospitals to 90 wholly owned or consolidated hospitals through strategic divestitures as part of post-pandemic operational transformation",
-        "source": "Becker's Hospital Review; FierceHealthcare; Becker's ASC Review"
-      },
-      {
-        "date": "2024-02",
-        "facility": "Our Lady of Lourdes Memorial Hospital (Binghamton, NY)",
-        "notes": "Sold to the Guthrie Clinic",
-        "source": "Becker's Hospital Review"
-      },
-      {
-        "date": "2024",
-        "facility": "10 Ascension Michigan hospitals",
-        "notes": "Joint venture with Henry Ford Health; hospitals folded into partnership",
-        "source": "Becker's Hospital Review"
-      },
-      {
-        "date": "2025-06",
-        "facility": "9 Illinois/Chicago-area hospitals and 4 senior living facilities",
-        "notes": "Sold to Prime Healthcare Services; includes Ascension Holy Family, Ascension Mercy, Ascension Resurrection, Ascension St. Francis, Ascension St. Joseph (Joliet), Ascension St. Joseph (Elgin), Ascension St. Mary (Kankakee), Ascension St. Mary (Chicago), Ascension St. Elizabeth",
-        "source": "Religion News Service; Becker's Hospital Review"
-      },
-      {
-        "date": "2025-07",
-        "facility": "4 Southwest Michigan hospitals (Ascension Borgess system)",
-        "notes": "Sold to Beacon Health System; Kalamazoo, Allegan, Plainwell, and Dowagiac facilities",
-        "source": "Becker's Hospital Review"
-      }
-    ],
+    "facilityClosures": [],
     "creditRating": {
-      "fitch": "AA",
+      "fitch": null,
       "fitchOutlook": null,
-      "fitchDate": "2025-09",
-      "sp": "AA",
-      "spOutlook": "Stable",
-      "spDate": "2025-09",
-      "moodys": "Aa3",
+      "fitchDate": null,
+      "sp": "A",
+      "spOutlook": null,
+      "spDate": "2026-04",
+      "moodys": "A3",
       "moodysOutlook": "Stable",
-      "moodysDate": "2026-10",
+      "moodysDate": null,
       "keyRiskFactors": [
-        "Persistent operating losses — $1.8B loss in FY2024, $491M loss in FY2025, $120M loss through FY2026 Q3",
-        "Massive hospital divestiture program reducing portfolio from 139 to 90 facilities since 2022",
-        "May 2024 ransomware attack exposing 5.4M patient records and contributing to $1.3B in financial impact",
-        "Fitch expects up to $4.2B in additional debt issuance, constraining cash-to-debt ratio",
-        "$3.9B AmSurg acquisition adding significant leverage",
-        "Fitch downgraded from AA+ to AA in September 2025 citing inadequate profitability"
-      ]
+        "Historically thin operating margins — 2.2% in FY2024, improved from 0.8% in FY2023 but partly driven by one-time items ($67M Medicare 340B settlement + $83M state-directed payments)",
+        "Heavy reliance on federal funding — $300M+ in budget cuts triggered by proposed NIH and Medicaid reductions, leading to 650 layoffs in 2025",
+        "Significant debt growth — multiple new bond series since 2016 separation, including $1.09B offering in 2026 and $450M Series 2024A",
+        "$600M acquisition of Tennova Healthcare-Clarksville adds integration risk and leverage",
+        "Single-market concentration in Middle Tennessee unlike diversified multi-state systems",
+        "CEO transition underway — Balser retiring December 2026, successor from University of Michigan starting January 2027"
+      ],
+      "source": "Moody's A3 with Stable outlook affirmed on approximately $926M of VUMC outstanding bonds (Becker's Hospital Review, circa 2017). S&P 'A' rating inferred from Piper Sandler Weekly Healthcare Market Update April 6, 2026 listing VUMC offering as 'NR/A/A' (interpreted as not rated by one agency / A by S&P / A by another). Current ratings may differ; VUMC's standalone credit profile is significantly lower than Vanderbilt University's ratings (Fitch AAA, S&P AAA, Moody's Aa1) because the entities separated in 2016. No 2024-2025 rating actions found for VUMC specifically in search results."
     },
     "program340B": {
-      "contractPharmacies": null,
-      "outOfStatePharmaciesPct": null,
+      "contractPharmacies": 259,
+      "outOfStatePharmaciesPct": 24,
       "dshStatus": true,
       "estimatedAnnualBenefit": null,
-      "tennesseeEntities": [
-        "Saint Thomas River Park Hospital (McMinnville) — DSH, 340B ID DSH440151, active, participation since 2017",
-        "Saint Thomas Hickman Hospital (Centerville) — Critical Access Hospital, 340B ID CAH441300-00, active, participation since 2011"
-      ],
-      "notes": "Ascension Rx (Michigan-based Ascension pharmacy subsidiary) previously held contract pharmacy arrangements with Tennessee 340B entities but some were terminated. Pharmaceutical companies have imposed restrictions forcing Ascension hospitals to choose one contract pharmacy within a defined radius; many specialty pharmacies fall outside the typical 40-mile limit."
+      "fairShareDeficit": -157000000,
+      "tennesseeEntities": null,
+      "notes": "Pioneer Institute Tennessee report lists VUMC with 259 contract pharmacies, of which 62 (24%) are located outside Tennessee. A 2021 InvestigateTV/KHN investigation reported VUMC grew from zero contract pharmacies in 2010 to approximately 300, making it one of the top hospitals nationally for 340B contract pharmacy growth after federal rules changed. Contract pharmacies include Walgreens, CVS, Accredo, and others stretching from Tennessee to California. VUMC describes these as 'Multiple Contract Pharmacies' serving VUMC patients. Revenue from the 340B program supports medication assistance, home infusion medications, and a student-run health clinic pharmacy program. In a 2021 amicus brief, VUMC reported losing $12.4M in 340B savings from a Medicare reimbursement cut. FDLI (Food and Drug Law Institute) article lists VUMC with a fair share deficit of -$157M based on author's methodology. In FY2024, VUMC received a $67M Medicare 340B settlement payment.",
+      "source": "Pioneer Institute Tennessee 340B report (2025); InvestigateTV/KHN (2021); VUMC Terminology Document (January 2025); FDLI (2022); Bangor Daily News; VUMC amicus brief (2021); 340breform.org"
     },
     "acquisitions": [
       {
-        "year": 2015,
-        "entity": "4 Middle Tennessee hospitals (from Capella Healthcare joint venture)",
-        "type": "Nonprofit",
-        "hospitals": 4,
-        "notes": "Acquired full ownership of hospitals in McMinnville, Smithville, Sparta, and Woodbury; previously co-owned with Capella Healthcare; renamed under the Saint Thomas brand",
-        "source": "Healthcare Finance News; Catholic Health World"
+        "year": 2019,
+        "entity": "Tennova Healthcare-Lebanon (from Community Health Systems)",
+        "type": "For-Profit (CHS subsidiary)",
+        "hospitals": 1,
+        "notes": "Now Vanderbilt Wilson County Hospital. Before this acquisition, the Vanderbilt Health system included four hospitals and 137 adult and pediatric clinics.",
+        "source": "Newswise; VUMC news release"
       },
       {
-        "year": 2025,
-        "entity": "AmSurg",
-        "type": "For-Profit (KKR portfolio company)",
-        "hospitals": null,
-        "notes": "Acquired for $3.9B; expanded ambulatory surgery center footprint from 58 to 300+ centers across 34 states; FTC required divestiture of 6 facilities to Optum subsidiary SC Affiliates; establishes Ascension as third-largest ASC platform nationally",
-        "source": "Becker's Hospital Review; FierceHealthcare; Bloomberg; Bond Buyer"
+        "year": 2021,
+        "entity": "Tennova Healthcare-Shelbyville and Tennova Healthcare-Tullahoma (from Community Health Systems)",
+        "type": "For-Profit (CHS subsidiary)",
+        "hospitals": 2,
+        "notes": "Shelbyville (60-bed) renamed Vanderbilt Bedford Hospital; Tullahoma-Harton (135-bed) renamed Vanderbilt Tullahoma-Harton Hospital. Same transaction included acquisition of minority ownership interest in Tennova Healthcare-Clarksville. Jones Day advised on the deal.",
+        "source": "VUMC news release January 1, 2021; Jones Day; Tullahoma News"
+      },
+      {
+        "year": 2026,
+        "entity": "Tennova Healthcare-Clarksville (from Community Health Systems)",
+        "type": "For-Profit (CHS subsidiary)",
+        "hospitals": 1,
+        "acquisitionPrice": 600000000,
+        "notes": "270-bed hospital plus freestanding ER (Tennova ER-Sango) and related physician clinics and outpatient services. Announced October 31, 2025; closed February 2, 2026. Renamed Vanderbilt Clarksville Hospital and Vanderbilt Emergency Sango. VUMC previously held minority ownership interest since 2021. $600M deal reported by Chief Healthcare Executive.",
+        "source": "VUMC news release February 2, 2026; Chief Healthcare Executive November 5, 2025; ClarksvilleNow"
       }
     ],
     "lobbying": {
-      "amount2024": 2160000,
+      "amount2024": null,
       "politicalContributions2024": null,
-      "source": "OpenSecrets via JAMA Health Forum study (2026); Ascension spent $2.16M on federal lobbying in 2024, ranking among the top health system lobbying spenders alongside Advocate ($2.42M) and Tenet ($2.2M)"
+      "source": "VUMC maintains an Office of Federal Relations in Washington, D.C. led by Vice President Alex Currie, who is registered with the U.S. Senate and House of Representatives to lobby on behalf of VUMC. VUMC policy requires all direct lobbying by employees to be documented and reported. Specific 2024 federal lobbying expenditure not confirmed from available search results; check OpenSecrets or Senate LDA database for quarterly filings under 'Vanderbilt University Medical Center.'"
     },
     "legalIssues": [
       {
-        "date": "2024-05 — ongoing",
-        "type": "Cybersecurity Incident",
-        "description": "Ransomware cyberattack compromised personal and health information of 5.4 million individuals; forced electronic health records offline across 19 states including Tennessee; facilities diverted emergency cases to nearby hospitals; class action lawsuit filed alleging failure to implement essential security measures; plaintiffs allege imminent risk of identity theft, fraudulent charges, delayed care, and protected health information posted to dark web",
-        "status": "Lawsuit moving forward as of October 2025; one of the largest healthcare data breaches in U.S. history",
-        "source": "HealthExec; Healthcare Dive; CBS News Detroit; Class Law Group"
+        "date": "2023-07 — ongoing",
+        "type": "Privacy / HIPAA Class Action",
+        "description": "Two patients filed a class-action lawsuit against VUMC alleging the hospital disclosed protected health information of 106 transgender patients to the Tennessee Attorney General's office without adequate safeguards. Plaintiffs allege VUMC violated HIPAA and failed to protect personal health information. VUMC maintains it was legally obligated to comply with the AG's investigative subpoena. The AG's office stated its investigation focused on medical billing fraud related to the hospital's transgender care program. A separate federal civil rights investigation was opened in August 2023.",
+        "status": "In June 2024, a U.S. Senate Finance Committee report concluded VUMC did not do enough to protect the privacy of its transgender patients. Case status as of October 2026 not confirmed from available search results.",
+        "source": "WPLN Nashville; Becker's Hospital Review; HIPAA Journal; KFF Health News; NewsChannel 5 Nashville; U.S. Senate Finance Committee"
+      },
+      {
+        "date": "2017",
+        "type": "False Claims Act Settlement",
+        "description": "VUMC paid $6.5 million to resolve a whistleblower False Claims Act lawsuit alleging improper billing for attending physician services and unnecessary anesthesia. The lawsuit was filed under seal in 2011 by three former VUMC anesthesiologists.",
+        "status": "Settled. VUMC stated the settlement was to avoid the cost of litigation and strongly disputed the allegations.",
+        "source": "Becker's Hospital Review; The Edu Ledger"
       }
     ],
     "ratios": {
-      "investmentsToOperatingIncome": null,
-      "investmentsToOperatingIncomeInterpretation": "Ratio undefined — Ascension reported a $491M operating loss in FY2025. However, the system holds $19.4B in long-term investments (39.6x the magnitude of the operating loss), indicating massive accumulated wealth persisting through sustained operating losses.",
-      "bondDebtToCommunityBenefit": 2.67,
-      "bondDebtToCommunityBenefitInterpretation": "Ascension carries $2.67 in tax-exempt bond debt for every $1 it claims in community benefit ($5.6B debt vs $2.1B community benefit)",
+      "investmentsToOperatingIncome": 6.4,
+      "investmentsToOperatingIncomeInterpretation": "VUMC holds $6.38 in noncurrent investments for every $1 of operating income ($1,073,228,000 in noncurrent investments vs $168,300,000 operating income in FY2024). Including investments limited as to use ($209,718,000), the ratio rises to 7.6x. This understates total investment wealth because it excludes short-term and current investments.",
+      "bondDebtToCommunityBenefit": null,
+      "bondDebtToCommunityBenefitInterpretation": "Total outstanding bond debt not confirmed from available search results. VUMC has issued multiple bond series through the Nashville HEFB since 2016 and completed a $1.09B offering in 2026.",
       "charityCarePctVsStateAvg": null,
-      "charityCareVsStateInterpretation": "State average not verified; charity care component of Ascension's $2.1B total community benefit not separately available from search results"
+      "charityCareVsStateInterpretation": "State average not verified; charity care component of VUMC's $952M total community benefit not separately confirmed from search results"
     },
-    "accusation": "Ascension held $19.4 billion in long-term investments atop $39.9 billion in total assets while posting a $491 million operating loss in FY2025, carrying $5.6 billion in tax-exempt bond debt issued in part through Tennessee authorities, paying its CEO $9.1 million, divesting nearly 50 hospitals, cutting hundreds of jobs, and suffering a ransomware attack that exposed 5.4 million patient records including those at Ascension Saint Thomas facilities in Nashville -- yet spent years as the Tennessee Titans' official healthcare partner with naming rights on the team's training facility (Ascension Saint Thomas Sports Park) before Ascension itself ended the relationship effective March 1, 2026, all while claiming just $2.1 billion in community benefit system-wide on $25.3 billion in revenue and operating 11 tax-exempt hospital campuses across Tennessee.",
-    "infographicPrompt": "Rojas Report brand infographic for Ascension. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'ASCENSION'. Subhead cream Source Sans Pro 600: 'Tennessee Titans — Official Healthcare Partner (Former)'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $25.3B (FY2025)'. Block 2 — 'CEO Pay: $9.1M (Impicciche)'. Block 3 — 'Operating Margin: -1.9%'. Block 4 — 'Investment Portfolio: $19.4B'. Single large orange callout number '$19.4B' above headline with Cream 'in long-term investments' below in italic. Bottom line in Cream Source Sans Pro 600: 'Carries $5.6B in tax-exempt bond debt. Divested ~50 hospitals since 2022. 5.4M patients exposed in 2024 data breach. Ended Titans partnership March 2026. 11 Tennessee hospital campuses.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Ascension Consolidated Financial Statements FY2025 · Form 990 FY2023 · Fitch Ratings · Bond Buyer · Paul Kuharsky · WSMV Nashville.'"
+    "accusation": "Vanderbilt Health held $6.6 billion in total assets and $2.5 billion in net assets as of June 30, 2024, including $1.07 billion in noncurrent investments, while paying CEO Jeff Balser $9.1 million in total compensation, operating 259 contract pharmacies across its 340B drug discount network with 24% located outside Tennessee, claiming $952 million in community benefit on $7.7 billion in total revenue, laying off up to 650 employees in 2025 to cut $300 million in costs after federal funding reductions, spending $600 million to acquire a for-profit hospital from Community Health Systems, and issuing over $1 billion in new tax-exempt and taxable revenue bonds through Nashville's Health and Educational Facilities Board in 2026 alone -- then signing a multiyear deal as the Tennessee Titans' Official Healthcare Provider with naming rights on the team's training facility (Vanderbilt Health Football Center) and a branded children's hospital family zone in the new $2.1 billion Nissan Stadium, all while operating as a tax-exempt academic medical center that turned over 106 transgender patients' medical records to the Tennessee Attorney General, triggering a class-action privacy lawsuit and a U.S. Senate investigation, and whose outgoing CEO collected more than $35 million in total compensation over the five most recent reported fiscal years.",
+    "infographicPrompt": "Rojas Report brand infographic for Vanderbilt Health. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'VANDERBILT HEALTH'. Subhead cream Source Sans Pro 600: 'Tennessee Titans — Official Healthcare Provider'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $7.7B (FY2024)'. Block 2 — 'CEO Pay: $9.1M (Balser)'. Block 3 — 'Operating Margin: 2.2%'. Block 4 — 'Total Assets: $6.6B'. Single large orange callout number '$6.6B' above headline with Cream 'in total assets' below in italic. Bottom line in Cream Source Sans Pro 600: '$1.07B in noncurrent investments. $952M claimed community benefit. 259 contract pharmacies (24% out of state). 650 laid off in 2025. $600M Clarksville hospital acquisition. $1.09B bond offering in 2026. CEO retiring after ~$35M in five-year pay.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'VUMC Form 990 FY2024 · VUMC Disclosure Reports · Becker's Hospital Review · ProPublica Nonprofit Explorer · Pioneer Institute · Piper Sandler · HEFB Nashville · VUMC News.'"
   },
   {
     "team": "Washington Commanders",
@@ -4861,15 +4846,49 @@
     "city": "Landover",
     "state": "Maryland",
     "healthSystem": "Inova Health System",
+    "healthSystemNote": "Inova terminated its comprehensive 'Official Health System' partnership in April 2021, approximately five years into a 10-year deal. The Commanders have not named a replacement comprehensive healthcare partner. Instead, the team has multiple category-specific healthcare partnerships: OrthoVirginia (Official Orthopedic and Sports Medicine Partner, training center naming rights, 10-year deal announced Sept 2022), VHC Health (Official Women's Health Partner, announced Oct 2023), Children's National Hospital (Proud Pediatric Partner, multi-year deal announced Oct 2023), and Patient First (Proud Urgent Care Partner, announced 2026). None holds the 'Official Health System' or 'Official Healthcare Partner' title Inova held. OrthoVirginia is a for-profit physician-owned practice. VHC Health and Children's National Hospital are 501(c)(3) nonprofit hospitals but hold only category-specific titles.",
     "ein": "54-1760205",
     "nonprofitType": "501c3",
     "dealType": [
-      "Official Healthcare Partner"
+      "Former Official Healthcare Partner"
     ],
     "dealAnnounced": "2017",
     "dealTermsDisclosed": false,
     "dealEndDate": "2021-04",
-    "dealNotes": "10-year agreement announced 2017 per Washington Post; financial terms not disclosed. Inova ended partnership in April 2021, approximately 5 years early, citing decision to focus on orthopedic and musculoskeletal growth. Sponsorship as Official Health System continued through 2021 season. Current Commanders health partners include VHC Health (women's health, Oct 2023) and OrthoVirginia (orthopedic/sports medicine, Sept 2022).",
+    "dealNotes": "10-year agreement announced 2017 per Washington Post; financial terms not disclosed. Inova ended partnership in April 2021, approximately 5 years early, citing decision to focus on orthopedic and musculoskeletal growth. Inova's April 2021 press release stated: 'Inova has made the decision to discontinue its medical team's role as the team physicians for the Washington Football Team.' Sponsorship as Official Health System continued through end of 2021 season. The deal had included naming rights for the practice facility (Inova Sports Performance Center at Redskins Park). Inova was one of several sponsors to exit during the team's workplace misconduct investigations under former owner Dan Snyder.",
+    "currentCategoryPartners": [
+      {
+        "name": "OrthoVirginia",
+        "title": "Official Orthopedic and Sports Medicine Partner",
+        "announced": "2022-09",
+        "dealLength": "10 years",
+        "namingRights": "OrthoVirginia Training Center at Commanders Park",
+        "type": "For-profit physician-owned practice",
+        "notes": "Also provides medical care and recovery services to the Commanders roster. Largest current healthcare-related deal by visibility (training center naming rights)."
+      },
+      {
+        "name": "VHC Health",
+        "title": "Official Women's Health Partner",
+        "announced": "2023-10",
+        "type": "501(c)(3) nonprofit hospital (formerly Virginia Hospital Center)",
+        "notes": "Partnership includes breastfeeding and lactation pods at Northwest Stadium (formerly FedExField). Launched 'Commanders Babies' program in January 2024. VHC Health also signed separate community wellness partnership with QB Jayden Daniels."
+      },
+      {
+        "name": "Children's National Hospital",
+        "title": "Proud Pediatric Partner",
+        "announced": "2023-10",
+        "dealLength": "Multi-year",
+        "type": "501(c)(3) nonprofit hospital",
+        "notes": "Partnership focused on health and wellness of children in the National Capital Region."
+      },
+      {
+        "name": "Patient First",
+        "title": "Proud Urgent Care Partner",
+        "announced": "2026",
+        "type": "For-profit urgent care chain",
+        "notes": "Partnership includes collaboration to donate AED devices to local schools."
+      }
+    ],
     "estimatedDealValue": null,
     "financials": {
       "fiscalYear": "2025",
@@ -5046,7 +5065,7 @@
       "charityCarePctVsStateAvg": null,
       "charityCareVsStateInterpretation": "Virginia state average not verified. Lown Institute identified a $123M fair share deficit (FY2020), indicating community spending $123M below the fair share value of its estimated $218M in annual tax breaks. Inova self-describes as 'one of the largest providers of uncompensated care in Virginia' but this is not independently confirmed."
     },
-    "accusation": "Inova Health System holds a $9.5 billion investment portfolio — one of the largest among U.S. nonprofit health systems and 16x its operating income — across five tax-exempt hospitals in Northern Virginia's wealthiest jurisdictions, while the Lown Institute found its community spending $123 million below the fair share value of its estimated $218 million in annual tax breaks. Inova's CEO earned $6.6 million in total compensation. The system generated $2 billion in net income in FY2025, with $1.4 billion from non-operating sources (primarily investment returns), while its 10-year partnership with the Washington Commanders (then Redskins) as official health system — terminated early in April 2021 — exemplified the use of tax-exempt nonprofit resources for professional sports marketing.",
-    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with estimated $6.5-7.5B investment portfolio (orange callout, note REQUIRES VERIFICATION). Show Lown Institute fair share deficit: $218M estimated tax benefits vs $95M community spending = $123M deficit. Note Fitch AA / Moody's Aa2 credit ratings. Show five hospital campuses across Fairfax County, Loudoun County, and City of Alexandria. Note Washington Commanders official healthcare partner. Bottom caveat: financial figures require live verification from Form 990 and EMMA audited financials."
+    "accusation": "Inova Health System sits on $11 billion in net assets and a $9.5 billion investment portfolio — one of the largest hoards of tax-exempt wealth among U.S. nonprofit hospital systems — while operating five hospitals in Northern Virginia's wealthiest jurisdictions with $14.7 billion in total assets on its balance sheet. The system generated $2 billion in net income in FY2025, with $1.4 billion flowing from investment returns rather than patient care. Its CEO earned $6.6 million. The Lown Institute found Inova's community spending fell $123 million short of the fair share value of its estimated $218 million in annual tax breaks. Inova held a 10-year 'Official Health System' partnership with the Washington Commanders (then Redskins) — a deal that used tax-exempt nonprofit resources for professional sports marketing — until the system terminated it early in April 2021, five years into the contract, amid the team's workplace misconduct scandals. The Commanders have not named a replacement comprehensive healthcare partner; they now hold category-specific deals with OrthoVirginia (a for-profit orthopedic practice with training center naming rights), VHC Health, Children's National Hospital, and Patient First.",
+    "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with verified $11.09B net assets and $9.5B investment portfolio (orange callout). Show $14.67B total assets, $3.58B total liabilities. Show $7.3B total revenue, $582.7M operating income (8.0% margin), $2.0B net income (FY2025). Highlight 16.3x investments-to-operating-income ratio. Show Lown Institute fair share deficit: $218M estimated tax benefits vs $95M community spending = $123M deficit (FY2020). Note S&P AA+ / Moody's Aa2 credit ratings. CEO compensation $6.6M. Show five hospital campuses across Fairfax County, Loudoun County, and City of Alexandria. Prominent callout: 'FORMER PARTNER — Deal terminated April 2021.' Note current category partners: OrthoVirginia (orthopedic, training center naming rights), VHC Health (women's health), Children's National (pediatric), Patient First (urgent care). 340B estimated annual benefit $115M (AIR340B estimate). Bottom note: Balance sheet as of Dec 31, 2024; investment portfolio as of March 31, 2025; operating data FY2025. Deal ended April 2021; no comprehensive healthcare partner since."
   }
 ]
