@@ -4,81 +4,76 @@
   "division": "North",
   "city": "Minneapolis",
   "state": "Minnesota",
-  "healthSystem": "M Health Fairview",
-  "ein": "41-0695635",
+  "healthSystem": "North Memorial Health",
+  "ein": "41-0729979",
   "nonprofitType": "501c3",
-  "dealType": ["Official Healthcare Partner", "Stadium Naming Rights"],
-  "dealAnnounced": null,
+  "dealType": ["Official Healthcare Partner"],
+  "dealAnnounced": "2018-09-21",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
     "fiscalYear": 2024,
-    "totalRevenue": 5326063577,
-    "operatingIncome": 51000000,
-    "operatingMarginPct": 0.6,
+    "totalRevenue": 998718346,
+    "operatingIncome": null,
+    "operatingMarginPct": null,
     "nonOperatingRevenue": null,
-    "totalAssets": 6494256080,
+    "totalAssets": 713005318,
     "totalLiabilities": null,
-    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 41-0991680; note: the EIN 41-0695635 in this file could not be verified — Fairview Health Services files under 41-0991680). Total revenue and total assets from Form 990. Operating income (~$51M) and operating margin (<1%) from Star Tribune and MedCity News reporting on FY2024 audited consolidated financial statements (first operating profit since 2018 on ~$8B audited operating revenue). Form 990 revenue ($5.33B) differs from audited GAAP operating revenue (~$8B) due to reporting methodology differences. Audited FY2025/2024 statements published April 2026 at fairview.org."
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 41-0729979, filed 2025-11-17). Total revenue $998,718,346; total expenses $1,025,460,021; net deficit -$26,741,675. Total assets $713,005,318. FY2023 990: revenue $907,596,774. Operating income not separately stated on 990; EMMA obligated group quarterly disclosure shows ~$4.5M net operating income for FY2024 and ~$29.9M operating loss for FY2025 on ~$1.29B operating revenue (obligated group scope differs from 990 filer scope). Star Tribune reported $8.5M operating loss on ~$1.1B revenue for FY2023 and $12.8M operating loss for FY2022. EMMA obligated group total assets: $921,077,000 (Dec 2024), $905,263,000 (Dec 2025)."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": 2007675000,
-    "investmentPortfolioSource": "FY2023 audited consolidated financial statements (short-term investments $466,989K + long-term investments $1,460,835K; total investments per note disclosure $2,007,675K including equity-method and NAV-measured holdings). FY2022: $1,935,426K. FY2024 investment figures require verification from FY2025/2024 audited statements published April 2026.",
+    "investmentPortfolio": 312400000,
+    "investmentPortfolioSource": "EMMA obligated group financial disclosure for year ended December 31, 2025 (prior-year comparative column: $312.4M long-term investments at Dec 2024). At Dec 2025: market value $302.3M, cost basis $198.7M, unrealized gains ~$103.6M. Portfolio managed by CAPTRUST with target allocation of 40% equities, 20% hedged equities, 35% fixed income, 5% real estate. Securities carried at fair market value with changes flowing through income statement. Cash and short-term investments: $29.5M (Dec 2024), $9.3M (Dec 2025).",
     "realEstateValue": null,
-    "realEstateSource": "Fairview operates 12 hospitals and 100+ clinics across Minnesota; real estate value not separately broken out in available filings",
+    "realEstateSource": "North Memorial operates two hospitals (Robbinsdale and Maple Grove) plus clinics across Minnesota and western Wisconsin; real estate value not separately broken out in available filings",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Total net assets FY2023: $2,057,673K (Fairview Health Services $1,973,274K + non-controlling interests $48,802K + donor-restricted $35,597K). Assets limited as to use reported separately (insurance subsidiaries $55,958K and restricted fund investments $18,687K in FY2022). Board-designated and endowment sub-totals require Form 990 Part X or note disclosure verification."
+    "notes": "North Memorial Health 2018 audited financial statements showed board-designated investments of $338.7M and total assets of $911.7M. Current board-designated and endowment sub-totals require Form 990 Part X or audited financial statement note disclosure verification. Days cash on hand fell below 125 days by end of 2025, a threshold Moody's flagged as a credit concern."
   },
 
   "bondDebt": {
-    "totalOutstanding": 1520000000,
-    "fiscalYear": 2023,
-    "largestIssue": "Series 2018A Fixed-Rate Tax-Exempt Revenue Bonds",
-    "largestIssueProceeds": 263890000,
-    "issuerAuthority": "City of Minneapolis",
-    "source": "FY2023 audited consolidated financial statements (~$1.52B total debt, down from ~$1.55B in FY2022). Key tax-exempt series: 2018A ($263.9M original proceeds via City of Minneapolis, refunding + $100M new money), 2017A (2.00-5.00%, maturing 2047, ~$176M at FY2022), 2015A (2.00-5.00%, maturing 2044, ~$95M at FY2022). Also 3.456% taxable bonds maturing Nov 2051 (~$100.9M per CBonds). Moody's cited ~$1.6B total debt at time of Baa1 downgrade. Current outstanding balances require verification from most recent EMMA continuing disclosure or FY2025/2024 audited statements."
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": "Maple Grove Hospital Healthcare Facilities Revenue Bonds, Series 2017",
+    "largestIssueProceeds": null,
+    "issuerAuthority": null,
+    "source": "EMMA obligated group disclosure (Dec 2025): Maple Grove Hospital bonds $84,400,000 (3.6% fixed, maturing 2037, 100% guaranteed by North Memorial); Maple Grove MOB bonds $8,450,000 (3.25% fixed, maturing 2030); North Memorial Series 2015 bonds $44,900,000 (3.8% fixed). North Memorial Series 2017 balance not captured from search snippets. Moody's cited combined $191M total debt outstanding as of March 2022. FY2019 audited: Maple Grove Series 2017 at $111,650,000, Series 2015 at $40,480,000. Obligated group does not include Maple Grove Hospital Corporation; Maple Grove debt is guaranteed by North Memorial. Total current outstanding requires verification from full EMMA continuing disclosure or FY2025 audited statements."
   },
 
   "relatedOrganizations": {
     "captiveInsurance": null,
     "insuranceArmRevenue": null,
-    "physicianGroupEntity": "University of Minnesota Physicians (M Physicians)",
-    "foundationEntity": "Fairview Foundation",
+    "physicianGroupEntity": null,
+    "foundationEntity": "North Memorial Foundation",
     "otherRelatedEntities": [
-      "University of Minnesota Medical Center (operated by Fairview under affiliation agreement; University of Minnesota Board of Regents voted in 2023 to restructure or end 27-year partnership)",
-      "Ebenezer (senior living and care subsidiary)",
-      "Fairview Pharmacy Services LLC",
-      "Fairview Southdale Hospital",
-      "Fairview Ridges Hospital",
-      "Fairview Lakes Medical Center",
-      "Fairview Northland Medical Center",
-      "Fairview Range Medical Center",
-      "HealthEast Care System entities (acquired 2017): St. John's Hospital, Woodwinds Health Campus, St. Joseph's Hospital, Bethesda Hospital"
+      "Maple Grove Hospital (100% owned by North Memorial since May 2022; previously 75% NMH / 25% Fairview Health Services; largest birth center in Minnesota)",
+      "Blaze Health (clinic joint venture: 51% North Memorial Health / 49% Stella, parent of Blue Cross and Blue Shield of Minnesota)",
+      "North Memorial Ambulance Services (air and ground EMS: 9 helicopters and 7 bases across Minnesota as of 2018 provider guide; Level 1 Trauma center transport)",
+      "Sanford Health (parent organization effective September 1, 2026; North Memorial became anchor of Sanford's Twin Cities region under 10-year Minnesota AG oversight agreement)"
     ],
     "relatedPartyTransactions": null,
-    "source": "Schedule R; Fairview Health Services corporate structure; Minnesota Secretary of State filings; University of Minnesota affiliation agreement"
+    "source": "North Memorial Health press releases; EMMA bond disclosures; Minnesota Secretary of State filings; North Memorial Foundation (EIN 41-1777966) files separately with ProPublica. Blaze Health structure per Blue Cross Blue Shield of Minnesota and North Memorial public descriptions. Sanford Health merger per Minnesota AG announcement August 28, 2026."
   },
 
   "executiveComp": {
     "fiscalYear": 2024,
-    "ceoName": "James Hereford",
-    "ceoBaseComp": 4854478,
+    "ceoName": "J. Kevin Croston, MD (through 2/2024) / Trevor Sawallish (CEO from 2/2024)",
+    "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": 805007,
-    "ceoTotalComp": 5659485,
+    "ceoOtherComp": null,
+    "ceoTotalComp": 3175889,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "Form 990 FY2024 Part VII via ProPublica Nonprofit Explorer (EIN 41-0991680). Reportable compensation from organization: $4,854,478; reportable from related organizations: $0; estimated other compensation: $805,007; total: $5,659,485. FY2023 total: $5,246,751 ($5,208,444 reportable + $38,307 other). FY2022 total: $3,370,758 (included ~$1.4M bonus/incentive per Star Tribune despite operating losses; board used discretion). Bonus/incentive breakdown and deferred comp not separately itemized in available 990 data; requires Schedule J verification."
+    "source": "Form 990 FY2024 Part VII via ProPublica Nonprofit Explorer (EIN 41-0729979). J. Kevin Croston, MD (CEO through 2/2024): reportable compensation $1,758,247, other compensation $10,625, total $1,768,872. Trevor Sawallish (CEO from 2/2024, previously COO from 2023): reportable compensation $1,368,361, other compensation $38,656, total $1,407,017. Combined CEO compensation for FY2024: $3,175,889. Base/bonus/deferred breakdown not separately itemized in available 990 data; requires Schedule J verification. Croston's $1.77M for approximately two months of service implies annualized compensation significantly exceeding Sawallish's rate."
   },
 
   "communityBenefit": {
-    "claimedAmount": 680000000,
+    "claimedAmount": null,
     "claimedPctOfRevenue": null,
     "charityCareClaimedAmount": null,
     "charityCareCostAdjusted": null,
@@ -86,7 +81,7 @@
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "Fairview Community Impact Report FY2024: $1.4B total community investment, of which $680M classified as community benefit (charity care, education/training, hospital-based research, community programs/services). FY2025 report: $1.6B total, $740M community benefit. Fairview notes methodology differs from Form 990 Schedule H; 990 figures may differ. Charity care sub-total and cost-adjusted amounts require Schedule H verification. Minnesota state average comparison requires Minnesota Department of Health hospital data."
+    "source": "Form 990 Schedule H filed for FY2024 (EIN 41-0729979) but specific community benefit dollar amounts not extracted in available aggregator data. North Memorial reports providing charity care, health screenings, crisis intervention, pastoral care, wellness classes, transportation services, and donated facility space. Financial assistance application available in English, Hmong, Spanish, and Russian. System pays patient service taxes including Medicaid surcharge and MinnesotaCare tax. Sanford Health merger oversight agreement (August 2026) requires maintenance of charity care, community benefit, financial assistance programs, and Medicare/Medicaid participation. Specific Schedule H Part I totals require direct 990 PDF verification."
   },
 
   "taxAdvantage": {
@@ -97,68 +92,71 @@
     "salesTaxForegone": null,
     "taxExemptBondInterestSubsidy": null,
     "program340BEstimatedBenefit": null,
-    "notes": "Fairview Health Services operates 12 hospitals and 100+ clinics as a tax-exempt nonprofit across Minnesota. Property tax exemptions span Hennepin, Ramsey, Dakota, Washington, and other Minnesota counties. Federal and state income tax exemptions, tax-exempt bond interest subsidies, and 340B program benefits all require quantification from financial statements and county assessor records."
+    "notes": "North Memorial Health operates two hospitals and clinics as a tax-exempt 501(c)(3) nonprofit in Minnesota and western Wisconsin. Property tax exemptions primarily in Hennepin County (Robbinsdale and Maple Grove campuses). Federal and state income tax exemptions, tax-exempt bond interest subsidies on revenue bonds issued through conduit authorities, and 340B program benefits all require quantification from financial statements and county assessor records."
   },
 
   "layoffs": [
     {
-      "date": "2022-09",
-      "entity": "Fairview Health Services",
-      "location": "Minnesota (system-wide)",
-      "count": 900,
-      "source": "Fairview Health Services restructuring announcement September 2022; Star Tribune; Becker's Hospital Review; layoffs were part of broader cost reduction initiative amid significant operating losses"
-    },
-    {
-      "date": "2023-11",
-      "entity": "Fairview Health Services",
-      "location": "Minnesota (system-wide)",
-      "count": 250,
-      "source": "Fairview announced elimination of 250 positions in November 2023, citing inflation, labor costs, and insurer payment rates; less than 1% of workforce; included ~50% reduction in staff chaplains at metropolitan locations and security staff cuts; MPR News, Fox 9, Becker's Hospital Review, CBS Minnesota"
+      "date": "2024-03",
+      "entity": "North Memorial Health",
+      "location": "Robbinsdale, Minnesota",
+      "count": 103,
+      "source": "Star Tribune, Becker's Hospital Review, KARE 11, TCB Magazine (March 2024). North Memorial eliminated 103 jobs and closed outpatient mental health services at flagship Robbinsdale hospital, affecting approximately 3,400 mental health patients. Also downgraded neonatal care from Level 2 special care nursery to Level 1 well newborn nursery. CEO cited rising government-sponsored plan enrollment (lower reimbursement) and Hennepin County's elimination of $22M annual subsidy. Minnesota Nurses Association condemned closures as prioritizing profit over patient care. System reported $8.5M operating loss in FY2023."
     }
   ],
 
-  "facilityClosures": [],
+  "facilityClosures": [
+    {
+      "date": "2024",
+      "facility": "North Memorial Health Hospital Outpatient Mental Health Services",
+      "location": "Robbinsdale, Minnesota",
+      "source": "Star Tribune, CBS Minnesota, Minnesota Department of Health public hearing (June 2024). Outpatient mental health programs closed; neonatal care downgraded from Level 2 to Level 1 (higher-acuity cases transferred to Maple Grove Hospital Level 3 NICU). Minnesota Department of Health held public hearing on nursery level change."
+    }
+  ],
 
   "creditRating": {
     "fitch": null,
     "fitchOutlook": null,
     "fitchDate": null,
-    "sp": "BBB+",
-    "spOutlook": "Stable",
-    "spDate": "2023-02",
-    "moodys": "Baa1",
+    "sp": null,
+    "spOutlook": null,
+    "spDate": null,
+    "moodys": "Baa2",
     "moodysOutlook": "Stable",
-    "moodysDate": "2024",
+    "moodysDate": "2023-08",
     "keyRiskFactors": [
-      "Five consecutive years of operating losses (2019-2023) totaling over $900M before first operating profit in 2024",
-      "Moody's downgraded from A3 to Baa1 (January 2023); S&P downgraded from A to BBB+ (February 2023)",
-      "Failed merger with Sanford Health collapsed in November 2023 amid opposition from University of Minnesota, employees, legislators, and community groups",
-      "University of Minnesota Board of Regents voted to restructure 27-year academic medicine partnership; new 10-year deal finalized January 2026 with M Health Fairview brand phaseout by end of 2026",
-      "Competitive Minneapolis-St. Paul healthcare market with Mayo Clinic, Allina Health, HealthPartners, and CentraCare",
-      "~$1.5B total debt outstanding with Baa1/BBB+ ratings (lowest investment-grade tier)"
+      "Consecutive operating losses: $12.8M (FY2022), $8.5M (FY2023); net deficit of $26.7M on Form 990 (FY2024); EMMA obligated group shows $29.9M operating loss for FY2025",
+      "Moody's downgrade history: A3 (2007) to Baa1 (2010) to Baa2 (August 2023); two-decade rating decline",
+      "Days cash on hand fell below 125-day threshold flagged by Moody's as credit concern (end of 2025)",
+      "CEO described system at 'fiscal breaking point' due to Medicaid/Medicare reimbursement losses concentrated at Robbinsdale Hospital",
+      "Hennepin County eliminated $22M annual subsidy for care of low-income residents (effective January 2024)",
+      "Robbinsdale flagship hospital losing approximately $124M annually per Becker's Hospital Review",
+      "Sold to Sanford Health (September 2026) under 10-year AG oversight, signaling inability to operate independently",
+      "Minnesota Senate committee document (March 2026) warned bond rating 'in jeopardy of declining again this year'"
     ],
-    "source": "Moody's: Baa1 with negative outlook (January 2023 downgrade from A3), revised to stable in 2024 citing expected improvement in operating cash flow margins. S&P: BBB+ with stable outlook (February 2023 downgrade from A). Fitch does not rate Fairview. Bond Buyer, Becker's Hospital Review, Star Tribune."
+    "source": "Moody's: Baa2 with stable outlook (August 2023 downgrade from Baa1 with negative outlook; Baa1 affirmed March 2022). Moody's cited low days cash on hand and no anticipated improvement. Rating history per North Memorial presentation to Minnesota Senate Tax Committee (March 2026): A3 (2007), Baa1 (2010), Baa2 (2023). S&P and Fitch do not rate North Memorial Health. Becker's Hospital Review, Minnesota House and Senate committee presentations."
   },
 
   "program340B": {
     "contractPharmacies": null,
     "outOfStatePharmaciesPct": null,
-    "dshStatus": true,
-    "estimatedAnnualBenefit": null
+    "dshStatus": null,
+    "estimatedAnnualBenefit": 88000000,
+    "source": "Minnesota Department of Health report (covered by Star Tribune, circa 2024): North Memorial collected $88M via the 340B drug discount program. North Memorial operates three outpatient pharmacies (Robbinsdale campus, Maple Grove campus, Robbinsdale Specialty Center). Statewide, Minnesota hospitals and clinics paid $120M to contract pharmacies and third-party administrators; North Memorial's share not broken out. Contract pharmacy count and out-of-state percentage require HRSA OPAIS database verification. DSH status requires Schedule H verification."
   },
 
   "acquisitions": [
     {
-      "year": 2017,
-      "target": "HealthEast Care System",
-      "description": "Acquired four-hospital system including St. John's Hospital, Woodwinds Health Campus, St. Joseph's Hospital, and Bethesda Hospital; approximately 7,500 employees; Minnesota Attorney General approved with conditions",
-      "source": "Minnesota Attorney General approval February 2017; Star Tribune; Minneapolis/St. Paul Business Journal"
+      "year": 2022,
+      "target": "Maple Grove Hospital (remaining 25% stake)",
+      "description": "North Memorial acquired Fairview Health Services' 25% stake in Maple Grove Hospital Corporation, achieving 100% ownership effective May 2022. North Memorial had held 75% since the hospital's opening. Maple Grove Hospital is Minnesota's largest birth center.",
+      "source": "North Memorial Health press release; Fairview Health Services continuing disclosure (EMMA); Moody's March 2022 action noting guarantee rising to 100%"
     },
     {
-      "year": 2019,
-      "target": "University of Minnesota Health brand integration",
-      "description": "Fairview Health Services, University of Minnesota Health, and University of Minnesota Physicians consolidated clinical operations under the M Health Fairview brand",
-      "source": "M Health Fairview brand launch announcement 2019; University of Minnesota"
+      "year": 2026,
+      "target": "Acquired by Sanford Health",
+      "description": "Sanford Health (Sioux Falls, SD; 58-hospital system) signed definitive agreement in May 2026 to acquire North Memorial Health. Closed September 1, 2026 under 10-year Minnesota Attorney General oversight agreement. Sanford committed $600M investment: $500M for Maple Grove Hospital expansion, $100M for Robbinsdale Hospital equipment and deferred maintenance, plus $15M for independent healthcare providers. North Memorial became anchor of Sanford's Twin Cities region led by CEO Trevor Sawallish with local board oversight.",
+      "source": "Minnesota AG announcement August 28, 2026; Fox 9; Becker's Hospital Review; Healthcare Finance News; Fierce Healthcare; Minnesota Reformer; KEYC; Dakota News Now"
     }
   ],
 
@@ -171,15 +169,15 @@
   "legalIssues": [],
 
   "ratios": {
-    "investmentsToOperatingIncome": 39.4,
-    "investmentsToOperatingIncomeInterpretation": "Fairview holds ~$2.01B in investments (FY2023 audited) against ~$51M operating income (FY2024). The investment portfolio is 39x the operating profit, meaning the system's accumulated financial wealth vastly exceeds its slim operating margin. Years of operating losses (2019-2023) were sustained by this balance sheet cushion.",
-    "bondDebtToCommunityBenefit": 2.24,
-    "bondDebtToCommunityBenefitInterpretation": "Fairview carries ~$1.52B in total debt (FY2023) against $680M in claimed community benefit (FY2024). For every dollar of community benefit, the system carries $2.24 in debt — reflecting significant financial leverage. However, Fairview's community benefit methodology differs from Form 990 Schedule H; actual 990-reported community benefit may be lower.",
+    "investmentsToOperatingIncome": null,
+    "investmentsToOperatingIncomeInterpretation": "North Memorial holds a $312M investment portfolio (Dec 2024 EMMA) against persistent operating losses ($8.5M loss in FY2023; $26.7M net deficit on FY2024 Form 990). The ratio cannot be computed against a loss, but the contrast is stark: the system's accumulated financial wealth of $312M in securities — with $104M in unrealized gains — dwarfs any operating surplus the system has produced in recent years. The portfolio represents 31% of the system's $999M in total revenue.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Community benefit total not available from extracted data. Bond debt partially documented at ~$138M+ across identified series (Maple Grove $84.4M + $8.45M; NMH Series 2015 $44.9M; Series 2017 balance unknown). Ratio requires Schedule H community benefit figure from Form 990 FY2024.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Charity care sub-total not separately broken out in available data. Fairview reports $680M total community benefit (FY2024) but does not publicly disclose charity care as a separate line. Minnesota state average comparison requires Minnesota Department of Health hospital data and Form 990 Schedule H Part I charity care figure."
+    "charityCareVsStateInterpretation": "Charity care sub-total not separately broken out in available data. Minnesota Department of Health and Form 990 Schedule H Part I charity care figures required for state average comparison."
   },
 
-  "accusation": "M Health Fairview, a $5.3B-revenue tax-exempt health system, holds a $2.01B investment portfolio and carries $1.52B in bond debt while its CEO James Hereford collected $5.66M in total compensation (FY2024) — even after five consecutive years of operating losses (2019-2023) that triggered 1,150 layoffs across 2022-2023, credit downgrades to Baa1/BBB+ (lowest investment-grade tier), and the collapse of its Sanford Health merger. Fairview claims $680M in community benefit (FY2024) but uses a self-defined methodology that differs from its Form 990 reporting, and charity care as a standalone figure remains undisclosed. The system partners with the Minnesota Vikings as an official healthcare sponsor while the University of Minnesota moves to dissolve the M Health Fairview brand by end of 2026.",
+  "accusation": "North Memorial Health, a tax-exempt health system with $713 million in total assets, holds a $312 million investment portfolio — including $104 million in unrealized gains — while reporting consecutive operating losses and a $27 million net deficit on $999 million in revenue (FY2024 Form 990). The system collected $88 million through the 340B drug discount program while its flagship Robbinsdale hospital was losing $124 million annually, prompting its CEO to tell the Maple Grove City Council the system had reached its 'fiscal breaking point.' In FY2024, departing CEO J. Kevin Croston collected $1.77 million in compensation for approximately two months of service before handing control to Trevor Sawallish, who received $1.41 million for the remainder of the year — combined CEO pay of $3.18 million in a year the system cut 103 jobs and closed outpatient mental health services affecting 3,400 patients at its Robbinsdale hospital. Moody's has downgraded North Memorial three times in two decades — from A3 to Baa1 to Baa2 — now two notches above junk, with a March 2026 Minnesota Senate presentation warning the rating was 'in jeopardy of declining again.' Rather than stabilize independently, North Memorial sold itself to South Dakota-based Sanford Health in September 2026, requiring a 10-year Attorney General oversight agreement to protect the Level 1 trauma center, charity care, reproductive healthcare, and emergency transport services that critics feared would be cut. The system partners with the Minnesota Vikings as an official healthcare sponsor while its own nurses issued a vote of no confidence in hospital leadership.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Layout: Lead with $2.01B investment portfolio (FY2023 audited). Show CEO James Hereford total comp $5.66M (FY2024 Form 990). Show $1.52B bond debt outstanding (FY2023 audited). Note 1,150 combined layoffs (900 in Sept 2022 + 250 in Nov 2023). Note five consecutive years of operating losses (2019-2023) before first operating profit of ~$51M in FY2024. Note failed Sanford Health merger (November 2023). Note UMN partnership restructuring: M Health Fairview brand phaseout by end of 2026. Credit ratings: Moody's Baa1 Stable, S&P BBB+ Stable. Community benefit: $680M claimed (FY2024, self-reported methodology). Vikings official healthcare partner. Source line: Form 990 via ProPublica (EIN 41-0991680), Fairview audited consolidated financial statements, EMMA/MSRB, Fairview Community Impact Report, Star Tribune, Bond Buyer, Becker's Hospital Review."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Layout: Lead with $312M investment portfolio ($104M unrealized gains, Dec 2024 EMMA). Show combined CEO compensation $3.18M (Croston $1.77M for ~2 months + Sawallish $1.41M, FY2024 Form 990). Show $999M total revenue vs $1.025B total expenses = $27M net deficit (FY2024 Form 990). Note $88M collected via 340B drug discount program. Note 103 layoffs and outpatient mental health closure (March 2024). Note Robbinsdale Hospital losing $124M annually. Credit rating: Moody's Baa2 Stable (downgraded from A3 over two decades). Note Sanford Health acquisition September 2026 with $600M investment commitment under 10-year AG oversight. Note days cash on hand below 125-day Moody's threshold. Vikings official healthcare partner since September 2018. Source line: Form 990 via ProPublica (EIN 41-0729979), EMMA obligated group financial disclosures, Minnesota Senate Tax Committee presentation (March 2026), Minnesota AG oversight agreement (August 2026), Star Tribune, Becker's Hospital Review, Minnesota Department of Health."
 }
