@@ -139,21 +139,25 @@
   "facilityClosures": [],
 
   "creditRating": {
-    "fitch": "AA",
-    "fitchOutlook": "Stable",
+    "fitch": null,
+    "fitchOutlook": null,
     "fitchDate": null,
-    "sp": null,
-    "spOutlook": null,
-    "spDate": null,
+    "fitchNotes": "No Fitch rating found in web searches; prior file entry of AA/Stable could not be verified",
+    "sp": "AA+",
+    "spOutlook": "Stable",
+    "spDate": "2018-05",
+    "spNotes": "S&P assigned AA+ to Series 2018A/B ($500M) and affirmed AA+ on all outstanding Inova debt. No subsequent downgrade or upgrade found in searches. Rating cited strong enterprise profile, leading market share, strong financial performance, low leverage, and high unrestricted reserves.",
     "moodys": "Aa2",
     "moodysOutlook": "Stable",
-    "moodysDate": null,
+    "moodysDate": "2026",
+    "moodysNotes": "Moody's Aa2/Stable confirmed in Becker's 2026 health system rankings. Rating reflects dominant market position in Northern Virginia. Also carries VMIG 1 and P-1 short-term ratings on variable-rate bonds. Moody's assigned Aa2 to Series 2022 bonds (April 2022) with stable outlook.",
     "keyRiskFactors": [
       "Favorable demographics in Northern Virginia service area with high household incomes and population growth",
       "Dominant market position in Fairfax County and surrounding jurisdictions",
-      "Very large investment portfolio provides significant financial cushion well beyond operating needs",
+      "Very large investment portfolio ($9.5B) provides significant financial cushion well beyond operating needs",
       "Virginia certificate-of-need regulation limits competitive entry",
-      "Conservative leverage relative to total assets and investment portfolio size"
+      "Conservative leverage relative to total assets and investment portfolio size",
+      "Strong and improving operating margins (8.0% FY2025, up from 5.6% FY2024)"
     ]
   },
 

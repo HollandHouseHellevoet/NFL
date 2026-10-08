@@ -55,8 +55,9 @@
       "Aria Health (merged 2016, now Jefferson Torresdale/Bucks/Frankford hospitals)",
       "Kennedy Health System (merged 2018, now Jefferson Health — New Jersey, 3 campuses)",
       "Einstein Healthcare Network (merged 2021, Einstein Medical Center Philadelphia, Elkins Park, Montgomery)",
+      "Lehigh Valley Health Network (merged 2024, 13 hospital campuses in eastern PA)",
       "Magee Rehabilitation Hospital",
-      "Jefferson Health Plans",
+      "Jefferson Health Plans (370,000-member Medicaid managed care; lost $170M in FY2025)",
       "Philadelphia University (merged with Thomas Jefferson University 2017)"
     ],
     "relatedPartyTransactions": null,
@@ -207,8 +208,8 @@
     {
       "date": "2021",
       "type": "CEO Departure",
-      "description": "Stephen Klasko, MD, MBA resigned as CEO of Thomas Jefferson University and Jefferson Health amid reported concerns about governance and management; details of separation agreement not fully public",
-      "source": "Philadelphia Inquirer; Becker's Hospital Review"
+      "description": "Stephen Klasko, MD, MBA resigned as CEO of Thomas Jefferson University and Jefferson Health amid reported concerns about governance and management. Collected $8M in CY2022 separation pay per Form 990; cumulative total of $48.7M over 8.5 years as CEO through CY2024. Still received over $1M in CY2024 per Inquirer.",
+      "source": "Philadelphia Inquirer (July 2024, July 2026); ProPublica Nonprofit Explorer Form 990"
     }
   ],
 
