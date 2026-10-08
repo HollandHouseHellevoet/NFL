@@ -113,7 +113,12 @@
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "REQUIRES LIVE VERIFICATION from Schedule H Part I-II and Virginia Health Information state reports. Lown Institute Hospital Index (FY2020 data) identified Inova as having a fair share deficit — the system received an estimated $218M in annual tax benefits while spending approximately $95M on community investment, a shortfall of approximately $123M. Verify current year from Schedule H."
+    "foundationGrantsToCommunityCY2024": 26107043,
+    "lownInstituteFairShareDeficitFY2020": 123000000,
+    "lownInstituteEstimatedTaxBenefitsFY2020": 218000000,
+    "lownInstituteCommunitySpendingFY2020": 95000000,
+    "charityNavigatorRating": "3/4 stars (Inova Health Care Services); 4/4 stars (Inova Health System Foundation)",
+    "source": "Schedule H community benefit total requires direct review of Inova Health Care Services (EIN 54-0620889) Form 990 Schedule H. Inova self-reports community benefit as 'hundreds of millions of dollars each year' including subsidized health services, charity care, clinical programs for low-income residents, and research. GuideStar profile describes Inova as 'one of the largest providers of uncompensated care in Virginia' (self-reported, unverified). Foundation grants to community and Inova programs totaled approximately $26.1M in 2024 per Instrumentl. Lown Institute Hospital Index (FY2020) identified a fair share deficit of $123M ($218M estimated tax benefits vs $95M community spending). Programs include Inova Cares for Families (primary care medical home for Medicaid/uninsured), Inova Cares for Women (prenatal/gynecologic care for uninsured), and Partnership for Healthier Communities."
   },
 
   "taxAdvantage": {
@@ -129,10 +134,17 @@
 
   "layoffs": [
     {
+      "date": "2020-04",
+      "number": 427,
+      "description": "Inova laid off more than 400 employees during COVID-19 pandemic. Most cuts were in non-clinical management positions. Inova cited financial challenges amid coronavirus.",
+      "source": "NBC Washington, WJLA (ABC7). Confirmed by multiple local outlets."
+    },
+    {
       "date": "2023-09",
       "number": 200,
       "description": "System-wide workforce reduction primarily affecting administrative and support roles as part of cost optimization; Inova cited need to reduce expenses amid post-pandemic financial pressures",
-      "source": "Becker's Hospital Review; REQUIRES LIVE VERIFICATION of exact count and date from Becker's archive and Virginia WARN Act filings"
+      "source": "UNVERIFIED. Not confirmed in web searches. Workforce data aggregators show Inova headcount rising from ~18,572 (2023) to ~18,729 (2024) to ~18,958 (2025), suggesting no large-scale reductions occurred. Requires verification from Becker's archive and Virginia WARN Act filings.",
+      "verified": false
     }
   ],
 
@@ -165,7 +177,8 @@
     "contractPharmacies": null,
     "outOfStatePharmaciesPct": null,
     "dshStatus": true,
-    "estimatedAnnualBenefit": null
+    "estimatedAnnualBenefit": 115000000,
+    "estimatedAnnualBenefitSource": "AIR340B (industry advocacy group critical of 340B program) estimates Inova Health annual 340B profits at $115M. This is an external estimate, not an Inova-reported figure. Contract pharmacy count requires verification from HRSA Office of Pharmacy Affairs database. Inova Fairfax Hospital is listed among Virginia's 340B-registered DSH hospitals."
   },
 
   "acquisitions": [],
