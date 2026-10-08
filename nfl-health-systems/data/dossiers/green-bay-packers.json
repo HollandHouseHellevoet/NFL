@@ -25,7 +25,7 @@
 
   "balanceSheetWealth": {
     "investmentPortfolio": null,
-    "investmentPortfolioSource": "Investment income of $14,303,977 reported on FY2024 990 (1.7% of revenue); total investment portfolio balance not independently verified from Part X balance sheet",
+    "investmentPortfolioSource": "Investment income of $14,303,977 reported on FY2024 990 (1.7% of revenue). Total assets $1,148,095,932, net assets $711,522,185 per ProPublica extract of FY2024 990. Part X balance sheet investment line items (lines 11-13: publicly traded securities, other securities, program-related investments) not independently verified — ProPublica, CauseIQ, Instrumentl, and GuideStar summaries do not break out securities balances. Bellin Health Foundation (EIN 39-1809171) held $6.3M in separate foundation investment assets as of September 2023. WHEFA bond continuing-disclosure filings on EMMA may contain audited financial statements with investment detail but were not accessed.",
     "realEstateValue": null,
     "realEstateSource": "Not independently verified",
     "boardDesignatedFunds": null,

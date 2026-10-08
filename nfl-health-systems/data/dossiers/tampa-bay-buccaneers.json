@@ -4,79 +4,85 @@
   "division": "South",
   "city": "Tampa",
   "state": "Florida",
-  "healthSystem": "BayCare Health System",
-  "ein": "59-3474479",
-  "nonprofitType": "501c3",
-  "dealType": ["Official Healthcare Partner", "Stadium Signage"],
-  "dealAnnounced": null,
+  "healthSystem": "AdventHealth",
+  "ein": "59-1479658",
+  "nonprofitType": "faith-based",
+  "dealType": ["Exclusive Hospital", "Training Facility Naming Rights", "Training Camp Presenting Partner"],
+  "dealAnnounced": "2018-08",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": 2025,
-    "totalRevenue": 6970000000,
-    "operatingIncome": 821400000,
-    "operatingMarginPct": 11.8,
-    "nonOperatingRevenue": 578600000,
-    "totalAssets": null,
+    "fiscalYear": "FY2025 (ending December 31, 2025)",
+    "totalRevenue": 22997652000,
+    "operatingIncome": 2700000000,
+    "operatingMarginPct": 11.6,
+    "nonOperatingRevenue": 1400000000,
+    "totalAssets": 32155503000,
     "totalLiabilities": null,
-    "source": "FY2025 operating figures from Becker's Hospital Review (March 2026) and BayCare 2025 Report to the Community. Total operating revenue $6.97B, operating income $821.4M (11.8% margin), net income $1.4B. Non-operating revenue derived as net income minus operating income. FY2024: revenue $6.27B, operating income $603.4M (9.6% margin), net income $1.2B. Total assets and liabilities not confirmed for FY2025; Q1 2023 combined balance sheet showed total assets of $11.58B. ProPublica Form 990 (EIN 59-2796965) for FY2024 shows ~$16B total assets and ~$9.09B liabilities for the filing entity, but this may reflect a parent/consolidated scope distinct from operating figures. NOTE: EIN in this dossier (59-3474479) was not found on ProPublica; the verified BayCare Health System EIN is 59-2796965."
+    "source": "AdventHealth audited consolidated financial statements (December 31, 2025). Total operating revenue $22,997,652k (net patient service revenue $21,411,326k + other revenue $1,586,326k). Operating income ~$2.7B (11.6% margin) per Becker's Hospital Review (May 2026). Net income $4.1B (FY2025) vs. $2.7B (FY2024). Non-operating revenue derived as net income minus operating income (~$1.4B). Total assets $32,155,503k from 2025 audited balance sheet (vs. $26,922,368k in FY2024). Total liabilities not confirmed for FY2025; FY2024 liabilities were approximately $9.06B (total assets $26.92B minus net assets $17.86B). Form 990 (EIN 59-1479658) for FY2024 shows $8.31B revenue, $14.09B total assets, and $5.37B liabilities for the filing entity Adventist Health System Sunbelt Inc, which reflects a narrower consolidation scope than the audited statements for Adventist Health System Sunbelt Healthcare Corporation."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Pre-Trinity-split balance sheet (March 2020) showed ~$4.79B in investments. In 2024 BayCare paid Trinity Health $4B ($3B cash + $1B bridge loan) to dissolve the JOA. Current investment portfolio unavailable; post-split balance sheet not yet surfaced. Check BayCare FY2025 audited financials on EMMA or annual report for current figure.",
+    "investmentPortfolio": 9435606000,
+    "investmentPortfolioSource": "FY2024 audited consolidated financial statements: investments $8,376,931k plus assets whose use is limited, totaling $9,435,606k (vs. $6,944,808k in FY2023). Includes hedge funds ($1,357,575k) and private market funds ($1,489,983k). The system employs a diversified multi-asset strategy using total return swaps and futures for leveraged market exposure. A third-party directory (Pipeline Road) estimates ~$14B in investment assets under management as of December 31, 2024, but this exceeds the audited total and may use a different asset definition. FY2025 investment totals not yet confirmed.",
     "realEstateValue": null,
-    "realEstateSource": "Q1 2023 combined balance sheet showed PP&E net of $2.38B. BayCare operates 15 hospitals and 300+ outpatient facilities across Hillsborough, Pinellas, Pasco, Polk, and Manatee counties.",
+    "realEstateSource": "AdventHealth operates 55-57 hospital campuses and more than 2,000 care sites across nine states, headquartered in Altamonte Springs, FL. PP&E net value not separately confirmed; check property, plant and equipment note in audited financials.",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "Trinity Health split finalized May 2024. BayCare paid $4B to acquire full independence. Post-split balance sheet will reflect significantly different asset composition. BayCare received $1.9B tax-exempt bond authorization in August 2024 from Hillsborough County IDA. Financial statements and Form 990 Schedule D would disclose investment and endowment details."
+    "notes": "FY2024 net assets $17,862,613k (including noncontrolling interests), up from $15,080,460k in FY2023. FY2025 net assets not confirmed but likely above $21B given $4.1B net income in 2025. AdventHealth Foundation (EIN 59-2219301) held approximately $204M in total assets for FY2024, separate from consolidated system totals. The system's consolidated balance sheet scope includes Adventist Health System Sunbelt Healthcare Corporation and all controlled affiliates."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": 2024,
-    "largestIssue": "Hillsborough County IDA Health System Revenue Bonds Series 2024 (BayCare Health System)",
-    "largestIssueProceeds": 1300000000,
-    "issuerAuthority": "Hillsborough County Industrial Development Authority",
-    "source": "Bond Buyer reported $1.3B priced week of Aug 19, 2024, underwritten by Morgan Stanley and Barclays. Fitch rated AA/Stable. Proceeds for capital reimbursement, future projects, capitalized interest, and issuance costs. Maximum rate 6.5%, latest maturity Dec 31, 2061. SEC fund filings show Series 2024-C with 4.125% coupon (Nov 2051 maturity) and 5.00% coupon (Nov 2029 maturity). BayCare received $1.9B total authorization from Hillsborough County IDA in Aug 2024. Total outstanding across all series not confirmed; check EMMA for full debt schedule. Pre-2024 debt included older series; 2010 total long-term debt was ~$794M (Fitch), now significantly higher."
+    "totalOutstanding": 3700000000,
+    "fiscalYear": null,
+    "largestIssue": null,
+    "largestIssueProceeds": null,
+    "issuerAuthority": "Various Florida and state health facilities authorities (Highlands County Health Facilities Authority and others)",
+    "source": "Becker's Hospital Review ranked AdventHealth at $3.7B in long-term debt (date of ranking undetermined). Substantially all bonds are tax-exempt and secured under a Master Trust Indenture (MTI). In 2024 the system issued $185,495k in tax-exempt fixed-rate put bonds (5.00%, maturing 2059) and $71,365k in serial bonds (5.00%, maturing 2029-2039). Proceeds used for capital expenditure reimbursement and refunding older bonds. A $250M commercial paper draw occurred after December 31, 2024. AdventHealth also sells patient receivables to the Highlands County Health Facilities Authority, which funds purchases with private-placement tax-exempt variable-rate bonds (~$3.48B balance shown in 2024 statements, scope unclear whether bond face or receivables sold). FY2024 interest expense was $109.6M. All bonds issued by Adventist Health System Georgia Inc and Adventist Health System Sunbelt Healthcare Corporation are fully consolidated. EMMA filings under these obligor names would show the full debt schedule by series."
   },
 
   "relatedOrganizations": {
     "captiveInsurance": null,
     "insuranceArmRevenue": null,
-    "physicianGroupEntity": null,
-    "foundationEntity": null,
-    "otherRelatedEntities": [],
+    "physicianGroupEntity": "AdventHealth Primary Care Inc (EIN 59-3231322)",
+    "foundationEntity": "AdventHealth Foundation Inc (EIN 59-2219301)",
+    "otherRelatedEntities": [
+      "Adventist Health System Sunbelt Healthcare Corporation — consolidated operating parent (audited financial statements entity)",
+      "Adventist Health System Georgia Inc (EIN 58-1425000) — Georgia hospital operations (d/b/a AdventHealth Gordon)",
+      "AdventHealth Investment Management — manages system investment portfolio",
+      "General Conference of Seventh-day Adventists — denominational sponsor and church affiliation",
+      "AdventHealth University — educational affiliate"
+    ],
     "relatedPartyTransactions": null,
-    "source": "UNVERIFIED — requires Form 990 Schedule R for EIN 59-3474479. Known affiliated entities include BayCare Medical Group (physician group), BayCare Foundation (philanthropic arm), and individual hospital entities such as Morton Plant Hospital, Mease Countryside Hospital, Mease Dunedin Hospital, St. Joseph's Hospital (Tampa), St. Joseph's Women's Hospital, St. Joseph's Children's Hospital, South Florida Baptist Hospital, Bartow Regional Medical Center, Winter Haven Hospital, Winter Haven Women's Hospital, St. Anthony's Hospital, and BayCare Alliant Hospital. Schedule R would confirm all related organizations, EINs, and transaction amounts."
+    "source": "ProPublica Nonprofit Explorer, AdventHealth audited financial statements, AdventHealth careers site. Form 990 Schedule R for EIN 59-1479658 would confirm all related organizations, EINs, and intercompany transaction amounts."
   },
 
   "executiveComp": {
-    "fiscalYear": 2023,
-    "ceoName": "Stephanie Conners",
+    "fiscalYear": "FY2024",
+    "ceoName": "Terry Shaw",
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": 538413,
-    "ceoTotalComp": 3027169,
+    "ceoOtherComp": null,
+    "ceoTotalComp": 9855391,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "ProPublica Form 990 (EIN 59-2796965) FY2023. Stephanie Conners (President & CEO since Nov 28, 2022, succeeding Tommy Inzina who retired end of 2022): $2,488,756 reportable compensation from organization + $538,413 from related organizations = $3,027,169 total. Base/bonus/deferred breakdown requires Schedule J detail not available in search results. Prior CEO Tommy Inzina FY2021: ~$4,330,000 reportable + ~$74,000 other. FY2024 990 compensation not yet surfaced."
+    "source": "Paddock Post analysis of Form 990 (EIN 59-1479658) FY2024. Terry Shaw (President & CEO 2016-April 2025): $9,855,391 total compensation in FY2024. Shaw's compensation trajectory: FY2023 $6,344,107; FY2022 $5,678,983; FY2021 $4,728,689; FY2020 $3,198,492; cumulative FY2016-2024 approximately $45M per Paddock Post. David Banks succeeded Shaw as President & CEO on April 3, 2025. Banks previously served as Group CEO for Primary Health and Multi-State Divisions (22 campuses, eight states) and prior to that as Chief Strategy Officer for eight years. A Paddock Post headline reported 26 employees received $270M in compensation but the article contained conflicting per-year figures, so that total is not verified as a single-year amount. Base/bonus/deferred breakdown requires Schedule J detail not available in search results."
   },
 
   "communityBenefit": {
-    "claimedAmount": 500000000,
-    "claimedPctOfRevenue": 7.2,
-    "charityCareClaimedAmount": null,
+    "claimedAmount": 1310000000,
+    "claimedPctOfRevenue": null,
+    "charityCareClaimedAmount": 109960000,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "BayCare 2025 Report to the Community (released April 2026): community benefit of $500M in 2025 (up from $467M in 2024) in categories of charity care, subsidizing the underinsured, and health-related social services. Pct calculated as $500M / $6.97B total operating revenue = 7.2%. The $500M figure includes more than charity care alone; charity care subtotal not broken out in press materials. FY2023 community benefit reported as $557M. Schedule H would provide exact charity care vs. other community benefit breakdown. Florida state average charity care pct and cost-to-charge ratio require AHCA data or Lown Hospitals Index."
+    "source": "AdventHealth 2021 Community Investment Report (Central Florida Division only, seven counties: Flagler, Lake, Orange, Osceola, Polk, Seminole, Volusia): $1.31B total community investment, including $109.96M charity care, $318.07M coverage shortfalls, $33.36M community health services, $60.47M health professional education and research, $21.30M cash and in-kind contributions, $10.58M faith-based care. FY2019 Central Florida community investment was $1.2B. CRITICAL CAVEAT: These figures cover Central Florida only, not the full nine-state system, and are from FY2021 — four years stale. System-wide community benefit total not confirmed for FY2024 or FY2025. AdventHealth's Central Florida Financial Reports page posts IRS Form 990 filings and Community Investment Reports for 2020-2024 but those PDFs were not retrievable in search. Schedule H would provide system-level charity care vs. other community benefit breakdown."
   },
 
   "taxAdvantage": {
@@ -87,7 +93,7 @@
     "salesTaxForegone": null,
     "taxExemptBondInterestSubsidy": null,
     "program340BEstimatedBenefit": null,
-    "notes": "UNVERIFIED — BayCare Health System is a tax-exempt 501(c)(3) organization. Florida has no state income tax, so state income tax foregone would be $0. Property tax exemptions across approximately 16 hospitals and 300+ outpatient sites in Hillsborough, Pinellas, Pasco, and Polk counties would represent a significant annual benefit. Florida sales tax exemption rate is 6% plus applicable county surtax."
+    "notes": "AdventHealth is a faith-based 501(c)(3) affiliated with the Seventh-day Adventist Church. Florida has no state income tax, so state income tax foregone is $0 for Florida operations; the system also operates in eight other states where state income tax exemptions would apply. Property tax exemptions across 55-57 hospital campuses and 2,000+ care sites in nine states represent a substantial annual benefit. Florida sales tax exemption rate is 6% plus applicable county surtax. Estimated $3.7B in tax-exempt bond debt generates significant interest subsidy for bondholders. 340B program benefit not quantified but the system participates in the program with contract pharmacies."
   },
 
   "layoffs": [],
@@ -97,14 +103,20 @@
   "creditRating": {
     "fitch": "AA",
     "fitchOutlook": "Stable",
-    "fitchDate": "2024-08",
-    "sp": null,
+    "fitchDate": "2025",
+    "sp": "AA",
     "spOutlook": null,
     "spDate": null,
     "moodys": "Aa2",
-    "moodysOutlook": null,
-    "moodysDate": "2024-08",
-    "keyRiskFactors": ["Post-Trinity JOA dissolution corporate restructuring (Fitch viewed as credit positive)", "Large capital program funded by $1.9B bond authorization", "$4B cash outlay to acquire independence from Trinity Health"]
+    "moodysOutlook": "Stable",
+    "moodysDate": "2026",
+    "keyRiskFactors": [
+      "Sizable market presence across nine states with dominant Florida position",
+      "Highly centralized operating model cited by Moody's as credit strength",
+      "Exceptional financial profile with 11.6% operating margin sustained across FY2024-FY2025",
+      "Rapid expansion through acquisitions (AdventHealth Port Charlotte consolidated March 2025)",
+      "Concentration in favorable growth markets, particularly Central Florida"
+    ]
   },
 
   "program340B": {
@@ -114,26 +126,39 @@
     "estimatedAnnualBenefit": null
   },
 
-  "acquisitions": [],
+  "acquisitions": [
+    {
+      "year": 2025,
+      "target": "AdventHealth Port Charlotte",
+      "description": "Consolidated into AdventHealth financial statements beginning March 1, 2025, contributing to revenue growth in FY2025.",
+      "source": "AdventHealth 2025 audited consolidated financial statements"
+    },
+    {
+      "year": 2026,
+      "target": "Heart of Florida Regional Medical Center and Lake Wales Medical Center",
+      "description": "Announced intent to join AdventHealth, adding two hospitals to the system's Florida footprint.",
+      "source": "AdventHealth newsroom"
+    }
+  ],
 
   "lobbying": {
     "amount2024": null,
     "politicalContributions2024": null,
-    "source": "UNVERIFIED — check OpenSecrets for BayCare Health System lobbying and political contribution data"
+    "source": "UNVERIFIED — check OpenSecrets for AdventHealth / Adventist Health System Sunbelt lobbying and political contribution data"
   },
 
   "legalIssues": [],
 
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Cannot calculate — current investment portfolio value unknown post-Trinity split. Operating income is $821.4M (FY2025). Once investment portfolio is confirmed from post-split balance sheet, divide portfolio by operating income.",
+    "investmentsToOperatingIncome": 3.5,
+    "investmentsToOperatingIncomeInterpretation": "$9.44B total investment-type assets (FY2024 audited) / $2.7B operating income (FY2025 Becker's) = 3.5x. For every dollar of operating income, AdventHealth holds $3.50 in investments. Cross-year ratio; FY2025 investment total not yet confirmed.",
     "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Cannot calculate — total outstanding bond debt across all series not confirmed. Largest known single issuance is $1.3B (Series 2024). Community benefit claimed at $500M (FY2025). Once total debt confirmed from EMMA, divide total outstanding by community benefit.",
+    "bondDebtToCommunityBenefitInterpretation": "Total bond debt ~$3.7B (Becker's, undated) vs. Central Florida community benefit $1.31B (FY2021 only, seven counties). Ratio not computed due to mismatched years, reporting scopes, and geographic coverage. System-wide community benefit total unavailable.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Cannot calculate — charity care subtotal not broken out from the $500M total community benefit figure. Florida state average charity care pct not yet sourced. Requires Schedule H line-item data and AHCA/Lown benchmark."
+    "charityCareVsStateInterpretation": "FY2021 Central Florida charity care $109.96M against FY2025 system revenue of $23B would represent under 0.5%, but these are mismatched years and scopes (seven-county vs. nine-state system). System-wide charity care total and Florida state average charity care percentage not sourced. Requires Schedule H line-item data and Lown Institute or AHCA benchmark."
   },
 
-  "accusation": "BayCare Health System, a 501(c)(3) with $6.97 billion in operating revenue (FY2025), paid its CEO $3.03 million, issued $1.3 billion in tax-exempt bonds through the Hillsborough County IDA, and claims $500 million in community benefit (7.2% of revenue) while its charity care subtotal remains undisclosed; following its $4 billion buyout of Trinity Health's stake, the system's post-split investment portfolio and total debt remain opaque. IMPORTANT: Web searches found NO evidence of a BayCare-Buccaneers partnership. The Tampa Bay Buccaneers' verified official healthcare partner is AdventHealth (formerly Florida Hospital), which holds naming rights to the team's training facility (AdventHealth Training Center) and serves as the exclusive hospital of the Buccaneers. This dossier's team pairing requires correction.",
+  "accusation": "AdventHealth, a Seventh-day Adventist 501(c)(3), controls $32.2 billion in total assets, a $9.4 billion investment portfolio, and $17.9 billion in net assets — shielded by an estimated $3.7 billion in tax-exempt debt and property tax exemptions across 55 hospital campuses in nine states — while outgoing CEO Terry Shaw collected $9.86 million in his final full year (FY2024), capping approximately $45 million in cumulative pay since 2016, as the system generated $4.1 billion in net income on $23 billion in revenue (FY2025) and sponsors the Tampa Bay Buccaneers with training facility naming rights and an exclusive hospital designation, yet its most recent disclosed community benefit of $1.31 billion covers only seven Central Florida counties and is four years stale.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. BayCare Health System (verified EIN 59-2796965), 15 hospitals across Tampa Bay. FY2025: $6.97B revenue, $821.4M operating income (11.8% margin), $1.4B net income. CEO Stephanie Conners: $3.03M total comp (FY2023). Fitch AA/Stable, Moody's Aa2 (Aug 2024). $1.3B tax-exempt bonds issued 2024. Community benefit: $500M (7.2% of revenue). WARNING: Buccaneers partnership NOT verified — AdventHealth is the confirmed official healthcare partner of the Tampa Bay Buccaneers. This dossier pairing may be incorrect."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. AdventHealth (EIN 59-1479658), Seventh-day Adventist faith-based 501(c)(3), 55-57 hospital campuses across nine states, headquartered Altamonte Springs FL, ~100,000 employees. Lead with $32.2B total assets, $9.4B investment portfolio, $17.9B net assets (FY2024). CEO Terry Shaw: $9.86M total comp (FY2024), cumulative $45M (2016-2024); succeeded by David Banks April 2025. Fitch AA/Stable, Moody's Aa2/Stable, S&P AA. Visualize $3.7B tax-exempt bond debt. FY2025: $23B revenue, $2.7B operating income (11.6% margin), $4.1B net income. Central Florida community benefit $1.31B (FY2021 only, seven counties). Buccaneers partnership: 10-year training facility naming rights (August 2018), exclusive hospital designation (since ~2012), training camp presenting partner (2024)."
 }

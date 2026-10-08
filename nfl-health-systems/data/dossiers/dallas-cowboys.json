@@ -22,8 +22,8 @@
     "source": "Becker's Hospital Review citing audited financials; total assets from system investment office disclosure (FY2025 figure)"
   },
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "Investment office manages $17.5B total assets including direct real estate, JV hospital partnerships, and venture portfolio via external managers; specific investment securities breakdown not publicly disclosed",
+    "investmentPortfolio": 7537000000,
+    "investmentPortfolioSource": "Audited consolidated financial statements (FY ending June 30, 2024) report $7.537B in total long-term investments ($6.927B unrestricted, $610M restricted). Confirmed as prior-year comparatives in FY2025 audit filed on EMMA (MSRB). Unrestricted portfolio includes ~$83M under measurement alternative. Asset classes include public equity, diversifiers, private equity/debt, and private real assets managed via external managers.",
     "realEstateValue": null,
     "realEstateSource": "Direct real estate holdings confirmed but value not publicly broken out",
     "boardDesignatedFunds": null,
@@ -60,13 +60,13 @@
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 1976887,
+    "ceoTotalComp": 10016731,
     "topOfficersTotalComp": 5136396,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "Form 990 (EIN 75-6068308) FY2024 via ProPublica; total executive compensation reported as $5,136,396 (0.3% of expenses); individual CEO breakdown not parsed from 990"
+    "source": "Baylor Scott & White Holdings Form 990 (EIN 46-3130985) FY ending June 2024, filed May 2025. McCanna listed as CEO with $8,039,844 reportable compensation (W-2/1099-MISC) and $1,976,887 estimated other compensation, totaling $10,016,731. Base vs. bonus/deferred breakdown not separately disclosed on 990 Part VII. Total executive compensation of $5,136,396 reported on BSW Health entity (EIN 75-6068308). Sources: philanthropy.org 990 extract; Rojas Report analysis citing filed 990."
   },
   "communityBenefit": {
     "claimedAmount": 1000000000,
@@ -160,8 +160,8 @@
     }
   ],
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Cannot compute: specific investment portfolio value not publicly broken out from $17.5B total assets",
+    "investmentsToOperatingIncome": 6.28,
+    "investmentsToOperatingIncomeInterpretation": "BSW holds $7.537B in long-term investments against $1.2B in operating income (FY2024), a 6.28x ratio — meaning for every dollar of operating income the system generates, it holds $6.28 in investment assets. This is among the highest ratios in the nonprofit health system sector.",
     "bondDebtToCommunityBenefit": 5.5,
     "bondDebtToCommunityBenefitInterpretation": "BSW carries $5.5B in tax-exempt bond debt, 5.5x its claimed $1B annual community benefit, meaning for every dollar of community benefit claimed, the system holds $5.50 in subsidized debt",
     "charityCarePctVsStateAvg": null,
