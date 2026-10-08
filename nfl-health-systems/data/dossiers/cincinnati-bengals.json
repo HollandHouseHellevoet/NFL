@@ -25,7 +25,7 @@
 
   "balanceSheetWealth": {
     "investmentPortfolio": null,
-    "investmentPortfolioSource": "Not separately disclosed on 990; university-level investments of $533M plus $799M endowment are University of Cincinnati figures, not attributable to UC Health operating entity",
+    "investmentPortfolioSource": "Not separately disclosed on Form 990 (EIN 27-3850988); UC Health's audited financial statements and EMMA continuing disclosures not accessible for verification. UC Health had $921M in unrestricted cash and investments at pandemic peak but spent $600M+ of that by Sept 2023; days cash on hand fell from 171 (2021) to 56 (2023) per WCPO/S&P reporting. University-level investments ($533M + $799M endowment) are University of Cincinnati figures, not attributable to UC Health operating entity.",
     "realEstateValue": null,
     "realEstateSource": "Not separately verified",
     "boardDesignatedFunds": null,

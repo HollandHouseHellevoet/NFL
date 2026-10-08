@@ -22,8 +22,8 @@
     "source": "Charlotte-Mecklenburg Hospital Authority (Atrium Health CMHA) FY2024 Audited Financial Statements"
   },
   "balanceSheetWealth": {
-    "investmentPortfolio": null,
-    "investmentPortfolioSource": "CMHA-specific investment breakdown not separately disclosed; consolidated Advocate Health (CMHA + AAH + WFB) held $22.18B in long-term investments as of Dec 31, 2024",
+    "investmentPortfolio": 7538312000,
+    "investmentPortfolioSource": "Atrium Health CMHA FY2024 Audited Financial Statements — fair value of CMHA's interest in the Advocate Health centralized investment pool was $7,538,312 (thousands) as of December 31, 2024; consolidated Advocate Health held $22.18B in long-term investments total",
     "realEstateValue": 1724085300,
     "realEstateSource": "Mecklenburg County property tax assessment (2022); Atrium is exempt as a unit of local government",
     "boardDesignatedFunds": null,
@@ -134,8 +134,8 @@
     }
   ],
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "CMHA-specific investment portfolio not separately disclosed in audited financials; consolidated Advocate Health holds $22.18B in long-term investments against CMHA operating income of $597M, but cross-entity ratio is not meaningful.",
+    "investmentsToOperatingIncome": 12.63,
+    "investmentsToOperatingIncomeInterpretation": "CMHA holds $7.54B in investments (its share of the Advocate Health centralized investment pool) against $597M in operating income — 12.63x ratio indicates a massive investment portfolio relative to operations, with every dollar of operating income backed by $12.63 in invested assets.",
     "bondDebtToCommunityBenefit": null,
     "bondDebtToCommunityBenefitInterpretation": "CMHA bond debt $3.1B vs. Atrium NC community benefit claim $2.38B (different fiscal years and reporting scopes); ratio not computed due to entity mismatch.",
     "charityCarePctVsStateAvg": null,

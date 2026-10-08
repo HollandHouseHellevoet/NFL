@@ -4,83 +4,84 @@
   "division": "West",
   "city": "Kansas City",
   "state": "Missouri",
-  "healthSystem": "Childrens Mercy",
-  "ein": "44-0546167",
+  "healthSystem": "The University of Kansas Health System",
+  "ein": null,
   "nonprofitType": "501c3",
-  "dealType": ["Official Healthcare Partner"],
-  "dealAnnounced": null,
+  "dealType": ["Official Healthcare Provider"],
+  "dealAnnounced": "2012-08",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": "FY2024 (ending June 30, 2024)",
-    "totalRevenue": 2080000000,
+    "fiscalYear": "FY2025 (ending June 30, 2025)",
+    "totalRevenue": 5400000000,
     "operatingIncome": null,
     "operatingMarginPct": null,
     "nonOperatingRevenue": null,
-    "totalAssets": 3349000000,
+    "totalAssets": 5100000000,
     "totalLiabilities": null,
-    "source": "Form 990 FY2024 (EIN 44-0605373) via ProPublica Nonprofit Explorer; total revenue $2.08B, total expenses $1.81B; operating budget reported as $1.7B by Children's Mercy; total assets $3.349B with net assets of approximately $2.7B"
+    "source": "Bond Buyer reporting on $415M bond offering (2026): total revenue $5.4B in FY2025 (up from $4.5B in FY2024), total assets $5.1B; health system FY2025 financial overview confirms total operating revenue of $5,394,325 (in thousands); Q1 FY2025 Becker's report: long-term debt $1B as of Sept. 30, 2024; the University of Kansas Hospital Authority is a state instrumentality created by K.S.A. 76-3304 and does not file Form 990"
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": 2600000000,
-    "investmentPortfolioSource": "Unrestricted cash and investments including hospital foundation holdings of $2.6B as of March 31, 2024, per Moody's and S&P credit reports cited in Beacon News and Healthcare Finance News",
+    "investmentPortfolio": null,
+    "investmentPortfolioSource": "Not separately disclosed in public financial overviews; S&P noted days cash on hand of 154 days in FY2025, down from 161 days in FY2023 and FY2024; balance sheet figures described as 'relatively weak compared with peers' by S&P Global",
     "realEstateValue": null,
     "realEstateSource": "Not verified",
     "boardDesignatedFunds": null,
-    "endowmentFunds": 322069047,
-    "notes": "Children's Mercy Hospital Foundation held $308M in total assets (FY2024). The Endowment Fund (EIN 44-6006542) contained 362 individual funds totaling $322M as of FY2025. Hospital plans to pay $1B+ of a $1.7B campus expansion in cash, indicating substantial liquid reserves beyond operational needs."
+    "endowmentFunds": null,
+    "notes": "Total assets of $5.1B against long-term debt of $1B as of Sept. 30, 2024, implying net assets in the range of $3B-$4B depending on other liabilities. The system does not publish a detailed balance sheet in its publicly available financial overviews. Its audited financial statements and bond investor presentations contain the full breakdown but are not freely available online. The $415M bond offering in 2026 — its first new debt since 2019 — will increase total leverage significantly."
   },
 
   "bondDebt": {
-    "totalOutstanding": null,
-    "fiscalYear": null,
-    "largestIssue": "Series 2026 Revenue Bonds (pending)",
-    "largestIssueProceeds": "Estimated $250M–$350M; hospital seeking up to $500M in total new tax-exempt debt for $1.7B campus expansion, which would nearly triple existing debt load",
-    "issuerAuthority": "Missouri Health and Educational Facilities Authority",
-    "source": "Beacon News June 2026; Bond Buyer; Moody's and S&P reports on 2026 bond offering"
+    "totalOutstanding": 1000000000,
+    "fiscalYear": "As of Sept. 30, 2024 (Q1 FY2025)",
+    "largestIssue": "Series 2026 Health Facilities Revenue Bonds",
+    "largestIssueProceeds": "415000000",
+    "issuerAuthority": "University of Kansas Hospital Authority",
+    "source": "Bond Buyer 2026: $415M offering split into $365M fixed-rate and $50M put bonds, secured by gross revenue pledge, rated AA- by both Fitch and S&P; proceeds fund cancer pavilion, purchase of leased Indian Creek Campus buildings, and refunding of 2004, 2011, and 2015 series; Becker's Hospital Review Q1 FY2025: long-term debt was $1B as of Sept. 30, 2024; this was the first debt issuance since 2019"
   },
 
   "relatedOrganizations": {
-    "captiveInsurance": "Childrens Mercy Hospital Self Insurance Trust (EIN 43-6321807)",
+    "captiveInsurance": null,
     "insuranceArmRevenue": null,
-    "physicianGroupEntity": "Children's Mercy - Pediatric Associates, Inc.; Children's Mercy - Preferred Pediatrics, Inc.",
-    "foundationEntity": "Children's Mercy Hospital Foundation (EIN 43-1564302)",
+    "physicianGroupEntity": "Kansas University Physicians Inc (EIN 48-1163756)",
+    "foundationEntity": null,
     "otherRelatedEntities": [
-      "Childrens Mercy Family Health Partners Inc (EIN 43-1726517)",
-      "Childrens Mercy Hospital Endowment Fund (EIN 44-6006542)",
-      "PedsMarket LLC (wholly owned subsidiary for pediatric innovation commercialization)"
+      "University of Kansas Medical Center Research Institute (EIN 48-1108830)",
+      "KU Endowment Association",
+      "Olathe Health System (acquired January 2023)",
+      "Liberty Hospital (acquired July 2024)"
     ],
     "relatedPartyTransactions": null,
-    "source": "Schedule R; ProPublica Nonprofit Explorer; Children's Mercy Center for Pediatric Innovation website"
+    "source": "HRSA 340B database; ProPublica Nonprofit Explorer; Daffy.org; Kansas University Physicians Inc stated mission is 'support to the University of Kansas Hospital Authority in connection with its health care operations'; the Hospital Authority is governed by a 19-member board, 13 appointed by the Kansas governor"
   },
 
   "executiveComp": {
-    "fiscalYear": "FY2024 (ending June 30, 2024)",
-    "ceoName": "Paul D. Kempinski",
-    "ceoBaseComp": 1675833,
+    "fiscalYear": null,
+    "ceoName": "Bob Page",
+    "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": 41752,
-    "ceoTotalComp": 1717585,
-    "topOfficersTotalComp": 12158050,
+    "ceoOtherComp": null,
+    "ceoTotalComp": null,
+    "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer and GiveFreely; Kempinski retired effective January 2025; Dr. Alejandro Quiroga (formerly of Corewell Health) succeeded him as President and CEO effective January 2, 2025"
+    "source": "Bob Page has served as President and CEO since July 2007, selected by the Hospital Authority Board; the University of Kansas Hospital Authority is a state instrumentality under K.S.A. 76-3304 and does not file IRS Form 990, so executive compensation is not publicly reported through that mechanism; employees are explicitly not state employees per Kansas statute, complicating public salary disclosure; no compensation figures found in public databases"
   },
 
   "communityBenefit": {
-    "claimedAmount": 352773663,
+    "claimedAmount": 713700000,
     "claimedPctOfRevenue": null,
-    "charityCareClaimedAmount": 215056063,
+    "charityCareClaimedAmount": 166200000,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "Children's Mercy FY2025 Community Benefit Report (childrensmercy.org); $352.8M total community benefit including $215.1M in uncompensated care; provides 100% charity care for Missouri and Kansas residents at or below 300% FPL"
+    "source": "KU Health System FY2025 Financial Overview: total community care support of $713.7M comprising $166.2M in charity care, in-kind health services, community education and advocacy, and health education training plus $547.5M in Medicaid and Medicare losses; excludes Olathe Hospital and Paola Hospital; FY2024 total was $693M ($151.1M charity care plus $541.9M Medicaid/Medicare losses); financial assistance eligibility covers patients with gross family income from 0% to 300% of federal poverty guidelines"
   },
 
   "taxAdvantage": {
@@ -91,35 +92,36 @@
     "salesTaxForegone": null,
     "taxExemptBondInterestSubsidy": null,
     "program340BEstimatedBenefit": null,
-    "notes": "Children's Mercy is tax-exempt since February 1956. Seeking up to $500M in new tax-exempt bonds in 2026 for campus expansion. Specific foregone tax amounts not verified."
+    "notes": "The Hospital Authority is exempt from Kansas ad valorem (property) taxes and state sales/use taxes on purchases for public purposes under K.S.A. 76-3313; its $415M in new tax-exempt bonds (2026) and prior outstanding debt generate substantial federal interest subsidy; the CVS lawsuit alleges $62M in 340B savings were diverted between 2020 and 2025, suggesting significant annual 340B program participation; specific foregone tax amounts not verified"
   },
 
   "layoffs": [
     {
-      "date": "2026-06",
-      "count": null,
-      "notes": "Offered early retirement to an undisclosed number of employees among its approximately 9,000-person workforce; hospital leaders stated the voluntary retirement offer was unrelated to its $1.7 billion building expansion plans; number of eligible employees and projected payroll savings not disclosed",
-      "source": "Beacon News June 12, 2026; Springfield Business Journal"
+      "date": "2020",
+      "count": 29,
+      "notes": "The St. Francis Campus in Topeka eliminated 29 positions and furloughed 235 full- and part-time workers during COVID-19 pandemic restructuring; CEO framed cuts as consolidation of some services; no other hospitals in the system were reported affected",
+      "source": "Becker's Hospital Review; KSNT"
     }
   ],
 
   "facilityClosures": [],
 
   "creditRating": {
-    "fitch": null,
-    "fitchOutlook": null,
-    "fitchDate": null,
-    "sp": "AA",
-    "spOutlook": "Stable",
-    "spDate": "2026-05",
-    "moodys": "Aa2",
-    "moodysOutlook": "Stable",
-    "moodysDate": "2026",
+    "fitch": "AA-",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2026",
+    "sp": "AA-",
+    "spOutlook": "Negative",
+    "spDate": "2026",
+    "moodys": null,
+    "moodysOutlook": null,
+    "moodysDate": null,
     "keyRiskFactors": [
-      "$1.7 billion campus expansion could nearly triple existing debt load — Moody's warned significant complications could lead to downgrade",
-      "Stand-alone pediatric hospital with regional concentration in Kansas City metro",
-      "Up to $500M in new tax-exempt bond issuances planned for 2026",
-      "Workforce restructuring via early retirement offers concurrent with massive capital plan"
+      "S&P assigned negative outlook citing weak days cash on hand — slipped from 161 days in FY2023/FY2024 to 154 days in FY2025",
+      "S&P noted balance sheet figures remain 'relatively weak compared with peers'",
+      "$415M new bond offering in 2026, first debt issuance since 2019, will significantly increase leverage atop $1B existing long-term debt",
+      "Rapid acquisition pace: absorbed Olathe Health (2023) and Liberty Hospital (2024) while still integrating operations",
+      "Thin operating margins — Q1 FY2025 margin of 2.2% ($26.8M on $1.22B revenue), following a -1.5% loss in Q1 FY2024"
     ]
   },
 
@@ -127,44 +129,58 @@
     "contractPharmacies": null,
     "outOfStatePharmaciesPct": null,
     "dshStatus": true,
-    "estimatedAnnualBenefit": null
+    "estimatedAnnualBenefit": null,
+    "notes": "Registered as DSH170040 (Disproportionate Share Hospital) since 10/1/2000; HRSA database shows multiple contract pharmacies including specialty pharmacies (Caremark, Accredo Health Group, Onco360); CVS terminated its contract pharmacy arrangement with KU in 2025 after the hospital requested an audit; the Hospital Authority filed suit in May 2026 alleging CVS diverted approximately $62M in 340B savings between 2020 and 2025"
   },
 
   "acquisitions": [
     {
-      "year": "2025",
-      "entity": "Mercy Springfield Pediatric Specialty Care",
-      "type": "Partnership",
-      "hospitals": 0,
-      "notes": "Children's Mercy officially took over leadership of pediatric specialty care in southwest Missouri through a partnership with Mercy Health Springfield; not a full acquisition but an operational takeover of pediatric services"
+      "year": "2023",
+      "entity": "Olathe Health System",
+      "type": "Acquisition",
+      "hospitals": 2,
+      "notes": "Two-hospital system in Olathe, Kansas; deal finalized January 2023; included commitments to bring KU Cancer Center care to Olathe campus and support Magnet nursing designation; Fitch cited the acquisition as contributing to improved scale"
     },
     {
-      "year": "2025",
-      "entity": "Children's Mercy Hospital Kansas Expansion",
-      "type": "Capital expansion",
-      "hospitals": 0,
-      "notes": "$152 million expansion plan for Children's Mercy Hospital Kansas campus in Overland Park"
+      "year": "2024",
+      "entity": "Liberty Hospital",
+      "type": "Acquisition",
+      "hospitals": 1,
+      "notes": "First hospital acquisition in Missouri; letter of intent signed November 2023, deal closed July 1, 2024; KU Health System pledged $324M investment in Liberty's service area and guaranteed no layoffs for at least one year; deal drew legislative opposition from Missouri lawmakers who pre-filed bills to block it; Liberty Hospital Foundation remains a separate entity"
     }
   ],
 
   "lobbying": {
     "amount2024": null,
     "politicalContributions2024": null,
-    "source": "OpenSecrets; not verified for 2024"
+    "source": "Not verified; as a state instrumentality the Hospital Authority may have different disclosure requirements than a private nonprofit"
   },
 
-  "legalIssues": [],
+  "legalIssues": [
+    {
+      "date": "2026-05",
+      "type": "340B fraud lawsuit",
+      "description": "University of Kansas Hospital Authority sued CVS and subsidiaries alleging CVS diverted approximately $62M in 340B drug pricing savings between 2020 and 2025; KU claims CVS terminated the contract pharmacy arrangement in retaliation after the hospital requested an audit of CVS records",
+      "source": "KCUR May 20, 2026"
+    },
+    {
+      "date": "2026-10",
+      "type": "Patient debt collection / wage garnishment",
+      "description": "KCUR/The Beacon investigation found the University of Kansas Health System and NKC Health are the only Kansas City area hospitals that garnish patients' wages; the system had sued more than 400 patients in Missouri and Kansas in 2026 alone (approximately 218 cases in Missouri, 114 in Kansas); other area systems including St. Luke's and AdventHealth do not sue patients, garnish wages, or place liens",
+      "source": "KCUR October 1-2, 2026"
+    }
+  ],
 
   "ratios": {
     "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Operating income not separately verified from Form 990; total excess of revenue over expenses was approximately $270M (FY2024), which would yield a ratio of approximately 9.6x ($2.6B investments / $270M excess)",
-    "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "Total outstanding bond debt not verified; new issuances of up to $500M planned for 2026 campus expansion",
+    "investmentsToOperatingIncomeInterpretation": "Investment portfolio not separately disclosed; operating income not reported for full FY2025; Q1 FY2025 operating income was $26.8M (2.2% margin) on $1.22B revenue",
+    "bondDebtToCommunityBenefit": 1.4,
+    "bondDebtToCommunityBenefitInterpretation": "Existing $1B long-term debt (Sept. 2024) against $713.7M claimed community benefit (FY2025) yields a ratio of 1.4x; with the $415M new issuance, total debt could approach $1.4B, pushing the ratio toward 2.0x — meaning every dollar of claimed community benefit would be matched by nearly two dollars of tax-exempt debt",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "Missouri state average not verified; Children's Mercy provides 100% charity care for residents at or below 300% FPL and claimed $215M in uncompensated care (FY2025)"
+    "charityCareVsStateInterpretation": "Charity care of $166.2M against $5.4B total revenue is approximately 3.1% of revenue; the bulk of the system's $713.7M community benefit claim ($547.5M, or 77%) consists of Medicaid and Medicare shortfalls rather than charity care"
   },
 
-  "accusation": "Holds $2.6 billion in cash and investments atop $3.3 billion in total assets with an AA credit rating, yet offered early retirement to an undisclosed number of its 9,000 employees while seeking $500 million in new tax-exempt bonds to finance a $1.7 billion campus expansion that Moody's warned could triple its debt load.",
+  "accusation": "Sits atop $5.1 billion in total assets with $5.4 billion in annual revenue as a tax-exempt state instrumentality, yet garnishes the wages of patients who cannot pay their medical bills — one of only two hospitals in Kansas City that does so — while suing more than 400 patients in a single year. Issued $415 million in new tax-exempt bonds in 2026 atop $1 billion in existing debt, even as S&P downgraded its outlook to negative over weakening cash reserves. Claims $713.7 million in community benefit, but 77% of that figure ($547.5 million) is Medicaid and Medicare shortfalls rather than actual charity care. Meanwhile, alleges CVS diverted $62 million in 340B drug pricing savings — taxpayer-subsidized discounts intended for vulnerable patients — raising questions about oversight of its own contract pharmacy operations.",
 
-  "infographicPrompt": "Rojas Report brand infographic for Children's Mercy Kansas City. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'CHILDREN'S MERCY'. Subhead cream Source Sans Pro 600: 'Kansas City Chiefs — Official Healthcare Partner'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $2.08B (FY2024)'. Block 2 — 'CEO Pay: $1.72M (Kempinski)'. Block 3 — 'Total Assets: $3.35B'. Block 4 — 'Cash & Investments: $2.6B'. Single large orange callout number '$2.6B' above headline with Cream 'in cash and investments' below in italic. Bottom line in Cream Source Sans Pro 600: 'Seeking $500M in new tax-exempt bonds for a $1.7B campus expansion. Offered early retirement to undisclosed number of 9,000 employees. AA credit rating from S&P.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Form 990 FY2024 · ProPublica Nonprofit Explorer · Moody's/S&P Credit Reports · Children's Mercy FY2025 Community Benefit Report.'"
+  "infographicPrompt": "Rojas Report brand infographic for The University of Kansas Health System. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'THE UNIVERSITY OF KANSAS HEALTH SYSTEM'. Subhead cream Source Sans Pro 600: 'Kansas City Chiefs — Official Healthcare Provider'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $5.4B (FY2025)'. Block 2 — 'Total Assets: $5.1B'. Block 3 — 'Long-Term Debt: $1.0B'. Block 4 — 'Community Benefit Claimed: $713.7M'. Single large orange callout number '$5.1B' above headline with Cream 'in total assets as a tax-exempt state instrumentality' below in italic. Bottom line in Cream Source Sans Pro 600: 'Garnishes patient wages. Sued 400+ patients in 2026. S&P outlook negative. $415M in new tax-exempt bonds. CVS alleges $62M in 340B savings diverted.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Bond Buyer · Becker's Hospital Review · KCUR · HRSA 340B Database · KU Health System FY2025 Financial Overview · S&P Global · Fitch Ratings.'"
 }
