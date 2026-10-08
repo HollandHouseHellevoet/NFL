@@ -5,13 +5,47 @@
   "city": "Landover",
   "state": "Maryland",
   "healthSystem": "Inova Health System",
+  "healthSystemNote": "Inova terminated its comprehensive 'Official Health System' partnership in April 2021, approximately five years into a 10-year deal. The Commanders have not named a replacement comprehensive healthcare partner. Instead, the team has multiple category-specific healthcare partnerships: OrthoVirginia (Official Orthopedic and Sports Medicine Partner, training center naming rights, 10-year deal announced Sept 2022), VHC Health (Official Women's Health Partner, announced Oct 2023), Children's National Hospital (Proud Pediatric Partner, multi-year deal announced Oct 2023), and Patient First (Proud Urgent Care Partner, announced 2026). None holds the 'Official Health System' or 'Official Healthcare Partner' title Inova held. OrthoVirginia is a for-profit physician-owned practice. VHC Health and Children's National Hospital are 501(c)(3) nonprofit hospitals but hold only category-specific titles.",
   "ein": "54-1760205",
   "nonprofitType": "501c3",
-  "dealType": ["Official Healthcare Partner"],
+  "dealType": ["Former Official Healthcare Partner"],
   "dealAnnounced": "2017",
   "dealTermsDisclosed": false,
   "dealEndDate": "2021-04",
-  "dealNotes": "10-year agreement announced 2017 per Washington Post; financial terms not disclosed. Inova ended partnership in April 2021, approximately 5 years early, citing decision to focus on orthopedic and musculoskeletal growth. Sponsorship as Official Health System continued through 2021 season. Current Commanders health partners include VHC Health (women's health, Oct 2023) and OrthoVirginia (orthopedic/sports medicine, Sept 2022).",
+  "dealNotes": "10-year agreement announced 2017 per Washington Post; financial terms not disclosed. Inova ended partnership in April 2021, approximately 5 years early, citing decision to focus on orthopedic and musculoskeletal growth. Inova's April 2021 press release stated: 'Inova has made the decision to discontinue its medical team's role as the team physicians for the Washington Football Team.' Sponsorship as Official Health System continued through end of 2021 season. The deal had included naming rights for the practice facility (Inova Sports Performance Center at Redskins Park). Inova was one of several sponsors to exit during the team's workplace misconduct investigations under former owner Dan Snyder.",
+  "currentCategoryPartners": [
+    {
+      "name": "OrthoVirginia",
+      "title": "Official Orthopedic and Sports Medicine Partner",
+      "announced": "2022-09",
+      "dealLength": "10 years",
+      "namingRights": "OrthoVirginia Training Center at Commanders Park",
+      "type": "For-profit physician-owned practice",
+      "notes": "Also provides medical care and recovery services to the Commanders roster. Largest current healthcare-related deal by visibility (training center naming rights)."
+    },
+    {
+      "name": "VHC Health",
+      "title": "Official Women's Health Partner",
+      "announced": "2023-10",
+      "type": "501(c)(3) nonprofit hospital (formerly Virginia Hospital Center)",
+      "notes": "Partnership includes breastfeeding and lactation pods at Northwest Stadium (formerly FedExField). Launched 'Commanders Babies' program in January 2024. VHC Health also signed separate community wellness partnership with QB Jayden Daniels."
+    },
+    {
+      "name": "Children's National Hospital",
+      "title": "Proud Pediatric Partner",
+      "announced": "2023-10",
+      "dealLength": "Multi-year",
+      "type": "501(c)(3) nonprofit hospital",
+      "notes": "Partnership focused on health and wellness of children in the National Capital Region."
+    },
+    {
+      "name": "Patient First",
+      "title": "Proud Urgent Care Partner",
+      "announced": "2026",
+      "type": "For-profit urgent care chain",
+      "notes": "Partnership includes collaboration to donate AED devices to local schools."
+    }
+  ],
   "estimatedDealValue": null,
 
   "financials": {
@@ -204,7 +238,7 @@
     "charityCareVsStateInterpretation": "Virginia state average not verified. Lown Institute identified a $123M fair share deficit (FY2020), indicating community spending $123M below the fair share value of its estimated $218M in annual tax breaks. Inova self-describes as 'one of the largest providers of uncompensated care in Virginia' but this is not independently confirmed."
   },
 
-  "accusation": "Inova Health System holds a $9.5 billion investment portfolio — one of the largest among U.S. nonprofit health systems and 16x its operating income — across five tax-exempt hospitals in Northern Virginia's wealthiest jurisdictions, while the Lown Institute found its community spending $123 million below the fair share value of its estimated $218 million in annual tax breaks. Inova's CEO earned $6.6 million in total compensation. The system generated $2 billion in net income in FY2025, with $1.4 billion from non-operating sources (primarily investment returns), while its 10-year partnership with the Washington Commanders (then Redskins) as official health system — terminated early in April 2021 — exemplified the use of tax-exempt nonprofit resources for professional sports marketing.",
+  "accusation": "Inova Health System sits on $11 billion in net assets and a $9.5 billion investment portfolio — one of the largest hoards of tax-exempt wealth among U.S. nonprofit hospital systems — while operating five hospitals in Northern Virginia's wealthiest jurisdictions with $14.7 billion in total assets on its balance sheet. The system generated $2 billion in net income in FY2025, with $1.4 billion flowing from investment returns rather than patient care. Its CEO earned $6.6 million. The Lown Institute found Inova's community spending fell $123 million short of the fair share value of its estimated $218 million in annual tax breaks. Inova held a 10-year 'Official Health System' partnership with the Washington Commanders (then Redskins) — a deal that used tax-exempt nonprofit resources for professional sports marketing — until the system terminated it early in April 2021, five years into the contract, amid the team's workplace misconduct scandals. The Commanders have not named a replacement comprehensive healthcare partner; they now hold category-specific deals with OrthoVirginia (a for-profit orthopedic practice with training center naming rights), VHC Health, Children's National Hospital, and Patient First.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with verified $9.5B investment portfolio (orange callout). Show $7.3B total revenue, $582.7M operating income (8.0% margin), $2.0B net income (FY2025). Show $14.67B total assets, $11.09B net assets. Highlight 16.3x investments-to-operating-income ratio. Show Lown Institute fair share deficit: $218M estimated tax benefits vs $95M community spending = $123M deficit (FY2020). Note S&P AA+ / Moody's Aa2 credit ratings. CEO compensation $6.6M. Show five hospital campuses across Fairfax County, Loudoun County, and City of Alexandria. Note Commanders partnership ended April 2021 (10-year deal cut short by ~5 years). 340B estimated annual benefit $115M (AIR340B estimate). Bottom note: Balance sheet as of Dec 31, 2024; investment portfolio as of March 31, 2025; operating data FY2025."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Lead with verified $11.09B net assets and $9.5B investment portfolio (orange callout). Show $14.67B total assets, $3.58B total liabilities. Show $7.3B total revenue, $582.7M operating income (8.0% margin), $2.0B net income (FY2025). Highlight 16.3x investments-to-operating-income ratio. Show Lown Institute fair share deficit: $218M estimated tax benefits vs $95M community spending = $123M deficit (FY2020). Note S&P AA+ / Moody's Aa2 credit ratings. CEO compensation $6.6M. Show five hospital campuses across Fairfax County, Loudoun County, and City of Alexandria. Prominent callout: 'FORMER PARTNER — Deal terminated April 2021.' Note current category partners: OrthoVirginia (orthopedic, training center naming rights), VHC Health (women's health), Children's National (pediatric), Patient First (urgent care). 340B estimated annual benefit $115M (AIR340B estimate). Bottom note: Balance sheet as of Dec 31, 2024; investment portfolio as of March 31, 2025; operating data FY2025. Deal ended April 2021; no comprehensive healthcare partner since."
 }
