@@ -4,93 +4,116 @@
   "division": "South",
   "city": "Nashville",
   "state": "Tennessee",
-  "healthSystem": "Ascension",
-  "ein": "43-1671412",
-  "nonprofitType": "faith-based",
-  "dealType": ["Official Healthcare Partner (former)", "Training Facility Naming (former)"],
-  "dealAnnounced": "July 2013 (Saint Thomas Sports Park naming); partnership ended March 1, 2026 when Ascension ended the relationship; replaced by Vanderbilt Health",
+  "healthSystem": "Vanderbilt Health",
+  "ein": "35-2528741",
+  "nonprofitType": "academic medical center",
+  "dealType": ["Official Healthcare Provider", "Cornerstone Stadium Sponsor", "Training Facility Naming"],
+  "dealAnnounced": "March 2, 2026",
   "dealTermsDisclosed": false,
   "estimatedDealValue": null,
+  "dealNotes": "Multiyear agreement. Vanderbilt Health becomes Official Healthcare Provider of the Tennessee Titans and Nissan Stadium. Training facility renamed Vanderbilt Health Football Center. Vanderbilt LifeFlight Event Medicine provides first aid and emergency medical services for all stadium events. As a founding Cornerstone Sponsor of the new $2.1B Nissan Stadium (opening 2027), VUMC receives a branded family zone named the Monroe Carell Jr. Children's Hospital at Vanderbilt Terrace, a Vanderbilt Health entry gate, and permanent signage inside the 60,000-capacity stadium bowl. Partnership includes community initiatives centered on Monroe Carell Jr. Children's Hospital and youth sports. Replaces Ascension Saint Thomas, which ended its partnership effective March 1, 2026.",
 
   "financials": {
-    "fiscalYear": "FY2025 (ended June 30, 2025)",
-    "totalRevenue": 25300000000,
-    "operatingIncome": -491000000,
-    "operatingMarginPct": -1.9,
-    "nonOperatingRevenue": 1409000000,
-    "totalAssets": 39860000000,
-    "totalLiabilities": null,
-    "source": "Ascension Consolidated Financial Statements Q4 FY2025; Ascension Q4 FY25 news release September 2025; FierceHealthcare; Becker's Hospital Review. Non-operating revenue derived from reported net income of $918M minus operating loss of -$491M. Figures are for consolidated Ascension system (Ascension Health Alliance, EIN 45-3358926). Same health system as Indianapolis Colts dossier."
+    "fiscalYear": "FY2024 (ended June 30, 2024)",
+    "totalRevenue": 7706035528,
+    "operatingIncome": 168300000,
+    "operatingMarginPct": 2.2,
+    "nonOperatingRevenue": 152500000,
+    "netIncome": 320800000,
+    "totalAssets": 6568033000,
+    "totalLiabilities": 4106297000,
+    "netAssets": 2461736000,
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 35-2528741); VUMC Continuing Disclosure Report; Becker's Hospital Review (operating income and margin from disclosure report data). Total revenue of $7,706,035,528 per Form 990. Operating income of $168.3M on ~$7.6B operating revenue per disclosure report (2.2% margin), up from $51.7M (0.8% margin) in FY2023. Net income of $320.8M includes $67M Medicare 340B settlement and $83M in one-time state-directed payments. FY2025 interim (nine months ended March 31, 2025): operating revenue $6,192M (+11% YoY), income from operations $120.3M, operating margin 1.9%, total assets $7,241,679,000. VUMC separated from Vanderbilt University in April 2016 as an independent nonprofit; these figures are VUMC-only, not the university."
   },
 
   "balanceSheetWealth": {
-    "investmentPortfolio": 19450000000,
-    "investmentPortfolioSource": "Ascension Consolidated Financial Statements Q4 FY2025 — long-term investments of $19,449,512 thousand as of June 30, 2025; plus short-term investments of $43,974 thousand",
+    "investmentPortfolio": 1073228000,
+    "investmentPortfolioSource": "VUMC Consolidated Balance Sheet as of June 30, 2024 — noncurrent investments of $1,073,228 thousand, up from $932,952 thousand at June 30, 2023. Separately, noncurrent investments limited as to use totaled $209,718 thousand. Total noncurrent investment-related assets approximately $1.28B. FY2023 audited statements noted VUMC has $2,447.6M of financial assets available within one year, including unrestricted investments of $1,037.9M.",
     "realEstateValue": null,
     "realEstateSource": null,
     "boardDesignatedFunds": null,
-    "endowmentFunds": null,
-    "notes": "Substantially all cash and investments are managed by Ascension Investment Management (AIM), a wholly owned subsidiary. More than $1B allocated to alternative investments including private equity and private credit. As of December 31, 2024 (mid-year FY2025), net unrestricted cash and investments were $15B. System had 228 days cash on hand as of June 30, 2025. Ascension manages assets using an endowment-style approach. Ascension Saint Thomas operates 11 hospital campuses in Tennessee across a 45-county area."
+    "endowmentFunds": 111400000,
+    "endowmentSource": "VUMC permanent endowment funds of $111.4M per state disclosure note. This is VUMC's own endowment, separate from Vanderbilt University's ~$10.9B endowment (FY2025). The university and medical center maintain separate balance sheets since the April 2016 separation.",
+    "notes": "VUMC manages all investments, including endowments, in various investment pools. Net assets without donor restrictions were $2,117,322,000 and net assets with donor restrictions were $344,414,000 as of June 30, 2024. Total net assets grew from $2,113,555,000 (FY2023) to $2,461,736,000 (FY2024). As of March 31, 2025 (interim), total assets had grown to $7,241,679,000, driven in part by the $600M Tennova Healthcare-Clarksville acquisition. VUMC's investment portfolio is modest compared to the largest health systems but represents substantial accumulated nonprofit wealth for a single-market academic medical center."
   },
 
   "bondDebt": {
-    "totalOutstanding": 5600000000,
-    "fiscalYear": "Q3 FY2025 (as of March 31, 2025)",
-    "largestIssue": "December 2025 tax-exempt revenue bonds",
-    "largestIssueProceeds": "$2.5 billion — issued through authorities in Indiana, Tennessee, and Texas for capital projects and refunding of previously issued tax-exempt bonds; separate $2.1B taxable bond issuance in November 2025 used to defease remaining tax-exempt subordinate bonds",
-    "issuerAuthority": "Multiple state health facility finance authorities (Indiana, Tennessee, Texas)",
-    "source": "Ascension Consolidated Financial Statements Q3 FY2025 ($5.6B long-term debt as of March 31, 2025); Fitch Ratings September 2025 (downgrade affected $5.5B in bonds); Bond Buyer; Fitch expects Ascension to issue up to $4.2B in additional debt. Tennessee is one of the issuing states for Ascension's tax-exempt revenue bonds."
+    "totalOutstanding": null,
+    "fiscalYear": null,
+    "largestIssue": "Series 2026 tax-exempt and taxable revenue bonds",
+    "largestIssueProceeds": "$1,094,555,000 — tax-exempt and taxable offering for new money and refunding per Piper Sandler Healthcare Market Update April 6, 2026",
+    "issuerAuthority": "Health and Educational Facilities Board of the Metropolitan Government of Nashville and Davidson County",
+    "outstandingSeries": "Series 2016A, 2016B (taxable), 2017A, 2021B, 2022B, 2024A, 2026-B per VUMC March 31, 2025 disclosure report and SEC fund filings",
+    "recentIssuances": [
+      "October 2024: HEFB approved up to $450,000,000 in Series 2024 tax-exempt revenue bonds for VUMC",
+      "2025: HEFB approved up to $194,000,000 in tax-exempt bonds for Vanderbilt LifeFlight aircraft and refunding of existing debt",
+      "2026: $1,094,555,000 tax-exempt and taxable offering (new money and refunding) per Piper Sandler; Series 2026-B at 5.00% maturing 7/1/2043 per SEC fund filing"
+    ],
+    "source": "VUMC Continuing Disclosure Report (March 31, 2025); Nashville HEFB meeting minutes (October 2024 and May 2025); Piper Sandler Weekly Healthcare Market Update April 6, 2026; SEC NPORT-P filing (Tax Exempt Bond Fund of America). Moody's affirmed A3 rating on approximately $926M of outstanding VUMC bonds circa 2017; outstanding principal has grown significantly since then through multiple new series. Exact total outstanding not confirmed from available search results; VUMC's audited financial statements contain the definitive figure."
   },
 
   "relatedOrganizations": {
     "captiveInsurance": null,
     "insuranceArmRevenue": null,
     "physicianGroupEntity": null,
-    "foundationEntity": "Ascension Foundation",
+    "foundationEntity": null,
     "otherRelatedEntities": [
-      "Ascension Saint Thomas (Nashville, TN — local operating division; 11 hospital campuses across 45 Tennessee counties)",
-      "Ascension Investment Management (AIM) — manages substantially all system cash and investments",
-      "Ascension Care Management — insurance holdings company",
-      "Ascension Capital",
-      "Ascension Ventures",
-      "Ascension Holdings",
-      "Ascension Technologies — healthcare IT services",
-      "Ascension Leadership Academy",
-      "Ascension Rx — pharmacy operations including 340B and specialty pharmacy",
-      "Ascension St. Vincent (Indianapolis, IN — Colts partner)"
+      "Vanderbilt University (Nashville, TN — separate nonprofit since April 2016; VUMC clinicians serve as faculty at VU School of Medicine and School of Nursing; VU endowment ~$10.9B is separate from VUMC)",
+      "Monroe Carell Jr. Children's Hospital at Vanderbilt (pediatric hospital within VUMC system)",
+      "Vanderbilt-Ingram Cancer Center (NCI-designated comprehensive cancer center)",
+      "Vanderbilt Psychiatric Hospital",
+      "Vanderbilt Stallworth Rehabilitation Hospital",
+      "Vanderbilt Wilson County Hospital (acquired 2019 from CHS/Tennova Healthcare-Lebanon)",
+      "Vanderbilt Bedford Hospital (acquired 2021 from CHS/Tennova Healthcare-Shelbyville)",
+      "Vanderbilt Tullahoma-Harton Hospital (acquired 2021 from CHS/Tennova Healthcare-Tullahoma)",
+      "Vanderbilt Clarksville Hospital (acquired February 2026 from CHS/Tennova Healthcare-Clarksville, $600M, 270-bed)",
+      "Vanderbilt Emergency Sango (freestanding ER, acquired with Clarksville)",
+      "Vanderbilt LifeFlight (air medical transport program; HEFB approved up to $194M in bonds for aircraft)",
+      "Vanderbilt Health Affiliated Network (clinician network covering 172 counties)",
+      "Vanderbilt Health Football Center (renamed training facility per Titans partnership)"
     ],
     "relatedPartyTransactions": null,
-    "source": "Schedule R; Ascension Consolidated Financial Statements; Ascension corporate website; Missouri subsidiary list includes 40+ entities. Same parent system as Indianapolis Colts dossier."
+    "source": "VUMC corporate website; VUMC news releases; Wikipedia; Vanderbilt University financial reports. Schedule R details not extracted from Form 990 filing. VUMC operates hospitals, clinics, physician practices and affiliates covering 172 counties per VUMC corporate materials."
   },
 
   "executiveComp": {
-    "fiscalYear": "FY2023 (ended June 30, 2023)",
-    "ceoName": "Joseph R. Impicciche",
+    "fiscalYear": "FY2024 (ended June 30, 2024)",
+    "ceoName": "Jeffrey R. Balser, MD, PhD",
+    "ceoTitle": "President and CEO, Vanderbilt Health; Dean, Vanderbilt University School of Medicine",
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": 61076,
-    "ceoTotalComp": 9118708,
-    "topOfficersTotalComp": null,
+    "ceoReportableComp": 7614754,
+    "ceoOtherComp": 1528353,
+    "ceoTotalComp": 9143107,
+    "otherHighlyCompensatedOfficers": [
+      {
+        "name": "C. Wright Pinson, MBA, MD",
+        "title": "Deputy CEO and Chief Health System Officer",
+        "reportableComp": 3843576,
+        "otherComp": 914759,
+        "totalComp": 4758335
+      }
+    ],
     "numberOfOfficersReported": null,
     "perks": [
-      "First class or charter travel",
-      "Tax indemnification and gross-up payments"
+      "First class or charter travel"
     ],
     "splitDollarInsurance": null,
-    "source": "Form 990 FY2023 via ProPublica Nonprofit Explorer and Paddock Post (EIN 45-3358926). Other top executives FY2023: Craig Cordola (EVP/COO) $5,304,408; Eduardo Conrado (Former Board Member) $5,073,352; Elizabeth Foshage (EVP/CFO) $3,981,721; Karen Springer (EVP/CNE) $3,921,283. FY2024 filing shows CEO reportable compensation of $9,963,725 plus $2,317,426 in other compensation ($12,281,151 total). Five-year CEO total (FY2020-2024): approximately $48M."
+    "ceoTransition": "Balser retiring December 31, 2026 after nearly two decades. David C. Miller, MD, MPH (CEO of Michigan Medicine and EVP for Medical Affairs at University of Michigan) chosen as successor effective January 1, 2027.",
+    "source": "Form 990 FY2024 via ProPublica Nonprofit Explorer (EIN 35-2528741). Balser FY2024 reportable compensation $7,614,754 plus $1,528,353 in other compensation ($9,143,107 total). FY2023: $5,488,022 reportable plus $1,439,525 other ($6,927,547 total). FY2022: $5,461,441. FY2021: $4,244,426. FY2020: $2,791,658. Pinson FY2024: $3,843,576 reportable plus $914,759 other ($4,758,335 total). FY2023: $3,383,341 reportable plus $757,224 other ($4,140,565 total). Schedule J indicates first class or charter travel for key employees. Retirement announced March 12, 2026; successor announced July 15, 2026."
   },
 
   "communityBenefit": {
-    "claimedAmount": 2100000000,
-    "claimedPctOfRevenue": 7.4,
+    "claimedAmount": 952000000,
+    "claimedPctOfRevenue": 12.4,
     "charityCareClaimedAmount": null,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "Ascension community benefit webpage and Ascension Consolidated Financial Statements FY2024. $2.1B in Care of Persons Living in Poverty and Other Community Benefit Programs for FY2024 (ended June 30, 2024). With unpaid costs of Medicare included, total reaches $4.3B. Ascension claims this is four times what it would have paid in taxes as a for-profit company. Percentage calculated against FY2024 total operating revenue of $28.55B. System-wide figure; Ascension Saint Thomas reported $154M in Tennessee community benefit in FY2021 but current Tennessee-specific figure not verified."
+    "source": "VUMC news release (March 26, 2025): $952 million in charity care, community benefits and other unrecovered costs for FY2024. Includes costs directly supporting patients through financial assistance, unreimbursed TennCare/Medicaid costs, community health improvement grants, and investments in medical research and education. Broader definition claims more than $1B in total community benefit and investment. Percentage calculated against FY2024 Form 990 total revenue of $7,706,035,528. Combined Vanderbilt University and VUMC economic impact on Nashville and Tennessee: $22.13B from 2019-2024. Schedule H community benefit breakdown not extracted from Form 990 filing."
   },
 
   "taxAdvantage": {
@@ -101,140 +124,119 @@
     "salesTaxForegone": null,
     "taxExemptBondInterestSubsidy": null,
     "program340BEstimatedBenefit": null,
-    "notes": "Ascension claims its $2.1B community benefit is four times what it would have paid in taxes as a for-profit company, implying estimated annual tax advantage of approximately $525M. Operates across 15 states and the District of Columbia with significant tax-exempt property holdings. Tennessee has no state income tax on wages. Ascension Saint Thomas operates 11 hospital campuses across Tennessee, all property-tax-exempt. Tennessee is one of the issuing states for Ascension's tax-exempt revenue bonds."
+    "notes": "VUMC is a 501(c)(3) tax-exempt organization (EIN 35-2528741, tax-exempt since 2015 following April 2016 separation from Vanderbilt University). Tennessee has no state income tax on wages, but VUMC benefits from federal income tax exemption, property tax exemption on its Nashville/Davidson County campus and satellite facilities, and the ability to issue tax-exempt revenue bonds through the HEFB. Multiple bond series outstanding through Nashville's Health and Educational Facilities Board, with over $1B in new issuance in 2026 alone. No PILOT (payment in lieu of taxes) agreement found in Nashville Metro Council records."
   },
 
   "layoffs": [
     {
-      "date": "2023-01",
+      "date": "2025-05",
       "count": null,
-      "notes": "Ascension confirmed layoffs of employees in Texas; primarily nonclinical support roles; declined to specify number of positions affected",
-      "source": "Becker's Hospital Review; KXAN Austin"
+      "notes": "Initial round of cost reductions: hiring freeze for most research and administrative positions, some positions eliminated. Part of $250M cost-cutting effort in response to federal funding reductions.",
+      "source": "WPLN Nashville; Becker's Hospital Review"
     },
     {
-      "date": "2024",
-      "count": null,
-      "notes": "Layoffs and hiring freeze triggered by May 2024 ransomware cyberattack and resulting $1.8B operating loss; number unspecified; New York Times alleged system-wide staffing crisis leading to complaints about possible preventable deaths. No Tennessee-specific WARN notices found for Ascension in 2024.",
-      "source": "FierceHealthcare; Becker's Hospital Review; New York Times; Tennessee WARN notice tracker"
-    },
-    {
-      "date": "2025",
-      "count": 500,
-      "notes": "Approximately 500 employees laid off system-wide with reports suggesting total could climb to 1,000; affected locations include Michigan (Ascension St. John), Illinois, Kansas, and Oklahoma. No Tennessee-specific layoffs confirmed in search results.",
-      "source": "Crain's Detroit Business; FierceHealthcare; Lime Entrepreneur"
+      "date": "2025-06-20",
+      "count": 650,
+      "notes": "Up to 650 employees laid off, largely research, administration and support roles (less than 2% of total workforce). Tennessee WARN notice filed for 615 workers with effective date of April 8, 2025. Combined with earlier cuts as part of $300M+ operating cost reduction. Driven by federal budgetary actions related to government-sponsored research and patient care, including proposed NIH funding cuts and Medicaid changes. Clinical positions largely unaffected. Laid-off employees received severance packages and outplacement assistance.",
+      "source": "FierceHealthcare; WPLN Nashville; Tennessee Lookout; WSMV Nashville; Nashville Banner; HealthLeaders Media; Tennessee Department of Labor WARN notice tracker (615 workers); Kadoa layoff tracker"
     }
   ],
 
-  "facilityClosures": [
-    {
-      "date": "2022-2025",
-      "facility": "System-wide hospital portfolio reduction",
-      "notes": "Reduced from approximately 139 hospitals to 90 wholly owned or consolidated hospitals through strategic divestitures as part of post-pandemic operational transformation",
-      "source": "Becker's Hospital Review; FierceHealthcare; Becker's ASC Review"
-    },
-    {
-      "date": "2024-02",
-      "facility": "Our Lady of Lourdes Memorial Hospital (Binghamton, NY)",
-      "notes": "Sold to the Guthrie Clinic",
-      "source": "Becker's Hospital Review"
-    },
-    {
-      "date": "2024",
-      "facility": "10 Ascension Michigan hospitals",
-      "notes": "Joint venture with Henry Ford Health; hospitals folded into partnership",
-      "source": "Becker's Hospital Review"
-    },
-    {
-      "date": "2025-06",
-      "facility": "9 Illinois/Chicago-area hospitals and 4 senior living facilities",
-      "notes": "Sold to Prime Healthcare Services; includes Ascension Holy Family, Ascension Mercy, Ascension Resurrection, Ascension St. Francis, Ascension St. Joseph (Joliet), Ascension St. Joseph (Elgin), Ascension St. Mary (Kankakee), Ascension St. Mary (Chicago), Ascension St. Elizabeth",
-      "source": "Religion News Service; Becker's Hospital Review"
-    },
-    {
-      "date": "2025-07",
-      "facility": "4 Southwest Michigan hospitals (Ascension Borgess system)",
-      "notes": "Sold to Beacon Health System; Kalamazoo, Allegan, Plainwell, and Dowagiac facilities",
-      "source": "Becker's Hospital Review"
-    }
-  ],
+  "facilityClosures": [],
 
   "creditRating": {
-    "fitch": "AA",
+    "fitch": null,
     "fitchOutlook": null,
-    "fitchDate": "2025-09",
-    "sp": "AA",
-    "spOutlook": "Stable",
-    "spDate": "2025-09",
-    "moodys": "Aa3",
+    "fitchDate": null,
+    "sp": "A",
+    "spOutlook": null,
+    "spDate": "2026-04",
+    "moodys": "A3",
     "moodysOutlook": "Stable",
-    "moodysDate": "2026-10",
+    "moodysDate": null,
     "keyRiskFactors": [
-      "Persistent operating losses — $1.8B loss in FY2024, $491M loss in FY2025, $120M loss through FY2026 Q3",
-      "Massive hospital divestiture program reducing portfolio from 139 to 90 facilities since 2022",
-      "May 2024 ransomware attack exposing 5.4M patient records and contributing to $1.3B in financial impact",
-      "Fitch expects up to $4.2B in additional debt issuance, constraining cash-to-debt ratio",
-      "$3.9B AmSurg acquisition adding significant leverage",
-      "Fitch downgraded from AA+ to AA in September 2025 citing inadequate profitability"
-    ]
+      "Historically thin operating margins — 2.2% in FY2024, improved from 0.8% in FY2023 but partly driven by one-time items ($67M Medicare 340B settlement + $83M state-directed payments)",
+      "Heavy reliance on federal funding — $300M+ in budget cuts triggered by proposed NIH and Medicaid reductions, leading to 650 layoffs in 2025",
+      "Significant debt growth — multiple new bond series since 2016 separation, including $1.09B offering in 2026 and $450M Series 2024A",
+      "$600M acquisition of Tennova Healthcare-Clarksville adds integration risk and leverage",
+      "Single-market concentration in Middle Tennessee unlike diversified multi-state systems",
+      "CEO transition underway — Balser retiring December 2026, successor from University of Michigan starting January 2027"
+    ],
+    "source": "Moody's A3 with Stable outlook affirmed on approximately $926M of VUMC outstanding bonds (Becker's Hospital Review, circa 2017). S&P 'A' rating inferred from Piper Sandler Weekly Healthcare Market Update April 6, 2026 listing VUMC offering as 'NR/A/A' (interpreted as not rated by one agency / A by S&P / A by another). Current ratings may differ; VUMC's standalone credit profile is significantly lower than Vanderbilt University's ratings (Fitch AAA, S&P AAA, Moody's Aa1) because the entities separated in 2016. No 2024-2025 rating actions found for VUMC specifically in search results."
   },
 
   "program340B": {
-    "contractPharmacies": null,
-    "outOfStatePharmaciesPct": null,
+    "contractPharmacies": 259,
+    "outOfStatePharmaciesPct": 24,
     "dshStatus": true,
     "estimatedAnnualBenefit": null,
-    "tennesseeEntities": [
-      "Saint Thomas River Park Hospital (McMinnville) — DSH, 340B ID DSH440151, active, participation since 2017",
-      "Saint Thomas Hickman Hospital (Centerville) — Critical Access Hospital, 340B ID CAH441300-00, active, participation since 2011"
-    ],
-    "notes": "Ascension Rx (Michigan-based Ascension pharmacy subsidiary) previously held contract pharmacy arrangements with Tennessee 340B entities but some were terminated. Pharmaceutical companies have imposed restrictions forcing Ascension hospitals to choose one contract pharmacy within a defined radius; many specialty pharmacies fall outside the typical 40-mile limit."
+    "fairShareDeficit": -157000000,
+    "tennesseeEntities": null,
+    "notes": "Pioneer Institute Tennessee report lists VUMC with 259 contract pharmacies, of which 62 (24%) are located outside Tennessee. A 2021 InvestigateTV/KHN investigation reported VUMC grew from zero contract pharmacies in 2010 to approximately 300, making it one of the top hospitals nationally for 340B contract pharmacy growth after federal rules changed. Contract pharmacies include Walgreens, CVS, Accredo, and others stretching from Tennessee to California. VUMC describes these as 'Multiple Contract Pharmacies' serving VUMC patients. Revenue from the 340B program supports medication assistance, home infusion medications, and a student-run health clinic pharmacy program. In a 2021 amicus brief, VUMC reported losing $12.4M in 340B savings from a Medicare reimbursement cut. FDLI (Food and Drug Law Institute) article lists VUMC with a fair share deficit of -$157M based on author's methodology. In FY2024, VUMC received a $67M Medicare 340B settlement payment.",
+    "source": "Pioneer Institute Tennessee 340B report (2025); InvestigateTV/KHN (2021); VUMC Terminology Document (January 2025); FDLI (2022); Bangor Daily News; VUMC amicus brief (2021); 340breform.org"
   },
 
   "acquisitions": [
     {
-      "year": 2015,
-      "entity": "4 Middle Tennessee hospitals (from Capella Healthcare joint venture)",
-      "type": "Nonprofit",
-      "hospitals": 4,
-      "notes": "Acquired full ownership of hospitals in McMinnville, Smithville, Sparta, and Woodbury; previously co-owned with Capella Healthcare; renamed under the Saint Thomas brand",
-      "source": "Healthcare Finance News; Catholic Health World"
+      "year": 2019,
+      "entity": "Tennova Healthcare-Lebanon (from Community Health Systems)",
+      "type": "For-Profit (CHS subsidiary)",
+      "hospitals": 1,
+      "notes": "Now Vanderbilt Wilson County Hospital. Before this acquisition, the Vanderbilt Health system included four hospitals and 137 adult and pediatric clinics.",
+      "source": "Newswise; VUMC news release"
     },
     {
-      "year": 2025,
-      "entity": "AmSurg",
-      "type": "For-Profit (KKR portfolio company)",
-      "hospitals": null,
-      "notes": "Acquired for $3.9B; expanded ambulatory surgery center footprint from 58 to 300+ centers across 34 states; FTC required divestiture of 6 facilities to Optum subsidiary SC Affiliates; establishes Ascension as third-largest ASC platform nationally",
-      "source": "Becker's Hospital Review; FierceHealthcare; Bloomberg; Bond Buyer"
+      "year": 2021,
+      "entity": "Tennova Healthcare-Shelbyville and Tennova Healthcare-Tullahoma (from Community Health Systems)",
+      "type": "For-Profit (CHS subsidiary)",
+      "hospitals": 2,
+      "notes": "Shelbyville (60-bed) renamed Vanderbilt Bedford Hospital; Tullahoma-Harton (135-bed) renamed Vanderbilt Tullahoma-Harton Hospital. Same transaction included acquisition of minority ownership interest in Tennova Healthcare-Clarksville. Jones Day advised on the deal.",
+      "source": "VUMC news release January 1, 2021; Jones Day; Tullahoma News"
+    },
+    {
+      "year": 2026,
+      "entity": "Tennova Healthcare-Clarksville (from Community Health Systems)",
+      "type": "For-Profit (CHS subsidiary)",
+      "hospitals": 1,
+      "acquisitionPrice": 600000000,
+      "notes": "270-bed hospital plus freestanding ER (Tennova ER-Sango) and related physician clinics and outpatient services. Announced October 31, 2025; closed February 2, 2026. Renamed Vanderbilt Clarksville Hospital and Vanderbilt Emergency Sango. VUMC previously held minority ownership interest since 2021. $600M deal reported by Chief Healthcare Executive.",
+      "source": "VUMC news release February 2, 2026; Chief Healthcare Executive November 5, 2025; ClarksvilleNow"
     }
   ],
 
   "lobbying": {
-    "amount2024": 2160000,
+    "amount2024": null,
     "politicalContributions2024": null,
-    "source": "OpenSecrets via JAMA Health Forum study (2026); Ascension spent $2.16M on federal lobbying in 2024, ranking among the top health system lobbying spenders alongside Advocate ($2.42M) and Tenet ($2.2M)"
+    "source": "VUMC maintains an Office of Federal Relations in Washington, D.C. led by Vice President Alex Currie, who is registered with the U.S. Senate and House of Representatives to lobby on behalf of VUMC. VUMC policy requires all direct lobbying by employees to be documented and reported. Specific 2024 federal lobbying expenditure not confirmed from available search results; check OpenSecrets or Senate LDA database for quarterly filings under 'Vanderbilt University Medical Center.'"
   },
 
   "legalIssues": [
     {
-      "date": "2024-05 — ongoing",
-      "type": "Cybersecurity Incident",
-      "description": "Ransomware cyberattack compromised personal and health information of 5.4 million individuals; forced electronic health records offline across 19 states including Tennessee; facilities diverted emergency cases to nearby hospitals; class action lawsuit filed alleging failure to implement essential security measures; plaintiffs allege imminent risk of identity theft, fraudulent charges, delayed care, and protected health information posted to dark web",
-      "status": "Lawsuit moving forward as of October 2025; one of the largest healthcare data breaches in U.S. history",
-      "source": "HealthExec; Healthcare Dive; CBS News Detroit; Class Law Group"
+      "date": "2023-07 — ongoing",
+      "type": "Privacy / HIPAA Class Action",
+      "description": "Two patients filed a class-action lawsuit against VUMC alleging the hospital disclosed protected health information of 106 transgender patients to the Tennessee Attorney General's office without adequate safeguards. Plaintiffs allege VUMC violated HIPAA and failed to protect personal health information. VUMC maintains it was legally obligated to comply with the AG's investigative subpoena. The AG's office stated its investigation focused on medical billing fraud related to the hospital's transgender care program. A separate federal civil rights investigation was opened in August 2023.",
+      "status": "In June 2024, a U.S. Senate Finance Committee report concluded VUMC did not do enough to protect the privacy of its transgender patients. Case status as of October 2026 not confirmed from available search results.",
+      "source": "WPLN Nashville; Becker's Hospital Review; HIPAA Journal; KFF Health News; NewsChannel 5 Nashville; U.S. Senate Finance Committee"
+    },
+    {
+      "date": "2017",
+      "type": "False Claims Act Settlement",
+      "description": "VUMC paid $6.5 million to resolve a whistleblower False Claims Act lawsuit alleging improper billing for attending physician services and unnecessary anesthesia. The lawsuit was filed under seal in 2011 by three former VUMC anesthesiologists.",
+      "status": "Settled. VUMC stated the settlement was to avoid the cost of litigation and strongly disputed the allegations.",
+      "source": "Becker's Hospital Review; The Edu Ledger"
     }
   ],
 
   "ratios": {
-    "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "Ratio undefined — Ascension reported a $491M operating loss in FY2025. However, the system holds $19.4B in long-term investments (39.6x the magnitude of the operating loss), indicating massive accumulated wealth persisting through sustained operating losses.",
-    "bondDebtToCommunityBenefit": 2.67,
-    "bondDebtToCommunityBenefitInterpretation": "Ascension carries $2.67 in tax-exempt bond debt for every $1 it claims in community benefit ($5.6B debt vs $2.1B community benefit)",
+    "investmentsToOperatingIncome": 6.4,
+    "investmentsToOperatingIncomeInterpretation": "VUMC holds $6.38 in noncurrent investments for every $1 of operating income ($1,073,228,000 in noncurrent investments vs $168,300,000 operating income in FY2024). Including investments limited as to use ($209,718,000), the ratio rises to 7.6x. This understates total investment wealth because it excludes short-term and current investments.",
+    "bondDebtToCommunityBenefit": null,
+    "bondDebtToCommunityBenefitInterpretation": "Total outstanding bond debt not confirmed from available search results. VUMC has issued multiple bond series through the Nashville HEFB since 2016 and completed a $1.09B offering in 2026.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "State average not verified; charity care component of Ascension's $2.1B total community benefit not separately available from search results"
+    "charityCareVsStateInterpretation": "State average not verified; charity care component of VUMC's $952M total community benefit not separately confirmed from search results"
   },
 
-  "accusation": "Ascension held $19.4 billion in long-term investments atop $39.9 billion in total assets while posting a $491 million operating loss in FY2025, carrying $5.6 billion in tax-exempt bond debt issued in part through Tennessee authorities, paying its CEO $9.1 million, divesting nearly 50 hospitals, cutting hundreds of jobs, and suffering a ransomware attack that exposed 5.4 million patient records including those at Ascension Saint Thomas facilities in Nashville -- yet spent years as the Tennessee Titans' official healthcare partner with naming rights on the team's training facility (Ascension Saint Thomas Sports Park) before Ascension itself ended the relationship effective March 1, 2026, all while claiming just $2.1 billion in community benefit system-wide on $25.3 billion in revenue and operating 11 tax-exempt hospital campuses across Tennessee.",
+  "accusation": "Vanderbilt Health held $6.6 billion in total assets and $2.5 billion in net assets as of June 30, 2024, including $1.07 billion in noncurrent investments, while paying CEO Jeff Balser $9.1 million in total compensation, operating 259 contract pharmacies across its 340B drug discount network with 24% located outside Tennessee, claiming $952 million in community benefit on $7.7 billion in total revenue, laying off up to 650 employees in 2025 to cut $300 million in costs after federal funding reductions, spending $600 million to acquire a for-profit hospital from Community Health Systems, and issuing over $1 billion in new tax-exempt and taxable revenue bonds through Nashville's Health and Educational Facilities Board in 2026 alone -- then signing a multiyear deal as the Tennessee Titans' Official Healthcare Provider with naming rights on the team's training facility (Vanderbilt Health Football Center) and a branded children's hospital family zone in the new $2.1 billion Nissan Stadium, all while operating as a tax-exempt academic medical center that turned over 106 transgender patients' medical records to the Tennessee Attorney General, triggering a class-action privacy lawsuit and a U.S. Senate investigation, and whose outgoing CEO collected more than $35 million in total compensation over the five most recent reported fiscal years.",
 
-  "infographicPrompt": "Rojas Report brand infographic for Ascension. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'ASCENSION'. Subhead cream Source Sans Pro 600: 'Tennessee Titans — Official Healthcare Partner (Former)'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $25.3B (FY2025)'. Block 2 — 'CEO Pay: $9.1M (Impicciche)'. Block 3 — 'Operating Margin: -1.9%'. Block 4 — 'Investment Portfolio: $19.4B'. Single large orange callout number '$19.4B' above headline with Cream 'in long-term investments' below in italic. Bottom line in Cream Source Sans Pro 600: 'Carries $5.6B in tax-exempt bond debt. Divested ~50 hospitals since 2022. 5.4M patients exposed in 2024 data breach. Ended Titans partnership March 2026. 11 Tennessee hospital campuses.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'Ascension Consolidated Financial Statements FY2025 · Form 990 FY2023 · Fitch Ratings · Bond Buyer · Paul Kuharsky · WSMV Nashville.'"
+  "infographicPrompt": "Rojas Report brand infographic for Vanderbilt Health. Background: Navy #1a2a3a. Text: Cream #f7f4ef. Single orange accent #d4622a on the callout number only. No gradients, no drop shadows, no pure black, no pure white. Typography: Playfair Display headlines, Source Sans Pro body. Layout: centered stacked composition. Top: small orange-bordered badge reading 'INTELLIGENCE BRIEFING' in Source Sans Pro small caps. Center headline in Playfair Display 500: 'VANDERBILT HEALTH'. Subhead cream Source Sans Pro 600: 'Tennessee Titans — Official Healthcare Provider'. Four data blocks in a row, each navy-deep with 3px orange left border: Block 1 — 'Total Revenue: $7.7B (FY2024)'. Block 2 — 'CEO Pay: $9.1M (Balser)'. Block 3 — 'Operating Margin: 2.2%'. Block 4 — 'Total Assets: $6.6B'. Single large orange callout number '$6.6B' above headline with Cream 'in total assets' below in italic. Bottom line in Cream Source Sans Pro 600: '$1.07B in noncurrent investments. $952M claimed community benefit. 259 contract pharmacies (24% out of state). 650 laid off in 2025. $600M Clarksville hospital acquisition. $1.09B bond offering in 2026. CEO retiring after ~$35M in five-year pay.' Bottom right logo lockup: 'THE ROJAS REPORT' in orange Cormorant/Playfair Display, small caps, 0.12em letter-spacing. Source line bottom left, Source Sans Pro 0.7rem, cream at 40% opacity: 'VUMC Form 990 FY2024 · VUMC Disclosure Reports · Becker's Hospital Review · ProPublica Nonprofit Explorer · Pioneer Institute · Piper Sandler · HEFB Nashville · VUMC News.'"
 }
