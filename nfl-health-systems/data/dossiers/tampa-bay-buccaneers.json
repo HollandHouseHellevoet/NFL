@@ -13,33 +13,33 @@
   "estimatedDealValue": null,
 
   "financials": {
-    "fiscalYear": null,
-    "totalRevenue": null,
-    "operatingIncome": null,
-    "operatingMarginPct": null,
-    "nonOperatingRevenue": null,
+    "fiscalYear": 2025,
+    "totalRevenue": 6970000000,
+    "operatingIncome": 821400000,
+    "operatingMarginPct": 11.8,
+    "nonOperatingRevenue": 578600000,
     "totalAssets": null,
     "totalLiabilities": null,
-    "source": "UNVERIFIED — web search budget exhausted and egress proxy blocked access to ProPublica Nonprofit Explorer, IRS EOS, and all external data sources. Form 990 for EIN 59-3474479 must be retrieved from ProPublica Nonprofit Explorer or IRS TEOS to populate FY2023 or FY2024 financials. BayCare Health System Inc is headquartered in Clearwater, Florida and operates approximately 16 hospitals across the Tampa Bay region."
+    "source": "FY2025 operating figures from Becker's Hospital Review (March 2026) and BayCare 2025 Report to the Community. Total operating revenue $6.97B, operating income $821.4M (11.8% margin), net income $1.4B. Non-operating revenue derived as net income minus operating income. FY2024: revenue $6.27B, operating income $603.4M (9.6% margin), net income $1.2B. Total assets and liabilities not confirmed for FY2025; Q1 2023 combined balance sheet showed total assets of $11.58B. ProPublica Form 990 (EIN 59-2796965) for FY2024 shows ~$16B total assets and ~$9.09B liabilities for the filing entity, but this may reflect a parent/consolidated scope distinct from operating figures. NOTE: EIN in this dossier (59-3474479) was not found on ProPublica; the verified BayCare Health System EIN is 59-2796965."
   },
 
   "balanceSheetWealth": {
     "investmentPortfolio": null,
-    "investmentPortfolioSource": "UNVERIFIED — requires Form 990 Part X (Balance Sheet) for EIN 59-3474479. Check lines for publicly traded securities, other securities, and program-related investments.",
+    "investmentPortfolioSource": "Pre-Trinity-split balance sheet (March 2020) showed ~$4.79B in investments. In 2024 BayCare paid Trinity Health $4B ($3B cash + $1B bridge loan) to dissolve the JOA. Current investment portfolio unavailable; post-split balance sheet not yet surfaced. Check BayCare FY2025 audited financials on EMMA or annual report for current figure.",
     "realEstateValue": null,
-    "realEstateSource": "UNVERIFIED — requires Form 990 Part X. BayCare operates approximately 16 hospitals and over 300 outpatient facilities across Hillsborough, Pinellas, Pasco, and Polk counties.",
+    "realEstateSource": "Q1 2023 combined balance sheet showed PP&E net of $2.38B. BayCare operates 15 hospitals and 300+ outpatient facilities across Hillsborough, Pinellas, Pasco, Polk, and Manatee counties.",
     "boardDesignatedFunds": null,
     "endowmentFunds": null,
-    "notes": "UNVERIFIED — BayCare Health System is one of the largest employers in the Tampa Bay area with approximately 30,000+ team members. Financial statements and Form 990 Schedule D would disclose investment and endowment details."
+    "notes": "Trinity Health split finalized May 2024. BayCare paid $4B to acquire full independence. Post-split balance sheet will reflect significantly different asset composition. BayCare received $1.9B tax-exempt bond authorization in August 2024 from Hillsborough County IDA. Financial statements and Form 990 Schedule D would disclose investment and endowment details."
   },
 
   "bondDebt": {
     "totalOutstanding": null,
-    "fiscalYear": null,
-    "largestIssue": null,
-    "largestIssueProceeds": null,
-    "issuerAuthority": null,
-    "source": "UNVERIFIED — EMMA (emma.msrb.org) was blocked by egress proxy. BayCare has historically issued tax-exempt revenue bonds through Florida authorities. Search EMMA for obligor 'BayCare Health System' or CUSIP searches to identify outstanding series and amounts."
+    "fiscalYear": 2024,
+    "largestIssue": "Hillsborough County IDA Health System Revenue Bonds Series 2024 (BayCare Health System)",
+    "largestIssueProceeds": 1300000000,
+    "issuerAuthority": "Hillsborough County Industrial Development Authority",
+    "source": "Bond Buyer reported $1.3B priced week of Aug 19, 2024, underwritten by Morgan Stanley and Barclays. Fitch rated AA/Stable. Proceeds for capital reimbursement, future projects, capitalized interest, and issuance costs. Maximum rate 6.5%, latest maturity Dec 31, 2061. SEC fund filings show Series 2024-C with 4.125% coupon (Nov 2051 maturity) and 5.00% coupon (Nov 2029 maturity). BayCare received $1.9B total authorization from Hillsborough County IDA in Aug 2024. Total outstanding across all series not confirmed; check EMMA for full debt schedule. Pre-2024 debt included older series; 2010 total long-term debt was ~$794M (Fitch), now significantly higher."
   },
 
   "relatedOrganizations": {
@@ -53,30 +53,30 @@
   },
 
   "executiveComp": {
-    "fiscalYear": null,
-    "ceoName": null,
+    "fiscalYear": 2023,
+    "ceoName": "Stephanie Conners",
     "ceoBaseComp": null,
     "ceoBonusIncentive": null,
     "ceoDeferredComp": null,
-    "ceoOtherComp": null,
-    "ceoTotalComp": null,
+    "ceoOtherComp": 538413,
+    "ceoTotalComp": 3027169,
     "topOfficersTotalComp": null,
     "numberOfOfficersReported": null,
     "perks": [],
     "splitDollarInsurance": null,
-    "source": "UNVERIFIED — requires Form 990 Part VII and Schedule J for EIN 59-3474479. Tommy Inzina has served as President and CEO of BayCare Health System but compensation figures must be verified from the filing."
+    "source": "ProPublica Form 990 (EIN 59-2796965) FY2023. Stephanie Conners (President & CEO since Nov 28, 2022, succeeding Tommy Inzina who retired end of 2022): $2,488,756 reportable compensation from organization + $538,413 from related organizations = $3,027,169 total. Base/bonus/deferred breakdown requires Schedule J detail not available in search results. Prior CEO Tommy Inzina FY2021: ~$4,330,000 reportable + ~$74,000 other. FY2024 990 compensation not yet surfaced."
   },
 
   "communityBenefit": {
-    "claimedAmount": null,
-    "claimedPctOfRevenue": null,
+    "claimedAmount": 500000000,
+    "claimedPctOfRevenue": 7.2,
     "charityCareClaimedAmount": null,
     "charityCareCostAdjusted": null,
     "chargemasterMarkupRatio": null,
     "stateAveragePct": null,
     "belowStateAverage": null,
     "costToChargeRatio": null,
-    "source": "UNVERIFIED — requires Form 990 Schedule H for EIN 59-3474479 and Florida AHCA hospital financial data. Florida state average charity care percentage needed from Lown Hospitals Index or comparable source."
+    "source": "BayCare 2025 Report to the Community (released April 2026): community benefit of $500M in 2025 (up from $467M in 2024) in categories of charity care, subsidizing the underinsured, and health-related social services. Pct calculated as $500M / $6.97B total operating revenue = 7.2%. The $500M figure includes more than charity care alone; charity care subtotal not broken out in press materials. FY2023 community benefit reported as $557M. Schedule H would provide exact charity care vs. other community benefit breakdown. Florida state average charity care pct and cost-to-charge ratio require AHCA data or Lown Hospitals Index."
   },
 
   "taxAdvantage": {
@@ -95,16 +95,16 @@
   "facilityClosures": [],
 
   "creditRating": {
-    "fitch": null,
-    "fitchOutlook": null,
-    "fitchDate": null,
+    "fitch": "AA",
+    "fitchOutlook": "Stable",
+    "fitchDate": "2024-08",
     "sp": null,
     "spOutlook": null,
     "spDate": null,
-    "moodys": null,
+    "moodys": "Aa2",
     "moodysOutlook": null,
-    "moodysDate": null,
-    "keyRiskFactors": []
+    "moodysDate": "2024-08",
+    "keyRiskFactors": ["Post-Trinity JOA dissolution corporate restructuring (Fitch viewed as credit positive)", "Large capital program funded by $1.9B bond authorization", "$4B cash outlay to acquire independence from Trinity Health"]
   },
 
   "program340B": {
@@ -126,14 +126,14 @@
 
   "ratios": {
     "investmentsToOperatingIncome": null,
-    "investmentsToOperatingIncomeInterpretation": "UNVERIFIED — requires investment portfolio total and operating income from Form 990 to calculate",
+    "investmentsToOperatingIncomeInterpretation": "Cannot calculate — current investment portfolio value unknown post-Trinity split. Operating income is $821.4M (FY2025). Once investment portfolio is confirmed from post-split balance sheet, divide portfolio by operating income.",
     "bondDebtToCommunityBenefit": null,
-    "bondDebtToCommunityBenefitInterpretation": "UNVERIFIED — requires total outstanding bond debt from EMMA and community benefit claimed amount from Schedule H to calculate",
+    "bondDebtToCommunityBenefitInterpretation": "Cannot calculate — total outstanding bond debt across all series not confirmed. Largest known single issuance is $1.3B (Series 2024). Community benefit claimed at $500M (FY2025). Once total debt confirmed from EMMA, divide total outstanding by community benefit.",
     "charityCarePctVsStateAvg": null,
-    "charityCareVsStateInterpretation": "UNVERIFIED — requires charity care amount from Schedule H and Florida state average charity care percentage to calculate"
+    "charityCareVsStateInterpretation": "Cannot calculate — charity care subtotal not broken out from the $500M total community benefit figure. Florida state average charity care pct not yet sourced. Requires Schedule H line-item data and AHCA/Lown benchmark."
   },
 
-  "accusation": "UNVERIFIED — requires verified balance sheet wealth (investment portfolio from Form 990 Part X), community benefit and charity care figures (Schedule H), bond debt (EMMA), and executive compensation (Schedule J) before drafting the accusation sentence per Rojas Report methodology.",
+  "accusation": "BayCare Health System, a 501(c)(3) with $6.97 billion in operating revenue (FY2025), paid its CEO $3.03 million, issued $1.3 billion in tax-exempt bonds through the Hillsborough County IDA, and claims $500 million in community benefit (7.2% of revenue) while its charity care subtotal remains undisclosed; following its $4 billion buyout of Trinity Health's stake, the system's post-split investment portfolio and total debt remain opaque. IMPORTANT: Web searches found NO evidence of a BayCare-Buccaneers partnership. The Tampa Bay Buccaneers' verified official healthcare partner is AdventHealth (formerly Florida Hospital), which holds naming rights to the team's training facility (AdventHealth Training Center) and serves as the exclusive hospital of the Buccaneers. This dossier's team pairing requires correction.",
 
-  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. Use this system's actual verified numbers. PENDING VERIFICATION: BayCare Health System (EIN 59-3474479), Tampa Bay Buccaneers Official Healthcare Partner with Stadium Signage at Raymond James Stadium. Approximately 16 hospitals across Tampa Bay region. All financial figures require verification from Form 990 and EMMA before populating infographic."
+  "infographicPrompt": "Rojas Report brand visual. Navy #1a2a3a, Cream #f7f4ef, Orange #d4622a. Playfair Display headlines, Source Sans Pro body. BayCare Health System (verified EIN 59-2796965), 15 hospitals across Tampa Bay. FY2025: $6.97B revenue, $821.4M operating income (11.8% margin), $1.4B net income. CEO Stephanie Conners: $3.03M total comp (FY2023). Fitch AA/Stable, Moody's Aa2 (Aug 2024). $1.3B tax-exempt bonds issued 2024. Community benefit: $500M (7.2% of revenue). WARNING: Buccaneers partnership NOT verified — AdventHealth is the confirmed official healthcare partner of the Tampa Bay Buccaneers. This dossier pairing may be incorrect."
 }
